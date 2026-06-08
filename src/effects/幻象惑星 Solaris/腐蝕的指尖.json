@@ -1,0 +1,64 @@
+{
+  "_id": "yWpKCPob2q24F8In",
+  "name": "腐蝕的指尖",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>生成有強烈腐蝕性的物質，利用其破壞無機物的異能。</p><p>組合此異能的攻擊命中的話，該場景中，對象的裝甲值-[LV×5](最低0)。</p><p><em>參照：規則2P170</p><p>EAP116</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "單體",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "規則2P170\nEAP116"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!yWpKCPob2q24F8In"
+}

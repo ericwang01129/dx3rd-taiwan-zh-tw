@@ -1,0 +1,40 @@
+{
+  "_id": "tHheBdyXvv34MsNf",
+  "_key": "!items!tHheBdyXvv34MsNf",
+  "name": "Xenos網路 （ゼノスネットワーク）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 425,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>為收集奇妙物品而存在的Xenos獨立的網路，Xenos有著回收被背教者感染的物品、意識薄弱的變節體或EX背教者的裡管道</p><p><em>效果：取得時從Xenos以外的組織紋章中選擇最多3項取得；取得所需的經驗點需要另外消耗</em> / <em>備註：IA新增</em> / <em>參照：IA P177</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "紋章：Xenos 取得條件：職業為Xenos特工A~D、XenosRB A～D、RB A~D",
+      "source": "IA P177"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

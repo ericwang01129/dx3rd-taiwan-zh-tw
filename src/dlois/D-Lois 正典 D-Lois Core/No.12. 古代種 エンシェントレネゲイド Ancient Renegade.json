@@ -1,0 +1,40 @@
+{
+  "_id": "h7sEvl8olwO0anxa",
+  "_key": "!items!h7sEvl8olwO0anxa",
+  "name": "No.12. 古代種 エンシェントレネゲイド Ancient Renegade",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 12,
+  "system": {
+    "description": "<p>你是從古活到現在的超越者。寄宿在你身上的R病毒跟其超越者身上的有著非常不同的特性。</p><p>古代的R病毒有著不會讓宿主老化，並給予現在的R病毒所沒有的能力。</p><p>被這種病毒感染後，你的時間停滯，獲得不老的身體。但代價就是永遠的孤獨。</p><p>你也可能是被其他古代種所感染的新生古代種。詳細設定請跟GM討論。</p><p><em>效果：取得時這D露易絲時，可以從古代種專用能力中免費獲得一個能力Lv1。\n之後也可以消耗經驗值取得其他能力或提升能力等級。\n另外你將保持被感染時的模樣，不會老也不會死</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.12",
+      "source": ""
+    }
+  }
+}

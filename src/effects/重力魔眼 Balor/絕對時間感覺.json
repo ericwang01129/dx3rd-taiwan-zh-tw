@@ -1,0 +1,64 @@
+{
+  "_id": "fC5zCTeYePFkR9SV",
+  "name": "絕對時間感覺",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/sands-of-time.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>能夠正確地把握周圍的時間的異能。你能夠在沒有時鐘和秒表的情況下準確知道現在是幾分幾秒，也能夠精確地進行卡點按下按鈕之類的動作。</p><p><em>參照：UAP31</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "UAP31"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!fC5zCTeYePFkR9SV"
+}

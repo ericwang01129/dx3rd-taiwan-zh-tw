@@ -1,0 +1,40 @@
+{
+  "_id": "gJzfMUH9nIAJY4p1",
+  "_key": "!items!gJzfMUH9nIAJY4p1",
+  "name": "No.74. 後援者 パトロン",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 74,
+  "system": {
+    "description": "<p>這個D-Lois表示你正在接受某個組織的援助。</p><p>你正從某個龐大的組織那裡獲得巨大的支持。這個組織可能是日本政府、美國政府、各國軍隊或情報機構，甚至是UGN等。不管是哪個組織，它們將你派往魔街的目的，無疑是希望藉此獲得某些利益。</p><p>魔街是一座被封閉的城市，異乎尋常地擁有大量超越者，且其中的居民甚至不隱藏自己是超越者的身份來生活。某種意義上，魔街是世界在認知超越者存在之後，可能會發展成何種情況的模擬。此外，為了在超越者相關的研究上更進一步，許多組織都渴望獲得有關魔街的信息。</p><p>支持你的組織為你準備了作戰中必要的物資，包括最先進的武器與實驗性藥物等。然而，與援助相應的，你也被期待能夠提供與之匹配的成果。</p><p><em>效果：此D-Lois只能在「舞臺：魔街」中取得。\n\n你能依靠組織的援助，隨時調取所需的道具：\n次要動作使用，選擇一項屬_xffff_你的症候群的獨特道具。在該場景中，你將取得所選擇的道具。\n如果取得的道具是武器或防具，可以立即裝備；如果是載具，則可以直接進入搭乘狀態。\n使用此效果時，你的侵蝕率會+5。該效果一劇本可以使用一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.74",
+      "source": ""
+    }
+  }
+}

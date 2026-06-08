@@ -1,0 +1,64 @@
+{
+  "_id": "KhDLiEn7vagnReeh",
+  "name": "鮮紅舞者",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/vampire-dracula.svg",
+  "folder": "wboZ95SHJuim4ZlG",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《血液控制》。</p><p>操作血液的流向，完全控制身體行動的異能。你的攻擊十分美麗，同時也是致命的。</p><p>組合的攻擊攻擊力+【感覺】，但你需要消費4點HP。</p><p><em>參照：BCP59</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "極限",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "鮮血真祖 Bram Stoker",
+      "syndromeItemId": "yZ26mUMQV6FowBlo",
+      "source": "BCP59"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!KhDLiEn7vagnReeh"
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "6B2JGGYfbMzg566B",
+  "name": "追擊的魔彈",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/vampire-dracula.svg",
+  "folder": "wboZ95SHJuim4ZlG",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《赫之彈》。</p><p>在這個主要階段中你進行兩次主要行動。但是兩次行動都只能使用《赫之彈》進行攻擊。(判定分開處理)，這個主要動作的暴擊值+1。</p><p><em>參照：BCP59</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "極限 / 1/劇本",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "鮮血真祖 Bram Stoker",
+      "syndromeItemId": "yZ26mUMQV6FowBlo",
+      "source": "BCP59"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!6B2JGGYfbMzg566B"
+}

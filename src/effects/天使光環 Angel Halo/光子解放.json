@@ -1,0 +1,68 @@
+{
+  "_id": "KJ2ZiCw7SGSs2eyd",
+  "name": "光子解放",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spiked-halo.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>從全身釋放光之粒子，製造無數分身支持行動的異能。</p><p>該回合間，你所有的判定骰數+5顆。</p><p><em>參照：RUP16</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "解放120%",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "dice": {
+        "value": "5"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "RUP16"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!KJ2ZiCw7SGSs2eyd"
+}

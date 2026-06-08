@@ -1,0 +1,37 @@
+{
+  "_id": "HEUYV37nwMwUZlk3",
+  "_key": "!items!HEUYV37nwMwUZlk3",
+  "name": "反器材步槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 75,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/sbed/rifle.svg",
+  "system": {
+    "description": "<p>使用大口徑子彈的步槍。</p><p>使用該武器進行的射擊攻擊不能被格擋，對該攻擊進行掩護時無視格擋計算傷害。該武器一劇本可以使用一次。雙手持握。至近不可。</p><p><em>射程：300m</em> / <em>參照：IA P30</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "24",
+      "difficulty": 35
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 20,
+    "guard": 0,
+    "range": "300m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P30"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

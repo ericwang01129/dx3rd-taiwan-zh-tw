@@ -1,0 +1,68 @@
+{
+  "_id": "EarGX0bIApV8oCdQ",
+  "name": "大裁斷",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/gorilla.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>在兩手上附加真空，以超高速將對方一刀兩斷的異能。這個異能太過難以控制，無法使用在武器上。</p><p>組合的空手攻擊的攻擊力+[LV×3]。</p><p><em>參照：BCP62</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*3"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "BCP62"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!EarGX0bIApV8oCdQ"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "iUsWgC5zPs1apMn4",
+  "_key": "!items!iUsWgC5zPs1apMn4",
+  "name": "No.43. 煉金術師 (煉金化形專用) アルケミスト Alchemist",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 43,
+  "system": {
+    "description": "<p>你是非常擅長物質變化的能力者，因此被稱呼為「煉金術師」。</p><p>你掌握著煉金術的奧義，自由自在地創造與轉換物質，就像支配著物質一樣。過去被稱為煉金術師的人物，或許也是跟你一樣的超越者也說不一定。</p><p><em>效果：只限症狀為【煉金化形】的角色可取得。\n你用能力做出的道具將會受到以下的修正：\n【盔甲創造】：裝甲值+6\n【載具變換】：攻擊力+4，全力移動距離+10m\n【無限武器】：攻擊力+5\n【百槍】：攻擊力+5\n【盾牌創造】：格擋值+3\n但同時，使用上述異能的侵蝕上升+2</em> / <em>備註：煉金化形專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.43",
+      "source": ""
+    }
+  }
+}

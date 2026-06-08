@@ -1,0 +1,40 @@
+{
+  "_id": "cQoyGNS9257MHa6N",
+  "_key": "!items!cQoyGNS9257MHa6N",
+  "name": "萬能的理念",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 76,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>表示你生出的武器教導給你各種知識與技術。</p><p>純血種專用，你取得的《天惠的魔劍》可以額外適用於另外一個技能。複數取得此理念時，不可選擇同一個技能。最大可以取得5個。</p><p><em>參照：UAP28</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "UAP28"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

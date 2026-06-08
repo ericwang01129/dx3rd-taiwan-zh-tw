@@ -1,0 +1,64 @@
+{
+  "_id": "RU297HIM2AJQlEM9",
+  "name": "暗黑螺旋",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/shadow-grasp.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>透過重力「扭轉」接觸到你的東西的異能。</p><p>于你對近戰攻擊進行格擋時宣言，造成攻擊你的角色[LV×5]點HP傷害。</p><p><em>參照：規則2P84</p><p>EAP29</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "1/回合",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "round"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "規則2P84\nEAP29"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!RU297HIM2AJQlEM9"
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "Fv35AgkbaycVoMft",
+  "_key": "!items!Fv35AgkbaycVoMft",
+  "name": "UGN射手夾克 （UGNシューターズジャケット）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 117,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>UGN將射手夾克改良後的產物，使用了特殊開發素材使其動作輕快，在槍戰中的防禦力也有所提升</p><p><em>備註：IA新增</em> / <em>參照：IA P142</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN通用 取得條件：職業為UGN系，或是身為UGN法外者的角色",
+      "source": "IA P142"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

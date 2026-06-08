@@ -1,0 +1,40 @@
+{
+  "_id": "FUMzqq9ft7ChEBZZ",
+  "_key": "!items!FUMzqq9ft7ChEBZZ",
+  "name": "No.HR03. 遺產之器",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 4,
+  "system": {
+    "description": "<p><em>效果：REC：強羅瑠璃</em> / <em>通常效果：取得該D-Lois時，你從遺產繼承者專用道具中選擇一個道具取得。\n該D-Lois將如同「遺產繼承者：榮光與勝利之槍」一般記述，將不同的遺產道具作為不同的D-Lois來分別處理。以該D-Lois取得的道具將視為常備化處理。\n以該D-Lois取得的道具，除了你以外不能使用或是裝備，即使持有也無法享受來自道具的效果。\n取得這個D-Lois時，你的侵蝕率基本值+5。GM也可以配合劇本設計原創的遺產繼承者專用道具</em> / <em>強化效果：持有你以「通常效果」所取得的遺產期間，你進行的所有判定骰數+1D。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR03",
+      "source": ""
+    }
+  }
+}

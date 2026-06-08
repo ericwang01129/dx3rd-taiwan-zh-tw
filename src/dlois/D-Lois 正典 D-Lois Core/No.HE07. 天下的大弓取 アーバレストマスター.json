@@ -1,0 +1,40 @@
+{
+  "_id": "yuGzIii1PAwkHgCe",
+  "_key": "!items!yuGzIii1PAwkHgCe",
+  "name": "No.HE07. 天下的大弓取 アーバレストマスター",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 120,
+  "system": {
+    "description": "<p>你是名震天下的大弓取，弓術的名人。</p><p>你射出的箭能射穿遙遠的目標，無論在多麼不利的姿勢下都能射中目標。</p><p>不論是寺院從這端到那端的距離，還是在搖晃的船上，對你來說都能準確射中。</p><p>這樣的你要在天下揚名，沒花多少時間。</p><p>弓術是平安時代武士和貴族的必要素養之一。</p><p>精通此道的你，無論與什麼地位的人交談，都會受到一定程度的尊敬。</p><p><em>效果：此D-lois只能在「舞臺：平安京物怪錄」中取得。\n\n你是天下的大弓取，這個國家第一的弓手。即使是一般人不可能做到的超長距離射擊，你也能成功做到。\n在你進行〈射擊〉判定之後使用，該判定的達成值+2D。使用此效果的判定結束後，你的侵蝕率+5。該效果一劇本可以使用三次。</em> / <em>參照：OC P87</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.HE07",
+      "source": "OC P87"
+    }
+  }
+}

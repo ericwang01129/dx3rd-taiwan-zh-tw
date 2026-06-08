@@ -1,0 +1,40 @@
+{
+  "_id": "fEsV47Q05Ug6h0gl",
+  "_key": "!items!fEsV47Q05Ug6h0gl",
+  "name": "No.1. 賢者之石 レネゲイドクリスタル Renegade Crystal",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 1,
+  "system": {
+    "description": "<p>你是賢者之石的適合者。以半融合的狀態植入賢者之石。你可以行使它的力量，但同時也要承受石頭帶來的身體與精神上的痛苦。</p><p>你可能是在實驗的結果或是偶然的事故中成為其擁有者，但是要用現有的手段拿出石頭是不可能的。</p><p>賢者之石(背教者結晶)是一種高濃度R病毒封存在礦石之中的型態。植入石頭的人可以使R病毒的力量爆發性的增幅，但如果不是天生的適合者，植入的結果不是變成原菌就是死亡。另外，目前沒有人工再現賢者之石的案例。</p><p>據說賢者之石會保有前持有者的意識跟記憶。</p><p><em>效果：於你進行判定之前發動，此次判定的暴擊值-2(下限2)。\n使用了這個效果的主要階段結束時，你的侵蝕率+1D10。\n次數限制：劇本中一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.1",
+      "source": ""
+    }
+  }
+}

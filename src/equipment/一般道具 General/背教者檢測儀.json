@@ -1,0 +1,40 @@
+{
+  "_id": "apdJitjJuh0VKERC",
+  "_key": "!items!apdJitjJuh0VKERC",
+  "name": "背教者檢測儀",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 218,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>太陽鏡型的超越者檢測器。</p><p>場景中登場的角色在使用《結界化》後，你可以自動動作使用，立刻得到使用《結界化》的超越者的血統和症候情報。</p><p><em>參照：IA P46</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "11",
+      "difficulty": 16
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P46"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

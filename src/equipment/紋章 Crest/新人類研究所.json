@@ -1,0 +1,40 @@
+{
+  "_id": "84UBFkzHyneA180V",
+  "_key": "!items!84UBFkzHyneA180V",
+  "name": "新人類研究所",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 366,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>神恩天國所擁有的，幾乎是唯一的實驗設施， 雖然設備都很落後，但仍然進行著人體實驗，其研究內容意外還挺有進展</p><p><em>效果：技能：<知識：背教者>\n<知識：背教者>判定的骰子數+3個</em> / <em>參照：IA P170</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/關聯",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "神恩天國 取得條件：職業為黑手黨、刺客、小偷、駭客的角色",
+      "source": "IA P170"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

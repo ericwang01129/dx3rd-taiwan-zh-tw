@@ -1,0 +1,68 @@
+{
+  "_id": "6BAvve5GVItBxsT5",
+  "name": "水晶之眼",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spiked-halo.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>將遠方的景象如海市蜃樓般投影在眼前的異能。</p><p>組合此異能的判定骰數+LV顆。</p><p><em>參照：EAP22</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "perception",
+    "difficulty": "",
+    "limit": "-",
+    "timing": "major-reaction",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "dice": {
+        "value": "@level"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "EAP22"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!6BAvve5GVItBxsT5"
+}

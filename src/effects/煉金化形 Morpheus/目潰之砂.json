@@ -1,0 +1,64 @@
+{
+  "_id": "xXKKYMtzzrXgE5i7",
+  "name": "目潰之砂",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/morph-ball.svg",
+  "folder": "1c2f74fWFU3n9X1W",
+  "sort": 0,
+  "system": {
+    "description": "<p>在敵人的周圍產生沙子，用大量的沙子阻礙對方視線的異能。</p><p>於對象進行判定前使用，該判定骰數-[LV+1]顆。</p><p><em>參照：EAP85</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "1/回合",
+    "timing": "auto",
+    "target": "單體",
+    "range": "10m",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "round"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "煉金化形 Morpheus",
+      "syndromeItemId": "VAwDGRpXdkn7vZjE",
+      "source": "EAP85"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!xXKKYMtzzrXgE5i7"
+}

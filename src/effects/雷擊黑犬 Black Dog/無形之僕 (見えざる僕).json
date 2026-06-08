@@ -1,0 +1,64 @@
+{
+  "_id": "st41KDe5AGYPHm6I",
+  "name": "無形之僕 (見えざる僕)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wolf-head.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>操縱周圍的金屬製品，阻礙並回避對象的攻擊的異能。</p><p>你可以用組合此異能的判定進行回避。</p><p><em>參照：EAP40</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "reaction",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "EAP40"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!st41KDe5AGYPHm6I"
+}

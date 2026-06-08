@@ -1,0 +1,37 @@
+{
+  "_id": "1x5Ex2uleqR16XKD",
+  "_key": "!items!1x5Ex2uleqR16XKD",
+  "name": "夜之盾 （ナハトシールド）",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 239,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>UGN或FH等研究機構研究、開發出的用與元型親和的特殊素材製作的盾牌。會與造出的元型發生反應，變為攻擊性的形狀。</p><p>裝備“元型：●●”的防具或載具時，你進行的近戰攻擊的攻擊力+5。</p><p><em>射程：至近</em> / <em>參照：SSS6 P46</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 0,
+    "guard": 15,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "SSS6 P46"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

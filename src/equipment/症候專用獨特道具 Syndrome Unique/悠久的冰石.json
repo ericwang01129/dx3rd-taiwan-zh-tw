@@ -1,0 +1,40 @@
+{
+  "_id": "bPEgVPm6llUHXaqt",
+  "_key": "!items!bPEgVPm6llUHXaqt",
+  "name": "悠久的冰石",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 194,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>用冰雪製成的耳飾，因為常溫下會融化所以需要冰炎奇蜥的能力來維持形狀。</p><p>你使用的《冰雪的守護》額外-1D10傷害。</p><p><em>參照：IA P93</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P93"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

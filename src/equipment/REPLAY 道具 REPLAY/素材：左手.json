@@ -1,0 +1,40 @@
+{
+  "_id": "m12RCjfc4vAL4ZwM",
+  "_key": "!items!m12RCjfc4vAL4ZwM",
+  "name": "素材：左手",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 65,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>與你的左手同化的素材。左手能使背教者病毒停止運作。</p><p><em>次數：1/場景</em> / <em>效果：任何時候都可以使用，使用時，場景中登場的角色全員受到的除「素材：心臟」以外的「素材：●●」的效果，以及「時機：常駐」以外的正持續生效著的所有異能效果全部取消，使用該效果時，你的侵蝕率+1D10，該效果一場景可以使用一次。</em> / <em>參照：IA P195</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P195"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "MAoE5G2yqI5Zh3bF",
+  "_key": "!items!MAoE5G2yqI5Zh3bF",
+  "name": "No.HG04. 偉業的盡頭 オ—ナ—",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 110,
+  "system": {
+    "description": "<p>你曾經達成了某個驚人的偉業。可能是國王下達的命令，也可能是長年修練產生的成果。</p><p>無論如何，你是完成了足以受到眾人尊敬之事的人。</p><p>在那偉業的盡頭，你獲得的是確實的自信，以及寄宿在身上的神技。</p><p>透過克服偉業，你身上有了卓越的力量。</p><p>這可能是克服苦難所帶來的自信造就的技巧。或者，這可能是神明或妖精為了稱讚那個偉業而賜予的祝福。</p><p>無論如何，那都是你的王牌，也是值得驕傲的證明。</p><p>但是，身為達成者的你知道。名譽不是在未來閃耀的星星，而是過去踏破的苦難賜予的東西。</p><p>不能驕傲自滿。那個技巧不是為了依戀過去，而是為了未來而存在的。</p><p><em>效果：此D-lois只能在「舞臺：聖杯傳說」中取得。\n\n你從曾經克服的試練中習得了獨一無二的技巧、力量。這個技巧已經成為象徵你的東西。\n取得此D-lois時，從你已取得的「時機：常駐」以外的異能中選擇一個，其Lv+1、最大等級+2。但是，透過此效果選擇的異能的侵蝕值+1。</em> / <em>參照：OC P40</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.HG04",
+      "source": "OC P40"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "PHzElLFBpV0M1i6L",
+  "_key": "!items!PHzElLFBpV0M1i6L",
+  "name": "No.HR35. 同僚",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 36,
+  "system": {
+    "description": "<p><em>效果：REC：取得時選擇</em> / <em>通常效果：選擇一個取得了與你同一組織紋章的角色為對象（組織不包括自由職業者）。\n於對象進行判定前使用，此次判定的暴擊值-1（下限值5），且判定的骰數+5D。\n這個效果一個劇本中可以使用一次。</em> / <em>強化效果：將「通常效果」應用在選擇作為「REC」的角色身上時，此次判定的骰數額外+5D（合計+10D）。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR35",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "CKBG49twrIDSX72A",
+  "name": "理想投影",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/shadow-grasp.svg",
+  "folder": "RXR6u4iWhThVDoog",
+  "sort": 0,
+  "system": {
+    "description": "<p>控制體，將身體長期維持在理想的形態的異能。</p><p>隨時都可以使用。可以任意打消所有你所受的暴走之外的異常狀態和持續的異能效果。這個異能在重壓狀態下也可以使用。</p><p><em>參照：RUP33</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "妄想120% / 1/回合\nLV/劇本",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "round"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "流亡畸體 Exile",
+      "syndromeItemId": "kPOoy0czVl8GhmK7",
+      "source": "RUP33"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!CKBG49twrIDSX72A"
+}

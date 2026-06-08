@@ -1,0 +1,40 @@
+{
+  "_id": "UsipONiFgJxGfLcY",
+  "_key": "!items!UsipONiFgJxGfLcY",
+  "name": "No.HR16. 死亡與再生",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 17,
+  "system": {
+    "description": "<p><em>效果：REC：約翰·C·科多維爾</em> / <em>通常效果：於你從戰鬥不能中恢復時使用。你進行的攻擊的傷害+1D10。使用該效果時，你的侵蝕率會上升1D10點。這個效果持續至場景結束。</em> / <em>強化效果：「通常效果」生效期間，攻擊的傷害額外再增加1D10（合計+2D10）。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR16",
+      "source": ""
+    }
+  }
+}

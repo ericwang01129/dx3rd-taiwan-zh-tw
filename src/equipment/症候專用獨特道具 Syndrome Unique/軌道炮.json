@@ -1,0 +1,37 @@
+{
+  "_id": "CDYR711VjJRIXDXQ",
+  "_key": "!items!CDYR711VjJRIXDXQ",
+  "name": "軌道炮",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 42,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>使用雷擊黑犬症候的力量進行供電的小型電磁加速軌道炮，如此速度連超越者也難以應對。</p><p>無法對使用該武器進行的攻擊進行格擋，該武器一場景可以使用一次。</p><p><em>射程：100m</em> / <em>參照：IA P76</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -4,
+    "attack": 20,
+    "guard": 0,
+    "range": "100m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P76"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

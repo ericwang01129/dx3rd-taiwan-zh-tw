@@ -1,0 +1,40 @@
+{
+  "_id": "a0be3i8nenqqm8Oz",
+  "_key": "!items!a0be3i8nenqqm8Oz",
+  "name": "No.RW02. 監察官 ウォッチャー",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 163,
+  "system": {
+    "description": "<p>你是從UGN被派遣而來的監察官，負責監督政府登記在案的英雄。</p><p>你的工作是監視英雄們的實力、活躍情況，以及任務中的言行舉止。</p><p>若英雄行為惡劣，甚至可能取消其認證資格。</p><p>有些英雄對監察官抱持著明顯的負面情緒。正因如此，監察官必須具備足以與那些個性古怪、各有毛病的英雄正面衝突，並在過程中建立信賴關係的能力。</p><p><em>效果：此D-lois只能在「舞臺：背教者戰爭」中取得。\n\n你比任何人都更深入掌握英雄們的實力。基於立場，你有時也會負責協調多名英雄之間的合作。\n於先攻階段中使用。選擇場景中任意角色（可複數），其下一次進行的主要動作判定的暴擊值-1（下限值5）。此效果不適用於你自身。\n每個劇本限使用1次。</em> / <em>參照：CE P47</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.RW02",
+      "source": "CE P47"
+    }
+  }
+}

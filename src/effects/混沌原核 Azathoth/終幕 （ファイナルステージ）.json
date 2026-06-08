@@ -1,0 +1,64 @@
+{
+  "_id": "YnPgM4lI4COSATLg",
+  "name": "終幕 （ファイナルステージ）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>藉由到達最終階段的混沌原核因子，屠殺同樣有著邪神因子的邪神和神話生物的異能。</p><p>組合了該異能的攻擊，當對象為超越者以外的〔神話生物〕〔神格〕、亦或是持有混沌原核症候的超越者時，傷害+[LV×6]</p><p><em>參照：CRC P99</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "純血種",
+    "timing": "major",
+    "target": "單體",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P99"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!YnPgM4lI4COSATLg"
+}

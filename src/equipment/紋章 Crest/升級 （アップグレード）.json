@@ -1,0 +1,40 @@
+{
+  "_id": "05kr2HAChfjhQQ1w",
+  "_key": "!items!05kr2HAChfjhQQ1w",
+  "name": "升級 （アップグレード）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 60,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>從本部配發下來的，有著比平常更高性能的武器。存在著本部特工無法于各個支部處入手的後援體制。</p><p><em>效果：取得時從你常備化的武器中選擇一件，所選的武器攻擊力+3</em> / <em>參照：IA P136</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "關聯：中樞評議員\n（コネ：アクシズ評議員）",
+      "source": "IA P136"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

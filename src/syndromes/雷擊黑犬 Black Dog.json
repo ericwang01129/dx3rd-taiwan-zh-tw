@@ -1,0 +1,37 @@
+{
+  "_id": "hWwcHd8Gt8C56UhO",
+  "name": "雷擊黑犬 Black Dog",
+  "type": "syndrome",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wolf-head.svg",
+  "sort": 300,
+  "system": {
+    "description": "<p><strong>雷擊之王，鋼之使徒</strong></p>\n<p>所有生物的體內都有生體電流。</p><p>用意志力強化，並且擊出，就是這個症狀的特徵。</p><p>可以確認的是，在雷擊黑犬這個症狀發病者當中特有的，被稱之為「發電細胞」的細胞群產生電流並且調節的能力。</p><p>根據調節電流強弱，甚至可以操作機械，也就是只要將手碰觸在機械之上，就像是把神經和機械連接一般可以自由操作，在身體內一部份裝入機械並且用意志來作動這類事情也是有可能的。</p><p>雷擊黑犬用的裝備和機器也同時在投入實用以及開發上獲得相當大的成就，可以說是最被研究以及發展的一項症狀。</p><p>再者，這個症狀是以英國傳說當中的，與雷共生的黑色魔犬「Black Dog」為命名依據。</p>\n<blockquote>雷，自天上降下的制裁鐵錘。<br>但是，現今的世上已經沒有神，也沒有正確的制裁。<br>於是，代替神對於邪惡降下誅罰即是吾之使命。<br>我，成為復仇女神的Double Cross來給予毀滅。<br>「審判日」，第99次的制裁之前。</blockquote>",
+    "skillTmp": "melee",
+    "skills": {},
+    "attributes": {
+      "body": {
+        "value": 2
+      },
+      "sense": {
+        "value": 1
+      },
+      "mind": {
+        "value": 1
+      },
+      "social": {
+        "value": 0
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "english": "Black Dog",
+      "chinese": "雷擊黑犬"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!hWwcHd8Gt8C56UhO"
+}

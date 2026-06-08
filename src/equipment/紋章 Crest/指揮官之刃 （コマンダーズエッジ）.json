@@ -1,0 +1,37 @@
+{
+  "_id": "nMrf4L9w1PmfX3Yn",
+  "_key": "!items!nMrf4L9w1PmfX3Yn",
+  "name": "指揮官之刃 （コマンダーズエッジ）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 110,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>贈與優秀小隊長的求生匕首，擁有它就是擁有領導力和指揮能力的證明</p><p><em>備註：IA新增</em> / <em>參照：IA P142</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/近戰",
+    "skill": "-",
+    "add": 0,
+    "attack": 0,
+    "guard": 0,
+    "range": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN通用 取得條件：職業為UGN系，或是身為UGN法外者的角色",
+      "source": "IA P142"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

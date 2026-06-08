@@ -1,0 +1,64 @@
+{
+  "_id": "OorrGXheM5SORi2g",
+  "name": "超次元存在",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>表示你超越了時間、空間、位置以及其他一切的異能。</p><p>你組合該異能進行的判定+[LV×2]D。</p><p><em>參照：CRC P98</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P98"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!OorrGXheM5SORi2g"
+}

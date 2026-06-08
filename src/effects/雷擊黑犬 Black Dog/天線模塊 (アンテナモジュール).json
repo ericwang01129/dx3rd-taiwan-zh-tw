@@ -1,0 +1,64 @@
+{
+  "_id": "H5I6yIr1fKtEMLXq",
+  "name": "天線模塊 (アンテナモジュール)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wolf-head.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>你的體內安裝了通信用的強力電波天線。</p><p>就算身處遠離人類文化圈的地區，也能毫無障礙地使用通信器材。</p><p>你可以憑自己的意志減弱或切斷此機能。</p><p><em>參照：EAP43</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "EAP43"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!H5I6yIr1fKtEMLXq"
+}

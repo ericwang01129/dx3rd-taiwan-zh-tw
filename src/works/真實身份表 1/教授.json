@@ -1,0 +1,74 @@
+{
+  "_id": "8cmcGMs6k9YvwnV7",
+  "name": "教授",
+  "type": "works",
+  "img": "icons/svg/book.svg",
+  "folder": "EQcE7Nyzvu9GyQkR",
+  "sort": 0,
+  "system": {
+    "description": "<p><strong>來源：</strong>真實身份表 1</p><p><strong>主要能力值：</strong>【社會】</p>",
+    "skillTmp": "melee",
+    "skills": {
+      "ride": {
+        "key": "ride",
+        "name": "駕駛",
+        "base": "sense",
+        "add": 2,
+        "apply": true
+      },
+      "will": {
+        "key": "will",
+        "name": "意志",
+        "base": "mind",
+        "add": 1,
+        "apply": true
+      },
+      "knowledge": {
+        "key": "knowledge",
+        "name": "知識",
+        "base": "mind",
+        "add": 2,
+        "apply": true
+      },
+      "negotiation": {
+        "key": "negotiation",
+        "name": "交涉",
+        "base": "social",
+        "add": 1,
+        "apply": true
+      },
+      "info_學問": {
+        "key": "info_學問",
+        "name": "情報：學問",
+        "base": "social",
+        "add": 1,
+        "apply": true
+      }
+    },
+    "attributes": {
+      "body": {
+        "value": 0
+      },
+      "sense": {
+        "value": 0
+      },
+      "mind": {
+        "value": 0
+      },
+      "social": {
+        "value": 1
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "table": "真實身份表 1",
+      "primaryAttr": "social"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!8cmcGMs6k9YvwnV7"
+}

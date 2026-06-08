@@ -1,0 +1,64 @@
+{
+  "_id": "XfnPyGyytYaTLi8d",
+  "name": "高潮&低谷 （ハイ＆ロー）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>調整體內的神經遞質，將自己的精神切換到想要的狀態。對你來說，感情可以像有開關一般切換自如。可以壓制住憤怒，或遺忘掉悲傷。如果GM認為有必要，可以進行<意志>判定。</p><p><em>參照：UAP41</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "UAP41"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!XfnPyGyytYaTLi8d"
+}

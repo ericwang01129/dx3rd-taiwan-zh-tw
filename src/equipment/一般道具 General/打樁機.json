@@ -1,0 +1,37 @@
+{
+  "_id": "sU3s4MPzgJHmihVH",
+  "_key": "!items!sU3s4MPzgJHmihVH",
+  "name": "打樁機",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 26,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>外觀像盾牌，但內部藏有巨大的金屬樁，是利用火藥的爆發力將金屬樁打入對方體內的武器。</p><p>使用該武器進行的近戰攻擊判定前使用，該攻擊的攻擊力+10。該效果一劇本可以使用三次。</p><p><em>射程：至近</em> / <em>參照：IA P24</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "9",
+      "difficulty": 13
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -4,
+    "attack": 2,
+    "guard": 4,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P24"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

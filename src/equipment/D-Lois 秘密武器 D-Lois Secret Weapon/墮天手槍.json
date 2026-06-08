@@ -1,0 +1,37 @@
+{
+  "_id": "T1OoEXiYAhugYqKB",
+  "_key": "!items!T1OoEXiYAhugYqKB",
+  "name": "墮天手槍",
+  "folder": "2kAs6YkcXBjKKf0t",
+  "sort": 14,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>受EX背教者病毒感染的手槍，可隨使用者的意志自由改變彈道。</p><p>使用該武器進行射擊攻擊前宣言，針對此攻擊進行的回應動作暴擊值+1，該效果一劇本中可以使用三次。</p><p><em>射程：20m</em> / <em>參照：IA P114</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 8,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 秘密武器 D-Lois Secret Weapon",
+      "section": "",
+      "source": "IA P114"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

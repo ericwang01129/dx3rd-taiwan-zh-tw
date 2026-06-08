@@ -1,0 +1,40 @@
+{
+  "_id": "T114puZznCeJ3oF1",
+  "_key": "!items!T114puZznCeJ3oF1",
+  "name": "體能血液",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 35,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>暫時提高從者的能力的藥</p><p>從者進行判定前使用，該判定骰數+2個</p><p><em>參照：IA P111</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "IA P111"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

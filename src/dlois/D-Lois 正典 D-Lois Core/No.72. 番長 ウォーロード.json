@@ -1,0 +1,40 @@
+{
+  "_id": "1Fe9yE9vA5eIWj54",
+  "_key": "!items!1Fe9yE9vA5eIWj54",
+  "name": "No.72. 番長 ウォーロード",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 72,
+  "system": {
+    "description": "<p>你是番長。</p><p>這與一般社會中的\"不良頭子\"有著微妙的不同。學園內存在著一個稱為番長連的自警團組織。這是一個為了保護宿舍學生而組織的戰鬥集團，由12個小隊組成，各隊長被授予從1番到12番的番號，因此被稱為\"番長\"。雖然不是非法團體，但與學生會和風紀委員會等組織的關係有些緊張。有人將他們斷定為\"不過是不良學生的私人武裝\"。番長連的各隊長，也就是\"持有番號者\"被稱為番長或戰爭之王（Warlord），無一例外都是能一騎當千的猛士。女性則被稱為戰爭少女（War Maiden）。你的番號可以與GM商量後自由決定。</p><p><em>效果：此D-Lois只能在「舞臺：超越者學園」中使用。\n你免費取得異能【威壓】Lv1，可使用經驗提升等級。\n\n威壓 \n最大等級：3 \n時機：主要動作 \n技能：參照效果 \n難易度：對決 \n對象：場景(選擇) \n射程：視界\n侵蝕值：5 \n限制：D-Lois\n效果：用殺氣壓制敵人的異能。\n取得該D-Lois時指定一項技能，此異能的技能為所指定的技能。只能以類型：集團的敵人為對象。異能的命中判定暴擊值-LV(下限值7)，命中後使目標戰鬥不能。該異能不可與其他異能組合。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.72",
+      "source": ""
+    }
+  }
+}

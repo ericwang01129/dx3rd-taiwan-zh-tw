@@ -1,0 +1,64 @@
+{
+  "_id": "GM4fzIKkrdjatSRj",
+  "name": "風之載渡者 (風の渡し手)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wind-hole.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>操縱聲音本體，使其只會傳給對象的異能。你可以操縱發生於空間的波本身，也可以只讓特定領域響起聲音。</p><p>組合此異能的行動對象變更成[LV+1]名。</p><p><em>參照：規則1P134</p><p>EAP74</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "negotiation",
+    "difficulty": "",
+    "limit": "1/場景",
+    "timing": "major",
+    "target": "[LV+1]名",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "battle"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "規則1P134\nEAP74"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!GM4fzIKkrdjatSRj"
+}

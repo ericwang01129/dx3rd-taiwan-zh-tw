@@ -1,0 +1,34 @@
+{
+  "_id": "W4LSo4uTLcmt9gyH",
+  "_key": "!items!W4LSo4uTLcmt9gyH",
+  "name": "背教者腰帶",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 95,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>能強化超越者力量的腰帶，根據症候需要切換不同的模式。</p><p>次要動作使用，選擇一個症候，該主要階段中組合該症候異能的判定骰數+3個，但該場景間，選擇過的症候無法重複選擇。</p><p><em>參照：IA P67</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P67"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

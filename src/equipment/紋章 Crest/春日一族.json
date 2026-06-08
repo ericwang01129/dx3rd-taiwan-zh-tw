@@ -1,0 +1,40 @@
+{
+  "_id": "MgOl5IWVsYxRtzXu",
+  "_key": "!items!MgOl5IWVsYxRtzXu",
+  "name": "春日一族",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 256,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你屬於春日一族的氏族的紋章，屬於該氏族的特工們皆以無論何等艱難的情況下都絕不放棄完成任務的極強意志力而聞名。</p><p><em>效果：你進行的<意志>判定達成值+3</em> / <em>參照：IA P158</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH通用 取得條件：職業為FH，或是身為FH法外者的角色",
+      "source": "IA P158"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

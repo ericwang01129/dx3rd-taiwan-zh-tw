@@ -1,0 +1,40 @@
+{
+  "_id": "NFT6x8LtTuOLjErG",
+  "_key": "!items!NFT6x8LtTuOLjErG",
+  "name": "從者之衣",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 26,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>如鎧甲般強化從者的皮膚</p><p>從者的裝甲值+2，重複取得時該道具效果可以累計</p><p><em>參照：IA P110</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "IA P110"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

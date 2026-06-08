@@ -1,0 +1,64 @@
+{
+  "_id": "hd0Hk2YN3qfbUy3t",
+  "name": "煉成的法則 (錬成の掟)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/morph-ball.svg",
+  "folder": "1c2f74fWFU3n9X1W",
+  "sort": 0,
+  "system": {
+    "description": "<p>製造出性能更高的物品的異能。</p><p>可隨時宣言，選擇一件你以異能製作的武器、防具或載具，</p><p>該場景中，該道具的攻擊力、格擋值、裝甲值的其中一項+5。</p><p><em>參照：規則1P143</p><p>EAP86</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "純血種 / LV/劇本",
+    "timing": "auto",
+    "target": "參照效果",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "煉金化形 Morpheus",
+      "syndromeItemId": "VAwDGRpXdkn7vZjE",
+      "source": "規則1P143\nEAP86"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!hd0Hk2YN3qfbUy3t"
+}

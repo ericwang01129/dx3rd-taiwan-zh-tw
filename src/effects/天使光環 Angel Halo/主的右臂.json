@@ -1,0 +1,68 @@
+{
+  "_id": "EWH14oJA9HaRKs3u",
+  "name": "主的右臂",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spiked-halo.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>看穿對方最薄弱的地方，準確攻擊該處的異能。</p><p>組合此異能的攻擊的攻擊力+[LV×2]。</p><p><em>參照：規則1P99</p><p>EAP22</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*2"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "規則1P99\nEAP22"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!EWH14oJA9HaRKs3u"
+}

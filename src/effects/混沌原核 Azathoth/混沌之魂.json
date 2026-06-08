@@ -1,0 +1,64 @@
+{
+  "_id": "nxCS5W1loeasiUpa",
+  "name": "混沌之魂",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spectre.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>使窺探你精神的愚者發狂的異能。觸及你的內心，乃是與摧毀自己的心有著相同意義的愚行。</p><p>于你成為以<交涉>判定進行的攻擊對象時使用。放棄使用回應動作，對攻擊者造成[LV×5]點傷害。</p><p><em>參照：CRC P97</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "reaction",
+    "target": "參照效果",
+    "range": "參照效果",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P97"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!nxCS5W1loeasiUpa"
+}

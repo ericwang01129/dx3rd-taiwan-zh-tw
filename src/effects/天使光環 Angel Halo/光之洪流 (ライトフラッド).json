@@ -1,0 +1,64 @@
+{
+  "_id": "NleGGvOfFTz1MIue",
+  "name": "光之洪流 (ライトフラッド)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spiked-halo.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>釋放出炫目的光之洪流的異能。刺眼的光芒使得敵人無法正常行動。</p><p>在這一回合中，對象所進行的所有行動的判定骰數-LV個。</p><p><em>參照：UAP30</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "純血種",
+    "timing": "setup",
+    "target": "場景(選擇)",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "UAP30"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!NleGGvOfFTz1MIue"
+}

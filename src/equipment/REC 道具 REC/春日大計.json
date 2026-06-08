@@ -1,0 +1,40 @@
+{
+  "_id": "LWLbzo02qk0PCMYV",
+  "_key": "!items!LWLbzo02qk0PCMYV",
+  "name": "春日大計",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 26,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>春日恭二所建立的萬全計劃。雖說乍看也沒有發現什麼巨大的漏洞或是對戰力的過分低估，但就總是讓人產生“肯定有哪裡不能順利進行”的預感。如果是很瞭解春日恭二的人，或許能做到進行對預想以外事態的追蹤也說不定。</p><p><em>REC：春日恭二</em> / <em>通常效果：任何時候均可使用，該場景間，你的攻擊力和【行動值】+3，受該效果影響期間，你進行的所有判定暴擊值+2。</em> / <em>強化效果：你不會因通常效果而導致暴擊值增加。</em> / <em>參照：IA P200</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：春日恭二",
+      "source": "IA P200"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

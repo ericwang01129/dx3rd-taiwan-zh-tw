@@ -1,0 +1,40 @@
+{
+  "_id": "5ObNanVAJiAkhliX",
+  "_key": "!items!5ObNanVAJiAkhliX",
+  "name": "No.42. 音波使 (疾速靈猿專用) ソニックマスター Sonic Master",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 42,
+  "system": {
+    "description": "<p>你是靈猴的能力者當中特別擅長操控音波的類型。</p><p>你被視為「音之使役者」而被恐懼，因此避開與你對話的人也存在吧，因為你光是聲音，都能成為銳利的刀刃。</p><p>另外，雖然普通的聲音不能在真空中傳播，但是靈猴能力者放出的聲音能藉由【結界化】放出的特殊物質來傳遞，因此能力不會受到所在地的影響。</p><p><em>效果：只限症狀為【疾速靈猿】的角色可取得。\n自動獲得異能【音域之王】Lv1，可使用經驗提升等級。\n這異能視為疾速靈猿的異能\n音域之王 (音界の王)\n最大等級：3 \n時機：主動動作 \n技能：症候 \n難易度：- \n對象：- \n對象：- \n侵蝕：6 \n限制：D露易絲 \n次數：LV/劇本\n效果：組合的其他【疾速靈猿】異能等級+1。 可超過最大等級，但不能因此增加能力的使用次數。 \n用自己的力量變換音域的能力</em> / <em>備註：疾速靈猿專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.42",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "W2Zr8LbbyWZwESE8",
+  "name": "儲物環",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/chained-arrow-heads.svg",
+  "folder": "nvsOMgfQh0V2uoKK",
+  "sort": 0,
+  "system": {
+    "description": "<p>你可以做出半徑5m左右的不可見的圓環，其中的無生命物品不會因時間經過而腐敗或劣化。當其他角色觸摸到此物品時，效果解除。</p><p><em>參照：UAP83</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "偽神天鎖 Gleipnir",
+      "syndromeItemId": "wzWZsuLaBbQy6m0K",
+      "source": "UAP83"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!W2Zr8LbbyWZwESE8"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "pxkCOTjBBXgOEKHZ",
+  "_key": "!items!pxkCOTjBBXgOEKHZ",
+  "name": "砂塵之杖",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 129,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>某煉金化形症候超越者用煉成的石頭製作的杖，能增幅操縱沙子的異能。</p><p>你進行的組合《砂之刃》的攻擊判定骰數+2個，攻擊力+3。雙手持握。</p><p><em>射程：至近</em> / <em>參照：IA P86</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 1,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P86"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

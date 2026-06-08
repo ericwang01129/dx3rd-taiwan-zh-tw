@@ -1,0 +1,40 @@
+{
+  "_id": "21c4wRd939UdvHry",
+  "_key": "!items!21c4wRd939UdvHry",
+  "name": "No.HE02. 討伐傳說 レジェンドオブモノノフ",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 115,
+  "system": {
+    "description": "<p>你曾經討伐鬼怪或妖怪等對京都人民為害的非人之物。</p><p>這不僅在武士和陰陽師之間成為話題，甚至在殿上也成為傳聞，據說還有人要以你為主角寫成故事。</p><p>市井的人們將此事當作趣談來傳述，但那些傳聞全都是真實的。</p><p>能夠做到這些的，是你擁有的天賦異稟的戰鬥直覺。</p><p>即使對手是非人的存在，你的刀也能斬斷其足，你的眼睛也能準確看穿那些妖魔的動作。</p><p>但是，最厲害的是在和“這種對手”戰鬥時，你會像故事的主角一樣動作變得更加靈活。</p><p><em>效果：此D-lois只能在「舞臺：平安京物怪錄」中取得。\n\n你擁有劍或弓等無與倫比的才能。而且，這股力量在面對危險對手時越能發揮。\n但是，你與太多非人的對手戰鬥過了。你的心正在向他們靠近。\n取得此D-lois時選擇〈近戰〉或〈射擊〉。你進行所選技能判定的達成值+5。高潮階段期間達成值再+2（合計+7）。\n取得此D-lois時，你的侵蝕率基本值+3。</em> / <em>參照：OC P85</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.HE02",
+      "source": "OC P85"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "VUej8N6tmOXYi4yH",
+  "_key": "!items!VUej8N6tmOXYi4yH",
+  "name": "活化劑D",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 119,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>讓背教者活性化提高侵蝕率的飲料，很難大量生產，流通很少。</p><p>場景登場時你投擲侵蝕率上升骰後使用，該骰值變為10。稀有道具。</p><p><em>參照：IA P69</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P69"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "euxxxkC32fMJwO31",
+  "_key": "!items!euxxxkC32fMJwO31",
+  "name": "構造變質藥",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 197,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>利用構造和溫度變化使物體的構造變脆的特殊化學藥品，只能在冰炎奇蜥症候生成的劇烈溫差下生效。</p><p>你組合《交錯爆裂》的攻擊命中後使用，該攻擊視作對象裝甲值為0計算傷害，該效果一場景可以使用一次。</p><p><em>參照：IA P93</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P93"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

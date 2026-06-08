@@ -1,0 +1,40 @@
+{
+  "_id": "nt4SY1p7MIdIpOhn",
+  "_key": "!items!nt4SY1p7MIdIpOhn",
+  "name": "終決 （ラストラン）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 288,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>FH所開發的能力強化手術。接受了這項實驗者有著僅僅一次的，解放超越極限之力的機會，但也有著會變得無法抑制衝動的代價。</p><p><em>效果：準備階段使用，該場景間，你進行的任意判定骰數+10個，進行的攻擊攻擊力+10，但使用時你的侵蝕率會+20，並且陷入[異常狀態：暴走]</em> / <em>備註：IA修改經驗值</em> / <em>參照：IA P161</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 80,
+    "equipment": true,
+    "type": "紋章/消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH通用 取得條件：職業為FH，或是身為FH法外者的角色",
+      "source": "IA P161"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

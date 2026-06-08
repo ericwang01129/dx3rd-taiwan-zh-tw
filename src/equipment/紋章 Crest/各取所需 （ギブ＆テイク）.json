@@ -1,0 +1,40 @@
+{
+  "_id": "95rpna8YlvES88d1",
+  "_key": "!items!95rpna8YlvES88d1",
+  "name": "各取所需 （ギブ＆テイク）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 241,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你打著自己的算盤協助FH，並獲取了回報的紋章</p><p><em>效果：你的【社會】+1；上升的能力值按照如「5（6）」形式，分別記錄上升前後的能力值；使用經驗點進行能力值成長時，所需的經驗點參照上升前的能力值資料</em> / <em>參照：IA P156</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH法外者 取得條件：沒有取得FH通用以外紋章的角色",
+      "source": "IA P156"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

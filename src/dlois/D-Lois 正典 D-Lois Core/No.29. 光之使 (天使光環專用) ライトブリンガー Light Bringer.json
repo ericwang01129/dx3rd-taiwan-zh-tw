@@ -1,0 +1,40 @@
+{
+  "_id": "vGJDZRNkiAkrUgQz",
+  "_key": "!items!vGJDZRNkiAkrUgQz",
+  "name": "No.29. 光之使 (天使光環專用) ライトブリンガー Light Bringer",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 29,
+  "system": {
+    "description": "<p>你是特別擅長使用光的光環能力者。你發出的光比其他光環能力者更加耀眼，給人神聖的印象。原本只是改變光的行進方向的能力，你的情況說不定是對光子本身產生影響，有些研究者如此假設。</p><p>你或許曾聽說過【闇之使】的特殊光環能力者，對方有著能夠吞噬一切光明的黑暗，或許有一天你會遭遇到它吧。</p><p><em>效果：只限症狀為【天使光環】的角色可取得。\n自動獲得異能【光之指】Lv1，可使用經驗提升等級。\n這異能視為天使光環的異能\n光之指 \n最大等級：3 \n時機：主要/回應動作 \n技能：症侯 難易度：- \n對象：- \n射程：- \n侵蝕：2 \n限制：D露易絲 \n組合時，判定骰+[Lv+2]D 擅長操控光線的能力</em> / <em>備註：天使光環專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.29",
+      "source": ""
+    }
+  }
+}

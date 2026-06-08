@@ -1,0 +1,40 @@
+{
+  "_id": "7GCPPKo9icBNMDOa",
+  "_key": "!items!7GCPPKo9icBNMDOa",
+  "name": "數據腦",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 14,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>埋藏在腦內的資料庫</p><p>你進行的<知識：●●><情報：●●>判定達成值+2，重複取得時該道具效果可以累計</p><p><em>參照：IA P109</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "IA P109"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

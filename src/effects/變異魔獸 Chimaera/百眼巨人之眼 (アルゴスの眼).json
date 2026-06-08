@@ -1,0 +1,68 @@
+{
+  "_id": "tpwJxuVutgw4wHLl",
+  "name": "百眼巨人之眼 (アルゴスの眼)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lion.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>將眼睛變成魚眼、複眼或貓眼等動物的視覺，藉此提高知覺的異能。</p><p>組合此異能的判定骰數+LV顆。</p><p><em>參照：規則2P110</p><p>EAP57</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "perception",
+    "difficulty": "",
+    "limit": "-",
+    "timing": "major-reaction",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "dice": {
+        "value": "@level"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "規則2P110\nEAP57"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!tpwJxuVutgw4wHLl"
+}

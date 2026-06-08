@@ -1,0 +1,37 @@
+{
+  "_id": "KnOjvwmN8Ld81gvj",
+  "_key": "!items!KnOjvwmN8Ld81gvj",
+  "name": "FHG-666",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 13,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>FH開發的隱匿性、威力和命中都相當優秀的手槍，在表面業界的手槍沒有使用過這種技術。</p><p>使用該武器進行的<射擊>判定骰數+1個。</p><p><em>射程：20m</em> / <em>參照：IA P123</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "6",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 6,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P123"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

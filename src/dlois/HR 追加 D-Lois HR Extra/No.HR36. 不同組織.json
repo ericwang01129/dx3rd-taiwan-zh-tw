@@ -1,0 +1,40 @@
+{
+  "_id": "mCUz4HFuB1ea9vmH",
+  "_key": "!items!mCUz4HFuB1ea9vmH",
+  "name": "No.HR36. 不同組織",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 37,
+  "system": {
+    "description": "<p><em>效果：REC：取得時選擇</em> / <em>通常效果：選擇一個取得了與你不同組織紋章的角色為對象（組織不包括自由職業者）。\n於對象進行攻擊的命中判定前使用，此次攻擊的命中判定的暴擊值-1（下限值5），傷害+1D10。\n這個效果一個劇本中可以使用一次。</em> / <em>強化效果：將「通常效果」應用在選擇作為「REC」的角色身上時，所增加的傷害額外再+1D10（合計+2D10）</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR36",
+      "source": ""
+    }
+  }
+}

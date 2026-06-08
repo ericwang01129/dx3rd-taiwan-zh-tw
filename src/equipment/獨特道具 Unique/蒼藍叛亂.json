@@ -1,0 +1,37 @@
+{
+  "_id": "y7b28bWmcRYGvBod",
+  "_key": "!items!y7b28bWmcRYGvBod",
+  "name": "蒼藍叛亂",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 33,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>以超越者使用為考量開發的狙擊槍，優秀的槍手使用時能發揮更高的精度。</p><p>次要動作使用，該主要階段間使用該武器進行的攻擊判定達成值+[【感覺】+5]。至近不可。</p><p><em>射程：200m</em> / <em>參照：IA P59</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 60,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 21,
+    "guard": 0,
+    "range": "200m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P59"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

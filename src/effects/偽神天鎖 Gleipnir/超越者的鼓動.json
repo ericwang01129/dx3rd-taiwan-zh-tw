@@ -1,0 +1,68 @@
+{
+  "_id": "CO8kjesYZ48MF8gz",
+  "name": "超越者的鼓動",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/chained-arrow-heads.svg",
+  "folder": "nvsOMgfQh0V2uoKK",
+  "sort": 0,
+  "system": {
+    "description": "<p>受到暴走期間，你的主要動作判定骰數+[LV+1]個。</p><p>這個異能的等級不會因侵蝕率上升而增加。取得時，侵蝕率基本值+4。</p><p><em>參照：UAP76</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "dice": {
+        "value": "@level+1"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "偽神天鎖 Gleipnir",
+      "syndromeItemId": "wzWZsuLaBbQy6m0K",
+      "source": "UAP76"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!CO8kjesYZ48MF8gz"
+}

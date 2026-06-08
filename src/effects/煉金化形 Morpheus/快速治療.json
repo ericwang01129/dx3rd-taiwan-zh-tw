@@ -1,0 +1,64 @@
+{
+  "_id": "T6iquYqrXQ0lUXHA",
+  "name": "快速治療",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/zeromancer/heart-plus.svg",
+  "folder": "1c2f74fWFU3n9X1W",
+  "sort": 0,
+  "system": {
+    "description": "<p>以自身的肉體和生命力作為代價，急速再構成同伴的肉體的異能。</p><p>回復對象5D點HP。這個異能不能以你為對象，使用時你失去5點HP。這個異能不能與其他異能組合。</p><p><em>參照：RUP37</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "自傷120% / LV/劇本",
+    "timing": "initiative",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "煉金化形 Morpheus",
+      "syndromeItemId": "VAwDGRpXdkn7vZjE",
+      "source": "RUP37"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!T6iquYqrXQ0lUXHA"
+}

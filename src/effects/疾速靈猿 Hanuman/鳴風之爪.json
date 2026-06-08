@@ -1,0 +1,64 @@
+{
+  "_id": "Lu4iOu3bNnPq6L0v",
+  "name": "鳴風之爪",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wind-hole.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>以如同殘響般的高速一擊讓敵人受重傷的異能。</p><p>投擲組合的攻擊的傷害骰之後，可以選LV個骰子重新投擲。如果重骰的結果不夠好的話也需要採用新結果。</p><p><em>參照：BCP62</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "BCP62"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Lu4iOu3bNnPq6L0v"
+}

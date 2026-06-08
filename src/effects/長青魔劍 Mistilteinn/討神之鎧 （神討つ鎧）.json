@@ -1,0 +1,68 @@
+{
+  "_id": "R64elmlcPT2Ojopc",
+  "name": "討神之鎧 （神討つ鎧）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "folder": "m920eVQK9xEhuLPi",
+  "sort": 0,
+  "system": {
+    "description": "<p>變化鎧甲的形狀，攻擊敵人的異能。</p><p>只有裝備[類別：元型]的防具期間可以使用，進行「攻擊力：+[LV×3+2]」的近戰攻擊。這個攻擊無法加算裝備中的武器的攻擊力。</p><p><em>參照：UAP16</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*3+2"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "長青魔劍 Mistilteinn",
+      "syndromeItemId": "prV8KorHRzKAVkva",
+      "source": "UAP16"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!R64elmlcPT2Ojopc"
+}

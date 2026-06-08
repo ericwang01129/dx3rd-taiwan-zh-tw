@@ -1,0 +1,40 @@
+{
+  "_id": "AspCzJ3QgvIE6Ku2",
+  "_key": "!items!AspCzJ3QgvIE6Ku2",
+  "name": "人造脊椎",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 44,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>將脊椎置換為人造物的手術，能在物理層面上變得更加強韌，也能強化姿勢控制能力。</p><p>你的HP最大值+10。你受到[不良狀態：硬直]後使用，回復該不良狀態，該效果一場景可以使用一次。</p><p><em>參照：IA P126</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "20",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P126"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

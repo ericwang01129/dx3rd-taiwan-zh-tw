@@ -1,0 +1,40 @@
+{
+  "_id": "1AMc3PM2Wcj0xLYz",
+  "_key": "!items!1AMc3PM2Wcj0xLYz",
+  "name": "原初的混沌",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 144,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>被EX背教者感染的不定型粘體，在煉金化形超越者手中能夠給予其渴望的物品形狀，但會很快毀壞。</p><p>任何時候都可以使用，你獲得任意獨特道具，此時你可以獲得你沒有的症候的獨特道具並使用，該道具在場景結束時（戰鬥中為回合結束時）破壞。稀有道具。</p><p><em>參照：IA P87</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 100,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P87"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

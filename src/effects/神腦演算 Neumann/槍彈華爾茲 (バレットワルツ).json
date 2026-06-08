@@ -1,0 +1,68 @@
+{
+  "_id": "30ralFrXRMiZMmiA",
+  "name": "槍彈華爾茲 (バレットワルツ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/cyber-eye.svg",
+  "folder": "47r01TSVVubrkaef",
+  "sort": 0,
+  "system": {
+    "description": "<p>在超接近戰中操縱槍枝，確實狙殺目標的異能。</p><p>前提條件：《零距離射擊》。</p><p>須與零距離射擊組合使用，組合此異能的攻擊的攻擊力+[LV×3]。</p><p><em>參照：HRP82</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "ranged",
+    "difficulty": "對決",
+    "limit": "極限",
+    "timing": "major",
+    "target": "-",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*3"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "神腦演算 Neumann",
+      "syndromeItemId": "ohcrpvm6g5xHhvRM",
+      "source": "HRP82"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!30ralFrXRMiZMmiA"
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "38LlsVy3LFOco9nM",
+  "name": "補傷煉成",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/morph-ball.svg",
+  "folder": "1c2f74fWFU3n9X1W",
+  "sort": 0,
+  "system": {
+    "description": "<p>藉由鬥爭心煉成肉體，回復受傷部位的異能。</p><p>你回復[LV+1]D點HP。這個異能不能與其他異能組合使用，一輪最多使用1次。</p><p><em>參照：RUP31</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "爭鬥120%",
+    "timing": "initiative",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "煉金化形 Morpheus",
+      "syndromeItemId": "VAwDGRpXdkn7vZjE",
+      "source": "RUP31"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!38LlsVy3LFOco9nM"
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "oR33xVB1yZkSjoll",
+  "name": "無形之劍",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "folder": "FmovFwS0XlDsBEPd",
+  "sort": 0,
+  "system": {
+    "description": "<p>將因子藏入武器，使其變形的異能。</p><p>此異能會使對象的回避骰數-LV顆。</p><p><em>參照：規則2P150</p><p>EAP97</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冥府領域 Orcus",
+      "syndromeItemId": "VkIuxIHuGC4SwBN8",
+      "source": "規則2P150\nEAP97"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!oR33xVB1yZkSjoll"
+}

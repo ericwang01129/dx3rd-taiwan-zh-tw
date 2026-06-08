@@ -1,0 +1,40 @@
+{
+  "_id": "kpiXUVCBZSzundTz",
+  "_key": "!items!kpiXUVCBZSzundTz",
+  "name": "成長之石 （グローイングストーン）",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 24,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>表示你的賢者之石吸收了其他賢者之石，或者克服了困難得以成長。</p><p><em>效果：你取得的「D-Lois：賢者之石」的使用次數+1次。這個道具只有取得了「D-Lois：賢者之石」的角色才可以取得。</em> / <em>參照：IA P190</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P190"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

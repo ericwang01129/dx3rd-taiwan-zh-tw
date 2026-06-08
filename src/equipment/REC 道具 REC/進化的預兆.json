@@ -1,0 +1,40 @@
+{
+  "_id": "2oGA1Ega6QEwt80v",
+  "_key": "!items!2oGA1Ega6QEwt80v",
+  "name": "進化的預兆",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 35,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>書寫著關於超越者進化的神秘書籍。如果能讀懂沈睡其中的睿智就能夠得到進化，實現所有的願望——但從旁注視著“計劃者”深遠思考的你卻明白，這其實是為了收集實驗體而拋出的誘餌。</p><p><em>REC：都築京香</em> / <em>次數：1/劇本\n1/劇本</em> / <em>通常效果：任何時候均可使用，從任意能力值（肉體/感覺/精神/社會）之中選擇一個，該劇本間，你所選擇的能力值+3，你的侵蝕率+30。\n該效果一劇本中可以使用一次。</em> / <em>強化效果：準備階段時使用，從任意能力值（肉體/感覺/精神/社會）之中選擇一個，該場景間，你選擇的能力值額外+3；你的侵蝕率+10。\n該效果一劇本可以使用一次。</em> / <em>參照：IA P202</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：都築京香",
+      "source": "IA P202"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

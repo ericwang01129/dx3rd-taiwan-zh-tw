@@ -1,0 +1,64 @@
+{
+  "_id": "uUnDaMVPx84q8clE",
+  "name": "再行動",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/chained-arrow-heads.svg",
+  "folder": "nvsOMgfQh0V2uoKK",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《再生之鎖》</p><p>當對象無法戰鬥時使用，回復對象的無法戰鬥，HP回復到[LV×5]點。</p><p><em>參照：UAP82</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "極限 / 1/劇本",
+    "timing": "auto",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "偽神天鎖 Gleipnir",
+      "syndromeItemId": "wzWZsuLaBbQy6m0K",
+      "source": "UAP82"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!uUnDaMVPx84q8clE"
+}

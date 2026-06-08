@@ -1,0 +1,37 @@
+{
+  "_id": "lVV0xnr8jogAt5v3",
+  "_key": "!items!lVV0xnr8jogAt5v3",
+  "name": "蛇腹劍",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 6,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>將分割成數段的劍身中間用纖維繩連接的西洋劍，按下劍柄的開關就能分開連接變成長射程的鞭子。</p><p>次要動作之前使用，射程變為15m，此時使用該武器進行的攻擊判定骰數-1個，該效果隨時可以解除。</p><p><em>射程：至近/15m</em> / <em>參照：IA P56</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 8,
+    "guard": 3,
+    "range": "至近/15m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P56"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

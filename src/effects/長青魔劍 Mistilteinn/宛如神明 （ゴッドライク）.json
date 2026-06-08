@@ -1,0 +1,68 @@
+{
+  "_id": "NTyLvhmqNlFMLglE",
+  "name": "宛如神明 （ゴッドライク）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/zeus-sword.svg",
+  "folder": "m920eVQK9xEhuLPi",
+  "sort": 0,
+  "system": {
+    "description": "<p>最大限度地活用元型教授的技術，發揮神明般才能的異能。</p><p>前提條件：《天惠的魔劍》</p><p>在使用《天惠的魔劍》所選擇的技能進行判定前使用。判定的暴擊值-1（下限5）。</p><p><em>參照：UAP21</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "極限 / 1/劇本",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 6,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "critical": {
+        "value": "-1"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "長青魔劍 Mistilteinn",
+      "syndromeItemId": "prV8KorHRzKAVkva",
+      "source": "UAP21"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!NTyLvhmqNlFMLglE"
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "kWrssTRI6C07YbnD",
+  "name": "火舌 (フレイムタン)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/carl-olsen/flame.svg",
+  "folder": "fTAZJwZUEo6ka7qa",
+  "sort": 0,
+  "system": {
+    "description": "<p>將火像自己身體的一部分般操縱，延長攻擊距離的異能。</p><p>組合此異能的近戰攻擊的射程變更成視界，但攻擊力-[5-LV](最大0)。</p><p><em>參照：EAP108</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冰炎奇蜥 Salamandra",
+      "syndromeItemId": "QYuRS0HzX2yUU8d7",
+      "source": "EAP108"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!kWrssTRI6C07YbnD"
+}

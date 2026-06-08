@@ -1,0 +1,40 @@
+{
+  "_id": "R1UWGAi4chgxSttX",
+  "_key": "!items!R1UWGAi4chgxSttX",
+  "name": "No.20. 精銳：<技能名> (UGN之子專用) トゥルーボーン True Bone",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 20,
+  "system": {
+    "description": "<p>你是UGN從小培育的精銳。</p><p>從出身或是年幼的時候就有著R病毒的關係，幼年期的你無法自在控制那股力量，因此從小就接受組織的訓練。訓練中變成怪物被處理掉的例子也不在少數。</p><p>之後會受到其他的設施，針對其適性做專門性的訓練。因此即使是十幾歲的少年少女，也可能被培育成曆戰的傭兵跟經驗豐富的醫生。</p><p><em>效果：只限工作為【UGN之子】的角色可取得\n取得這D露易絲時，選擇一個技能填入(ex.精銳：<射擊>)。\n該技能的等級自動+5，技能必須標注提升前的等級。ex.<射擊>5 (10)\n使用技能判定採用提升後的後者，但是成長需要的經驗點則看提升前的前者\n初期侵蝕+2</em> / <em>備註：UGN之子專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.20",
+      "source": ""
+    }
+  }
+}

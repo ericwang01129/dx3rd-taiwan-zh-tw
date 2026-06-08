@@ -1,0 +1,40 @@
+{
+  "_id": "YeK1JFYCEGJcoWb8",
+  "_key": "!items!YeK1JFYCEGJcoWb8",
+  "name": "No.55. 不死者(FH專用) アンデッド Undead",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 55,
+  "system": {
+    "description": "<p>你是非常罕見的超越者，即使侵蝕率超過100%也能夠「回歸」，因此很難成為原菌。你可能經常接受會使得侵蝕率大幅上升的危險任務，但即使任務失敗，你最後還是回得來，你的部下將你是為不死之身。</p><p>這種特性的原因還是未知，這可能是源自意志的力量，變異的生理或病毒，或是某個實驗的結果。有些人認為你早就已經是一個擅長隱藏自己的原菌，事實上，UGN的檔案中也直接將你視為原菌而視為清除原菌的首要目標吧。</p><p><em>效果：只有職業為【FH】相關的角色可以取得\n回溯階段時，只要侵蝕率小於119%以下，就不會變成原菌，且可以獲得侵蝕率大於100%的獎勵經驗值。\n取得了該D-Lois時，你無法受到昇華Titus的「打消不利效果」和「從戰鬥不能狀態中回復」兩種效果以外的效果，但S-Lois則可以照常使用\n\n此外，你可以照常消耗常備點來常備化FH專用道具，以該D-Lois取得的道具基本上除你以外均無法使用和裝備，即時持有也無法受到其效果影響。\n這個D露易絲無法跟其他D露易絲並存，當然也不能重複取得</em> / <em>備註：FH專用</em> / <em>參照：PE P33</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.55",
+      "source": "PE P33"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_id": "6In3bbpIngztcjgF",
+  "name": "殲滅者",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/chained-arrow-heads.svg",
+  "folder": "nvsOMgfQh0V2uoKK",
+  "sort": 0,
+  "system": {
+    "description": "<p>你的攻擊命中判定與回避達成值+[LV×3]。這個異能不會因侵蝕率提高等級。</p><p><em>參照：UAP84</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "改變\n雷擊黑犬",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "add": {
+        "value": "@level*3"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "偽神天鎖 Gleipnir",
+      "syndromeItemId": "wzWZsuLaBbQy6m0K",
+      "source": "UAP84"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!6In3bbpIngztcjgF"
+}

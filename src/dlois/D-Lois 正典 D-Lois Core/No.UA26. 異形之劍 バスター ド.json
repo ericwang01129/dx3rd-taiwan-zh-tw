@@ -1,0 +1,40 @@
+{
+  "_id": "ZFsP4KsTOa4cQaGL",
+  "_key": "!items!ZFsP4KsTOa4cQaGL",
+  "name": "No.UA26. 異形之劍 バスター ド",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 161,
+  "system": {
+    "description": "<p>你持有的長青魔劍的力量能夠與你其他的症候的力量融合。</p><p>如果是冰炎奇蜥，你的元型會纏繞著冷氣或者火焰；如果是變異魔獸，會有著角與鉤爪；如果是疾速靈猿，能夠將音波作為子彈射出。這種特殊的武器可以作為元型使用。</p><p><em>效果：只限症狀為【長青魔劍】的角色可取得。\n取得該D-lois時，選擇一個《弑神之刃》以外，你能夠取得的「製作異能道具」異能，你免費取得1級所選異能。但是，無法選擇「時機：常駐」的異能。取得的異能可以照常消費經驗值成長。如果選擇了使用異能時才選擇異能道具的異能，僅能指定其中一個道具。\n使用所選異能做成的武器視為《弑神之刃》的元型，LV為（異能LV+弑神之刃LV）。\n所選的異能可以與“只能與《弑神之刃》組合”的異能組合，其他效果同樣可以適用。如果《弑神之刃》侵蝕+n，視為所選異能的侵蝕+n。\n你可以取得《弑神之刃》，但無法使用，也只能用所選的異能製作、裝備類別為元型的道具。</em> / <em>備註：長青魔劍專用</em> / <em>參照：DF P37</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA26",
+      "source": "DF P37"
+    }
+  }
+}

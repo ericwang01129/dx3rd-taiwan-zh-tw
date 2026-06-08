@@ -1,0 +1,74 @@
+{
+  "_id": "6b4uLKi0VLpO9mag",
+  "name": "背教者生命體 A",
+  "type": "works",
+  "img": "icons/svg/book.svg",
+  "folder": "EQcE7Nyzvu9GyQkR",
+  "sort": 0,
+  "system": {
+    "description": "<p><strong>來源：</strong>真實身份表 1</p><p><strong>主要能力值：</strong>【肉體】</p>",
+    "skillTmp": "melee",
+    "skills": {
+      "melee": {
+        "key": "melee",
+        "name": "近戰",
+        "base": "body",
+        "add": 1,
+        "apply": true
+      },
+      "dodge": {
+        "key": "dodge",
+        "name": "迴避",
+        "base": "body",
+        "add": 1,
+        "apply": true
+      },
+      "ranged": {
+        "key": "ranged",
+        "name": "射擊",
+        "base": "sense",
+        "add": 1,
+        "apply": true
+      },
+      "will": {
+        "key": "will",
+        "name": "意志",
+        "base": "mind",
+        "add": 1,
+        "apply": true
+      },
+      "info_ugn": {
+        "key": "info_ugn",
+        "name": "情報：UGN",
+        "base": "social",
+        "add": 1,
+        "apply": true
+      }
+    },
+    "attributes": {
+      "body": {
+        "value": 1
+      },
+      "sense": {
+        "value": 0
+      },
+      "mind": {
+        "value": 0
+      },
+      "social": {
+        "value": 0
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "table": "真實身份表 1",
+      "primaryAttr": "body"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!6b4uLKi0VLpO9mag"
+}

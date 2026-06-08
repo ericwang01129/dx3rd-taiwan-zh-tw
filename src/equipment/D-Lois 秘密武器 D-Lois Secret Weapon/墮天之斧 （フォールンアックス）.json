@@ -1,0 +1,37 @@
+{
+  "_id": "TKmcIgfV2gc3HywZ",
+  "_key": "!items!TKmcIgfV2gc3HywZ",
+  "name": "墮天之斧 （フォールンアックス）",
+  "folder": "2kAs6YkcXBjKKf0t",
+  "sort": 4,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/sharp-axe.svg",
+  "system": {
+    "description": "<p>受EX背教者病毒所感染的大斧。能夠自動的使改變重量平衡以輕鬆斬出強力的一擊。</p><p>使用該武器進行的近戰攻擊進行傷害擲骰之後立即使用，從傷害骰中選擇最多三個骰子重擲，必須採用重骰後的結果，發動了這個效果的主要階段結束時，你的侵蝕率+2。</p><p><em>射程：至近</em> / <em>參照：IA P113</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 10,
+    "guard": 2,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 秘密武器 D-Lois Secret Weapon",
+      "section": "",
+      "source": "IA P113"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

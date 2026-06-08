@@ -1,0 +1,40 @@
+{
+  "_id": "oxxhcbjCCZwE0apV",
+  "_key": "!items!oxxhcbjCCZwE0apV",
+  "name": "戰鬥偵察兵",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 157,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>連接網絡的分析用單眼鏡，能夠推測對方行動並提示出能封印對方各種行動的計劃。</p><p>次要動作使用，選擇一名場景中登場的角色，該場景間對象行動值-5，該效果一場景可以使用一次。</p><p><em>參照：IA P89</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P89"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "NVyFA7aKIQ0O4lzE",
+  "_key": "!items!NVyFA7aKIQ0O4lzE",
+  "name": "No.UA02. 鎖之共生 シンビオティック",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 137,
+  "system": {
+    "description": "<p>你與偽神天鎖症候的RB共生。在RB之中，有一種個體被稱作協力型，寄生於人類或其他生物上。雖然沒有解明他們的產生機制，但大多數情況下他們都對宿主較為友善，與其形成了共生關係。</p><p>那麼，存在偽神天鎖的協力型RB嗎？</p><p>降臨事件以來，在世界各地增加的AD背教者生命之中，漸漸確認到了不遵從湮滅者等人的思考的個體。協力型RB中發現了受到偽神天鎖的改變影響但仍然和宿主形成共生關係的案例，以及在作為RB、獲得自我時已經具有偽神天鎖症候的案例。</p><p><em>效果：你身上寄生了偽神天鎖症候的協力型RB。靠著它的助力，你可以使用部分偽神天鎖的力量。\n選擇並取得一個LV1的偽神天鎖異能力，不消耗經驗點，但無法取得[限制：-]以外的異能和敵人異能。\n你可以消耗經驗另外取得最多兩個偽神天鎖異能力，可以用經驗點對這個D露易絲取得的異能進行成長。\n當你進行的判定沒有組合偽神天鎖異能時，骰數-[取得的偽神天鎖異能數]個。</em> / <em>參照：DF P25</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA02",
+      "source": "DF P25"
+    }
+  }
+}

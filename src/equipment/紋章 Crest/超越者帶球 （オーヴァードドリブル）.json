@@ -1,0 +1,40 @@
+{
+  "_id": "rTY8oFkAeUgpccYM",
+  "_key": "!items!rTY8oFkAeUgpccYM",
+  "name": "超越者帶球 （オーヴァードドリブル）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 305,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>你能利用背教者之力快速傳球（足球、籃球等傳球都行）</p><p><em>效果：你進行移動的主要階段間，使用【肉體】進行的判定骰數+1個</em> / <em>備註：IA新增</em> / <em>參照：IA P163</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 2,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "超越者運動員 取得條件：沒有取得其他紋章的角色",
+      "source": "IA P163"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

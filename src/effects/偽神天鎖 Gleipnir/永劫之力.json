@@ -1,0 +1,64 @@
+{
+  "_id": "7GvoQxo7vfNddzi6",
+  "name": "永劫之力",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/chained-arrow-heads.svg",
+  "folder": "nvsOMgfQh0V2uoKK",
+  "sort": 0,
+  "system": {
+    "description": "<p>回復一個你所取得的有使用次數限制的異能的一次使用次數。</p><p><em>參照：UAP80</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "200% / LV/劇本",
+    "timing": "setup",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 6,
+      "value": "6D10"
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "偽神天鎖 Gleipnir",
+      "syndromeItemId": "wzWZsuLaBbQy6m0K",
+      "source": "UAP80"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!7GvoQxo7vfNddzi6"
+}

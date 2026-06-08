@@ -1,0 +1,40 @@
+{
+  "_id": "vEM4ef3562gzDclC",
+  "_key": "!items!vEM4ef3562gzDclC",
+  "name": "攜帶特工 （キャリーエージェント）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 161,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/heart-key.svg",
+  "system": {
+    "description": "<p>你被授予了特別的FH道具，據說是贈與中央教條特別認定的擁有欲望者的，無論如何評價，你都會貫徹自己的信念</p><p><em>效果：導入階段時選擇一件你取得的FH道具，你擁有該道具期間，你進行判定的暴擊值-1（下限值7），你的侵蝕率超過100%期間，該效果下限值變為6</em> / <em>備註：IA新增</em> / <em>參照：IA P147</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 35,
+    "equipment": true,
+    "type": "核心紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH特工 取得條件：職業為FH特工A~D",
+      "source": "IA P147"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

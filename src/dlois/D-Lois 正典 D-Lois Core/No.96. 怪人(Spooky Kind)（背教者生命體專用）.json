@@ -1,0 +1,40 @@
+{
+  "_id": "dQPhfI1VlTFIwWa2",
+  "_key": "!items!dQPhfI1VlTFIwWa2",
+  "name": "No.96. 怪人(Spooky Kind)（背教者生命體專用）",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 96,
+  "system": {
+    "description": "<p>表示你是與人類關係密切，使得存在被知道的背教者生命體的D露易絲。</p><p><em>效果：此D露易絲只有擁有背教者生命體的工作的角色才能取得。\n你可以竄改所有登場於場景的非超越者角色的記憶，\n但是不能以此效果改變發生的事情本身，舉例來說，\n某事件出現死者的時候，可以讓人以為死者在別的事件死亡，但不能讓人以為對方活著，\n具體能竄改到什麼程度須與GM討論並決定。\n此效果1劇本最多使用1次。</em> / <em>備註：RB專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.96",
+      "source": ""
+    }
+  }
+}

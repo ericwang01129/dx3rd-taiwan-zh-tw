@@ -1,0 +1,40 @@
+{
+  "_id": "SmP8jzEEa7kV2mVU",
+  "_key": "!items!SmP8jzEEa7kV2mVU",
+  "name": "素材：右腳",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 67,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>與你的右腳同化的素材。異常的腳力能賜予你猶如瞬間移動一般的爆發力。</p><p><em>次數：1/場景</em> / <em>效果：以次要動作執行戰鬥移動時使用；則該戰鬥移動可以移動至場景內的任意位置，且該主要階段進行近戰攻擊時，攻擊對象無法閃避，該效果一場景可以使用一次。</em> / <em>參照：IA P195</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P195"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

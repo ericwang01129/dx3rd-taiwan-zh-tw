@@ -1,0 +1,40 @@
+{
+  "_id": "nI9joPxAPQwwj7ii",
+  "_key": "!items!nI9joPxAPQwwj7ii",
+  "name": "No.CRC05. 背教者 ビトレイヤー",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 125,
+  "system": {
+    "description": "<p>你是因某種理由背叛了\"偽神的心臟\"的存在。可能是被放逐，可能是在權力鬥爭中敗北。或者是瞥見了神祇的真實姿態而陷入瘋狂——然後逃到了\"日常\"這個巨大的精神病院。</p><p>無論如何，\"偽神的心臟\"以駭人手段開發的技術和訣竅仍然持續寄宿在你身上。如果知道為此死了多少人、進行了何等詛咒的所業，無論多麼溫厚的UGN隊員都絕對不會原諒你。</p><p>你現在是否隸屬於UGN，還是自由業者，請與GM商討後自由決定。無論如何，\"偽神的心臟\"絕對不會寬恕背叛者。</p><p>另外，NPC即使不取得此D-Lois，也可以取得[FH本職]。</p><p><em>效果：你可以取得《PE》P30記載的[FH本職]。人生經歷也要擲欲望表（《PE》P37）而非邂逅表。如果本職是單元隊長，則變成曾經是單元隊長。\n此外，你要從[No.53 強化兵][No.54 裝備者][No.55 不死者][No.56 破壞之子][No.57 工作員]中選擇一個。之後，此D-Lois也被視為與指定的D-Lois具有相同效果。對《PE》刊載道具的常備化也同樣處理。\n另外，無法選擇[No.C01 惡靈之主][No.C02 史考德威爾之子]（《LM》P110）。這是因為在本舞臺中\"亡靈\"具有的意義與基本舞臺完全不同。總有一天會說明的———。</em> / <em>參照：NC P90</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.CRC05",
+      "source": "NC P90"
+    }
+  }
+}

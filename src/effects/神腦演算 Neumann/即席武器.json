@@ -1,0 +1,68 @@
+{
+  "_id": "d4qlpAmK1vsNV631",
+  "name": "即席武器",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "folder": "47r01TSVVubrkaef",
+  "sort": 0,
+  "system": {
+    "description": "<p>利用就地的物品作為武器使用的異能。</p><p>進行攻擊力+[LV×2+3]的攻擊。組合<近戰>使用時進行「射程：至近」的近戰攻擊，組合<射擊>時則為「射程：20m」的射擊攻擊。不能加算裝備的武器的攻擊力。</p><p><em>參照：BCP64</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "參照效果",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*2+3"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "神腦演算 Neumann",
+      "syndromeItemId": "ohcrpvm6g5xHhvRM",
+      "source": "BCP64"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!d4qlpAmK1vsNV631"
+}

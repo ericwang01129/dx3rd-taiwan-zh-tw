@@ -1,0 +1,64 @@
+{
+  "_id": "sRsB9R7QT6mF9W8N",
+  "name": "魔獸的治癒力",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lion.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>利用肉體的變異強行令傷口堵住的異能。</p><p>你受到任何HP回復效果時使用，回復[LV]D點HP。</p><p>HP回復效果包括道具、異能、復蘇、泰塔斯昇華等等。</p><p><em>參照：RWP36</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "1/場景",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 6,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "battle"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "RWP36"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!sRsB9R7QT6mF9W8N"
+}

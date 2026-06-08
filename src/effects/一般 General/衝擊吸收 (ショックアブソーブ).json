@@ -1,0 +1,64 @@
+{
+  "_id": "OoTgd8nY6HLxGhta",
+  "name": "衝擊吸收 (ショックアブソーブ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/punch-blast.svg",
+  "folder": "eTUfIRkQAvufdxsT",
+  "sort": 0,
+  "system": {
+    "description": "<p>負傷時讓背教者瞬間活性化的異能。</p><p>於計算你受到的HP傷害的時機使用，使你預定受到的傷害-[LV×5]。</p><p><em>參照：EAP130</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "1/劇本",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 10,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "一般 General",
+      "syndromeItemId": "t9bsxYmBHW27Rk9N",
+      "source": "EAP130"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!OoTgd8nY6HLxGhta"
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "BJsHkj3sggD8Lp6M",
+  "name": "光速 (ライトスピード)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/gorilla.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>以高速連續行動的異能。</p><p>該主要階段間，你可以進行2次主要動作，發生判定的話個別處理。此外，該主要動作的暴擊值+1。</p><p><em>參照：規則2P131</p><p>EAP77</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "100% / 1/劇本",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "規則2P131\nEAP77"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!BJsHkj3sggD8Lp6M"
+}

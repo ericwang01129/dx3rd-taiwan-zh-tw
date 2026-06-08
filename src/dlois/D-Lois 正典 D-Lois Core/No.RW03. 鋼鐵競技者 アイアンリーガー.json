@@ -1,0 +1,40 @@
+{
+  "_id": "mJRvu5a5WbfMycxd",
+  "_key": "!items!mJRvu5a5WbfMycxd",
+  "name": "No.RW03. 鋼鐵競技者 アイアンリーガー",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 164,
+  "system": {
+    "description": "<p>超越者英雄的工作不僅僅是討伐惡人。由這些鋼鐵競技者組成的職業運動聯盟，正在全世界展開。</p><p>字面意義上突破人類極限的運動員們，其活躍讓全世界無論普通人還是超越者都為之沸騰。</p><p>你是那個職業聯盟中的一名選手。對你而言，背教者之力不僅屬於英雄，更屬於神聖的運動競技。</p><p>你曾在某項運動中締造傳說級的偉業。許多人都記得你的名字。</p><p><em>效果：此D-lois只能在「舞臺：背教者戰爭」中取得。\n\n你擁有卓越的身體或精神能力。那份潛力在所有超越者之中亦屬佼佼者。\n取得此D-lois時，指定一項能力值。在使用該能力值進行判定（可包含技能判定）後立即使用。該判定的達成值+1D。\n此效果每個劇本可使用3次。同一次判定可多次使用，效果可累積。</em> / <em>參照：CE P47</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.RW03",
+      "source": "CE P47"
+    }
+  }
+}

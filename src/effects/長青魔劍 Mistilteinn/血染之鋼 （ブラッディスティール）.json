@@ -1,0 +1,68 @@
+{
+  "_id": "Y3P8mzF4OdR8JshJ",
+  "name": "血染之鋼 （ブラッディスティール）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/zeus-sword.svg",
+  "folder": "m920eVQK9xEhuLPi",
+  "sort": 0,
+  "system": {
+    "description": "<p>令你的元型吸收敵人的血液，強化自身的異能。</p><p>組合使用[類別：元型]的武器進行的攻擊造成至少1點HP傷害時，這一場景中所裝備的[類別：元型]的武器攻擊力+[LV×5]。</p><p><em>參照：UAP22</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "吸血120%",
+    "timing": "major",
+    "target": "-",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*5"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "長青魔劍 Mistilteinn",
+      "syndromeItemId": "prV8KorHRzKAVkva",
+      "source": "UAP22"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Y3P8mzF4OdR8JshJ"
+}

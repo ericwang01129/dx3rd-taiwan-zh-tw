@@ -1,0 +1,40 @@
+{
+  "_id": "GSzZsv3Om335nKC9",
+  "_key": "!items!GSzZsv3Om335nKC9",
+  "name": "天生戰狂 （ウォーモンガー）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 508,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你認為戰鬥即是人生意義，是徹頭徹尾的戰士的紋章。只有戰鬥，才能讓你的靈魂熾熱燃燒</p><p><em>效果：你進行的攻擊傷害+1D10；取得該道具時，你的侵蝕率基本值+5</em> / <em>參照：IA P186</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "關聯：夥伴\n（コネ：相棒）",
+      "source": "IA P186"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

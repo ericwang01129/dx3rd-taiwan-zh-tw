@@ -1,0 +1,37 @@
+{
+  "_id": "qmfvKEHHFleYtJST",
+  "_key": "!items!qmfvKEHHFleYtJST",
+  "name": "複合弓",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 49,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/bow-arrow.svg",
+  "system": {
+    "description": "<p>古今中外都有使用的弓，需要人力拉開射箭。</p><p>該武器的攻擊力為【肉體】。雙手持握。至近不可。</p><p><em>射程：【肉體】+20m</em> / <em>參照：IA P27</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "5",
+      "difficulty": 6
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -3,
+    "attack": 0,
+    "guard": 0,
+    "range": "【肉體】+20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P27"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

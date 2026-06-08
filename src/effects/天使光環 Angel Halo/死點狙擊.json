@@ -1,0 +1,68 @@
+{
+  "_id": "LpCxdj4eCztoB22q",
+  "name": "死點狙擊",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>磨利感官，狙擊裝甲薄弱處的異能。</p><p>這個異能只能與《穿甲鐳射》等無視裝甲值的能力組合時才會生效。組合的攻擊力+[LV×3]。</p><p><em>參照：BCP56</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "單體",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*3"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "BCP56"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!LpCxdj4eCztoB22q"
+}

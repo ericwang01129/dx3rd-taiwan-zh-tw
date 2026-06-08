@@ -1,0 +1,64 @@
+{
+  "_id": "A2uJl6W7NL3raVWU",
+  "name": "世界之巔 （トップオブワールド）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/spell-book.svg",
+  "folder": "FmovFwS0XlDsBEPd",
+  "sort": 0,
+  "system": {
+    "description": "<p>調整領域，創造出只有一人的舞臺。對象會獲得如同站在世界頂點一般的能力。</p><p>對象的下一個主要動作判定暴擊值-1（下限5）。</p><p><em>參照：UAP39</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "100%% / 1/劇本",
+    "timing": "setup",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 6,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冥府領域 Orcus",
+      "syndromeItemId": "VkIuxIHuGC4SwBN8",
+      "source": "UAP39"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!A2uJl6W7NL3raVWU"
+}

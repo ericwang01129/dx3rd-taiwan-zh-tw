@@ -1,0 +1,40 @@
+{
+  "_id": "TcOYDFgdrDsczXdF",
+  "_key": "!items!TcOYDFgdrDsczXdF",
+  "name": "豐染",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 62,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>能吸取穿著者的血液並更效率變換為異能的荊棘手環。</p><p>你使用帶有[消費任意點HP]的鮮血真祖異能時，按照實際使用的HP+5進行計算。</p><p><em>參照：IA P78</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P78"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

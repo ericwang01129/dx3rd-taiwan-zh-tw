@@ -1,0 +1,37 @@
+{
+  "_id": "kPOoy0czVl8GhmK7",
+  "name": "流亡畸體 Exile",
+  "type": "syndrome",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wing-cloak.svg",
+  "sort": 600,
+  "system": {
+    "description": "<p><strong>其軀體，變換自如</strong></p>\n<p>肉體的伸縮，歪曲，甚至是進行通常狀況下不可能的變形，乃是此症狀的特徵，與變異魔獸同為肉體操作系的症狀，相對於「剛」的變異魔獸，流亡畸體屬_xffff_「柔」的變化，對於攻擊，回避，防禦等等都有平衡表現的特性。</p><p>這個症狀的發病者，不論是頭髮，體毛，骨頭等等平常不能以自我意識控制的部位也都可以自由的動作，像是露出自己骨頭來進行攻擊，或者讓重要器官移動以避開致命傷的這種把戲，對他們來說是駕輕就熟。</p><p>再者，其名來自於日本神話中，被伊邪那美與伊邪那岐神所放逐的流放神─水蛭子，他因為沒有骨頭的詭異外形而被放逐，這就是「被放逐者EXILE」的命名原因。</p>\n<blockquote>一部份的手指化為絲線，張開在周圍巡邏。<br>這絲線乃是我的信念，不論如何的細，都不能被切斷。<br>張開眼睛，視線的那端是我的敵人。<br>做好了覺悟，我這樣宣言。......「此路，不通。」<br>「絲線蜘蛛」玉野椿，在K市某處地下通路。</blockquote>",
+    "skillTmp": "melee",
+    "skills": {},
+    "attributes": {
+      "body": {
+        "value": 2
+      },
+      "sense": {
+        "value": 1
+      },
+      "mind": {
+        "value": 0
+      },
+      "social": {
+        "value": 1
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "english": "Exile",
+      "chinese": "流亡畸體"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!kPOoy0czVl8GhmK7"
+}

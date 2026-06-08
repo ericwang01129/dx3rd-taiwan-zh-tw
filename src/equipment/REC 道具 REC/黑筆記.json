@@ -1,0 +1,40 @@
+{
+  "_id": "paSLzS2ooOCqDyF3",
+  "_key": "!items!paSLzS2ooOCqDyF3",
+  "name": "黑筆記",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 18,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>記錄亞修‧雷多利克掌握的UGN有關人員檢查內容的筆記本。雖然記載了違反行為的證據和未報告的信息，但亞修表示“因為現在還不應該公開”而隱藏著那些信息。很明顯，它將來會被用作某人的弱點……但筆記中記述的一部分對你的行動也有好處。</p><p><em>REC：亞修‧雷多利克</em> / <em>次數：1/劇本</em> / <em>通常效果：你的財產點數+10。</em> / <em>強化效果：準備階段使用，選擇一個在該場景中登場了的角色，你下次對該角色造成的傷害+2D10。\n該效果一劇本可以使用一次。</em> / <em>參照：IA P199</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：亞修‧雷多利克",
+      "source": "IA P199"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

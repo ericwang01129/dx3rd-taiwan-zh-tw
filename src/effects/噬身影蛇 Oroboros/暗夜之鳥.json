@@ -1,0 +1,64 @@
+{
+  "_id": "smEGVcc8NmZhz35B",
+  "name": "暗夜之鳥",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/ouroboros.svg",
+  "folder": "1pCX5ZBbIY55J65u",
+  "sort": 0,
+  "system": {
+    "description": "<p>把自己的身姿完全隠藏在影子裡，在影子之間自由移動的異能。</p><p>你的身形會完全消失不會被發現，但當影子被光照到或者是因為光照而令地面上沒有影子的話會失去效果。不能于戰鬥時使用。</p><p>GM認為有必要的話，可要求利用<知覺>進行判定。</p><p><em>參照：RWP44</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "噬身影蛇 Oroboros",
+      "syndromeItemId": "R7Jxr26CWdNB0hjx",
+      "source": "RWP44"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!smEGVcc8NmZhz35B"
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "uVdK2mHMpTkHYbfa",
+  "name": "隱藏次元 (ポケットディメンション)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>扭曲空間，製造出本來不可能存在的空間的異能。</p><p>可藉此在二樓與三樓間再製造一層樓，在壁櫥中製造體育館大小的活動室。</p><p>如果想尋找用此能力躲起來的人的話，用<知覺>進行判定。</p><p><em>參照：規則2P91</p><p>EAP35</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "參照效果",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "規則2P91\nEAP35"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!uVdK2mHMpTkHYbfa"
+}

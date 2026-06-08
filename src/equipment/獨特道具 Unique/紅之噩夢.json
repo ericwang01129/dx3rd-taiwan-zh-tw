@@ -1,0 +1,40 @@
+{
+  "_id": "NMqKfEFL9Fv1X8TD",
+  "_key": "!items!NMqKfEFL9Fv1X8TD",
+  "name": "紅之噩夢",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 120,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>將各種藥物與結晶化的EX背教者混合製成的合成藥。</p><p>準備階段使用，該回合間你的行動值+3，進行的判定骰數+1個，進行近戰攻擊的攻擊力+3，使用後你的侵蝕率+10。</p><p><em>參照：IA P69</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P69"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "51OORQry5UP3HrV4",
+  "_key": "!items!51OORQry5UP3HrV4",
+  "name": "邊緣行者",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 38,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>裝在《機械腿》中的刀刃，會在使用者加速時纏繞雷電。</p><p>需要取得《機械腿》才能取得。裝備的該武器不計入已裝備武器數量，可以與雙手持握武器同時裝備。該武器只能裝備一件。你進行移動的主要階段間使用該武器進行攻擊的攻擊力+3。</p><p><em>射程：至近</em> / <em>參照：IA P76</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 8,
+    "guard": 1,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P76"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

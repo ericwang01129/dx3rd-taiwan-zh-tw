@@ -1,0 +1,68 @@
+{
+  "_id": "mICRHgD20Sm611hU",
+  "name": "原始憤怒 (プライマルレイジ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lion.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>喚起背教者病毒帶來的衝動，讓力量增幅的異能。</p><p>此主要階段間你所進行的攻擊力+[LV×3]，並進入暴走狀態。</p><p>如果使用時已經處於暴走狀態的話，本異能的侵蝕值+2。</p><p><em>參照：RWP36</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*3"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "RWP36"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!mICRHgD20Sm611hU"
+}

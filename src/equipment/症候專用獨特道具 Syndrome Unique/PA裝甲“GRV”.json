@@ -1,0 +1,34 @@
+{
+  "_id": "FoetpTPxnAlMeM0K",
+  "_key": "!items!FoetpTPxnAlMeM0K",
+  "name": "PA裝甲“GRV”",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 27,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>擁有堅固裝甲和身體能力輔助機能的試做型動力裝甲，但其重量過高穿著者往往無法行動，因此只有通過重力魔眼的重力操縱能力才能使用。</p><p>你可以裝備搭載火器。組合了重力魔眼異能的攻擊的攻擊力+10。</p><p><em>參照：IA P74</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 100,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 35
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P74"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

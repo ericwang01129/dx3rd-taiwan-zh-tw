@@ -1,0 +1,37 @@
+{
+  "_id": "CvtNdJuvezFZAoOc",
+  "_key": "!items!CvtNdJuvezFZAoOc",
+  "name": "SMAW",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 462,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>被稱為多目的強襲兵器的聯裝火箭發射器（Multi-use Rocket Launcher），風暴基地將其調整為對超越者專用彈頭</p><p><em>備註：IA新增</em> / <em>參照：IA P181</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/射擊",
+    "skill": "-",
+    "add": 0,
+    "attack": 0,
+    "guard": 0,
+    "range": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "風暴基地 取得條件：職業為風暴基地部隊、傭兵的角色",
+      "source": "IA P181"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_id": "DqtLgeIx6tmCMX1A",
+  "name": "惡食的大風",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wind-hole.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>掀起像是能將對象吞噬殆盡一樣的風，將對方切碎。</p><p>與這個異能組合的攻擊攻擊力+[LV×4]。但是，與這個異能組合的攻擊在對決中敗北，或者沒有對對方造成傷害時，在這個場景中你的判定骰-3個。</p><p><em>參照：RUP21</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "饑餓120%",
+    "timing": "major",
+    "target": "單體",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*4"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "RUP21"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!DqtLgeIx6tmCMX1A"
+}

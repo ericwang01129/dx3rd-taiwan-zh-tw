@@ -1,0 +1,37 @@
+{
+  "_id": "zD6dQofjfYaMDXnQ",
+  "_key": "!items!zD6dQofjfYaMDXnQ",
+  "name": "粗糙的手槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 45,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>用模型槍改造或者將瓦斯槍的氣壓增強到違法等級，又或者使用3D打印製作的便宜槍，是沒法用持槍證正規買槍的人的選擇。</p><p>該武器進行的攻擊判定大失敗時該武器破壞，你受到1D10HP傷害。</p><p><em>射程：15m</em> / <em>參照：IA P26</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "3",
+      "difficulty": 3
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -2,
+    "attack": 2,
+    "guard": 0,
+    "range": "15m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P26"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

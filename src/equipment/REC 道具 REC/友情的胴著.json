@@ -1,0 +1,40 @@
+{
+  "_id": "LmHEAvXSmNBT3A4o",
+  "_key": "!items!LmHEAvXSmNBT3A4o",
+  "name": "友情的胴著",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 74,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>作為友情之證被半強硬塞給你的素色襯襖，並非通常空手道用，而是為了“背教者空手道”特地製作的，不過也不知真假。狛江說當它被血汗與友情浸染之時，才能發揮其真正的力量。</p><p><em>REC：辰巳狛江</em> / <em>通常效果：閃避：0 行動值：0 裝甲值：1\n你使用空手進行近戰攻擊時，攻擊力+2。</em> / <em>強化效果：通常效果變更如下：\n你使用空手進行近戰攻擊時，攻擊力+[<近戰>LV（上限5）]，該效果只在你的<近戰>等級為LV4以上時生效。</em> / <em>備註：IA新增</em> / <em>參照：IA P208</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "聯繫/防具",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：辰巳狛江",
+      "source": "IA P208"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

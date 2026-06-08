@@ -1,0 +1,64 @@
+{
+  "_id": "Neq7bPai3xFfgP5b",
+  "name": "武神降臨",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/zeus-sword.svg",
+  "folder": "m920eVQK9xEhuLPi",
+  "sort": 0,
+  "system": {
+    "description": "<p>與元型同調，將自己也變為武器的一部分，提高身體能力的異能。</p><p>在這一回合中，你裝備[類別：元型]的道具時進行的判定骰數+[LV×2]個。效果結束後，你裝備的[類別：元型]的道具會被破壞。</p><p><em>參照：UAP20</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "100%",
+    "timing": "setup",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "長青魔劍 Mistilteinn",
+      "syndromeItemId": "prV8KorHRzKAVkva",
+      "source": "UAP20"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Neq7bPai3xFfgP5b"
+}

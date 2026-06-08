@@ -1,0 +1,64 @@
+{
+  "_id": "7UGx0efeyG6YFEbM",
+  "name": "呼喚死亡的陷阱 （死を呼ぶ罠）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/skull-crossed-bones.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>將意識集中到視野內一點，於此地召喚出“下級藩神們”的異能。神明無數的眼、牙、舌將會生吞活剝位於周遭者。</p><p>指定一個接戰區域，結算階段時，位於該接戰區域內的角色將會受到[LV×3]的傷害和硬直異常狀態。</p><p><em>參照：CRC P99</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "LV/劇本",
+    "timing": "minor",
+    "target": "參照效果",
+    "range": "20m",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P99"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!7UGx0efeyG6YFEbM"
+}

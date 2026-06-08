@@ -1,0 +1,64 @@
+{
+  "_id": "RQlCwOKyzeQFI1N4",
+  "name": "撼天動地 (ワールドシェイカー)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/grim-reaper.svg",
+  "folder": "FmovFwS0XlDsBEPd",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《破碎之顎》。</p><p>改變領域內的地形，將一切化為你的武器的異能。</p><p>任何時刻都可以使用。使用時在這個場景中《破碎之顎》的使用次數+1。</p><p>在這個場景中，下一次使用的《破碎之顎》造成的傷害+2個骰子。</p><p><em>參照：BCP66</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "極限 / LV/劇本",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冥府領域 Orcus",
+      "syndromeItemId": "VkIuxIHuGC4SwBN8",
+      "source": "BCP66"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!RQlCwOKyzeQFI1N4"
+}

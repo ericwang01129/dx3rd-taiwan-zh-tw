@@ -1,0 +1,40 @@
+{
+  "_id": "PjySTpqFpN0z6UH6",
+  "_key": "!items!PjySTpqFpN0z6UH6",
+  "name": "花的理念",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 106,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>表示你所生成的元型會散發擾亂精神的幻覺物質。元型上會浮現花朵的意象。</p><p>裝備《弑神之刃》所選擇的“元型：●●”之武器期間，以〈交涉〉進行的攻擊，其造成的傷害值＋［裝備中的任一元型的攻擊力］。</p><p><em>參照：DFP19</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "DFP19"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "oP9NNVynHkL0oljl",
+  "_key": "!items!oP9NNVynHkL0oljl",
+  "name": "特殊塑料盾牌",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 33,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>聚碳酸酯制盾牌。重量輕，易於使用，盾身透明不會遮擋視線</p><p><em>射程：至近</em> / <em>參照：IA P25</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "4",
+      "difficulty": 9
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 1,
+    "guard": 4,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P25"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

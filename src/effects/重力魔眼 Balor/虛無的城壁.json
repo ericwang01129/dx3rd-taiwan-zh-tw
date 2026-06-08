@@ -1,0 +1,68 @@
+{
+  "_id": "z5n8H9t092Ukq8Ry",
+  "name": "虛無的城壁",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>以魔眼為中心，形成高重力場的護盾，防禦敵人攻擊的異能。</p><p>該回合間，你進行格擋的格擋值+[LV×3]。</p><p><em>參照：規則2P85</p><p>EAP30</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "setup",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "guard": {
+        "value": "@level*3"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "規則2P85\nEAP30"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!z5n8H9t092Ukq8Ry"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "KvxU7kuXvZMcDe9R",
+  "_key": "!items!KvxU7kuXvZMcDe9R",
+  "name": "毀滅之刃",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 54,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>被大量EX背教者感染的日本刀，雖然是正常情況下只是非常銳利的武器，隨著持有者的侵蝕率高漲也能取回原本的威力，同時刀刃也會變成類似怪物爪子的形狀。</p><p>使用該武器進行攻擊的主要階段結束時你的侵蝕率+2，你的侵蝕率超過100%時數據參照右側。稀有道具。</p><p><em>射程：至近</em> / <em>參照：IA P128</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "50",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 10,
+    "guard": 6,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P128"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "yXNBzGAwCRscmi8T",
+  "_key": "!items!yXNBzGAwCRscmi8T",
+  "name": "無冕之王 （ハーミットセプター）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 177,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你的單元對公權力有著極大影響力的稱號。若是你希望的話，搞出一次社會性的混亂不過是手到擒來的功夫。</p><p><em>次數：1/劇本</em> / <em>效果：主要動作使用，你可以令一個公共機關或是組織停止活動，或是反過來令其出動；具體會因此而發生什麼事情請與GM協商決定</em> / <em>參照：IA P149</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 80,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH單元隊長 取得條件：職業為FH單元隊長A~D",
+      "source": "IA P149"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

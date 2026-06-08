@@ -1,0 +1,40 @@
+{
+  "_id": "iXLz9AHW300xLt1F",
+  "_key": "!items!iXLz9AHW300xLt1F",
+  "name": "No.49. 永恆之火 (冰炎奇蜥專用) エターナルブレイズ Eternal Blaze",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 49,
+  "system": {
+    "description": "<p>你是冰炎能力者當中，特別擅長操控火焰的能力者。</p><p>雖然還是能使用冰系的能力，但你就是對火焰有更高的適性，你產生的高溫高熱，一般的超越者是無法相比的。</p><p>你或許聽過「絕對零度」這個操控極低溫的超越者的存在。即使如此，你也相信，兩者對決後，勝利的絕對是自己。</p><p>「我是火之使者，再現灼熱地域的，『真正的』的冰炎能力者」</p><p><em>效果：只限症狀為【冰炎奇蜥】的角色可取得。\n自動獲得異能【永恆之火】Lv1，可使用經驗提升等級。\n這異能視為冰炎奇蜥的異能 \n永恆之火 (エターナルブレイズ Eternal Blaze)\n最大等級：3 \n時機：準備階段\n技能：- \n難易度：自動成功\n對象：自身 \n射程：至近 \n侵蝕：4 \n限制：D露易絲 \n效果：這回合，組合冰炎能力的攻擊傷害+[Lv×4] \n同時你的【行動值】-5 \n產生大量熱量造成重大傷害的能力</em> / <em>備註：冰炎奇蜥專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.49",
+      "source": ""
+    }
+  }
+}

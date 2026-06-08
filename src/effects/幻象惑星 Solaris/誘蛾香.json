@@ -1,0 +1,64 @@
+{
+  "_id": "LgqMi5z77rpQyzts",
+  "name": "誘蛾香",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>散佈令特定動物或者昆蟲喜歡的氣味，使其聚集的異能。</p><p>透過生成費洛蒙甚至可以令牠們變得親人。呼喚過來的動物或蟲子可以進行一定程度的操縱。</p><p>GM認為有必要的話，可要求利用<交涉>進行判定。</p><p><em>參照：RWP43</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "RWP43"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!LgqMi5z77rpQyzts"
+}

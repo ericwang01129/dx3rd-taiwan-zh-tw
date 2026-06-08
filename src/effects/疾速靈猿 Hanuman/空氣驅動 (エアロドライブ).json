@@ -1,0 +1,64 @@
+{
+  "_id": "9HWGA6sgL6pyvewm",
+  "name": "空氣驅動 (エアロドライブ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/gorilla.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>于身體的周圍產生壓縮空氣，作為武器使用的異能。</p><p>該場景中，你的空手變更成以下數據。使用此武器進行攻擊須消耗2點HP。</p><p>種類：近戰　技能：<近戰>　命中：-2　攻擊力：[LV×2+5]　格擋值：0　射程：至近</p><p><em>參照：EAP74</p><p>IAP105</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "EAP74\nIAP105"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!9HWGA6sgL6pyvewm"
+}

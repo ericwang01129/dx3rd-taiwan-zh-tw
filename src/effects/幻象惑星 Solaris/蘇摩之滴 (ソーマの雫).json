@@ -1,0 +1,64 @@
+{
+  "_id": "ozhX4Uw6lkHMM4Fh",
+  "name": "蘇摩之滴 (ソーマの雫)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>立刻回復重傷的異能。</p><p>前提條件：《療愈之水》。</p><p>須與《療愈之水》組合使用，因《療愈之水》回復的HP再增加[LV×5]點，但是此異能不能以你為對象。</p><p><em>參照：EAP118</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "自動成功",
+    "limit": "極限",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "EAP118"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ozhX4Uw6lkHMM4Fh"
+}

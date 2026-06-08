@@ -1,0 +1,64 @@
+{
+  "_id": "ppLejHrBXm2tk0FI",
+  "name": "魔王的寶座 (魔王の玉座)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spiked-halo.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>操縱重力，表示自己總是飄浮在空中行動的異能。</p><p>不受重力束縛，總是悠閒行動的樣子就像魔王一樣，</p><p>但因為不能急速動作，戰鬥中不能用此異能的效果在空中飛行。</p><p><em>參照：規則2P91</p><p>EAP35</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "規則2P91\nEAP35"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ppLejHrBXm2tk0FI"
+}

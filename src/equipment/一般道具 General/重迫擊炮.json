@@ -1,0 +1,37 @@
+{
+  "_id": "Bhy3R7m5pm42wAox",
+  "_key": "!items!Bhy3R7m5pm42wAox",
+  "name": "重迫擊炮",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 79,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>由步兵小隊或裝甲車運載使用的曲射炮。</p><p>該武器進行的攻擊對象變為[對象：範圍]，不能攻擊你周圍100m內的敵人。搭載火器（【肉體】12以上的角色可以將該武器視為雙手持握而非搭載火器裝備）。稀有道具。</p><p><em>射程：1000m</em> / <em>參照：IA P30</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "30",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -4,
+    "attack": 11,
+    "guard": 0,
+    "range": "1000m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P30"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "dFZZZsyLU1d3kccF",
+  "name": "封印之咒",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/vampire-dracula.svg",
+  "folder": "wboZ95SHJuim4ZlG",
+  "sort": 0,
+  "system": {
+    "description": "<p>將血液打入敵人體內，阻止其行動。</p><p>組合此異能的攻擊命中的話，對象下次判定的暴擊值+1。</p><p><em>參照：EAP48</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "LV/劇本",
+    "timing": "major",
+    "target": "-",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "鮮血真祖 Bram Stoker",
+      "syndromeItemId": "yZ26mUMQV6FowBlo",
+      "source": "EAP48"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!dFZZZsyLU1d3kccF"
+}

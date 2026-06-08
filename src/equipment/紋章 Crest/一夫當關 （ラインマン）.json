@@ -1,0 +1,40 @@
+{
+  "_id": "XjbEqdwR3iMWFIMj",
+  "_key": "!items!XjbEqdwR3iMWFIMj",
+  "name": "一夫當關 （ラインマン）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 453,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>你是阻塞窄路阻止敵人侵入的防衛者，無論在多麼強大的敵人面前你都能攔住他們</p><p><em>次數：1/場景</em> / <em>效果：準備階段使用，該場景中你所在的接戰區域被封鎖，該效果在你移動時結束\n該效果1場景可以使用1次</em> / <em>備註：IA新增</em> / <em>參照：IA P180</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "廷達羅斯 取得條件：沒有取得其他紋章的角色",
+      "source": "IA P180"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

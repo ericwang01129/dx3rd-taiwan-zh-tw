@@ -1,0 +1,37 @@
+{
+  "_id": "InhhqOspWJoZ7p60",
+  "_key": "!items!InhhqOspWJoZ7p60",
+  "name": "無罪之刃",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 7,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>使用容易受背教者影響的材質製作的特殊的劍。</p><p>使用該武器進行的攻擊判定組合了異能時，判定骰數+2個。</p><p><em>射程：至近</em> / <em>參照：IA P122</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "18",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 8,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P122"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

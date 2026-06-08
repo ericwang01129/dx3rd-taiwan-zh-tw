@@ -1,0 +1,40 @@
+{
+  "_id": "QPwucKu3tRi2LLaW",
+  "_key": "!items!QPwucKu3tRi2LLaW",
+  "name": "超限單元 （イクシードユニット）",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 50,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>以“X03超限”的強化能力為基礎開發的納米機械。與使用者的肉體融合，可以提供強化身體能力、反射速度，為思考提供輔助之類的作用。</p><p><em>次數：1/劇本</em> / <em>效果：取得時從基本能力值（肉體/感覺/精神/社會）中選擇一項。準備階段使用，該場景間，使用了所選能力值的判定骰數+3個，該效果一劇本可以使用一次。</em> / <em>參照：IA P193</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P193"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "ORLHyFPiuJhotdY0",
+  "name": "宇宙創造 (コズミックインフレーション)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>將充斥於空間的能量反轉，擴大能力範圍的異能。</p><p>組合此異能的異能對象變更成範圍(選擇)。</p><p><em>參照：規則2P89</p><p>EAP34</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "",
+    "limit": "純血種 / LV/劇本",
+    "timing": "setup",
+    "target": "範圍(選擇)",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "規則2P89\nEAP34"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ORLHyFPiuJhotdY0"
+}

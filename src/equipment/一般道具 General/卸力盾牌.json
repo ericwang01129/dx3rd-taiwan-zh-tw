@@ -1,0 +1,37 @@
+{
+  "_id": "R7MLGYPUcdG6iavK",
+  "_key": "!items!R7MLGYPUcdG6iavK",
+  "name": "卸力盾牌",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 37,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>特化了對劍或爪等近戰攻擊卸力性能的小型盾。</p><p>你對近戰攻擊進行的閃避判定骰數+1個。</p><p><em>射程：至近</em> / <em>參照：IA P26</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "12",
+      "difficulty": 17
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -3,
+    "attack": 0,
+    "guard": 2,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P26"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "k2JIXYW0kReB1ewg",
+  "name": "鐵風亂舞",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wind-hole.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>如風一般輕巧行動，卻又如鐵一般重重攻擊的異能。</p><p>前提條件：《電光石火》。</p><p>取得時選擇【肉體】或【感覺】其中一項，組合此異能的攻擊的攻擊力+[選擇的能力值]。</p><p><em>參照：HRP80</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "極限",
+    "timing": "major",
+    "target": "單體",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "HRP80"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!k2JIXYW0kReB1ewg"
+}

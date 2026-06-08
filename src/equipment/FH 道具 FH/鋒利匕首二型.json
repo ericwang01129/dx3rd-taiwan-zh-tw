@@ -1,0 +1,37 @@
+{
+  "_id": "wnCgGU2z1TxcQXCJ",
+  "_key": "!items!wnCgGU2z1TxcQXCJ",
+  "name": "鋒利匕首二型",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 2,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>改進型的鋒利匕首，切斷能力進一步增強。</p><p>以[種類：射擊]使用時數據參照右側，使用此武器進行的攻擊計算傷害時視為對象裝甲值-5（最低0）。</p><p><em>射程：至近/10m</em> / <em>參照：IA P122</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "7",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰/射擊",
+    "skill": "melee",
+    "add": -1,
+    "attack": 7,
+    "guard": 1,
+    "range": "至近/10m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P122"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

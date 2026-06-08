@@ -1,0 +1,64 @@
+{
+  "_id": "B5ZB3mqpG8JMVKkD",
+  "name": "魔彈的射手",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>拋射兩件武器的異能。</p><p>選擇兩件你所持有的，空手以外的「種類：近戰」的武器，使用選擇的武器進行射擊攻擊。</p><p>此攻擊合計武器的命中與攻擊力，但無論攻擊是否成功，所使用的武器都會於主要階段結束時被破壞。</p><p><em>參照：規則2P88</p><p>EAP33</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "ranged",
+    "difficulty": "對決",
+    "limit": "LV/劇本",
+    "timing": "major",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "規則2P88\nEAP33"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!B5ZB3mqpG8JMVKkD"
+}

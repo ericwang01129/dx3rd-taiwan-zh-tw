@@ -1,0 +1,37 @@
+{
+  "_id": "kCWXJgOJHH09u66q",
+  "_key": "!items!kCWXJgOJHH09u66q",
+  "name": "強化劍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 25,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>利用來自超越者的素材製作的高耐久性刀劍，以經常進行超高速戰鬥的疾速靈猿症候為主要受眾，有很多人喜歡用，有著即使被超越者的怪力使用也能承受住的剛性。</p><p><em>射程：至近</em> / <em>參照：IA P24</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "8",
+      "difficulty": 15
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 6,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P24"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

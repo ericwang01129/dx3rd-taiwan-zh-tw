@@ -1,0 +1,40 @@
+{
+  "_id": "l2M3THviq7neWGp5",
+  "_key": "!items!l2M3THviq7neWGp5",
+  "name": "神崎的遺傳基因",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 15,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>表示你的身體接受過謎之手術的聯繫道具。其乃是應用了複製體的技術，使得超越者的異能發揮穩定化的處理。但是，接受了這種技術的背教者病毒會在特定狀況下產生變異。那簡直就像是在改變並引導\"命運\"一般的，招致荒唐之力的暴走。</p><p><em>REC：藥王寺結希</em> / <em>次數：1/劇本</em> / <em>通常效果：從你取得的異能中選擇一個，使該異能的等級上限無視你的血統，變為其本身記述的最大LV。</em> / <em>強化效果：在你的侵蝕率超過99%(達到100%以上)期間的任何時候均可使用，將一個你所取得的異能使用次數+1，效果發揮後，你陷入[不良狀態：暴走]。\n該效果一劇本可以使用一次。</em> / <em>參照：IA P198</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：藥王寺結希",
+      "source": "IA P198"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

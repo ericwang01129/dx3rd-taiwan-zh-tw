@@ -1,0 +1,37 @@
+{
+  "_id": "nonDnbWeuVLaSACJ",
+  "_key": "!items!nonDnbWeuVLaSACJ",
+  "name": "雙手劍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 27,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>大太刀或德式雙手劍等必須用兩隻手使用的劍，破壞力非常大的同時也很笨重。</p><p>雙手持握。</p><p><em>射程：至近</em> / <em>參照：IA P24</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "9",
+      "difficulty": 13
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -3,
+    "attack": 10,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P24"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

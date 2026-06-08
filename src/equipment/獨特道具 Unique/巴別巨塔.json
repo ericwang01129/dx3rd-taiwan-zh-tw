@@ -1,0 +1,37 @@
+{
+  "_id": "7fK2slcPhviOGBMN",
+  "_key": "!items!7fK2slcPhviOGBMN",
+  "name": "巴別巨塔",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 35,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>類似現代複合弓一樣用大量滑輪和纜線組裝的古代弓，射出的箭矢會伴隨雷電，據說能夠毀滅巨塔。</p><p>次要動作使用，該主要階段間使用該武器進行的射擊攻擊傷害+3D10，該效果一劇本可以使用三次。雙手持握。至近不可。</p><p><em>射程：50m</em> / <em>參照：IA P59</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 70,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -3,
+    "attack": 22,
+    "guard": 0,
+    "range": "50m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P59"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

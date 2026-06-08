@@ -1,0 +1,37 @@
+{
+  "_id": "babyJv1LLYqHOOPZ",
+  "_key": "!items!babyJv1LLYqHOOPZ",
+  "name": "鏈式機槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 77,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/sbed/rifle.svg",
+  "system": {
+    "description": "<p>車載式機關炮，使用外部動力和鎖鏈驅動機關部分運動。</p><p>搭載火器（【肉體】8以上的角色可以將該武器視為雙手持握而非搭載火器裝備）。至近不可。稀有道具。</p><p><em>射程：100m</em> / <em>參照：IA P30</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "27",
+      "difficulty": 38
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -2,
+    "attack": 15,
+    "guard": 0,
+    "range": "100m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P30"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

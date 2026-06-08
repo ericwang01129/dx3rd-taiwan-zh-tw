@@ -1,0 +1,64 @@
+{
+  "_id": "xcbyBeXwqcbNtQpk",
+  "name": "羔羊之歌 (子羊の歌)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/gorilla.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>操作貫穿空間的衝擊，將指向他人的攻擊轉向自身。</p><p>於對象受到HP傷害前使用，將受到該傷害的對象變更成你。此傷害不能以任何方法減少。</p><p><em>參照：ICP60</p><p>EAP77</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "100% / LV/劇本",
+    "timing": "auto",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "ICP60\nEAP77"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!xcbyBeXwqcbNtQpk"
+}

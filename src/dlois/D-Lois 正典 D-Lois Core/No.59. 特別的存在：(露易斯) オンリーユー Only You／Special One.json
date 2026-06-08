@@ -1,0 +1,40 @@
+{
+  "_id": "Z1OZGs3rtK1kBh0L",
+  "_key": "!items!Z1OZGs3rtK1kBh0L",
+  "name": "No.59. 特別的存在：(露易斯) オンリーユー Only You／Special One",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 59,
+  "system": {
+    "description": "<p>對特定的人物有著強烈的情感，遠比對他人的情感更為熾熱，那可以是愛情，忠誠，也可能是負面的憤怒或憎恨。因此對象對你來說是一個特別的存在，在你的心中佔有獨特的地位。這份情感可以化作你的盾牌和刀劍，但若是失去，痛苦將撕裂你的心。</p><p><em>效果：選擇一個露易斯設為你的「特別的存在」。可以在遊戲開始前或進行中設定。\n選擇的露易斯變成泰特司的時候，你在回溯階段不能選擇用露易斯兩倍數量擲骰減少侵蝕率。追加擲骰可照常使用。\n\n當你進行傷害擲骰時發動，無視對方格擋值與裝甲值，其他角色不能保護對方。\n次數限制：劇本中一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.59",
+      "source": ""
+    }
+  }
+}

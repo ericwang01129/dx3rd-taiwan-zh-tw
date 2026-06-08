@@ -1,0 +1,40 @@
+{
+  "_id": "0SgQPvgVHnleE3v9",
+  "_key": "!items!0SgQPvgVHnleE3v9",
+  "name": "No.HR01. 左右手",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 2,
+  "system": {
+    "description": "<p><em>效果：REC：霧穀雄吾</em> / <em>通常效果：於你進行任意判定前使用。此次判定以所使用的【能力值】為10，【技能】等級為5替代你自身的能力值和技能等級進行判定，此次判定的暴擊值為9。但是，你不能在這次判定中使用異能。\n該個能力實質是由UGN作為組織提供的後援，你仍會因為侵蝕率而增加骰子數，也可以將露易絲泰特斯化來增加骰子數與達成值，或者是減少暴擊值。\n這個效果一個劇本中只能使用一次</em> / <em>強化效果：將「通常效果」的使用次數限制變更為「1個劇本中可以使用3次」。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR01",
+      "source": ""
+    }
+  }
+}

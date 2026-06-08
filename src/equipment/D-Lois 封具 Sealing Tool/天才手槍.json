@@ -1,0 +1,37 @@
+{
+  "_id": "ys5clDU8xxNChQkV",
+  "_key": "!items!ys5clDU8xxNChQkV",
+  "name": "天才手槍",
+  "folder": "pkEDzV7adwmhoSOR",
+  "sort": 6,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>冷靜、有著極高思考能力的手槍型RB。</p><p>封具效果：在使用這個武器進行射擊攻擊時使用，對象無法閃避或格擋。</p><p><em>射程：100m</em> / <em>參照：DF P41</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 5,
+    "attack": 5,
+    "guard": 0,
+    "range": "100m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 封具 Sealing Tool",
+      "section": "",
+      "source": "DF P41"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

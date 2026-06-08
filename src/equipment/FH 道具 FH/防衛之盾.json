@@ -1,0 +1,37 @@
+{
+  "_id": "rnGvgdcPUXwAOZql",
+  "_key": "!items!rnGvgdcPUXwAOZql",
+  "name": "防衛之盾",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 10,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>不會阻礙持有者的運動，能夠進行防禦的盾。</p><p>你進行格擋時使用，該武器的格擋值+5，該效果一回合可以使用一次。</p><p><em>射程：至近</em> / <em>參照：IA P123</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "8",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 1,
+    "guard": 6,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P123"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

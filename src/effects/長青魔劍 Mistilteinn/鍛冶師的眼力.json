@@ -1,0 +1,64 @@
+{
+  "_id": "rqBeQHWhiqblB6ya",
+  "name": "鍛冶師的眼力",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/eyeball.svg",
+  "folder": "m920eVQK9xEhuLPi",
+  "sort": 0,
+  "system": {
+    "description": "<p>由於元型的影響，你能夠依靠直覺判斷所觸碰到的物體的硬度和結實程度。此外，你也能看穿物體的構造薄弱處並高效率地將其破壞。由於需要集中精神花上一定時間接觸對象，戰鬥中無法使用。</p><p><em>參照：UAP23</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "長青魔劍 Mistilteinn",
+      "syndromeItemId": "prV8KorHRzKAVkva",
+      "source": "UAP23"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!rqBeQHWhiqblB6ya"
+}

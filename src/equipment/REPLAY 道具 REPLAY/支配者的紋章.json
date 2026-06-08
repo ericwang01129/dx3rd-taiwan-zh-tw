@@ -1,0 +1,40 @@
+{
+  "_id": "Kk7FifJKd6oRmxIo",
+  "_key": "!items!Kk7FifJKd6oRmxIo",
+  "name": "支配者的紋章",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 17,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>你持有“世界的支配者”的因子。藉由使用該因子，你侵蝕著世界，構築著妨害他人的狀況。</p><p><em>效果：你的《結界化》效果中，該場景內登場的角色進行判定前使用，該判定的骰數-2個。該道具只有取得了「D-Lois：古代種」的角色可以取得，該效果一回合可以使用一次。</em> / <em>參照：IA P189</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P189"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

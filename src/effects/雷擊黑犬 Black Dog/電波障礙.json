@@ -1,0 +1,64 @@
+{
+  "_id": "O8FF4GewAoFGUK4w",
+  "name": "電波障礙",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-arc.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>擾亂電波，遮斷使用周圍無線電波的通訊或雷達的異能。</p><p>可使手機、無線電、無線網絡、短波通信、警察無線等設備無法使用，也可使附近的雷達網無效化。</p><p>GM認為有必要的話，可要求用<RC>進行判定。</p><p><em>參照：規則2P99</p><p>EAP43</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "場景",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "規則2P99\nEAP43"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!O8FF4GewAoFGUK4w"
+}

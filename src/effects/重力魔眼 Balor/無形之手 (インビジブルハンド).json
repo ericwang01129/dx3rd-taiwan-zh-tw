@@ -1,0 +1,68 @@
+{
+  "_id": "7HM5DEWoQFy1t7KK",
+  "name": "無形之手 (インビジブルハンド)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>操縱重力方向，將飛在空中的敵人摔到地面的異能。</p><p>進行「攻擊力：+LV」的射擊攻擊。組合此異能的攻擊造成HP傷害的話，解除對象的飛行狀態。</p><p><em>參照：EAP29</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "1/回合",
+    "timing": "major",
+    "target": "範圍(選擇)",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 10,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "round"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "EAP29"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!7HM5DEWoQFy1t7KK"
+}

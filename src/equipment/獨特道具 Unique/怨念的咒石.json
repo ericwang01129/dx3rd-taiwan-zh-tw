@@ -1,0 +1,34 @@
+{
+  "_id": "ZqG3BHyA6FsintBL",
+  "_key": "!items!ZqG3BHyA6FsintBL",
+  "name": "怨念的咒石",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 91,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>宛如骷髏的黑色寶玉，能夠解放衝動強化暴走。</p><p>準備階段使用，你受到不良狀態[暴走]，該暴走持續期間你進行的攻擊傷害+2D10，使用的準備階段結束時你的侵蝕率+3，該效果一場景可以使用一次。</p><p><em>參照：IA P66</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P66"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

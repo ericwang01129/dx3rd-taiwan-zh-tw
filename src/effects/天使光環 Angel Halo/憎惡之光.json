@@ -1,0 +1,64 @@
+{
+  "_id": "KEIBhebOa8BxoE9C",
+  "name": "憎惡之光",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spiked-halo.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>放出令人感到憎惡的光線的異能。</p><p>給予對象一個對象為你的憎惡狀態。對象也可以拒絕這個效果，但是該回合間，對象的判定骰數-4個。這個異能不能與其他異能組合。</p><p><em>參照：RUP38</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "憎惡120% / LV/劇本",
+    "timing": "initiative",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "RUP38"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!KEIBhebOa8BxoE9C"
+}

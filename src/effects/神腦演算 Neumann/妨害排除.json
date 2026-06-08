@@ -1,0 +1,64 @@
+{
+  "_id": "1WNsWX0TfMl9EbBr",
+  "name": "妨害排除",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/cyber-eye.svg",
+  "folder": "47r01TSVVubrkaef",
+  "sort": 0,
+  "system": {
+    "description": "<p>用你的作戰指揮提前擊退對同伴的妨礙的異能。</p><p>於對象進行判定前使用，使該判定無視對象受到的減少骰數的效果。</p><p><em>參照：EAP92</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "LV/劇本",
+    "timing": "auto",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "神腦演算 Neumann",
+      "syndromeItemId": "ohcrpvm6g5xHhvRM",
+      "source": "EAP92"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!1WNsWX0TfMl9EbBr"
+}

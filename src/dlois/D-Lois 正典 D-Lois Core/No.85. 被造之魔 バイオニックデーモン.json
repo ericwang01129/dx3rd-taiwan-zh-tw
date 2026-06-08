@@ -1,0 +1,40 @@
+{
+  "_id": "S8m370ury8yqd51V",
+  "_key": "!items!S8m370ury8yqd51V",
+  "name": "No.85. 被造之魔 バイオニックデーモン",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 85,
+  "system": {
+    "description": "<p>亞當卡德蒙計劃（Project Adam Kadmon）。</p><p>這個表面上被宣稱為超越者精英教育計劃的項目，實際上是一個巨大的人體實驗場——這一真相你比誰都清楚，因為你就是這個計劃的實驗體之一。</p><p>那個地方簡直就是地獄。你被迫接受各種各樣的人體實驗和「性能測試」——與其他實驗體互相廝殺。</p><p>經過無數次的實驗，你最終獲得了強大的力量。然而，這力量的代價也同樣沉重——與其他超越者相比，你受到背教者侵蝕的程度更為嚴重。你的內心始終無法平靜，幾乎不曾獲得片刻安寧。</p><p>儘管如此，你仍然從那個地獄中生存了下來。也許你是從研究設施中逃脫的，又或者是被當作失敗品遺棄卻頑強活了下來，甚至可能是被反FH組織救出的。</p><p>你活了下來，而且保有這份力量。至於你將如何運用這股力量......</p><p><em>效果：此D-Lois只能在「舞臺：終焉世界線」中取得。\n\n當你取得此D-Lois時，需選擇一個你已擁有的症候中、你已取得的異能。\n在使用選擇的異能之前宣言，該主要階段間，該異能的LV+4，此時可以超過等級上限。該效果不會增加異能的使用次數。該效果一劇本可以使用一次。\n取得此D-Lois時，你的侵蝕率基本值+10。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.85",
+      "source": ""
+    }
+  }
+}

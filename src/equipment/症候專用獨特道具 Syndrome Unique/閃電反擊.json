@@ -1,0 +1,37 @@
+{
+  "_id": "l5skw7FuFWJ5P0pX",
+  "_key": "!items!l5skw7FuFWJ5P0pX",
+  "name": "閃電反擊",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 147,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>組裝能與神腦演算超越者的超高速演算反應的程序的手槍，可以瞄準對方攻過來時露出破綻的瞬間。</p><p>使用該武器組合《反擊》的攻擊命中時無視對象裝甲值計算傷害。</p><p><em>射程：20m</em> / <em>參照：IA P88</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 3,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P88"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

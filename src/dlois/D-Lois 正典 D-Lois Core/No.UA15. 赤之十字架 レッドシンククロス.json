@@ -1,0 +1,40 @@
+{
+  "_id": "R7UBC00Y4U1I8yQX",
+  "_key": "!items!R7UBC00Y4U1I8yQX",
+  "name": "No.UA15. 赤之十字架 レッドシンククロス",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 150,
+  "system": {
+    "description": "<p>你能操縱自己或擊倒的敵人的血、將其變為武器，如同鮮血的支配者。</p><p>在你的背上，你擊倒的敵人的血會顯現成十字架的形狀。那既是為所有犧牲者立起的墓碑，也是揭露你罪行的斷罪之證。</p><p>你是生來的掠奪者。不僅觸碰，只是接近其他人，你就會干涉到他們的血流。這相當於你的手中一直掌握著對他人的生殺予奪權。</p><p>這十字架會不容分說地不斷質詢你的罪。你將會用這力量做什麼？</p><p><em>效果：只限症狀為【鮮血真祖】的角色可取得。\n自動獲得異能【赤之十字架】Lv1，視為鮮血真祖異能力，可使用經驗提升等級。\n赤之十字架（red sin cross）\n最大等級：3\n時機：次要動作\n技能：-\n難易度：自動\n對象：自身\n射程：至近\n侵蝕：3\n限制：D露易絲\n次數：LV/劇本\n效果：在用鮮血真祖症候製作武器或改變空手數據時使用。這一場景中，使用製作武器進行的攻擊的暴擊-1（下限6）。</em> / <em>備註：鮮血真祖專用</em> / <em>參照：DF P32</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA15",
+      "source": "DF P32"
+    }
+  }
+}

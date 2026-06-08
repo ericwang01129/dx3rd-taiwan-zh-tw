@@ -1,0 +1,64 @@
+{
+  "_id": "V2HLQcSBhChOgmEv",
+  "name": "魔法之國行將就木 （魔法の國が消えて行く）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>向居於時間與空間、意識與無意識之界限的猶格·索托斯祈願，連名為魔法的非常理亦令其扭曲的異能。</p><p>令該場景間行使的[魔法擲骰]的擲骰結果+LV、抑或是-LV。存在複數人使用此異能時，僅適用對擲骰結果造成最大增加的效果。</p><p><em>參照：NC P97</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "setup",
+    "target": "場景",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "NC P97"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!V2HLQcSBhChOgmEv"
+}

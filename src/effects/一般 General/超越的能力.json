@@ -1,0 +1,64 @@
+{
+  "_id": "8ALJFYn9eVwTiEMx",
+  "name": "超越的能力",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/aura.svg",
+  "folder": "eTUfIRkQAvufdxsT",
+  "sort": 0,
+  "system": {
+    "description": "<p>使用超強力異能的異能。</p><p>從你取得的簡易異能中，選擇LV個只能以臨時角色或非超越者為對象的異能，</p><p>只要對象同意的話，選擇的異能也能對非臨時角色或超越者的角色發揮效果。</p><p><em>參照：ICP67</p><p>EAP133</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "一般 General",
+      "syndromeItemId": "t9bsxYmBHW27Rk9N",
+      "source": "ICP67\nEAP133"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!8ALJFYn9eVwTiEMx"
+}

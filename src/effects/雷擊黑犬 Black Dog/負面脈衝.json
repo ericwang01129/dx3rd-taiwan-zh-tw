@@ -1,0 +1,64 @@
+{
+  "_id": "U5gu9rESt54wVSgq",
+  "name": "負面脈衝",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wolf-head.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>中和異能的異能。</p><p>與這個異能組合的攻擊只要造成至少1點HP傷害，那麼對象所受的【時機：常時】之外的持續異能的效果全部解除。這個異能效果下無法解除不良狀態，</p><p><em>參照：RUP28</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "厭惡120% / LV/劇本",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "RUP28"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!U5gu9rESt54wVSgq"
+}

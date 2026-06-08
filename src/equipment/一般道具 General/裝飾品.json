@@ -1,0 +1,40 @@
+{
+  "_id": "v4qoKZnp5JV7nfEt",
+  "_key": "!items!v4qoKZnp5JV7nfEt",
+  "name": "裝飾品",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 178,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>太陽鏡、手錶、戒指、項鍊等，不是很大的裝飾品。</p><p><em>參照：IA P42</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "0",
+      "difficulty": 3
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P42"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

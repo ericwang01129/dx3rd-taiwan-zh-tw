@@ -1,0 +1,40 @@
+{
+  "_id": "eRGNTIZ3NNbIzTuh",
+  "_key": "!items!eRGNTIZ3NNbIzTuh",
+  "name": "No.CRC02. 被附身者 ポゼツスド",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 122,
+  "system": {
+    "description": "<p>背教者生命體的顯現方式，如同〈外神〉一樣多樣，同時充滿了對人類無慈悲且冷徹的惡意。</p><p>附身於你的背教者生命體也是如此。戈爾貢或摩爾摩的僕從、阿斯摩德或撒旦之類的魔神、巢居於黃泉的惡魔......怎麼稱呼都無所謂。這些全都距離真相太過遙遠。</p><p>已知的只有一件事。背教者生命體對你的附身是不完全的。</p><p>不完全的原因可以自由設定。是你的精神力、某種意外、強大的超越者或魔術師拯救了你，還是說附身於你的背教者生命體對你抱有好感......愚蠢。最後一種是不可能的.</p><p><em>效果：你被“協力型”背教者生命體附身。這個背教者生命體的形狀、名字等設定，可在與GM商討後由你決定。當你成為原菌時，就是你的身體被奪走的時候。\n你免費取得Lv5的《起源：●●》其中之一。此外，依照通常規則，你可以取得除《人類之鄰》以外的背教者生命體專用異能。因為你的肉體是人類，所以不需要《人類之鄰》。\n另外，協力型背教者生命體持續侵蝕著你的意識，也不作為獨立角色處理，故不會成為攻擊或效果的對象。基本上只有持有此D-Lois的角色才能看見，但若GM認可，也可以作為臨時角色登場于場景中。</em> / <em>參照：NC P89</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.CRC02",
+      "source": "NC P89"
+    }
+  }
+}

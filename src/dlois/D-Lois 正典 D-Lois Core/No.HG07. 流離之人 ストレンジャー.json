@@ -1,0 +1,40 @@
+{
+  "_id": "1L2AS7SRyMQ6alFL",
+  "_key": "!items!1L2AS7SRyMQ6alFL",
+  "name": "No.HG07. 流離之人 ストレンジャー",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 113,
+  "system": {
+    "description": "<p>你出生在不列顛以外的土地。可能是撒克遜人或羅馬人，或者更遠的亞洲出身。</p><p>你為何離開故鄉並不明確。也許是背負罪名被放逐，也許是出於冒險心踏上旅程。可能是為了尋求幻之秘技或秘寶，也可能是想見識不列顛亞瑟王這個人物而來到這片土地。</p><p>在不列顛，你是異族。</p><p>人們用混雜著好奇與恐懼的眼神看著你。你的頭髮或眼睛的顏色，在這裡可能是稀罕的。</p><p>但是，有比那更稀罕的東西。那就是你的戰鬥方法。</p><p>不列顛以外的戰鬥技法，會讓這片土地的戰士們驚訝，而那正是你強力的武器。</p><p>如何運用它，全看你的決定。</p><p><em>效果：此D-lois只能在「舞臺：聖杯傳說」中取得。\n\n你的身體裡刻下了異鄉的戰鬥技術。那是只有你才能使用的強力武器。另一方面，那種技術會令周圍的人感到恐懼或隔閡。\n取得此D-lois時須選擇一個能力值和一個技能。你進行使用了所選擇技能的攻擊時，攻擊力+[指定的能力值]。\n例如能力值選擇【肉體】、技能選擇〈白兵〉的情況下，組合〈白兵〉的攻擊之攻擊力可以+[你的【肉體】]。\n取得此D-lois時，你的侵蝕率基本值+7。</em> / <em>參照：OC P41</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.HG07",
+      "source": "OC P41"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+# LevelDB runtime artifacts (not needed by Foundry, regenerated on launch)
+packs/**/LOCK
+packs/**/LOG
+packs/**/LOG.old

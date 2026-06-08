@@ -1,0 +1,68 @@
+{
+  "_id": "1NpUhTj8m1NuhF2w",
+  "name": "剛身獸化",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lion.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>以甲殼覆蓋肉體，變得像穿護具一樣，藉此使攻擊力與防禦力上升的異能。</p><p>此場景中，你的空手攻擊的攻擊力+[LV×2]，且裝甲值+[LV×3]，會與其他防具重複計算。</p><p><em>參照：規則1P125</p><p>EAP62</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "純血種",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 6,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*2"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "規則1P125\nEAP62"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!1NpUhTj8m1NuhF2w"
+}

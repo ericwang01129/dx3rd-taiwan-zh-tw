@@ -1,0 +1,40 @@
+{
+  "_id": "74JxuVnRjfUblQyi",
+  "_key": "!items!74JxuVnRjfUblQyi",
+  "name": "No.UA06. 檢怪異使的末裔 デモンスレイヤー",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 141,
+  "system": {
+    "description": "<p>你是[舞臺：平安京物怪錄]中與怪異事件戰鬥的檢怪異使的末裔。傳說八百比丘尼是吃下人魚肉的、不老不死的怪僧，她在暗中操控著平安京的怪異事件，又或者為檢怪異使們提供建言，是謎一樣的人物。</p><p>在後來的故事中她以800歲高齡結束了生命，但真相與故事稍有出入。八百比丘尼改名換姓，在其他地方與各種物怪有所牽扯，與它們引發的事件息息相關。而那些與物怪交鋒的檢怪異使也隱去姓名，代代追查各地發生的物怪事件，在暗中將其解決。</p><p>到了現代，這份因緣仍在持續。童年時你便不被允許和同齡的孩子一起玩，一直在鍛煉斬鬼的技術。你是現代的檢怪異使，一邊狩獵危害世界的超越者和原菌，一邊追尋八百比丘尼的下落。</p><p>作為都築京香的同位體，八百比丘尼在降臨事件後受到了湮滅者的改變，作為其部下在世界各地收集RB。</p><p><em>效果：你繼承了檢怪異使的斬鬼技術。在攻擊前使用，當你的攻擊對象包含超越者時，達成值+10、攻擊力+10。\n這個效果1劇本最多可以使用3次。\n需要注意取得這個露易絲不等於可以取得[舞臺：平安京物怪錄]的專用數據。</em> / <em>參照：DF P27</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA06",
+      "source": "DF P27"
+    }
+  }
+}

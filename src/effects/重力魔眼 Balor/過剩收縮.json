@@ -1,0 +1,64 @@
+{
+  "_id": "CXWjC0CVc0CNN7wj",
+  "name": "過剩收縮",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《暗黑物質》。</p><p>強化魔眼的回轉，準備下次攻擊的異能。難以控制，但是破壞力也會大大提高。</p><p>在這個主要階段中，你組合重力魔眼異能的攻擊判定骰數-[一個小於LV的數字]，同時你的攻擊力+[減去的LV×4]。</p><p><em>參照：BCP57</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "極限",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "BCP57"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!CXWjC0CVc0CNN7wj"
+}

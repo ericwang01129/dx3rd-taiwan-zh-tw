@@ -1,0 +1,64 @@
+{
+  "_id": "zN2wAonJj38MCknG",
+  "name": "救濟之調",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/gorilla.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《療愈之歌》。</p><p>用特殊的音波使人超越極限進而復活的異能。</p><p>在對象陷入戰鬥不能時使用。對象回復戰鬥不能狀態，HP恢復到1。這個異能不能以你自己為對象。</p><p><em>參照：BCP62</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "極限 / 1/劇本",
+    "timing": "auto",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "BCP62"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!zN2wAonJj38MCknG"
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "uJenSG2vjol3ZrEf",
+  "name": "破滅的鎖冠",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/chained-arrow-heads.svg",
+  "folder": "nvsOMgfQh0V2uoKK",
+  "sort": 0,
+  "system": {
+    "description": "<p>這一回合的結算階段，對象受到（LV+2）D點HP傷害。當你死亡時效果解除。可以任意讓這一場景中的臨時角色、建築等物品被破壞或殺死。</p><p><em>參照：UAP80</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "200% / 1/劇本",
+    "timing": "setup",
+    "target": "場景（選擇）",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 6,
+      "value": "6D10"
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "偽神天鎖 Gleipnir",
+      "syndromeItemId": "wzWZsuLaBbQy6m0K",
+      "source": "UAP80"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!uJenSG2vjol3ZrEf"
+}

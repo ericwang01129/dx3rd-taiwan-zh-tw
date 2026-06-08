@@ -1,0 +1,64 @@
+{
+  "_id": "qMyCjhldTSkHwMkG",
+  "name": "根源性的破滅招來 （根源的破滅招來）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>顯現出地球上從未現身的外神的一小部分，進行空前絕後的破壞的異能。</p><p>組合了該異能的射擊攻擊，其對象變更為場景(選擇)，射程變更為視界。但是，此次攻擊的對象不會包含你所在接戰區內的單位</p><p><em>參照：CRC P99</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "80% / 1/劇本",
+    "timing": "major",
+    "target": "場景（選擇）",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P99"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!qMyCjhldTSkHwMkG"
+}

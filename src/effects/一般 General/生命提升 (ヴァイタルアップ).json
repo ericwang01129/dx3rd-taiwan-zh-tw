@@ -1,0 +1,64 @@
+{
+  "_id": "K8yizF693KSYd8ZT",
+  "name": "生命提升 (ヴァイタルアップ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/aura.svg",
+  "folder": "eTUfIRkQAvufdxsT",
+  "sort": 0,
+  "system": {
+    "description": "<p>提高生命力的異能。</p><p>你的HP+[現在侵蝕率-100(最低0)]，此時可超過上限。上升與增加的HP等值的侵蝕率。</p><p>增加的HP會持續到因傷害減少或劇本結束。</p><p><em>參照：規則2P174</p><p>EAP129</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "1/劇本",
+    "timing": "setup",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": "參照效果"
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "一般 General",
+      "syndromeItemId": "t9bsxYmBHW27Rk9N",
+      "source": "規則2P174\nEAP129"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!K8yizF693KSYd8ZT"
+}

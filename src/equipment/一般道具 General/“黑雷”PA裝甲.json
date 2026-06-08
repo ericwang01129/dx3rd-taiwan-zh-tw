@@ -1,0 +1,34 @@
+{
+  "_id": "AuvrbVMF1DOPQItF",
+  "_key": "!items!AuvrbVMF1DOPQItF",
+  "name": "“黑雷”PA裝甲",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 116,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>極限小型化的動力裝甲，僅允許特殊犯罪調查室下屬特殊部隊“黑雷”配備，外表充滿壓迫感，使用了超越UGN的技術，但出處不明。</p><p>你可以將搭載火器視為雙手持握進行裝備。稀有道具。</p><p><em>參照：IA P34</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "40",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "dodge": 0,
+    "init": -2,
+    "armor": 15
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "防具",
+      "source": "IA P34"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

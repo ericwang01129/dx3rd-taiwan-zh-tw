@@ -1,0 +1,40 @@
+{
+  "_id": "oC4GCczAosPI1G9T",
+  "_key": "!items!oC4GCczAosPI1G9T",
+  "name": "禁欲 （アセティック）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 501,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你約束著自己，過著禁欲生活的紋章。拒絕奢侈生活為你帶來了強大的內心</p><p><em>效果：你進行的使用了【精神】的判定骰數+1個，但你在一次判定中能使用的財富點數變為至多3點</em> / <em>參照：IA P185</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "關聯：夥伴\n（コネ：相棒）",
+      "source": "IA P185"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

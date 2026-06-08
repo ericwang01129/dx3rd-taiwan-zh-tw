@@ -1,0 +1,40 @@
+{
+  "_id": "DbeibabkbkE17yhH",
+  "_key": "!items!DbeibabkbkE17yhH",
+  "name": "九鬼的援助",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 38,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>得到被稱作最強的男人‧九鬼的幫助。他持有的人工智能“忒修斯”所擁有的廣泛知識和九鬼自身的戰鬥力，無論面臨什麼局面都能成為你有力的依靠。現在他從事著保鏢行業，如果是熟人請求，大部分情況都會爽快幫助。特別是有關孩子的案件，幾乎不會被拒絕。</p><p><em>REC：青峰深雪 or 九鬼</em> / <em>次數：1/劇本</em> / <em>通常效果：你進行【肉體】【感覺】【精神】判定前使用，判定骰數+2個。\n該效果一劇本可以使用一次。</em> / <em>強化效果：使用了通常效果來進行攻擊判定時，該攻擊的攻擊力+10。</em> / <em>參照：IA P202</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：青峰深雪",
+      "source": "IA P202"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

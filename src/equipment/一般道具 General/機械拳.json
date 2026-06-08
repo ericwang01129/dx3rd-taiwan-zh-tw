@@ -1,0 +1,37 @@
+{
+  "_id": "0FkqWxc1ZGJ9I1Mu",
+  "_key": "!items!0FkqWxc1ZGJ9I1Mu",
+  "name": "機械拳",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 32,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/punch-blast.svg",
+  "system": {
+    "description": "<p>機械式動力輔助手甲，活塞撞針產生的衝擊力能讓對方的防禦無效</p><p>使用該武器進行的攻擊不能被格擋，對該近戰攻擊進行掩護時無視格擋計算傷害。該武器一劇本可以使用一次。稀有道具。</p><p><em>射程：至近</em> / <em>參照：IA P25</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "18",
+      "difficulty": 35
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 5,
+    "guard": 0,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P25"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

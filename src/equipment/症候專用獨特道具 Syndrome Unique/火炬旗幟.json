@@ -1,0 +1,37 @@
+{
+  "_id": "sprlbjX8eqiOPYxL",
+  "_key": "!items!sprlbjX8eqiOPYxL",
+  "name": "火炬旗幟",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 184,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>不會燃盡的火把，能夠吸收《先陣之火》的火焰用於攻擊，吸收火焰後會猛烈燃燒宛如一面展開的旗幟。</p><p>你使用了《先陣之火》的場景間，你組合冰炎奇蜥異能進行的攻擊判定骰數+2個，攻擊力+3。</p><p><em>射程：至近</em> / <em>參照：IA P92</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 7,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P92"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "Q26ziqy9zeJwixqF",
+  "name": "細胞侵蝕",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wing-cloak.svg",
+  "folder": "RXR6u4iWhThVDoog",
+  "sort": 0,
+  "system": {
+    "description": "<p>以細胞為單位侵入對象的體內，造成影響的異能。</p><p>進行射擊攻擊。命中的話，對象受到重壓狀態與等級為LV的邪毒狀態。</p><p><em>參照：ICP59</p><p>EAP67</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "1/場景",
+    "timing": "major",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "battle"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "流亡畸體 Exile",
+      "syndromeItemId": "kPOoy0czVl8GhmK7",
+      "source": "ICP59\nEAP67"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Q26ziqy9zeJwixqF"
+}

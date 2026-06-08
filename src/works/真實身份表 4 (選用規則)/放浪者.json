@@ -1,0 +1,74 @@
+{
+  "_id": "se7SXSoygUygjaF7",
+  "name": "放浪者",
+  "type": "works",
+  "img": "icons/svg/book.svg",
+  "folder": "YpHafb2fCvjHRgWt",
+  "sort": 0,
+  "system": {
+    "description": "<p><strong>來源：</strong>真實身份表 4 (選用規則)</p><p><strong>主要能力值：</strong>【肉體】</p>",
+    "skillTmp": "melee",
+    "skills": {
+      "dodge": {
+        "key": "dodge",
+        "name": "迴避",
+        "base": "body",
+        "add": 1,
+        "apply": true
+      },
+      "perception": {
+        "key": "perception",
+        "name": "知覺",
+        "base": "sense",
+        "add": 1,
+        "apply": true
+      },
+      "will": {
+        "key": "will",
+        "name": "意志",
+        "base": "mind",
+        "add": 1,
+        "apply": true
+      },
+      "info_黑社會": {
+        "key": "info_黑社會",
+        "name": "情報：黑社會",
+        "base": "social",
+        "add": 1,
+        "apply": true
+      },
+      "info_流言": {
+        "key": "info_流言",
+        "name": "情報：流言",
+        "base": "social",
+        "add": 2,
+        "apply": true
+      }
+    },
+    "attributes": {
+      "body": {
+        "value": 1
+      },
+      "sense": {
+        "value": 0
+      },
+      "mind": {
+        "value": 0
+      },
+      "social": {
+        "value": 0
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "table": "真實身份表 4 (選用規則)",
+      "primaryAttr": "body"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!se7SXSoygUygjaF7"
+}

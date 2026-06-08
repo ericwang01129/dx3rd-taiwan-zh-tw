@@ -1,0 +1,64 @@
+{
+  "_id": "a5SQjWYmCJzGW9dn",
+  "name": "疾走的惡夢 （疾走する悪夢）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>無視因果律直接在彈雨之中穿行，突破無論何等保障，現身於犧牲者面前的異能。</p><p>于[緊急逃脫]時使用，你可以在0～20的範圍內自由選擇並決定因[緊急逃脫]而上升的侵蝕率。</p><p><em>參照：NC P96</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "LV/劇本",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "NC P96"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!a5SQjWYmCJzGW9dn"
+}

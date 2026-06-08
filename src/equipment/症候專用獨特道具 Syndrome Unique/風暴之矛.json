@@ -1,0 +1,37 @@
+{
+  "_id": "vigvGW0nKxe6rYWD",
+  "_key": "!items!vigvGW0nKxe6rYWD",
+  "name": "風暴之矛",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 290,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>纏繞著哈斯塔不潔惡風的長矛，</p><p>裝備中，【HP最大值】和HP-5（解除裝備則恢復5點HP），【行動值】+10。此效果不會疊加。</p><p><em>射程：至近</em> / <em>參照：NC P111</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -3,
+    "attack": 7,
+    "guard": 7,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "NC P111"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "WoIDaaCOibgKh4Bc",
+  "_key": "!items!WoIDaaCOibgKh4Bc",
+  "name": "少女的旗幟",
+  "folder": "E34ex0UnjIox4JZN",
+  "sort": 4,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>曾經揚起戰旗的長槍，會回應契約浮現出虛幻的旗幟，強化旗手的守護之力。</p><p>你使用掩護時受到的HP傷害-10。</p><p>代價：只有不會捨棄夥伴、擁有自我犧牲精神的人才會被其選中。侵蝕率基本值+2。</p><p><em>射程：至近</em> / <em>備註：IA新增</em> / <em>參照：IA P118</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -4,
+    "attack": 11,
+    "guard": 9,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 遺產繼承者 D-Lois Legacy",
+      "section": "",
+      "source": "IA P118"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "z4TcsvsypS8igJDI",
+  "name": "沙旋風",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wind-hole.svg",
+  "folder": "1c2f74fWFU3n9X1W",
+  "sort": 0,
+  "system": {
+    "description": "<p>製造局部的沙塵暴的異能。可以遮蔽周圍的視線、讓人難以聽到對話或聲音等。</p><p>這個效果只能對額外角色生效，也可以選擇讓任意的角色不受到此異能的影響。</p><p><em>參照：UAP37</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "單體",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "煉金化形 Morpheus",
+      "syndromeItemId": "VAwDGRpXdkn7vZjE",
+      "source": "UAP37"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!z4TcsvsypS8igJDI"
+}

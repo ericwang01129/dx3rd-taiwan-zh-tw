@@ -1,0 +1,37 @@
+{
+  "_id": "iPaoE1QSBLJNjmPC",
+  "_key": "!items!iPaoE1QSBLJNjmPC",
+  "name": "狂怒射手 （レイジングシューター）",
+  "folder": "2kAs6YkcXBjKKf0t",
+  "sort": 18,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>受EX背教者病毒所感染的反坦克炮，可以在攜帶和炮擊兩種形態之間切換。</p><p>使用次要動作，將攻擊力和射程變更為右側的數據，但是進行了攻擊或是場景結束時，數據都將恢復原狀。雙手持握。至近不可。</p><p><em>射程：100m/500m</em> / <em>參照：IA P114</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -2,
+    "attack": 10,
+    "guard": 0,
+    "range": "100m/500m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 秘密武器 D-Lois Secret Weapon",
+      "section": "",
+      "source": "IA P114"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

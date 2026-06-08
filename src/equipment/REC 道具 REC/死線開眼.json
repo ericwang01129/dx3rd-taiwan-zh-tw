@@ -1,0 +1,40 @@
+{
+  "_id": "BtMo7GGNWewsE3ol",
+  "_key": "!items!BtMo7GGNWewsE3ol",
+  "name": "死線開眼",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 69,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>表示你因與阪月那岐進行過死鬥導致異能變化。與阪月那岐的死鬥是一場難以想像的體驗，但你們已經如戀人般互相深刻瞭解對方，而這種理解也讓你的異能發生了巨大改變。</p><p><em>REC：阪月那岐</em> / <em>通常效果：你組合《集中：●●》進行的近戰判定骰數+3個。</em> / <em>強化效果：你取得的《集中：●●》變為“暴擊值下限為6，該異能一劇本可以使用三次”。</em> / <em>備註：IA新增</em> / <em>參照：IA P207</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：阪月那岐",
+      "source": "IA P207"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

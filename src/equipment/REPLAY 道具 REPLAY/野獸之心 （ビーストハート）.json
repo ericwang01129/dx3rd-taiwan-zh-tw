@@ -1,0 +1,40 @@
+{
+  "_id": "qNgKmmR24mmiirnG",
+  "_key": "!items!qNgKmmR24mmiirnG",
+  "name": "野獸之心 （ビーストハート）",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 54,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>以“X04百獸之王”的身體強化能力為基礎開發的藥品。使用後會強化肉體，獲得驚人的耐久力。</p><p><em>次數：1/劇本</em> / <em>效果：準備階段時使用，你的HP+20，此時HP可以超過上限，所增加的HP持續至正常失去或該場景結束，使用該效果時侵蝕率+5，該效果一劇本可以使用一次。</em> / <em>參照：IA P193</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P193"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

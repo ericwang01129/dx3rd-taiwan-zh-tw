@@ -1,0 +1,64 @@
+{
+  "_id": "PImxB2FhZq1BIoPH",
+  "name": "憎惡與瘋狂之宴 （憎悪と狂気の宴）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>以你為媒介擴張〈舊日支配者〉內在的憎惡與瘋狂，使在場者全數陷入瘋狂的異能。</p><p>對象於該回合間受到的HP傷害+[LV×3]，並受到以你為目標的憎惡異常狀態。</p><p><em>參照：NC P99</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "憎惡\n120%",
+    "timing": "setup",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "NC P99"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!PImxB2FhZq1BIoPH"
+}

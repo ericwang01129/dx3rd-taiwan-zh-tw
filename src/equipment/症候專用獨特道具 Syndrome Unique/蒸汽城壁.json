@@ -1,0 +1,37 @@
+{
+  "_id": "sB4U0vm1m8NFJNrK",
+  "_key": "!items!sB4U0vm1m8NFJNrK",
+  "name": "蒸汽城壁",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 186,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>用超高熱高壓的蒸汽彈開攻擊的不可視之盾，能從本體附屬的水箱中供水啟動，只有能操縱熱量的冰炎奇蜥症候持有者才能操縱，平時使用金屬提箱偽裝成日用品，使用時才會展開。</p><p>該武器的格擋值不會因為異能效果減少。</p><p><em>射程：至近</em> / <em>參照：IA P92</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 50,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 6,
+    "guard": 17,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P92"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

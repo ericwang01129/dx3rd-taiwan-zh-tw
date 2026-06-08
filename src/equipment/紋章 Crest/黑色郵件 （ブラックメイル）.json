@@ -1,0 +1,40 @@
+{
+  "_id": "noPuxHVWHM2I7QA9",
+  "_key": "!items!noPuxHVWHM2I7QA9",
+  "name": "黑色郵件 （ブラックメイル）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 240,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你因為過去的不小心或為了人身安全被FH脅迫協助它們的紋章，作為協助FH的代價它們給你準備了大量報酬</p><p><em>效果：你的常備化點數+10，你進行的【社會】判定骰數-1個</em> / <em>備註：IA新增</em> / <em>參照：IA P156</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH法外者 取得條件：沒有取得FH通用以外紋章的角色",
+      "source": "IA P156"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

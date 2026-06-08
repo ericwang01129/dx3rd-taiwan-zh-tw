@@ -1,0 +1,34 @@
+{
+  "_id": "VVHGTDNjOxg6INRv",
+  "_key": "!items!VVHGTDNjOxg6INRv",
+  "name": "幻象外套 （ミラージュコート）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 147,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>向周圍投射分身投影的映射投射外套，並非為了隱藏身形，而是以配合機動性來擾亂瞄準為目的</p><p><em>參照：IA P146</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH特工 取得條件：職業為FH特工A~D",
+      "source": "IA P146"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

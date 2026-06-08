@@ -1,0 +1,40 @@
+{
+  "_id": "aEz53vnVPDmQkJbm",
+  "_key": "!items!aEz53vnVPDmQkJbm",
+  "name": "放學後的約定",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 65,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>表示你和“塞薩裡奧”定下了一同調查的約定。也許可以說你有“事故體質”，你經常會和她遭遇，那時“塞薩裡奧”在對手面前來到了“表層”，也就是說你當時正在調查當中，偶爾她會以協助者身份與你一同前往現場，偶爾也會用意味深長的忠告或難以理解的謎語勸你遠離事件，也許那其實是在暗中尋求你對於案件解決的覺悟。</p><p><em>REC：塞薩裡奧</em> / <em>通常效果：你進行的<情報：●●>和<意志>判定，骰數+2個。</em> / <em>強化效果：次要動作使用，直到劇本結束前，該道具通常效果無法使用，你的行動值+5。</em> / <em>備註：IA新增</em> / <em>參照：IA P207</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：塞薩裡奧",
+      "source": "IA P207"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

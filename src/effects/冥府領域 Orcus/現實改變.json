@@ -1,0 +1,64 @@
+{
+  "_id": "0D2dSvTUD1VWNTcx",
+  "name": "現實改變",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/grim-reaper.svg",
+  "folder": "FmovFwS0XlDsBEPd",
+  "sort": 0,
+  "system": {
+    "description": "<p>按照妄想歪曲領域內的事象的異能。但是，這個歪曲的副作用會反彈到你身上。</p><p>在對象進行任意判定之後使用，這個判定的達成值-20或者+20。使用這個異能後，你失去20點HP。</p><p><em>參照：RUP33</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "妄想120% / LV/劇本",
+    "timing": "auto",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 6,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冥府領域 Orcus",
+      "syndromeItemId": "VkIuxIHuGC4SwBN8",
+      "source": "RUP33"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0D2dSvTUD1VWNTcx"
+}

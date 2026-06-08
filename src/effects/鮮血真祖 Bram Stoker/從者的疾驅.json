@@ -1,0 +1,64 @@
+{
+  "_id": "uSTEOV03Y7zko1oN",
+  "name": "從者的疾驅",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/vampire-dracula.svg",
+  "folder": "wboZ95SHJuim4ZlG",
+  "sort": 0,
+  "system": {
+    "description": "<p>移動從者的異能。</p><p>使你製作的1名從者進行戰鬥移動。</p><p>此移動可進行脫離，即使跟其他接戰區域接觸也不須終止移動，不會受到封鎖的影響。</p><p>不能與其他異能組合。</p><p><em>參照：ICP55</p><p>EAP46</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "LV/劇本",
+    "timing": "initiative",
+    "target": "參照效果",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "鮮血真祖 Bram Stoker",
+      "syndromeItemId": "yZ26mUMQV6FowBlo",
+      "source": "ICP55\nEAP46"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!uSTEOV03Y7zko1oN"
+}

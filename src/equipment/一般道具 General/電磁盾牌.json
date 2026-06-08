@@ -1,0 +1,37 @@
+{
+  "_id": "Y1rlk032c1NjxN6Z",
+  "_key": "!items!Y1rlk032c1NjxN6Z",
+  "name": "電磁盾牌",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 36,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>利用磁力產生斥力的盾。</p><p>裝備並以次要動作激活其使用，使其維持在該場景中可用。</p><p><em>射程：至近</em> / <em>備註：IA修改格擋值\n8→13</em> / <em>參照：IA P25</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "12",
+      "difficulty": 17
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 2,
+    "guard": 13,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P25"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

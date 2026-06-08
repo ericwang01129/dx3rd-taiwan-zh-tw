@@ -1,0 +1,37 @@
+{
+  "_id": "ElL5u4ylYWI9xAP7",
+  "_key": "!items!ElL5u4ylYWI9xAP7",
+  "name": "墮天之刃",
+  "folder": "2kAs6YkcXBjKKf0t",
+  "sort": 5,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>受EX背教者病毒感染的刀劍，會根據使用者的意志而強化鋒利度。</p><p>使用該武器進行近戰攻擊前宣言，該攻擊暴擊值-1（下限5），但使用了此效果的主要階段結束後，該武器被破壞。</p><p><em>射程：至近</em> / <em>參照：IA P113</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 9,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 秘密武器 D-Lois Secret Weapon",
+      "section": "",
+      "source": "IA P113"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

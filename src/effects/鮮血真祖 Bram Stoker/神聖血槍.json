@@ -1,0 +1,64 @@
+{
+  "_id": "122XudhkHgYuiA6r",
+  "name": "神聖血槍",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spiked-halo.svg",
+  "folder": "wboZ95SHJuim4ZlG",
+  "sort": 0,
+  "system": {
+    "description": "<p>用你的血強化武器的異能。接受你的血的武器可以變化為你所妄想出的模樣。</p><p>選定一個你所裝備的武器，消費[LV×5]點以下的任意HP，在這個場景中，你所指定的武器攻擊力或者格擋值+[你所消耗的HP值]。</p><p><em>參照：RUP33</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "妄想120%",
+    "timing": "minor",
+    "target": "參照效果",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "鮮血真祖 Bram Stoker",
+      "syndromeItemId": "yZ26mUMQV6FowBlo",
+      "source": "RUP33"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!122XudhkHgYuiA6r"
+}

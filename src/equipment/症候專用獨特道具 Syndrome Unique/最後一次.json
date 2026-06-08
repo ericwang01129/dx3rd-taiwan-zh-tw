@@ -1,0 +1,40 @@
+{
+  "_id": "R3agY5qYF8LXNvLw",
+  "_key": "!items!R3agY5qYF8LXNvLw",
+  "name": "最後一次",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 51,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>增幅《自爆裝置》的出力，能將大範圍捲入爆炸的裝置。</p><p>你使用的《自爆裝置》變更為[對象：場景][射程：視野]，該效果優先級大於組合異能的對象和射程。</p><p><em>參照：IA P77</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P77"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

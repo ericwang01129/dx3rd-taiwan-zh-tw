@@ -1,0 +1,40 @@
+{
+  "_id": "SWtSFdndyAwxoGtG",
+  "_key": "!items!SWtSFdndyAwxoGtG",
+  "name": "No.54. 裝備者(FH專用) アイテムユーザー Item Master",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 54,
+  "system": {
+    "description": "<p>ＦＨ有著各種不為人知的科技。這些科技被用來生產各種具有特殊功能的道具，而其中一種為你所擁有。這些道具非常先進，但其原理不只對外界，對於ＦＨ自己來說也是一個黑盒子。你是掌管其中一個道具的人，也靠著道具獲得相對較高的成就。這個道具已經像是你身體的一部份，只要有它，就有著不輸給任何的人的自信</p><p><em>效果：只有職業為【FH】相關的角色可以取得\n免費取得一件常備點在40以下的道具，可以選擇且不限於FH專用道具，但不能取得特殊道具和其他D露易斯的專用道具，通過該效果取得的道具雖然可以交給其他角色，但是你以外的角色無法使用該道具。\n取得該D-Lois時，你的侵蝕率基本值＋２\n\n此外，你可以照常消耗常備點來常備化FH專用道具，以該D-Lois取得的道具基本上除你以外均無法使用和裝備，即時持有也無法受到其效果影響。</em> / <em>備註：FH專用</em> / <em>參照：PE P33</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.54",
+      "source": "PE P33"
+    }
+  }
+}

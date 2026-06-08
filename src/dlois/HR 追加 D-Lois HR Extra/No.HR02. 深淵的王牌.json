@@ -1,0 +1,40 @@
+{
+  "_id": "lbBp6M8T0NqtAIG0",
+  "_key": "!items!lbBp6M8T0NqtAIG0",
+  "name": "No.HR02. 深淵的王牌",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 3,
+  "system": {
+    "description": "<p><em>效果：REC：霧穀雄吾</em> / <em>通常效果：你作為UGN日本支部的，不，是霧穀雄吾個人的王牌，擁有極其優秀的能力。\n於你進行判定擲骰之後使用。將本次判定中一個骰子的結果變更為10。這個效果在你進行判定的途中也可以使用。使用了該效果的判定結束時，你的侵蝕率將會上升3點。該效果每次判定中只能使用一次，一個劇本中可以使用一次。</em> / <em>強化效果：將「通常效果」的使用次數限制變更為「1個劇本中可以使用3次」。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR02",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_id": "6KUcmfr7kXFtX9xr",
+  "name": "飽食的終末 （飽食の果て）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>由你之饑渴開啟聯通異界之門，使無數食物化作海嘯噴湧而出的異能。其總量相當於(1D10×1D10)的乘積。</p><p>組合了該異能的射擊攻擊對象變更為「場景（選擇）」、射程變更為「視界」、攻擊力+[LV×2]。</p><p><em>參照：NC P98</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "飢餓\n120% / 1/場景",
+    "timing": "major",
+    "target": "場景（選擇）",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 6,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "battle"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*2"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "NC P98"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!6KUcmfr7kXFtX9xr"
+}

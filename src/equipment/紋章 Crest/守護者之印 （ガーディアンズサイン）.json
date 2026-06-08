@@ -1,0 +1,40 @@
+{
+  "_id": "pS60LlZzsYvLnuu1",
+  "_key": "!items!pS60LlZzsYvLnuu1",
+  "name": "守護者之印 （ガーディアンズサイン）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 143,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>飾有UGNlogo的墜飾和領帶夾等，寄宿著對UGN所提出的“人與超越者的共存”之理想懷有強烈同感的意念。</p><p><em>效果：你受到包括[暴走]的異常狀態後使用；取消所有受到的異常狀態\n該道具可以取得多個</em> / <em>參照：IA P145</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN通用 取得條件：職業為UGN系，或是身為UGN法外者的角色",
+      "source": "IA P145"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

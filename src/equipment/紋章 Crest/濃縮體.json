@@ -1,0 +1,40 @@
+{
+  "_id": "6zdh3Mbbrab3wP2T",
+  "_key": "!items!6zdh3Mbbrab3wP2T",
+  "name": "濃縮體",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 191,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你是與多數的FH之子交戰且生存的，被選拔的存在的紋章。在搏命的戰鬥中，你的能力受到了向著強者進化的磨練</p><p><em>效果：取得時，從你取得的「最大等級：10」的異能中選擇一個，計算該異能的效果時，視為雙倍LV計算，此時可以超過最大等級</em> / <em>參照：IA P151</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH之子 取得條件：職業為FH之子A~C",
+      "source": "IA P151"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

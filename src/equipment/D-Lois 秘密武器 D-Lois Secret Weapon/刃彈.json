@@ -1,0 +1,37 @@
+{
+  "_id": "o3pW8pO1EqQY2jnK",
+  "_key": "!items!o3pW8pO1EqQY2jnK",
+  "name": "刃彈",
+  "folder": "2kAs6YkcXBjKKf0t",
+  "sort": 3,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>感染了EX背教者病毒的投擲用小刀。刀身上有著特殊的刻印，于投擲時將會加速刀身的飛行，並造成足以造成奪去對方意識的猛烈衝擊。</p><p>作為射擊武器使用時，使用右邊的數據。使用該武器進行射擊攻擊，造成至少1點HP傷害時，給對象造成“恍惚”不良狀態。</p><p><em>射程：至近/10m</em> / <em>參照：IA P113</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰／射擊",
+    "skill": "melee",
+    "add": 0,
+    "attack": 8,
+    "guard": 2,
+    "range": "至近/10m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 秘密武器 D-Lois Secret Weapon",
+      "section": "",
+      "source": "IA P113"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

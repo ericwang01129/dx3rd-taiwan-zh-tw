@@ -1,0 +1,40 @@
+{
+  "_id": "qIxXDQKgkVyT77Pv",
+  "_key": "!items!qIxXDQKgkVyT77Pv",
+  "name": "奧丁之眼",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 48,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>雷擊黑犬超越者專用的同調戰術分析義眼。</p><p>次要動作使用，選擇一項技能，該場景間使用該技能進行的判定骰數+4個，使用該效果時你的侵蝕率+4，效果持續時可以使用次要動作更換選擇的技能。</p><p><em>參照：IA P77</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 35,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P77"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

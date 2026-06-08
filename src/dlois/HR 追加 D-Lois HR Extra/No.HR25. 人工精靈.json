@@ -1,0 +1,40 @@
+{
+  "_id": "EczPdoCgy7HiLWNl",
+  "_key": "!items!EczPdoCgy7HiLWNl",
+  "name": "No.HR25. 人工精靈",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 26,
+  "system": {
+    "description": "<p><em>效果：REC：青峰深雪</em> / <em>通常效果：你被製作成和特定的異能相匹配的背教者生命體\n取得時從「起源：●●」以外的異能中選擇一個。在「起源：●●」的效果中，你已取得的該所選異能的侵蝕值-2（最低為1）。</em> / <em>強化效果：組合了「通常效果」中所選擇異能的判定的骰數+2D。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR25",
+      "source": ""
+    }
+  }
+}

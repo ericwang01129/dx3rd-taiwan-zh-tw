@@ -1,0 +1,40 @@
+{
+  "_id": "vJV6yveAefGTx7fg",
+  "_key": "!items!vJV6yveAefGTx7fg",
+  "name": "No.UA22. 地獄的霸者 ヘルウォーカー",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 157,
+  "system": {
+    "description": "<p>你是能夠操縱遠超他人的熱量的冰炎奇蜥。</p><p>你的異能力能夠將溫度調整到自然界不可能存在的數值。</p><p>雖然絕對零度是熱力學溫度的下限，但那與你無關。背教者是能夠超越物理法則、扭曲現實的東西。</p><p>科學家們對你的溫度操控能力表現出極大的興趣，但他們都如同泡沫一般破滅了。</p><p>你所引發的現象超越了現實，你的火焰或寒冰如同神話和童話裡描繪的地獄那般。</p><p>這超越現實的景象幾乎會讓人放棄科學的思考，人們將其看作是彼岸的世界。</p><p>你正是地獄的霸者。</p><p>超越一切溫度的極限，最強的冰炎奇蜥。</p><p><em>效果：只限症狀為【冰炎奇蜥】的角色可取得。\n你可以使用比其他冰炎奇蜥能力者更大火力的異能力。\n你可以在開始前選擇最多3個冰炎奇蜥的異能力，所選擇的異能LV+2，可以超過上限。所選的異能的侵蝕各自+1。</em> / <em>備註：冰炎奇蜥專用</em> / <em>參照：DF P35</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA22",
+      "source": "DF P35"
+    }
+  }
+}

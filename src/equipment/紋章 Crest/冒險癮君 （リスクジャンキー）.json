@@ -1,0 +1,40 @@
+{
+  "_id": "xOVwplJKcBQpWfdR",
+  "_key": "!items!xOVwplJKcBQpWfdR",
+  "name": "冒險癮君 （リスクジャンキー）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 512,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你於冒險之中汲取快感的紋章，平凡的人生什麼的太無聊了。只有能感受到心急如焚的緊張感，身處死亡之鄰的環境才能叫活著</p><p><em>效果：當你的侵蝕率達到100%以上時，你進行的任何判定骰數+2個</em> / <em>參照：IA P186</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "關聯：夥伴\n（コネ：相棒）",
+      "source": "IA P186"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

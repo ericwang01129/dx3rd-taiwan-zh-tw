@@ -1,0 +1,68 @@
+{
+  "_id": "kTloRxjF01ZdP8Dd",
+  "name": "動物馴服 (アニマルテイマー)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/grim-reaper.svg",
+  "folder": "FmovFwS0XlDsBEPd",
+  "sort": 0,
+  "system": {
+    "description": "<p>你將“因子”藏在動物中，任意操縱動物，輔佐你的行動的異能。</p><p>組合此異能的判定骰數+[LV+1]顆。</p><p><em>參照：規則1P152</p><p>EAP97</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "",
+    "limit": "-",
+    "timing": "major-reaction",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "dice": {
+        "value": "@level+1"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冥府領域 Orcus",
+      "syndromeItemId": "VkIuxIHuGC4SwBN8",
+      "source": "規則1P152\nEAP97"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!kTloRxjF01ZdP8Dd"
+}

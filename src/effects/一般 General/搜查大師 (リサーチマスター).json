@@ -1,0 +1,64 @@
+{
+  "_id": "Rx3ufks1pRYhmibj",
+  "name": "搜查大師 (リサーチマスター)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/aura.svg",
+  "folder": "eTUfIRkQAvufdxsT",
+  "sort": 0,
+  "system": {
+    "description": "<p>表示你擅長利用自己的超越者能力進行情報收集的異能。</p><p>組合的情報收集判定骰數+LV顆。</p><p><em>參照：EAP132</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "info",
+    "difficulty": "",
+    "limit": "3/劇本",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 3,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "一般 General",
+      "syndromeItemId": "t9bsxYmBHW27Rk9N",
+      "source": "EAP132"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Rx3ufks1pRYhmibj"
+}

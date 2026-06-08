@@ -1,0 +1,40 @@
+{
+  "_id": "cCYIRHHG0KJ3fxoW",
+  "_key": "!items!cCYIRHHG0KJ3fxoW",
+  "name": "No.HR07. 戰友",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 8,
+  "system": {
+    "description": "<p><em>效果：REC：玉野樁</em> / <em>通常效果：你進行的回歸檢定骰數+2D。也就是說，你會在回歸檢定時投擲「普通的Lois的個數+2」個骰子。\n但是請注意，這個D-Lois本身不能被視為「普通的Lois」。</em> / <em>強化效果：「通常效果」給予你的進行回歸檢定的骰數額外增加2D（合計+4D）</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR07",
+      "source": ""
+    }
+  }
+}

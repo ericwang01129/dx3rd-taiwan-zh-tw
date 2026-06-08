@@ -1,0 +1,68 @@
+{
+  "_id": "0TKkFrlXyC8IpRCV",
+  "name": "電光石火",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/carl-olsen/flame.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>發揮遠遠超揮肉體極限的速度與反射神經的異能。</p><p>組合此異能的判定骰數+[LV+1]顆，但你會失去1D點HP。</p><p><em>參照：規則1P136</p><p>EAP76</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "body",
+    "difficulty": "",
+    "limit": "-",
+    "timing": "major-reaction",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "dice": {
+        "value": "@level+1"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "規則1P136\nEAP76"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0TKkFrlXyC8IpRCV"
+}

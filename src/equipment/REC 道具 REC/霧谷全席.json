@@ -1,0 +1,40 @@
+{
+  "_id": "o40NvhoZCVYlotgN",
+  "_key": "!items!o40NvhoZCVYlotgN",
+  "name": "霧谷全席",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 3,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>表示能讓霧穀親自招待料理的關係。作為他隱藏特技的特製料理和招待，只向足夠親近的人或是執行特殊任務的UGN特工展露。</p><p>對於日本支部長的親自招待，大部分人都表示實在不敢當，食不知味。</p><p>但根據某些大膽的人的說法，似乎是讓人意外覺得親切的味道。</p><p><em>REC：霧谷雄吾</em> / <em>通常效果：主要動作使用，從該場景中登場了的角色之中任意選擇一個，其HP回復4D10點，被選擇的角色可以拒絕此效果。\n無法於戰鬥中使用。</em> / <em>強化效果：與通常效果同時使用，使用時，選擇一項技能，該劇本間，所選技能的判定達成值+3。</em> / <em>參照：IA P196</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "聯繫/消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：霧谷雄吾",
+      "source": "IA P196"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

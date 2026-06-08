@@ -1,0 +1,64 @@
+{
+  "_id": "6N76Dr3e8GmkQiml",
+  "name": "穿牆 (壁抜け)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/morph-ball.svg",
+  "folder": "1c2f74fWFU3n9X1W",
+  "sort": 0,
+  "system": {
+    "description": "<p>無視密室、封閉空間或牆壁等障礙物來移動的異能。</p><p>即使是被厚重金屬包覆的避難所，也無法阻止你的入侵。</p><p>GM認為有必要的話，可要求用<RC>進行判定。</p><p><em>參照：規則2P140</p><p>EAP87</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "煉金化形 Morpheus",
+      "syndromeItemId": "VAwDGRpXdkn7vZjE",
+      "source": "規則2P140\nEAP87"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!6N76Dr3e8GmkQiml"
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "Gl168B2sV4nWJdI4",
+  "name": "美妙音色 （ビューティフルボイス）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/sonic-shout.svg",
+  "folder": "eTUfIRkQAvufdxsT",
+  "sort": 0,
+  "system": {
+    "description": "<p>在背教者的影響下，你的聲音發生了變化，變成了所謂的好聽的聲音。音量也會隨之變大，你可以發出大到能夠蓋過工地的聲音。由於只是音色發生了變化，你的唱歌水平沒有提高。</p><p><em>參照：UAP44</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "一般 General",
+      "syndromeItemId": "t9bsxYmBHW27Rk9N",
+      "source": "UAP44"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Gl168B2sV4nWJdI4"
+}

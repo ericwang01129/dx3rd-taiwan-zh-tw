@@ -1,0 +1,40 @@
+{
+  "_id": "wWIj8jcSpC6nqvtb",
+  "_key": "!items!wWIj8jcSpC6nqvtb",
+  "name": "邊緣暴徒 （マージナルヴィラン）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 262,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你接受了能將異能的力量最大程度使用出來的強化手術的紋章</p><p><em>次數：1/劇本</em> / <em>效果：取得時選擇[時機：常時]以外的一項異能，使用該異能時按照你血統能夠取得的最大異能等級計算；使用該效果後，直到劇本結束，無法再次使用該異能\n該效果1劇本可以使用1次</em> / <em>備註：IA新增</em> / <em>參照：IA P159</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH通用 取得條件：職業為FH，或是身為FH法外者的角色",
+      "source": "IA P159"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

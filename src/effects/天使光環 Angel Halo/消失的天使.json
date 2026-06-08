@@ -1,0 +1,64 @@
+{
+  "_id": "l68Om6Y9m4QpjE1w",
+  "name": "消失的天使",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/cloak-dagger.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>混入由幻影作成的虛像以製造混亂的異能。敵人在幻影中窺見的是虛假的良機。</p><p>於對象進行<回避>或【感覺】的判定後使用。該判定的達成值+[你的【感覺】]。該異能不能以你自身為對象。</p><p><em>參照：CEP63</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "1/回合\nLV/劇本",
+    "timing": "auto",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "round"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "CEP63"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!l68Om6Y9m4QpjE1w"
+}

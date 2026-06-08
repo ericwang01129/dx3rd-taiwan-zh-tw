@@ -1,0 +1,68 @@
+{
+  "_id": "l0NThvLBHezZ0WVZ",
+  "name": "爆破 (エクスプロージョン)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>散佈並引爆體內生成的液體火藥的異能。</p><p>進行「 攻擊力：+8」的射擊攻擊。</p><p><em>參照：ICP65</p><p>EAP114</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "LV/劇本",
+    "timing": "major",
+    "target": "範圍(選擇)",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "8"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "ICP65\nEAP114"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!l0NThvLBHezZ0WVZ"
+}

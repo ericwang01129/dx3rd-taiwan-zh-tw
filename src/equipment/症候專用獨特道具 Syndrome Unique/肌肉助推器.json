@@ -1,0 +1,40 @@
+{
+  "_id": "BZimxqaq3wQV3tFC",
+  "_key": "!items!BZimxqaq3wQV3tFC",
+  "name": "肌肉助推器",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 213,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>在體內生成並合成物質增強身體能力的藥，是對身體負擔很重的猛藥。</p><p>次要動作使用，該主要階段間你進行的近戰攻擊傷害+2D10，你受到[不良狀態：邪毒3]。稀有道具</p><p><em>參照：IA P95</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P95"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

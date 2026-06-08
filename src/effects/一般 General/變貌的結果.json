@@ -1,0 +1,64 @@
+{
+  "_id": "LDCuDhFyckIaZjMe",
+  "name": "變貌的結果",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/aura.svg",
+  "folder": "eTUfIRkQAvufdxsT",
+  "sort": 0,
+  "system": {
+    "description": "<p>表示你覺醒成超越者時，過去的外表產生了變化的異能。</p><p>你在成為超越者之前，外表的某處跟現在有很大的不同。</p><p>要判斷認識過去的你的人是否會看出是同一人物，可用<知覺>進行對決。</p><p><em>參照：ICP67</p><p>EAP133</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "一般 General",
+      "syndromeItemId": "t9bsxYmBHW27Rk9N",
+      "source": "ICP67\nEAP133"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!LDCuDhFyckIaZjMe"
+}

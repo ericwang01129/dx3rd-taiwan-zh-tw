@@ -1,0 +1,64 @@
+{
+  "_id": "xDUPq4ZsGCB115t3",
+  "name": "屑鐵之橋",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>操縱重力，聚集鐵屑或廢棄物，建造巨大立足點的異能。</p><p>可藉此在短時間內架出可供多人使用的橋樑，或者在空無一物的半空中製造鷹架，</p><p>但因為需要集中精神來維持，GM可在戰鬥中等緊急場面禁止使用。</p><p><em>參照：EAP35</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "參照效果",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "EAP35"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!xDUPq4ZsGCB115t3"
+}

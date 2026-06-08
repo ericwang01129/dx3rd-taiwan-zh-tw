@@ -1,0 +1,37 @@
+{
+  "_id": "jJ2YdZCWM5ka9S6x",
+  "_key": "!items!jJ2YdZCWM5ka9S6x",
+  "name": "墮天之槍 （フォールンランス）",
+  "folder": "2kAs6YkcXBjKKf0t",
+  "sort": 6,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>受EX背教者病毒感染的長槍，其前端部分呈圓錐形螺旋狀，啟動後便能以高速旋轉來貫穿防禦。</p><p>以次要動作使用，使用該武器進行的近戰攻擊對進行格擋的角色造成的傷害+3D10，持續到回合結束為止，該效果一場景可以使用三次。</p><p><em>射程：至近</em> / <em>參照：IA P113</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 11,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 秘密武器 D-Lois Secret Weapon",
+      "section": "",
+      "source": "IA P113"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

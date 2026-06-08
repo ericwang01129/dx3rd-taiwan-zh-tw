@@ -1,0 +1,64 @@
+{
+  "_id": "qXtUSpzubR9qtW1G",
+  "name": "飛躍 （グレートリープ）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lion.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>移動到高空，將下落的速度加於攻擊之上的異能。</p><p>進行可以脫離的戰鬥移動。可以移動到場景內的任意場所。在這一主要階段間，你的近戰攻擊力+【肉體】。</p><p><em>參照：UAP34</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "80% / LV/場景",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "battle"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "UAP34"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!qXtUSpzubR9qtW1G"
+}

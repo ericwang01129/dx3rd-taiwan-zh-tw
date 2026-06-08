@@ -1,0 +1,40 @@
+{
+  "_id": "2y9VtHpapRmXJRdN",
+  "_key": "!items!2y9VtHpapRmXJRdN",
+  "name": "羽生新娘 （フェザードブライド）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 154,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>分析狀況獲得有利條件的戰術預測APP，因為使用時是連接隱藏身份的研究單元進行預測，不想用的特工也不少</p><p><em>次數：1/場景</em> / <em>效果：準備階段使用，該回合間你的行動值+1D10\n該效果1場景可以使用1次</em> / <em>備註：IA新增</em> / <em>參照：IA P147</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH特工 取得條件：職業為FH特工A~D",
+      "source": "IA P147"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

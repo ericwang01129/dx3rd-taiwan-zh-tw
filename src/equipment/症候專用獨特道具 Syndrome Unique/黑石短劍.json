@@ -1,0 +1,37 @@
+{
+  "_id": "FdXMgOSabS3xYdBQ",
+  "_key": "!items!FdXMgOSabS3xYdBQ",
+  "name": "黑石短劍",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 289,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>米-戈們所尋求的〈黑石〉所制的短劍，能夠對不來自此3次元空間對象的次元連續構造造成致命傷害，此特性亦作用於你所用的異能之上。</p><p>你進行的攻擊，對象為［神話生物］、［神性］，亦或是阿撒托斯症狀的持有者時，傷害+2D10。</p><p><em>射程：至近</em> / <em>參照：NC P111</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 2,
+    "guard": 1,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "NC P111"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

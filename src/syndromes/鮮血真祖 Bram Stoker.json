@@ -1,0 +1,37 @@
+{
+  "_id": "yZ26mUMQV6FowBlo",
+  "name": "鮮血真祖 Bram Stoker",
+  "type": "syndrome",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/vampire-dracula.svg",
+  "sort": 400,
+  "system": {
+    "description": "<p><strong>吾之血，生命之源</strong></p>\n<p>控制自己的血液的症狀，將血液以彈丸的方式擊出，或者變化成為武器或者防具的能力，變化血液的成分來加倍提高恢復力也是可能的。那姿態，就像是傳說當中的吸血鬼一般。</p><p>感染鮮血真祖症狀的超越者的血液，就算在排出了體外之後的一定時間內都可以透過本人的意志來操作，成分的變化，遺傳因子的改變，或者治療其他人等等的現象都是有可能做到的。</p><p>再者，這個症狀的起名是來自于19世紀時「吸血鬼德古拉」的作者布拉姆＝史托克。</p><p>操作血液，召喚出使魔，這真是再適合不過的命名了。</p>\n<blockquote>「沸騰吧，我體內的深紅之紅！」<br>瞬間，我的手中出現了一把細劍，其色為赤，其輝為金。<br>以自己的血液對敵，乃是自己身為決鬥者的規則。<br>「我要打倒你。......賭上我的血液與驕傲。」<br>「劍匠卿」春日斬繪，於決鬥場高聲呼喊。</blockquote>",
+    "skillTmp": "melee",
+    "skills": {},
+    "attributes": {
+      "body": {
+        "value": 1
+      },
+      "sense": {
+        "value": 2
+      },
+      "mind": {
+        "value": 1
+      },
+      "social": {
+        "value": 0
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "english": "Bram Stoker",
+      "chinese": "鮮血真祖"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!yZ26mUMQV6FowBlo"
+}

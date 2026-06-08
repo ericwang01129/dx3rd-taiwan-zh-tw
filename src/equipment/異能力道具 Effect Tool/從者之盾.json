@@ -1,0 +1,37 @@
+{
+  "_id": "vHn74qqwNs0guhy2",
+  "_key": "!items!vHn74qqwNs0guhy2",
+  "name": "從者之盾",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 20,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>由從者身體的一部分變化成的盾。形狀隨從者的主人所想而定。</p><p><em>射程：至近</em> / <em>參照：IA P110</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 2,
+    "guard": 8,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "IA P110"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

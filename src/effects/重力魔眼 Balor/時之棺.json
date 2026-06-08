@@ -1,0 +1,64 @@
+{
+  "_id": "CgHZ5VskcUcK4OTq",
+  "name": "時之棺",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>停止一瞬的時間，阻礙對方行動的異能。就算只有一剎那，時間停止的奇跡也會為你帶來絕大的勝機。</p><p>於對象進行判定前使用，使該判定失敗。不能對「難易度：自動成功」等不須判定的行動使用。</p><p><em>參照：規則1P107</p><p>EAP33</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "100% / 1/劇本",
+    "timing": "auto",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 10,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "規則1P107\nEAP33"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!CgHZ5VskcUcK4OTq"
+}

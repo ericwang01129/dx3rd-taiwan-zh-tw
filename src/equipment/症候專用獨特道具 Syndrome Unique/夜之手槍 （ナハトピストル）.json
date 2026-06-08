@@ -1,0 +1,37 @@
+{
+  "_id": "Pla3RkyYejbI0uNB",
+  "_key": "!items!Pla3RkyYejbI0uNB",
+  "name": "夜之手槍 （ナハトピストル）",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 240,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>UGN或FH等研究機構研究、開發出的用與元型親和的特殊素材製作的手槍。會與造出的元型發生反應，與裝備者一體化。</p><p>裝備“元型：●●”的防具或載具時，使用此武器的攻擊的命中判定骰+2個。</p><p><em>射程：20m</em> / <em>參照：SSS6 P46</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 5,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "SSS6 P46"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

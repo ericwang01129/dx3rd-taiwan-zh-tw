@@ -1,0 +1,37 @@
+{
+  "_id": "lOboote5qSf9xNNg",
+  "_key": "!items!lOboote5qSf9xNNg",
+  "name": "鋒利匕首",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 1,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>擁有驚人的銳利度的FH制戰鬥匕首。</p><p>以[種類：射擊]使用時數據參照右側，使用此武器進行的攻擊計算傷害時視為對象裝甲值-5（最低0）。</p><p><em>射程：至近/10m</em> / <em>參照：IA P122</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "5",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰/射擊",
+    "skill": "melee",
+    "add": 0,
+    "attack": 5,
+    "guard": 1,
+    "range": "至近/10m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P122"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

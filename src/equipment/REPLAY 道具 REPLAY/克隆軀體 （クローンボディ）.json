@@ -1,0 +1,40 @@
+{
+  "_id": "SGgsOpzwMH3VSKcZ",
+  "_key": "!items!SGgsOpzwMH3VSKcZ",
+  "name": "克隆軀體 （クローンボディ）",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 55,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>與自身幾乎擁有完全相同性能的軀體。本體死亡時，自動傳輸記憶，使同一個體實現復活。</p><p><em>次數：1/劇本</em> / <em>效果：你陷入戰鬥不能時使用，解除你的戰鬥不能，並將HP回復至1點，此外還會同時解除你受到的所有不利效果，從不良狀態到減少骰數等，具體適用到什麼範圍由GM決定，該效果一劇本可以使用一次。</em> / <em>參照：IA P194</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P194"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

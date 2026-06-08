@@ -1,0 +1,37 @@
+{
+  "_id": "bYpIMOVkpf9S05V3",
+  "_key": "!items!bYpIMOVkpf9S05V3",
+  "name": "指虎",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 4,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/punch-blast.svg",
+  "system": {
+    "description": "<p>夾在指間提升拳頭攻擊力的武器。使用時不攥緊的話，拳頭會很痛。</p><p><em>射程：至近</em> / <em>參照：IA P22</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "1",
+      "difficulty": 4
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 1,
+    "guard": 0,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P22"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

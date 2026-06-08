@@ -1,0 +1,37 @@
+{
+  "_id": "1zTQxz010pfaS0jE",
+  "_key": "!items!1zTQxz010pfaS0jE",
+  "name": "屠殺刃",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 57,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>吸血後刀刃會巨大化的大鐮刀，該刀刃砍殺大量敵人時才能發揮其真正的價值。</p><p>使用該武器進行攻擊的攻擊力+6，該效果只能在與《血之宴》組合期間使用。雙手持握。</p><p><em>射程：至近</em> / <em>參照：IA P78</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 14,
+    "guard": 2,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P78"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

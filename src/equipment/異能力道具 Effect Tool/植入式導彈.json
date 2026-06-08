@@ -1,0 +1,37 @@
+{
+  "_id": "WXPPH7JbUmH5EzMQ",
+  "_key": "!items!WXPPH7JbUmH5EzMQ",
+  "name": "植入式導彈",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 6,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>埋藏在手臂或腿部的小型導彈發射器，平常是收納著的</p><p>可以於先制階段裝備，使用該武器進行的攻擊變為[對象：範圍（選擇）]，該效果的對象優先順序大於組合異能的對象，該武器1劇本可以使用1次，最多可以取得2個</p><p><em>射程：20m</em> / <em>參照：IA P108</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -3,
+    "attack": 12,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "IA P108"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

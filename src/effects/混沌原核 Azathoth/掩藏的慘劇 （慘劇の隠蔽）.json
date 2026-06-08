@@ -1,0 +1,64 @@
+{
+  "_id": "2IF5p1cp7W5YHdHT",
+  "name": "掩藏的慘劇 （慘劇の隠蔽）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>能夠將戰鬥和儀式所留下的大量血跡、破壞的建築、犧牲者拼命留下的遺言等痕跡完全抹除的異能。網絡上的信息也會在不知不覺間消失。GM認為破壞的規模實在太大的情況下，可以要求進行某種判定，或是直接指定無法通過這個異能來隱蔽</p><p><em>參照：CRC P101</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "參照效果",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P101"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!2IF5p1cp7W5YHdHT"
+}

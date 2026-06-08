@@ -1,0 +1,40 @@
+{
+  "_id": "dgWFAjmjlQNDsx6Q",
+  "_key": "!items!dgWFAjmjlQNDsx6Q",
+  "name": "No.61. 活傳奇 リヴィングレジェンド Living Legend",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 61,
+  "system": {
+    "description": "<p>「你想聽我的故事嗎？我是一個傳奇殺手，我專殺那些對作惡豪不自覺的混蛋，但常只收取一聲感謝，這跟金錢無關，而是為了自己的心。正因如此，我才會來殺你，並且為了殺你，買下一艘太空船來到這裡的。那麼，開始遊戲吧。」(D露易斯介紹時附贈的舉例，因為蠻喜歡的所以節錄片段放上來)</p><p>你是個活生生的傳奇人物，名聲廣播，藉由你的個人魅力與聲望，你可以輕鬆取得任何你想要的東西。你可以自由設定你的名聲源自於你的能力，運氣，還是其他原因。</p><p><em>效果：採購判定時，可以代替擲骰使用這個D露易絲的能力，直接取得想要的道具。\n不能藉此取得「不可購入」的道具，特殊道具，D露易斯專用道具。\n取得的道具在劇本結束後消失\nＧＭ可以選擇拒絕效果的使用，這時候不消耗使用次數。\n次數限制：劇本中一次\n\n可以用此效果取得沒有資料的道具，包刮建築物或組織。但是請注意，買下敵人的組織不代表對方會對你表示忠誠。\n\n回溯階段時，根據露易絲數量決定擲骰數後，該數量必定－１Ｄ。包刮兩倍擲骰。追加擲骰的時候照常。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.61",
+      "source": ""
+    }
+  }
+}

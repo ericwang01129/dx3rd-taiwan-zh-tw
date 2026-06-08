@@ -1,0 +1,64 @@
+{
+  "_id": "Sc3UdmV0EdIofzHc",
+  "name": "冷氣之鐮",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/ice-cube.svg",
+  "folder": "fTAZJwZUEo6ka7qa",
+  "sort": 0,
+  "system": {
+    "description": "<p>包覆超低溫冷氣來攻擊，只是以武器碰到對象就足以使其凍結的異能。</p><p>那道冷氣會使對方的動作遲鈍，導致回避變得非常困難。</p><p>組合此異能的攻擊會使對象的回避判定骰數-LV顆。</p><p><em>參照：規則1P160</p><p>EAP109</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冰炎奇蜥 Salamandra",
+      "syndromeItemId": "QYuRS0HzX2yUU8d7",
+      "source": "規則1P160\nEAP109"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Sc3UdmV0EdIofzHc"
+}

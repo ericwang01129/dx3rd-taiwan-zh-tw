@@ -1,0 +1,64 @@
+{
+  "_id": "ycCP6plP1DHTzaiM",
+  "name": "槲寄生的小劍 （宿り木の小剣）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "folder": "m920eVQK9xEhuLPi",
+  "sort": 0,
+  "system": {
+    "description": "<p>用元型刺入物體，強行讓物體成為你的元型的一部分並加以支配的異能。</p><p>刺入電腦後可以掌握網絡，刺入門後可以開關門鎖等。這時對象的機能不會受到損傷。如果GM認為有必要，可以進行<RC>判定。</p><p><em>參照：UAP24</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "長青魔劍 Mistilteinn",
+      "syndromeItemId": "prV8KorHRzKAVkva",
+      "source": "UAP24"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ycCP6plP1DHTzaiM"
+}

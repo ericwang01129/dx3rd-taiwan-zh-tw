@@ -1,0 +1,68 @@
+{
+  "_id": "O4pGUQP1NXkY2cSy",
+  "name": "一迅之風",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wind-hole.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>將速度本身變為攻擊力，提高傷害的異能。</p><p>此回合有進行戰鬥移動、全力移動，或者脫離接戰區域的話，你的攻擊的攻擊力+[LV×2]。</p><p>此異能的等級不受侵蝕率影響。取得此異能的話，侵蝕率基本值+4。</p><p><em>參照：ICP60</p><p>EAP73</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*2"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "ICP60\nEAP73"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!O4pGUQP1NXkY2cSy"
+}

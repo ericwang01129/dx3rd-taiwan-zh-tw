@@ -1,0 +1,40 @@
+{
+  "_id": "6q848SuErLZMgmny",
+  "_key": "!items!6q848SuErLZMgmny",
+  "name": "醫用手帕",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 115,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>擁有很高的抑菌性和消毒作用，能用來進行緊急處置的手帕。</p><p>主要動作使用，你或與你處於同一接戰區域內的一名角色回復2D10HP。</p><p><em>參照：IA P69</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P69"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

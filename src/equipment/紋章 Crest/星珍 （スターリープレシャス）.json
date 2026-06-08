@@ -1,0 +1,40 @@
+{
+  "_id": "SBwLr1CBiI6aSYYx",
+  "_key": "!items!SBwLr1CBiI6aSYYx",
+  "name": "星珍 （スターリープレシャス）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 153,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示聯絡卿認可你的欲望具有珍貴價值的，以星星為原型的徽章。將會被賦予特別的許可權</p><p><em>效果：你進行的【社會】判定的骰子數+3個</em> / <em>參照：IA P146</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH特工 取得條件：職業為FH特工A~D",
+      "source": "IA P146"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

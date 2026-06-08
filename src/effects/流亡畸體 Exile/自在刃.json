@@ -1,0 +1,64 @@
+{
+  "_id": "WHFD64okGrxVx2jG",
+  "name": "自在刃",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "folder": "RXR6u4iWhThVDoog",
+  "sort": 0,
+  "system": {
+    "description": "<p>將肉體延伸，化作鞭狀刀刃的異能。以原本的堅固為基礎進一步提升鋒利度。</p><p>該回合間，你使用空手的近戰攻擊的攻擊力+[你空手的格擋值]，但在此異能發揮效果的期間，你無法使用空手進行格擋。</p><p><em>參照：CEP65</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "流亡畸體 Exile",
+      "syndromeItemId": "kPOoy0czVl8GhmK7",
+      "source": "CEP65"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!WHFD64okGrxVx2jG"
+}

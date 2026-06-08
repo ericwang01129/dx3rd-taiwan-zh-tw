@@ -1,0 +1,40 @@
+{
+  "_id": "t6mm46WzNSqiIlLh",
+  "_key": "!items!t6mm46WzNSqiIlLh",
+  "name": "全方位報告 （サラウンドレポート）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 23,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>將彙報給支部長的周邊事態整合到一起的資料庫，只要在上面過幾眼，任誰都可以輕鬆的進行情報整理。</p><p><em>效果：場景中登場的角色進行的<情報：●●>判定的骰子數+1個；你也可以指定特定角色不受該道具的效果影響</em> / <em>參照：IA P132</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN支部長 取得條件：職業為UGN支部長A~D的角色",
+      "source": "IA P132"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

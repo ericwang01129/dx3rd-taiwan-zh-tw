@@ -1,0 +1,64 @@
+{
+  "_id": "NfglYRFLraf7yVUm",
+  "name": "再生的王笏",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/heart-tower.svg",
+  "folder": "1pCX5ZBbIY55J65u",
+  "sort": 0,
+  "system": {
+    "description": "<p>干涉背教者的自我修復作用，大幅度提高再生效率的異能。</p><p>於對象使用回復HP的異能後使用，回復對象[LV+1]D點HP。</p><p><em>參照：EAP123</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "auto",
+    "target": "單體",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "噬身影蛇 Oroboros",
+      "syndromeItemId": "R7Jxr26CWdNB0hjx",
+      "source": "EAP123"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!NfglYRFLraf7yVUm"
+}

@@ -1,0 +1,68 @@
+{
+  "_id": "SxFZ6McYPOIIHBKh",
+  "name": "最高電壓 (MAXボルテージ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-arc.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>增幅體內電流，加強攻擊的異能。</p><p>組合此異能的攻擊的攻擊力+10，但是判定骰數-1顆。</p><p><em>參照：規則1P113</p><p>EAP41</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "80% / LV/劇本",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "10"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "規則1P113\nEAP41"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!SxFZ6McYPOIIHBKh"
+}

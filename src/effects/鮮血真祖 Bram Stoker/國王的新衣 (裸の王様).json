@@ -1,0 +1,64 @@
+{
+  "_id": "2FoeczipAIMt7GxM",
+  "name": "國王的新衣 (裸の王様)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spiked-halo.svg",
+  "folder": "wboZ95SHJuim4ZlG",
+  "sort": 0,
+  "system": {
+    "description": "<p>表示你周圍總是包圍著稱讚你、為你喝采，充滿忠誠與敬愛的從者的異能。</p><p>此異能製作的從者人數為[LV×10]名。戰鬥中視為臨時角色，無法進行戰鬥。</p><p>此異能製作的從者不列入《赤色的從者》的上限。</p><p><em>參照：規則2P109</p><p>EAP55</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "參照效果",
+    "range": "參照效果",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 10,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "鮮血真祖 Bram Stoker",
+      "syndromeItemId": "yZ26mUMQV6FowBlo",
+      "source": "規則2P109\nEAP55"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!2FoeczipAIMt7GxM"
+}

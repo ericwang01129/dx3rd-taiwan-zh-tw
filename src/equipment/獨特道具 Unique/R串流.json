@@ -1,0 +1,34 @@
+{
+  "_id": "Waqr5e4EBDaYQRuz",
+  "_key": "!items!Waqr5e4EBDaYQRuz",
+  "name": "R串流",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 72,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>由疾速靈猿症候超越者運營的非官方音樂直播服務，順應場合的音樂列表能增強集中力。</p><p>次要動作使用，該場景間你進行的主要動作判定骰數+2個，每次進行主要動作時侵蝕率+2。</p><p><em>參照：IA P64</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P64"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

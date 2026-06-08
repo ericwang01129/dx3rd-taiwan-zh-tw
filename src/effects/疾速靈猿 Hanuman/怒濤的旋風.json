@@ -1,0 +1,64 @@
+{
+  "_id": "tw5yNQVPjeo9wLUo",
+  "name": "怒濤的旋風",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wind-hole.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>超越界限的速度進行連擊的異能。反作用力會對肉體帶來偌大的負荷。</p><p>組合此異能攻擊時消耗任意LV點以下的HP，該組合異能攻擊的攻擊力+[消費的HP×3]。</p><p><em>參照：RWP38</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "80%",
+    "timing": "major",
+    "target": "單體",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "RWP38"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!tw5yNQVPjeo9wLUo"
+}

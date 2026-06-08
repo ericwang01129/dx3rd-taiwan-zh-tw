@@ -1,0 +1,64 @@
+{
+  "_id": "HwqsvXcKgyq0PJuN",
+  "name": "雷姆利亞斷擊 （レムリア斷擊）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-arc.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>於你攻擊命中的瞬間，藉由將混沌原核的因子流入對方體內，對一切神話生物賜下平等之死的異能。</p><p>於你投擲攻擊的傷害擲骰前使用。攻擊的目標為超越者或是〔神格〕〔神話生物〕時，傷害+[LV×5]</p><p><em>參照：CRC P100</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "120%",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P100"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!HwqsvXcKgyq0PJuN"
+}

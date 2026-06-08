@@ -1,0 +1,40 @@
+{
+  "_id": "D5Z2WzvLaBHWpUAV",
+  "_key": "!items!D5Z2WzvLaBHWpUAV",
+  "name": "傷痕天使 （スカードエンジェル）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 498,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/skoll/race-car.svg",
+  "system": {
+    "description": "<p>在不良、混混或黑幫之間當做傳說傳唱的改造摩托</p><p><em>效果：技能：<駕駛：二輪>   攻擊力：8   行動值：4   裝甲值：4   全力移動：250m\n你進行攻擊的攻擊力+4；該載具只有<駕駛：二輪>LV4以上可以搭乘</em> / <em>備註：IA新增</em> / <em>參照：IA P185</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/載具",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "自由人 取得條件：沒有取得其他紋章的角色",
+      "source": "IA P185"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

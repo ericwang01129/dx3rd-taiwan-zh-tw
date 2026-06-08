@@ -1,0 +1,34 @@
+{
+  "_id": "h1Vjlbq3n0u3XKBP",
+  "_key": "!items!h1Vjlbq3n0u3XKBP",
+  "name": "PWE",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 112,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>能展開擬似結界的巨大裝置，正式名稱為近似結界生成裝置，能將一定範圍內的普通人無力化。</p><p>主要動作使用，該場景中登場的非超越者角色全部變為臨時演員，該效果與《結界化》同等效果，GM可以設定該效果可以由某種判定解除。</p><p><em>參照：IA P69</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 200,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P69"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "QPXIgYeZopi59uwz",
+  "name": "災厄粉碎 (カラミティスマッシュ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/dna2.svg",
+  "folder": "AvyHUzJeOF7NG7Ul",
+  "sort": 0,
+  "system": {
+    "description": "<p>不斷重複人類辦不到的絕望攻擊的異能。</p><p>只能在《起源：🔴🔴》發揮效果的期間使用，可與任何攻擊組合。</p><p>組合此異能的攻擊會使對象的回應動作暴擊值+1。</p><p><em>參照：規則2P180</p><p>EAP135</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "對決",
+    "limit": "RB / 1/場景",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "battle"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "背教者生命體 Renegade Being",
+      "syndromeItemId": "MupaMCIUGiXa5xBa",
+      "source": "規則2P180\nEAP135"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!QPXIgYeZopi59uwz"
+}

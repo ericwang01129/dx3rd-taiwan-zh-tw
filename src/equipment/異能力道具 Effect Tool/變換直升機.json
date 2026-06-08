@@ -1,0 +1,40 @@
+{
+  "_id": "OF96PgdpeSyo81AY",
+  "_key": "!items!OF96PgdpeSyo81AY",
+  "name": "變換直升機",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 40,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/skoll/race-car.svg",
+  "system": {
+    "description": "<p>以《載具變換》作出的直升機，詳細外觀隨製作者所想</p><p>你和同乘者進入飛行狀態</p><p><em>參照：IA P112</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "載具",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "IA P112"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

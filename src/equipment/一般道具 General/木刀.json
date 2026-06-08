@@ -1,0 +1,37 @@
+{
+  "_id": "Gjbmh1VcuVShTShk",
+  "_key": "!items!Gjbmh1VcuVShTShk",
+  "name": "木刀",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 11,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/katana.svg",
+  "system": {
+    "description": "<p>刀狀的木質武器，在高手的手中也會變成恐怖的兇器。</p><p>作為旅遊景點定番的土特產常常被修學旅行的學生買走。</p><p><em>射程：至近</em> / <em>參照：IA P23</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "3",
+      "difficulty": 5
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 3,
+    "guard": 2,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P23"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

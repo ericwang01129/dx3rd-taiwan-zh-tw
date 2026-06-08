@@ -1,0 +1,40 @@
+{
+  "_id": "XeyUsdmn6pScZV8H",
+  "_key": "!items!XeyUsdmn6pScZV8H",
+  "name": "No.HG01. 宿命騎士 ナイツオブラウンド",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 107,
+  "system": {
+    "description": "<p>你的出身充滿了許多謎團。這可能是妖精的作為，也可能是墮落邪惡女巫的手筆。無論如何，某種神秘力量參與了你的出生。</p><p>你是為了完成特殊目的而被安排誕生的騎士。</p><p>當然，這不一定是壞事。說不定你是為了解決遙遠未來將要發生的不幸而誕生的希望之子。</p><p>引導特定未來並非不可能。就像冥府領域症候群的異能能夠誘發特定事象一樣，透過操縱令人暈眩的因果關係來引導未來的儀式是存在的。</p><p>只是，這並不代表你的未來已經註定。這意味著你擁有足以左右不列顛命運的強大力量。</p><p>從幼年時期開始，你就透過夢境、預言，或是遺言等方式聽說了未來的片段。一切的關鍵都在卡美洛城。</p><p><em>效果：這個D-Lois只能在「舞臺：聖杯傳說」中使用。\n\n你的身體被妖精或女巫施加了操縱因果的祝福（或是詛咒）。雖然這是操縱遙遠未來的力量，但同時也能給予你突破眼前困難的力量。\n取得此D-Lois時，選擇一項技能。\n使用選擇的技能進行判定前使用，該判定的暴擊值-2（下限值2）。但使用此效果的主要階段結束時，你會受到【暴走】狀態，且你的侵蝕率+3。該效果一劇本可以使用一次。</em> / <em>參照：OC P38</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.HG01",
+      "source": "OC P38"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_id": "hhekLKJ5iM6aZXGn",
+  "name": "魔人之弩",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>利用魔眼將武器加速，粉碎目標的異能。</p><p>前提條件：《巨人之斧》。</p><p>組合此異能的攻擊的攻擊力+10。</p><p><em>參照：HRP77</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "極限 / LV/劇本",
+    "timing": "major",
+    "target": "單體",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "10"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "HRP77"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!hhekLKJ5iM6aZXGn"
+}

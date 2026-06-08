@@ -1,0 +1,40 @@
+{
+  "_id": "qNtRMwLxe6DUCIjL",
+  "_key": "!items!qNtRMwLxe6DUCIjL",
+  "name": "命運石",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 174,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>被稱為冥府領域操縱因子的物質結晶化後形成的寶石，能夠使你干涉領域內的各種事象。</p><p>場景中登場的一名角色進行判定後使用，你選擇該判定達成值+20或-20，使用後你的侵蝕率+10，該效果一劇本可以使用一次。</p><p><em>參照：IA P91</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 50,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P91"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

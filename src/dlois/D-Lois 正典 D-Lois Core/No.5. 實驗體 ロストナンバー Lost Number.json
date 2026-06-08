@@ -1,0 +1,40 @@
+{
+  "_id": "rkQVhtfcAN9FUnLb",
+  "_key": "!items!rkQVhtfcAN9FUnLb",
+  "name": "No.5. 實驗體 ロストナンバー Lost Number",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 5,
+  "system": {
+    "description": "<p>你曾經參與跟R病毒相關的實驗，作為結果強化了肉體跟精神，但同時有著R病毒不穩定的代價。實驗體(Lost Number)是實驗結束或失敗後，因為相關情報都被消除而如此稱呼。可能是UGN，也可能是FH，可能是自願，可能是被害者。可能是唯一的倖存者。</p><p><em>效果：取得時這D露易絲時，侵蝕值基本值+5並獲得自由能力值點數四點，可自由分配。\n能力值必須標注分配前的數值。ex.【肉體】5 (9)\n使用能力值進行判定時採用分配後的後者，但是成長需要的經驗點則看分配前的前者。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.5",
+      "source": ""
+    }
+  }
+}

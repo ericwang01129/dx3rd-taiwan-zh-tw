@@ -1,0 +1,64 @@
+{
+  "_id": "zkaaIKMsTxYFUDAu",
+  "name": "半人馬之腳 (セントールの腳)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lion.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>將腳變形成適合移動的狀態，提高敏捷性或運動性的異能。</p><p>該場景中，你的戰鬥移動距離+[LV×5]m，全力移動距離也會跟著改變。此效果可使用次要動作解除。</p><p><em>參照：規則2P112</p><p>EAP59</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "規則2P112\nEAP59"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!zkaaIKMsTxYFUDAu"
+}

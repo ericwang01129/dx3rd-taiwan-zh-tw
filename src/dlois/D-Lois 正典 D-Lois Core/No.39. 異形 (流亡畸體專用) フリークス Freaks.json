@@ -1,0 +1,40 @@
+{
+  "_id": "YCw84vtIj0yZH1xM",
+  "_key": "!items!YCw84vtIj0yZH1xM",
+  "name": "No.39. 異形 (流亡畸體專用) フリークス Freaks",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 39,
+  "system": {
+    "description": "<p>你的身體上有著非常明顯的，異樣的特徵。對於不知道超越者跟R病毒存在的人而言，你不過就是個一目了然的怪物。</p><p>具體特徵可以跟GM討論，但就算手腕變成鉤爪狀也不會改變空手的武器資料。</p><p><em>效果：只限症狀為【流亡畸體】的角色可取得。\n自動獲得異能【聖痕】Lv1，可使用經驗提升等級。\n這異能視為流亡畸體的異能\n聖痕 \n最大等級：3 \n時機：主要動作 \n技能：症狀 \n難易度：自動成功 \n對象：- \n射程：- \n侵蝕：0 \n限制：D露易絲 \n次數：3/劇本\n效果：組合時，侵蝕上升 - [Lv] (最低 1)。  \n使用變異的肉體，使R病毒的影響降到最低的能力</em> / <em>備註：流亡畸體專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.39",
+      "source": ""
+    }
+  }
+}

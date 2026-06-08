@@ -1,0 +1,37 @@
+{
+  "_id": "wbbw0LFcErD5SbLt",
+  "_key": "!items!wbbw0LFcErD5SbLt",
+  "name": "大錘",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 28,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spinning-sword.svg",
+  "system": {
+    "description": "<p>必須用雙手使用的大錘，作為質量武器非常單純而有效。</p><p>你進行的全力移動-10m。雙手持握。</p><p><em>射程：至近</em> / <em>參照：IA P25</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "10",
+      "difficulty": 14
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -3,
+    "attack": 12,
+    "guard": 2,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P25"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "haur5q45XheFUTcX",
+  "_key": "!items!haur5q45XheFUTcX",
+  "name": "No.32. 時間使 (重力魔眼專用) クロノトリガー Chrono Trigger",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 32,
+  "system": {
+    "description": "<p>你有著極其微小的回溯時間的能力</p><p>你持有的特異能實際上無法測定，連存在與否都受到質疑。但你自己明確知道，你有著逆行或跳過瞬間的能力，儘管能做到的只有那短短的一瞬間，但那的確成為數次拯救你性命的鬼牌。</p><p><em>效果：只限症狀為【重力魔眼】的角色可取得。\n在你任何判定擲骰後使用，任意一顆骰子的骰目進行正負一的修正，可以藉由這效果超過爆擊值達成大成功。使用後侵蝕率+1D10。\n次數限制：劇本中 3 次。可以對同一判定使用多次，但是不能對同一顆骰子使用兩次。(最多正負一，做不到正負二的修正)</em> / <em>備註：重力魔眼專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.32",
+      "source": ""
+    }
+  }
+}

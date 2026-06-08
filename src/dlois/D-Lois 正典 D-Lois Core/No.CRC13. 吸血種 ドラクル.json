@@ -1,0 +1,40 @@
+{
+  "_id": "wFt5U8PdBXOD7pux",
+  "_key": "!items!wFt5U8PdBXOD7pux",
+  "name": "No.CRC13. 吸血種 ドラクル",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 133,
+  "system": {
+    "description": "<p>你是吸血鬼，或者是繼承吸血鬼血脈被稱為半吸血鬼的存在。諷刺的是，感染你的背教者病毒改變了你的腦部結構，維繫著你的理性——至少目前如此。不過，人類的理性剝奪了你作為吸血鬼的大部分萬能力量。你是個無法變成霧氣或創造不死軍團的半吊子（雖然可以用異能模擬）。</p><p>你原菌化意味著你將變成真正的黑暗怪物，視所有人類為獵物。是的，現在的你才是吸血鬼中的——背叛者。</p><p><em>效果：你的本職為[恐怖之物]（NC P186）。你的衝動必須設為[吸血]。\n你不需要擁有鮮血真祖症候。那些患有該症候的人雖然與吸血鬼相似，但終究只是相似的存在。\n你可以以主要動作從同意的對象吸血，還可以在你的攻擊使對象戰鬥不能時你使用《復蘇》。這個《復蘇》作為特例可以不受你侵蝕率的限制使用。\n此外，無論你的症候為何，你都取得Lv2的《血霧之盾》。但要使用經驗點提升等級則需要鮮血真祖症候。你在直射陽光下進行的所有判定，若擲骰結果全部為3以下，則視為大失敗。</em> / <em>參照：NC P94</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.CRC13",
+      "source": "NC P94"
+    }
+  }
+}

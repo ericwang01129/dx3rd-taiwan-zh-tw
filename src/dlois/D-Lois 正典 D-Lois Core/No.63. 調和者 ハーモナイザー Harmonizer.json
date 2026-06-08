@@ -1,0 +1,40 @@
+{
+  "_id": "ONGtMqEp5wjaul2o",
+  "_key": "!items!ONGtMqEp5wjaul2o",
+  "name": "No.63. 調和者 ハーモナイザー Harmonizer",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 63,
+  "system": {
+    "description": "<p>「放心吧，這次有我在，你不用再犧牲任何東西了。」</p><p>你有著能刺激他人自愈力的能力，但這項能力不是用在醫療用途上，而是使對方能夠抵抗Ｒ病毒。藉由刺激細胞，你能夠控制侵蝕率的上升，使對象與Ｒ病毒保持平衡。</p><p>科學家將你視為「調和者」，你的協調能力對於其他超越者而言是非常渴望的，但是你每次使用這能力時，自己對於Ｒ病毒的抵抗力會變弱。</p><p><em>效果：其他角色使用能力時使用，該能力的侵蝕率上升變為０\n只能消除一個能力的侵蝕率上升值，當角色組合能力時，只能從中選擇一個。\n使用後，自己的侵蝕率＋１Ｄ１０。\n次數限制：劇本中一次</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.63",
+      "source": ""
+    }
+  }
+}

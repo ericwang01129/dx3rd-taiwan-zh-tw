@@ -1,0 +1,40 @@
+{
+  "_id": "JqiCl5IsZXdEPt6B",
+  "_key": "!items!JqiCl5IsZXdEPt6B",
+  "name": "No.62. 守護者 ガーディアン Guardian",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 62,
+  "system": {
+    "description": "<p>奉獻自己去保護他人，比起自己更不願看到他人受傷。只有過於慈愛或過於自責的人才會有的生活型態。</p><p><em>效果：當場景中的角色受到攻擊時使用，該攻擊的攻擊對象變更為自己，由自己來進行反應動作與接受傷害。 該攻擊的攻擊對象不能再藉由其他能力，道具，D露易斯的效果來變更。也不能將自己受到的傷害轉移給其他角色。 該主要階段結束後，侵蝕率＋１Ｄ１０。 次數限制：劇本中一次你不能使用泰特司昇華的效果中「判定＋１０Ｄ」的效果</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.62",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "ECS8CVhj0I0p8P4Q",
+  "name": "幻象吞噬者 （イリュージョンイーター）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/cyber-eye.svg",
+  "folder": "m920eVQK9xEhuLPi",
+  "sort": 0,
+  "system": {
+    "description": "<p>表示你的武器有擊退敵人異能的力量。</p><p>在對象的HP傷害適用前宣言使用，對象預定受到的HP傷害-[LV+2]D點。攻擊組合了偽神天鎖異能時，再額外-2D點。</p><p><em>參照：UAP20</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "純血種 / 1/回合",
+    "timing": "auto",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "round"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "長青魔劍 Mistilteinn",
+      "syndromeItemId": "prV8KorHRzKAVkva",
+      "source": "UAP20"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ECS8CVhj0I0p8P4Q"
+}

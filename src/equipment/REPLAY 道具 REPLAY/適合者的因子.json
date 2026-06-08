@@ -1,0 +1,40 @@
+{
+  "_id": "UbOQQs4Qn3OB1l88",
+  "_key": "!items!UbOQQs4Qn3OB1l88",
+  "name": "適合者的因子",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 23,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>表示你是以“賢者之石”的適應者作為原型被創造出來的複製體。</p><p><em>效果：你與取得了「D-Lois：賢者之石」的角色處於同一接戰區時，你所有判定骰數+1個。該道具只有取得了「D-Lois：複製體」的角色才可以取得。</em> / <em>參照：IA P190</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P190"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

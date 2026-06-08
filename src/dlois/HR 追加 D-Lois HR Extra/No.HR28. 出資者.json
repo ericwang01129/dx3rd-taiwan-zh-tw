@@ -1,0 +1,40 @@
+{
+  "_id": "s0WFIalz2xTeg4H9",
+  "_key": "!items!s0WFIalz2xTeg4H9",
+  "name": "No.HR28. 出資者",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 29,
+  "system": {
+    "description": "<p><em>效果：REC：鷺乃宮香</em> / <em>通常效果：於可以使用財產點的判定之前使用，此次判定的達成值+10。這個效果一個劇本中可以使用一次。</em> / <em>強化效果：將「通常效果」的使用次數限制變更為「1個劇本中可以使用3次」。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR28",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "Owd3mPOvVIIbCNfb",
+  "_key": "!items!Owd3mPOvVIIbCNfb",
+  "name": "No.86. 秘密諜報員 ブラックオペレーター",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 86,
+  "system": {
+    "description": "<p>你是一名間諜。無論是為站在權力頂點的FH、還是為UGN等反FH組織效力。你的工作都是潛入敵對組織收集情報。至於你為哪個組織工作，你可以自行決定。當然，作為自由人也無妨。</p><p>在敵對組織的日常生活中，一旦身份暴露就等於直面生命危險。因此，你不斷磨練控制自身存在感的技巧。你既不能太過引人注目——那只會吸引他人的目光，增加身份被識破的風險。但同時也不能完全隱匿存在——若讓人對你毫無印象，這種異常狀態同樣會引起注意。</p><p>保持「普通」的狀態是最理想的。這雖然很難做到，但你已經掌握了這門技術。甚至，你已經能夠自如地引導周圍人對你的認知。</p><p>沒有人能識破你的真實身份。</p><p>作為潛入諜報員，你近乎完美。</p><p><em>效果：此D-Lois只能在「舞臺：終焉世界線」中取得。\n\n你能夠通過控制自身的存在感來扭曲他人的認知。即使就站在他人面前，也能讓對方察覺不到你的存在——這簡直就像是魔法一般。你可以從臨時角色的記憶中抹去與你相關的記憶或印象。你可以同時操作多個臨時角色的記憶。但是，無法消除實際發生過的事件的記憶。GM有權否決此效果的使用。該效果一劇本可以使用一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.86",
+      "source": ""
+    }
+  }
+}

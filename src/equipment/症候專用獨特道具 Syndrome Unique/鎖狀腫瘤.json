@@ -1,0 +1,40 @@
+{
+  "_id": "LfhaMzR7sx7aektA",
+  "_key": "!items!LfhaMzR7sx7aektA",
+  "name": "鎖狀腫瘤",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 282,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>在背教者生命體內生成的腫瘤。你的鎖鏈會滴落濃稠的黑色毒液。</p><p>你使用《起源：群集》效果期間，當你進行的攻擊命中時，目標受到「異常狀態：邪毒」。邪毒等級為2。</p><p><em>參照：DF P23</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "DF P23"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

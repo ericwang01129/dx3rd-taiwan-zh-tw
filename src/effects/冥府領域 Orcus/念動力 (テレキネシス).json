@@ -1,0 +1,64 @@
+{
+  "_id": "YV60jKb3oO9DBgSA",
+  "name": "念動力 (テレキネシス)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/brain-leak.svg",
+  "folder": "FmovFwS0XlDsBEPd",
+  "sort": 0,
+  "system": {
+    "description": "<p>在領域內的道具埋入因子，使其移動的異能。</p><p>使一件登場於場景中的物品移動至場景內的任何地方，但是不能移動某人裝備或持有的道具。</p><p>GM認為有必要的話，可要求用<RC>進行判定。</p><p><em>參照：規則2P157</p><p>EAP103</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "參照效果",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冥府領域 Orcus",
+      "syndromeItemId": "VkIuxIHuGC4SwBN8",
+      "source": "規則2P157\nEAP103"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!YV60jKb3oO9DBgSA"
+}

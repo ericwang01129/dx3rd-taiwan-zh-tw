@@ -1,0 +1,40 @@
+{
+  "_id": "3A0xMeYOLtUDjxhx",
+  "_key": "!items!3A0xMeYOLtUDjxhx",
+  "name": "點銀石：水星",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 42,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>你具有對“水星”的適應性。</p><p><em>次數：1/劇本</em> / <em>效果：你取得的「D-Lois：賢者之石」效果變更為如下效果：\n你進行判定後使用，此次判定的達成值+20，該效果在對決判定中可以于對手的達成值計算完畢之後才使用，使用了這個效果的主要階段結束時，你的侵蝕率+1D10，該效果一劇本可以使用一次。</em> / <em>參照：IA P192</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P192"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

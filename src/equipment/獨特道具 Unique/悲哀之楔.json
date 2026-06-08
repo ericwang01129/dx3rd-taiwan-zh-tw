@@ -1,0 +1,37 @@
+{
+  "_id": "CARBOe3Q6GaENJDk",
+  "_key": "!items!CARBOe3Q6GaENJDk",
+  "name": "悲哀之楔",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 20,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>刺向心底深藏的負面情感將其增幅的不祥長槍。</p><p>使用該武器進行的近戰攻擊命中處於不良狀態[暴走]的對象時，該主要階段結束時該對象侵蝕率+1D10。雙手持握。</p><p><em>射程：至近</em> / <em>參照：IA P58</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 70,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 17,
+    "guard": 7,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P58"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

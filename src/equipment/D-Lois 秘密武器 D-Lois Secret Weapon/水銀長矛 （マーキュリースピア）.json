@@ -1,0 +1,37 @@
+{
+  "_id": "vJbaxjRviWlpw7cE",
+  "_key": "!items!vJbaxjRviWlpw7cE",
+  "name": "水銀長矛 （マーキュリースピア）",
+  "folder": "2kAs6YkcXBjKKf0t",
+  "sort": 8,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>使用特殊金屬製成、能自由變換尖端的三叉戟，能夠拘束被其貫穿的對手。</p><p>被該武器攻擊命中的對象受到[不良狀態：硬直]，該[不良狀態：硬直]你與該對象不在同一接戰範圍內時立刻解除。</p><p><em>射程：至近</em> / <em>備註：IA新增</em> / <em>參照：IA P113</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 12,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 秘密武器 D-Lois Secret Weapon",
+      "section": "",
+      "source": "IA P113"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

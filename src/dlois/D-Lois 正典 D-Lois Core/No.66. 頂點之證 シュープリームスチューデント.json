@@ -1,0 +1,40 @@
+{
+  "_id": "aTYf0OC54X7ZlweS",
+  "_key": "!items!aTYf0OC54X7ZlweS",
+  "name": "No.66. 頂點之證 シュープリームスチューデント",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 66,
+  "system": {
+    "description": "<p>你被歸類為SS級學生。</p><p>通常，能力的級別以S級為最高。然而，你擁有的潛力遠遠超越了S級的範疇。</p><p>你所驅使的力量，即使在眾多超越者學生中也是出類拔萃的。至於你為何能獲得如此強大的力量，由你自行決定。</p><p>如果你不想公開自己的SS級身份，也可以偽裝成任意級別。請與GM商量後決定你的表面級別。即使如此，學園高層仍然知道你的真實SS級身份。</p><p><em>效果：此D-Lois只能在「舞臺：超越者學園」中使用。\n你獲得獨特道具「SS級」，數據如下。你不能獲得其他「種類：級別」的獨特道具。\n\nSS級\n種類：級別\n購買/常備化：\n購入不可/不可\n說明：被授予SS級的證明。SS級的稱呼還沒有確定。\n使用異能前宣言使用。該異能若為「對象：單體」則變更為「對象：範圍（選擇）」；若為「對象：範圍（選擇）」則變更為「射程：視界」「對象：場景（選擇）」。組合多個異能使用時，該效果適用於最終決定的目標。使用此效果時，你的侵蝕率+10。該效果一劇本可以使用一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.66",
+      "source": ""
+    }
+  }
+}

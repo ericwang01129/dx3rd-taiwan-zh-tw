@@ -1,0 +1,68 @@
+{
+  "_id": "ZmX8fRbExm5gJ0Rd",
+  "name": "中斷",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/chained-arrow-heads.svg",
+  "folder": "nvsOMgfQh0V2uoKK",
+  "sort": 0,
+  "system": {
+    "description": "<p>進行「攻擊力：+[LV×3]」的近戰攻擊，組合此異能的攻擊計算傷害時無視裝甲值，但無法加算所裝備的武器的攻擊力。</p><p><em>參照：UAP84</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "改變\n煉金化形",
+    "timing": "major",
+    "target": "-",
+    "range": "10m",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 8,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*3"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "偽神天鎖 Gleipnir",
+      "syndromeItemId": "wzWZsuLaBbQy6m0K",
+      "source": "UAP84"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ZmX8fRbExm5gJ0Rd"
+}

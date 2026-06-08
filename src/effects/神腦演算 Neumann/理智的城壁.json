@@ -1,0 +1,64 @@
+{
+  "_id": "Yzlk1Re8kIWu3uOJ",
+  "name": "理智的城壁",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/cyber-eye.svg",
+  "folder": "47r01TSVVubrkaef",
+  "sort": 0,
+  "system": {
+    "description": "<p>利用被複雜地包裹住的理論，讓交涉的進行變得有利的異能。</p><p>組合此異能的<交涉>判定改用【精神】進行。</p><p><em>參照：CEP66</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "negotiation",
+    "difficulty": "",
+    "limit": "-",
+    "timing": "major-reaction",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "神腦演算 Neumann",
+      "syndromeItemId": "ohcrpvm6g5xHhvRM",
+      "source": "CEP66"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Yzlk1Re8kIWu3uOJ"
+}

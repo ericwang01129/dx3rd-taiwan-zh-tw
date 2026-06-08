@@ -1,0 +1,37 @@
+{
+  "_id": "nkG4Q0tlOui8WnTz",
+  "_key": "!items!nkG4Q0tlOui8WnTz",
+  "name": "必中之弓",
+  "folder": "E34ex0UnjIox4JZN",
+  "sort": 10,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/bow-arrow.svg",
+  "system": {
+    "description": "<p>無論持有者的水平如何都能以達人般的技術操控的謎一般的長弓。</p><p>使用該武器進行的射擊攻擊達成值+10。另外，該武器的射擊攻擊不會受到來自異能的減少骰數的懲罰效果</p><p>代價：契約者被強迫必須做到百發百中。攻擊未能命中時，你將會受到[不良狀態：暴走]。</p><p><em>射程：視野</em> / <em>參照：IA P119</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 11,
+    "guard": 0,
+    "range": "視野"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 遺產繼承者 D-Lois Legacy",
+      "section": "",
+      "source": "IA P119"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

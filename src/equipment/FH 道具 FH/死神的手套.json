@@ -1,0 +1,40 @@
+{
+  "_id": "abUQWzQWPDdPKrkX",
+  "_key": "!items!abUQWzQWPDdPKrkX",
+  "name": "死神的手套",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 45,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>被EX背教者感染的黑色手套，能夠與異能產生反應並增幅。</p><p>使用空手進行攻擊判定前使用，該攻擊的攻擊力+10，但該攻擊必須組合異能，使用該效果時你的侵蝕率+3，該效果一劇本可以使用三次。</p><p><em>參照：IA P127</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "25",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P127"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

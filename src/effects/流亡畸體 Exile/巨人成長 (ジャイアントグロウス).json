@@ -1,0 +1,68 @@
+{
+  "_id": "z7BEAY8tS0QjqJkg",
+  "name": "巨人成長 (ジャイアントグロウス)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wing-cloak.svg",
+  "folder": "RXR6u4iWhThVDoog",
+  "sort": 0,
+  "system": {
+    "description": "<p>成長、強化肉體的一部分的異能。</p><p>組合此異能的近戰攻擊對象變更成範圍(選擇)，且攻擊力+2D。</p><p><em>參照：規則1P131</p><p>EAP69</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "100% / LV/劇本",
+    "timing": "major",
+    "target": "範圍(選擇)",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "2"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "流亡畸體 Exile",
+      "syndromeItemId": "kPOoy0czVl8GhmK7",
+      "source": "規則1P131\nEAP69"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!z7BEAY8tS0QjqJkg"
+}

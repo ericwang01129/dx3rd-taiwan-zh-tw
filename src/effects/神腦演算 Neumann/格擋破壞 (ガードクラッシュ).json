@@ -1,0 +1,64 @@
+{
+  "_id": "6jSwAuJWOH1Ww1kH",
+  "name": "格擋破壞 (ガードクラッシュ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "folder": "47r01TSVVubrkaef",
+  "sort": 0,
+  "system": {
+    "description": "<p>你能夠進行如穿針引線一般精確的射擊。</p><p>組合此異能的攻擊造成HP傷害的話，該回合間，對象進行格擋的格擋值-[LV×3]。</p><p><em>參照：規則2P143</p><p>EAP89</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "神腦演算 Neumann",
+      "syndromeItemId": "ohcrpvm6g5xHhvRM",
+      "source": "規則2P143\nEAP89"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!6jSwAuJWOH1Ww1kH"
+}

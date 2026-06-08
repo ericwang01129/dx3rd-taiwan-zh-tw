@@ -1,0 +1,37 @@
+{
+  "_id": "7fG1jpzBwkIpFsQn",
+  "_key": "!items!7fG1jpzBwkIpFsQn",
+  "name": "毀滅者 （デストロイヤー）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 56,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>因本部命令而開發的對原菌步槍，難以上手，只有一部分人能夠使用。</p><p><em>參照：IA P136</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "紋章/射擊",
+    "skill": "-",
+    "add": 0,
+    "attack": 0,
+    "guard": 0,
+    "range": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN本部特工 取得條件：職業為UGN特工A~D、UGN支部長A~D、UGN之子A~C的角色 需要GM同意",
+      "source": "IA P136"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

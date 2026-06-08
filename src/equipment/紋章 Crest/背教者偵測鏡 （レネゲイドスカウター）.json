@@ -1,0 +1,40 @@
+{
+  "_id": "OO0Df8BlK0rYVgea",
+  "_key": "!items!OO0Df8BlK0rYVgea",
+  "name": "背教者偵測鏡 （レネゲイドスカウター）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 295,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>宇宙友愛協會為了找出潛伏於社會之中的“背教者星人”製作的單片眼鏡型分析裝置，雖然平時一點用都沒有，但進入《結界化》的範圍之後便會發揮其分析能力</p><p><em>次數：3/劇本</em> / <em>效果：任何時候均可使用，通過使用該道具，你可以得知視野內一個角色的的侵蝕率\n該效果1劇本可以使用3次</em> / <em>參照：IA P162</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "宇宙友愛協會 取得條件：沒有取得其他紋章的角色",
+      "source": "IA P162"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

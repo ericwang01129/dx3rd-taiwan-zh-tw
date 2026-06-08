@@ -1,0 +1,34 @@
+{
+  "_id": "QtwjJ88FSpJ7itn5",
+  "_key": "!items!QtwjJ88FSpJ7itn5",
+  "name": "死神裹布",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 28,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>如同死神般的破爛黑色斗篷，能增幅重力魔眼的異能，減輕使用者受到的重力。</p><p>你進行的【肉體】判定骰數+2個，該效果只有在你受到重力魔眼異能效果期間生效。</p><p><em>參照：IA P75</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "dodge": -1,
+    "init": -1,
+    "armor": 2
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P75"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

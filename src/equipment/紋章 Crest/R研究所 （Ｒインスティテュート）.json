@@ -1,0 +1,40 @@
+{
+  "_id": "eGdiSKytuv2BEmtR",
+  "_key": "!items!eGdiSKytuv2BEmtR",
+  "name": "R研究所 （Ｒインスティテュート）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 26,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你管理的支部記憶體在著獨立的背教者病毒研究設施的紋章。為此，你的支部對背教者有著更加深層的理解。</p><p><em>效果：次要動作使用，該主要階段間，你進行的組合了異能的判定，骰子數+2個，每當使用該效果時，你的侵蝕率+3</em> / <em>參照：IA P132</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN支部長 取得條件：職業為UGN支部長A~D的角色",
+      "source": "IA P132"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

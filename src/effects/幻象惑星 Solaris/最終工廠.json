@@ -1,0 +1,64 @@
+{
+  "_id": "mQgHIiY2kF0XfBqf",
+  "name": "最終工廠",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>犧牲自己的生命，回復同伴的生命力的異能。</p><p>回復對象的戰鬥不能狀態，HP回復[LV×3]D點。這個異能不能以你為對象，使用時你的HP立刻變為0，進入戰鬥不能狀態。</p><p><em>參照：RUP35</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "自傷120% / 1/劇本",
+    "timing": "major",
+    "target": "場景(選擇)",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 6,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "RUP35"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!mQgHIiY2kF0XfBqf"
+}

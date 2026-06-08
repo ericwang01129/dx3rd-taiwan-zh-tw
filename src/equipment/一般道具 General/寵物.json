@@ -1,0 +1,40 @@
+{
+  "_id": "shM6M4LUb74HR6u8",
+  "_key": "!items!shM6M4LUb74HR6u8",
+  "name": "寵物",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 187,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>你養的寵物（臨時演員），取得時可以決定如貓、狗或鸚鵡等寵物種類。</p><p><em>參照：IA P43</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "2",
+      "difficulty": 12
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P43"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

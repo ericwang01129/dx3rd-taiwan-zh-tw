@@ -1,0 +1,64 @@
+{
+  "_id": "rroqlhcsTIbmz0Mn",
+  "name": "貓之道",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/grim-reaper.svg",
+  "folder": "FmovFwS0XlDsBEPd",
+  "sort": 0,
+  "system": {
+    "description": "<p>使用領域，在平常不可能通行的方向或地方產生道路，在領域內縱橫無盡地形成移動的近路的異能。</p><p>你可以藉由此異能通行沒有人知道的近路。</p><p>GM認為有必要的話，可要求用<RC>進行判定。</p><p><em>參照：規則2P157</p><p>EAP103</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冥府領域 Orcus",
+      "syndromeItemId": "VkIuxIHuGC4SwBN8",
+      "source": "規則2P157\nEAP103"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!rroqlhcsTIbmz0Mn"
+}

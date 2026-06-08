@@ -1,0 +1,37 @@
+{
+  "_id": "z7MnX1YOYG17Nbjl",
+  "_key": "!items!z7MnX1YOYG17Nbjl",
+  "name": "冰凍射手",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 189,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>將冷氣變為光線放出的槍，絕不動搖的感情能讓槍的光線更冷更銳利。</p><p>該武器只能與《冰神之悲》組合使用，組合的攻擊判定達成值+5。至近不可。</p><p><em>射程：30m</em> / <em>參照：IA P92</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -2,
+    "attack": 12,
+    "guard": 0,
+    "range": "30m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P92"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

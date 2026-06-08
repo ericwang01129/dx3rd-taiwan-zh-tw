@@ -1,0 +1,40 @@
+{
+  "_id": "EbDa9KdSDmvgRfQB",
+  "_key": "!items!EbDa9KdSDmvgRfQB",
+  "name": "破壞彈 （ブレイクバレット）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 141,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>UGN試製開發的，能夠破壞背教者的子彈。</p><p><em>效果：次要動作使用，主要動作進行的以「種類：射擊」武器進行的攻擊傷害骰+1D10，但不會對非超越者產生效果\n該道具最多可以取得至3個</em> / <em>參照：IA P145</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN通用 取得條件：職業為UGN系，或是身為UGN法外者的角色",
+      "source": "IA P145"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "7LWa8TacZXj4KNof",
+  "_key": "!items!7LWa8TacZXj4KNof",
+  "name": "劇毒穿針",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 6,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>像是將刺劍與騎槍組合的武器，攻擊時能夠對敵人注射毒素。</p><p>使用該武器進行的攻擊給對象造成至少1點傷害時，給予[不良狀態：邪毒 2]，該攻擊組合了施加[不良狀態：邪毒]的異能時，效果變更為使施加的邪毒等級+1。</p><p><em>射程：至近</em> / <em>參照：IA P122</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "15",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 8,
+    "guard": 2,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P122"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

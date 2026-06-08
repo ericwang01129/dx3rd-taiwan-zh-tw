@@ -1,0 +1,68 @@
+{
+  "_id": "cqyvRdTZmLvV2mLk",
+  "name": "輝煌之人 （輝けるもの）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>解放邪神因子，以光之巨人的姿態進行攻擊的異能。亦有人稱其為舊神之力，但目前還尚未確定。</p><p>組合了該異能的攻擊判定骰+LV顆，且攻擊力+[LV×5]。攻擊的對象必須是單體。</p><p><em>參照：CRC P100</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "純血種 / 1/劇本",
+    "timing": "major",
+    "target": "單體",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*5"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P100"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!cqyvRdTZmLvV2mLk"
+}

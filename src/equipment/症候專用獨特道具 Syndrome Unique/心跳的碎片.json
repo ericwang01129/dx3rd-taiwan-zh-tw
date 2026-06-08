@@ -1,0 +1,40 @@
+{
+  "_id": "jj1YmyLmYvcVerXW",
+  "_key": "!items!jj1YmyLmYvcVerXW",
+  "name": "心跳的碎片",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 125,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>與《神速的鼓動》相反應，寄宿著特殊聲音的金屬片，能發出表示擁有者心之所向的聲音。</p><p>你組合《神速的鼓動》進行的判定骰數+5個，使用後你受到[不良狀態：暴走]。</p><p><em>參照：IA P85</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P85"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

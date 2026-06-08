@@ -1,0 +1,40 @@
+{
+  "_id": "j0dbulfh5AX10AX5",
+  "_key": "!items!j0dbulfh5AX10AX5",
+  "name": "UGN療法 （UGNセラピー）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 125,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>以UGN所屬者為對象的心理療法系統，雖然有拘束時間過久和對私生活干涉過多等不滿的聲音，但是效果已經證明無誤，尤其是在因為戰鬥等侵蝕率激增的特工多有應用</p><p><em>效果：你的侵蝕率基本值-5（最低30），不能與其他降低侵蝕率基本值的效果同時使用</em> / <em>備註：IA新增</em> / <em>參照：IA P143</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN通用 取得條件：職業為UGN系，或是身為UGN法外者的角色",
+      "source": "IA P143"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

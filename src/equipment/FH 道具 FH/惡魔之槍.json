@@ -1,0 +1,37 @@
+{
+  "_id": "bGnJgTjZevS0lj2K",
+  "_key": "!items!bGnJgTjZevS0lj2K",
+  "name": "惡魔之槍",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 18,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>被EX背教者感染的手槍，槍中寄宿的病毒會侵蝕使用者和攻擊對象。</p><p>使用該武器進行的射擊攻擊命中時對象侵蝕率+5，使用該武器攻擊時你的侵蝕率+3。至近不可。</p><p><em>射程：20m</em> / <em>參照：IA P124</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "30",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 10,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P124"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

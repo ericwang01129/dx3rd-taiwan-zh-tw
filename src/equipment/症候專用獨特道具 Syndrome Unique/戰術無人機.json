@@ -1,0 +1,40 @@
+{
+  "_id": "HFJ2VInGSpHuHTSx",
+  "_key": "!items!HFJ2VInGSpHuHTSx",
+  "name": "戰術無人機",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 156,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>根據你的指示對隊友進行支援的無人機，想要使用需要神腦演算症候強化思考能力。</p><p>你將《支援射擊》應用于攻擊判定時使用，該攻擊的攻擊力+7，該效果一劇本可以使用三次。</p><p><em>參照：IA P89</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P89"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

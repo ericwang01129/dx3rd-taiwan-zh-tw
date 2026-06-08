@@ -1,0 +1,37 @@
+{
+  "_id": "TLsN7g5tyS0RDID4",
+  "_key": "!items!TLsN7g5tyS0RDID4",
+  "name": "熱能鞭",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 30,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>高熱化的熱能鞭，擁有高溫帶來的恐怖鋒利度，但也很難使用。</p><p>使用該武器進行的近戰攻擊判定前使用，該攻擊計算傷害時無視對象裝甲值，使用該效果的主要階段結束時該武器破壞。稀有道具。</p><p><em>射程：至近</em> / <em>參照：IA P25</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "12",
+      "difficulty": 17
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -6,
+    "attack": 10,
+    "guard": 0,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P25"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

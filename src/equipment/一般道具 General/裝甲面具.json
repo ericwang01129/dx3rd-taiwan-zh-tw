@@ -1,0 +1,34 @@
+{
+  "_id": "cJTmxTHVoioPhuts",
+  "_key": "!items!cJTmxTHVoioPhuts",
+  "name": "裝甲面具",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 120,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>覆蓋整張臉的面具，使用了防彈防刃素材，確保了防禦能力但對視野有所阻礙。</p><p>你進行的<知覺>判定骰數-1個。</p><p><em>參照：IA P35</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "3",
+      "difficulty": 9
+    },
+    "exp": 0,
+    "equipment": true,
+    "dodge": 0,
+    "init": -1,
+    "armor": 1
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "防具",
+      "source": "IA P35"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

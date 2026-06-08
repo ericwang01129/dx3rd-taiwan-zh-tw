@@ -1,0 +1,40 @@
+{
+  "_id": "frzgYW1xmMdmUIlh",
+  "_key": "!items!frzgYW1xmMdmUIlh",
+  "name": "No.UA16. 幻獸 ファントムビースト",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 151,
+  "system": {
+    "description": "<p>變異魔獸能強化、變異自己的肉體。通過將肉體置換為熊、虎這樣強大的動物，有變異魔獸能力的人可以強化自己的力量。</p><p>這時會出現一個單純的問題：他們的力量上限會是地球上存在的什麼生物？曾被稱作頂級掠食者的恐龍、支配古代海洋的巨鯊。它們的確是強大的生物，但超越者這種怪物的上限能夠被已知的動物定義嗎？</p><p>答案是，被稱作幻獸的變異魔獸。</p><p>他們的肉體可以變成假想的怪物，無論是否存在。在變異魔獸描繪能想像到的最強生物時，那怪物便會出現。</p><p><em>效果：只限症狀為【變異魔獸】的角色可取得。\n自動獲得異能【幻想的魔獸】Lv1，視為變異魔獸異能力，可使用經驗提升等級。\n幻想的魔獸\n最大等級：3\n時機：次要動作\n技能：-\n難易度：自動\n對象：自身\n射程：至近\n侵蝕：3\n限制：D露易絲\n次數：3/劇本\n效果：使用時選擇一個【肉體】以外的能力值，在這一場景中，你可以用【肉體】代替所選的能力值進行判定。效果中，進行的判定的骰子+[LV+2]個。</em> / <em>備註：變異魔獸專用</em> / <em>參照：DF P32</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA16",
+      "source": "DF P32"
+    }
+  }
+}

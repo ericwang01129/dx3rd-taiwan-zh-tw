@@ -1,0 +1,40 @@
+{
+  "_id": "mudUJmBH9WCZOeJ5",
+  "_key": "!items!mudUJmBH9WCZOeJ5",
+  "name": "No.28. 業師 (混合專用) スペシャリスト Specialist",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 28,
+  "system": {
+    "description": "<p>你有這最得意的技術，被視作必殺技的能力。</p><p>在混合種當中，你是特別不器用的。只對其中一個能力進行特訓，大家都無法理解你的行為，嘲諷你的頑固跟愚蠢。但是總有一天，你那千錘百煉的能力會發揮它的作用吧。</p><p><em>效果：該D-Lois僅限【三種混合種】的角色可以取得。\n可免費取得一個你所取得的非侯選症狀中的【限制：100%】的異能Lv1\n或免費取得一個你所取得的侯選症狀的【限制：80%】的異能Lv1\n該能力的最大等級不受到混合種的「最大等級-1」的懲罰，最大等級保持原樣\n選擇的異能的侵蝕率上升+2\n如果選擇的異能是【時機：常駐】的話，初期侵蝕+3</em> / <em>備註：三種混合種專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.28",
+      "source": ""
+    }
+  }
+}

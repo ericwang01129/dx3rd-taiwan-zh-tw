@@ -1,0 +1,68 @@
+{
+  "_id": "rg76c54eT7BgWgNw",
+  "name": "私語者 (アンシーントーカー)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/dna2.svg",
+  "folder": "AvyHUzJeOF7NG7Ul",
+  "sort": 0,
+  "system": {
+    "description": "<p>與沉睡在社會上各種場所的背教者搭話，獲得情報的異能。他們一直都在人類的身邊。</p><p>組合此異能的判定骰數+LV顆。</p><p><em>參照：規則2P180</p><p>EAP135</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "info",
+    "difficulty": "",
+    "limit": "RB",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "dice": {
+        "value": "@level"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "背教者生命體 Renegade Being",
+      "syndromeItemId": "MupaMCIUGiXa5xBa",
+      "source": "規則2P180\nEAP135"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!rg76c54eT7BgWgNw"
+}

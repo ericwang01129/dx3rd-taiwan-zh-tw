@@ -1,0 +1,40 @@
+{
+  "_id": "UKtLXLt6WOdo3A0B",
+  "_key": "!items!UKtLXLt6WOdo3A0B",
+  "name": "No.UA25. 最初的魔劍 ファーストバッド",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 160,
+  "system": {
+    "description": "<p>你是降臨事件中產生的最初的長青魔劍超越者。</p><p>事件當晚，之後被稱作“湮滅者”的少女攻擊了你，你陷入了瀕死狀態。“計劃者”都築京香將你帶出了死亡的深淵，這時你覺醒了新的力量。</p><p>你體內的背教者發生了不可逆轉的變化，成為了偽神天鎖的天敵——長青魔劍的超越者。那便是你背負上作為傷戮——謀劃大量滅絕人類的ad背教者——的對抗者，不斷戰鬥的宿命的瞬間。</p><p>與傷戮的戰鬥比起之前要更加激烈，過於強大的魔劍之力也會對你的肉體造成負擔。即使這樣，你也會手握魔劍。為了守護世界、守護日常。</p><p><em>效果：只限症狀為【長青魔劍】的角色可取得。\n裝備[類別：元型]的道具時，你進行的攻擊傷害+1d10。如果對象是天鎖，傷害再+10。如果自己的範圍攻擊對象包含天鎖，只對天鎖有效。\n裝備元型時，你每次進行攻擊都會失去5點HP。</em> / <em>備註：長青魔劍專用</em> / <em>參照：DF P37</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA25",
+      "source": "DF P37"
+    }
+  }
+}

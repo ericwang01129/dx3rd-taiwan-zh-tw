@@ -1,0 +1,64 @@
+{
+  "_id": "VbkSXld6cws6Whw7",
+  "name": "磁移 (マグネットムーブ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wolf-head.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>吸引對方的異能。</p><p>將[LV×10]m以內的對象，往你所在的接戰區域移動任意距離，</p><p>該移動可進行脫離，也可在脫離後立刻與你接戰。</p><p><em>參照：ICP54</p><p>EAP41</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "80% / 1/場景",
+    "timing": "initiative",
+    "target": "單體",
+    "range": "參照效果",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "battle"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "ICP54\nEAP41"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VbkSXld6cws6Whw7"
+}

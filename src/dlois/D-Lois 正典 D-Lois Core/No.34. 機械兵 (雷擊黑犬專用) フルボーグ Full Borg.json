@@ -1,0 +1,40 @@
+{
+  "_id": "Oi8KY4C4iBE5nC1S",
+  "_key": "!items!Oi8KY4C4iBE5nC1S",
+  "name": "No.34. 機械兵 (雷擊黑犬專用) フルボーグ Full Borg",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 34,
+  "system": {
+    "description": "<p>你的肉體有大半都被機械所取代，這多是在軍隊或是其他軍事組織下所改造的機械士兵，但也有進行自我改造獲得強大肉體的例子。</p><p>很可能，除了腦部以外全部都是機械改造的結果，但被人工皮膚所覆蓋著，外觀跟觸感和普通人類幾乎沒有差別。只有注意力強的人或是特殊的監視設備才能發現你的異常。</p><p>具體改造程度可以跟GM討論。</p><p><em>效果：只限症狀為【雷擊黑犬】的角色可取得。\n所受HP傷害固定-10，但【邪毒】的傷害不能減輕\n初期侵蝕+5\n進行知覺對決的話可能發現你的真身。</em> / <em>備註：雷擊黑犬專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.34",
+      "source": ""
+    }
+  }
+}

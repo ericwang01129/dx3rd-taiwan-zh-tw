@@ -1,0 +1,40 @@
+{
+  "_id": "QiQnNKUKQsr2N4zo",
+  "_key": "!items!QiQnNKUKQsr2N4zo",
+  "name": "No.UA08. 消散的陽炎 スぺリオル",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 143,
+  "system": {
+    "description": "<p>你曾經是[舞臺：陽炎的戰場]中沙漠幻影部隊的隊員。為了守護克洛德瓦公國，你加入了沙漠幻影傭兵部隊，在兩陣營使用超越者和背教者兵器的、地獄般的戰場上作戰。但原本應當保密的情報遭到洩露，你遭到了奇襲，沙漠幻影受到了毀滅性的打擊。將你們的情報賣給敵方的弗蘭索瓦·魯貝格已經離開了克洛德瓦，在世界各地販賣軍火。在她背後，據說是以滅絕生物為目標的組織——傷戮。</p><p>不能讓這個世界成為克洛德瓦一樣的地獄。為了犧牲的戰友們，你如此起誓。</p><p><em>效果：你是在克洛德瓦與諸多機甲兵器交戰、以不顧性命的戰鬥取得了勝利。在你以外的角色進行攻擊前使用，這次攻擊的攻擊力+10，計算傷害時無視裝甲。對象可以拒絕這一效果。這個效果1劇本最多使用3次。\n使用這個d露易絲時，你的HP失去1d10點。\n需要注意取得這個露易絲不等於可以取得[舞臺：陽炎的戰場]的專用數據。</em> / <em>參照：DF P28</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA08",
+      "source": "DF P28"
+    }
+  }
+}

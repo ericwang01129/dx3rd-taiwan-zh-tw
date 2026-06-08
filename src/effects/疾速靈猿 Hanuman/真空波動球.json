@@ -1,0 +1,64 @@
+{
+  "_id": "uVPk1rRQXgTP8AeG",
+  "name": "真空波動球",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/gorilla.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《振動球》。</p><p>用無數的振動球同時攻擊的異能。敵人會如同關在真空中一樣被粉碎。</p><p>與《振動球》組合使用。組合的判定暴擊-1(最低6)，組合的判定骰數-3個。</p><p><em>參照：BCP62</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "極限 / 1/場景",
+    "timing": "major",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "battle"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "BCP62"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!uVPk1rRQXgTP8AeG"
+}

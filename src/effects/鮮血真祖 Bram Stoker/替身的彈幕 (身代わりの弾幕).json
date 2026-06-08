@@ -1,0 +1,64 @@
+{
+  "_id": "uJZpq2zZxqj6cbz0",
+  "name": "替身的彈幕 (身代わりの弾幕)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/vampire-dracula.svg",
+  "folder": "wboZ95SHJuim4ZlG",
+  "sort": 0,
+  "system": {
+    "description": "<p>犧牲從者，減輕對象受到的傷害的異能。</p><p>於對象受到HP傷害前使用，使預定受到的傷害-20。</p><p>使用此異能的角色在主要階段結束後，HP變成0。即使處於重壓狀態也可以使用。</p><p><em>參照：EAP54</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "從者專用\n120% / LV/劇本",
+    "timing": "auto",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 10,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "鮮血真祖 Bram Stoker",
+      "syndromeItemId": "yZ26mUMQV6FowBlo",
+      "source": "EAP54"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!uJZpq2zZxqj6cbz0"
+}

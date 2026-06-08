@@ -1,0 +1,40 @@
+{
+  "_id": "kLorPG3GigGJygCf",
+  "_key": "!items!kLorPG3GigGJygCf",
+  "name": "No.3. 變異種：[症狀名] イレギュラー Irregular",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 3,
+  "system": {
+    "description": "<p>雖然超越者的能力大多已經按照症狀與效果分門別類了，但是你體內的R病毒明顯是突變的病種。有著其他超越者沒有的「還沒有確認」的異常能力。那將是你最強的底牌吧。</p><p><em>效果：取得該D露易絲時，選擇自己擁有的症狀的其中一個填入其中(ex.變異種：異變魔獸)。\n你可以從變異種專用異能中先免費取得一個異能Lv1，之後也可以消耗經驗值取得其他異能或提升異能等級。\n但是能夠成長的異能只有取得D-Lois時所選擇症候的變異種專用異能或者標記了「特殊」的變異種專用異能。\n你使用了異能的判定骰數總是會-1D，這個負面效果只能通過組合變異種專用的異能來解除</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.3",
+      "source": ""
+    }
+  }
+}

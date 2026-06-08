@@ -1,0 +1,40 @@
+{
+  "_id": "b7q0ux0Ty0VelQhe",
+  "_key": "!items!b7q0ux0Ty0VelQhe",
+  "name": "No.60. 活死人 リヴィングデッド Living Dead",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 60,
+  "system": {
+    "description": "<p>你曾經死過一次，當你回歸之後，你會發現你已經失去許多東西，甚至連你的存在都可能早已被抹消。如果夠幸運的話，距離死亡與復活的週期夠短的話，說不定還能回到原來的生活。你有可能是死在原菌手上的普通人，變成超越者之後才重生。</p><p><em>效果：受到的所有傷害－２Ｄ１０。\n回溯階段時，根據露易斯數量擲骰的骰目中，必須將最大的一個數值變成１\n（ｅｘ．假如你丟三顆骰子，丟出８，８，４。那你必須將一個８變成１，變成１，８，４，侵蝕率下降值從２０變成１３）\n以雙倍數量擲骰時亦適用，但追加擲骰則照常。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.60",
+      "source": ""
+    }
+  }
+}

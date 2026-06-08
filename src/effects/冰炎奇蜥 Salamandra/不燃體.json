@@ -1,0 +1,64 @@
+{
+  "_id": "tql7P4xgDWoVvmmB",
+  "name": "不燃體",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/frostfire.svg",
+  "folder": "fTAZJwZUEo6ka7qa",
+  "sort": 0,
+  "system": {
+    "description": "<p>表示耐溫特性的異能。</p><p>你不會被普通的火焰或寒冷造成傷害。此效果對異能攻擊無效。</p><p><em>參照：規則2P165</p><p>EAP111</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冰炎奇蜥 Salamandra",
+      "syndromeItemId": "QYuRS0HzX2yUU8d7",
+      "source": "規則2P165\nEAP111"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!tql7P4xgDWoVvmmB"
+}

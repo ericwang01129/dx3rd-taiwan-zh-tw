@@ -1,0 +1,40 @@
+{
+  "_id": "cPTsMHiSuRkPMmsH",
+  "_key": "!items!cPTsMHiSuRkPMmsH",
+  "name": "戴因斯雷夫程序 （ダインスレイフプログラム）",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 36,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>在你的腦海中為解決當前問題而創造並運作必要的模擬人格的程序。模擬人格總體來說無情而冷酷，強大程度與你捨棄的牽絆互成比例是其特徵。</p><p><em>效果：所有判定的骰數+[(7-[當前的Lois數])×2]個，[當前的Lois數]不包括Titus化的Lois、D-Lois和E-lois。</em> / <em>參照：IA P191</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P191"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

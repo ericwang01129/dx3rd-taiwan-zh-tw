@@ -1,0 +1,40 @@
+{
+  "_id": "6we1SsGyEkUAEY8T",
+  "_key": "!items!6we1SsGyEkUAEY8T",
+  "name": "時間行者 （タイムウォーカー）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 87,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>UGN中樞評議員的特權。通過接受UGN各個部門的支援，做到如同超越時間一般連續行動。</p><p><em>次數：1/場景</em> / <em>效果：先攻階段時使用，若你處於[已行動]狀態，則轉變為[未行動]\n該效果1場景可以使用1次</em> / <em>參照：IA P139</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 70,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN中樞評議會（Axis） 取得條件：職業為UGN特工A~D、UGN支部長A~D 需要GM同意 取得該類紋章的角色將會稱為UGN中樞評議會的評議員之一",
+      "source": "IA P139"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

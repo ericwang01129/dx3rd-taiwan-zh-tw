@@ -1,0 +1,37 @@
+{
+  "_id": "nLmLvgbi3F1jtyPT",
+  "_key": "!items!nLmLvgbi3F1jtyPT",
+  "name": "赤紅之盾 （紅い盾）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 111,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>強化塑膠盾，使用帶有EX背教者的素材製作，帶有些許紅色，據說使用者經常換人</p><p><em>備註：IA新增</em> / <em>參照：IA P142</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/近戰",
+    "skill": "-",
+    "add": 0,
+    "attack": 0,
+    "guard": 0,
+    "range": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN通用 取得條件：職業為UGN系，或是身為UGN法外者的角色",
+      "source": "IA P142"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

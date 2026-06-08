@@ -1,0 +1,64 @@
+{
+  "_id": "wCZrvkljlur0dxgR",
+  "name": "冰冷的擁抱",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/ice-cube.svg",
+  "folder": "fTAZJwZUEo6ka7qa",
+  "sort": 0,
+  "system": {
+    "description": "<p>從攻擊的對象那裡奪取熱量的異能。通過吸收的熱能，來回復你的生命力。</p><p>與這個異能組合的攻擊只要造成至少1點傷害，你就可以回復與造成傷害相同的HP。</p><p><em>參照：RUP19</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "吸血120% / LV/劇本",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冰炎奇蜥 Salamandra",
+      "syndromeItemId": "QYuRS0HzX2yUU8d7",
+      "source": "RUP19"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!wCZrvkljlur0dxgR"
+}

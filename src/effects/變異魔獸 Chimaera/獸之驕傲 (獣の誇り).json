@@ -1,0 +1,64 @@
+{
+  "_id": "IX1pyqo0x5AbXL2j",
+  "name": "獸之驕傲 (獣の誇り)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lion.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>藉由作為野獸的本能與驕傲打破惡劣影響的異能。</p><p>于你進行格擋時宣言，此主要階段間，你不會受到異常狀態，也不會受到現有異常狀態的效果。</p><p>即使處於重壓狀態也可以使用。</p><p><em>參照：EAP58</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "LV/場景",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "battle"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "EAP58"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!IX1pyqo0x5AbXL2j"
+}

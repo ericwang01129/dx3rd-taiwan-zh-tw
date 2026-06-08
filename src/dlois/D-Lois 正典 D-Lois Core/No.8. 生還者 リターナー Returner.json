@@ -1,0 +1,40 @@
+{
+  "_id": "L5IBvBKTnm4nx2Qh",
+  "_key": "!items!L5IBvBKTnm4nx2Qh",
+  "name": "No.8. 生還者 リターナー Returner",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 8,
+  "system": {
+    "description": "<p>你有著強大的自我，能夠從衝動中回歸，故被稱為「Returner」</p><p>確實的認知自我與所在之地，藉此從R病毒的侵蝕中守住心靈。</p><p>這可能是嚴格訓練的結果，或只是單純有絕對放不開手的記憶。</p><p><em>效果：你在回溯階段時，根據普通露易絲數量決定擲骰數後，該數量必定+3D。\n(比方說剩餘6個一般露易絲時，一倍回溯是6+3=9D，雙倍是6X2+3=15D)\n你不能使用泰特司昇華的效果中「判定骰+10D」的效果\n這個D露易絲不能跟其他D露易絲並存，也不能重複取得</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.8",
+      "source": ""
+    }
+  }
+}

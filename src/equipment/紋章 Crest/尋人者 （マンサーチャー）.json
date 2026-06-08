@@ -1,0 +1,40 @@
+{
+  "_id": "QKsRoHSboyQQTMO3",
+  "_key": "!items!QKsRoHSboyQQTMO3",
+  "name": "尋人者 （マンサーチャー）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 259,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你在FH中擔任身邊調查或者尋人工作的追蹤者的紋章</p><p><em>效果：你對角色進行的身邊調查或住所調查，相關情報收集的判定，骰子數+2個；具體對什麼判定生效，由GM決定</em> / <em>備註：IA新增</em> / <em>參照：IA P158</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH通用 取得條件：職業為FH，或是身為FH法外者的角色",
+      "source": "IA P158"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

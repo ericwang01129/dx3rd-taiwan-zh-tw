@@ -1,0 +1,40 @@
+{
+  "_id": "Q69CwBVagvEBzUOf",
+  "_key": "!items!Q69CwBVagvEBzUOf",
+  "name": "No.51. 記憶探索者 (幻象惑星專用) メモリダイバー Memory Diver",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 51,
+  "system": {
+    "description": "<p>你是被稱為「記憶探索者」的特殊的超越者。</p><p>原本幻星能力者是藉由分泌賀爾蒙來混亂對方的精神跟記憶，或反過來使對方安定。那只是一種化學反應，幻星能力者不能直接干涉他人的精神，最多只是從外面控制對方腦內物質的分泌而已。</p><p>但你卻不同，你能夠確實以假想現實的方式認知到對象的精神構造，記憶，感情。能夠操作對方的精神與情緒，還能藉此力量重新找回對方所失去的人與人之間的牽絆。但是深入同調的行為會導致自己的心靈非常的疲勞。</p><p><em>效果：只限症狀為【幻象惑星】的角色可取得。\n發動時機是自動行動。使場景內登場的一個角色的一個泰特司變回露易絲。\n必須獲得對方同意，變更的泰特司必須由對方所選擇，可以選擇已經昇華的泰特司變回露易絲。\n使用後，侵蝕上升1D10\n次數限制：劇本中一次。</em> / <em>備註：幻象惑星專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.51",
+      "source": ""
+    }
+  }
+}

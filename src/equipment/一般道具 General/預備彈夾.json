@@ -1,0 +1,40 @@
+{
+  "_id": "yvKEqwXtIlMLojUn",
+  "_key": "!items!yvKEqwXtIlMLojUn",
+  "name": "預備彈夾",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 210,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>各種步槍、榴彈炮的預備彈夾。</p><p>次要動作使用，回復一件裝備中的以下道具的使用次數：PDW、反物質步槍、AR步槍、榴彈發射器、大型擲彈炮、火焰噴射器。</p><p><em>參照：IA P45</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "2",
+      "difficulty": 10
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P45"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

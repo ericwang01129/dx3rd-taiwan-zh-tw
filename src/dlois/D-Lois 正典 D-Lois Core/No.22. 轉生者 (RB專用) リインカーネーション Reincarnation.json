@@ -1,0 +1,40 @@
+{
+  "_id": "Xjj6MiKGDvLRmxg8",
+  "_key": "!items!Xjj6MiKGDvLRmxg8",
+  "name": "No.22. 轉生者 (RB專用) リインカーネーション Reincarnation",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 22,
+  "system": {
+    "description": "<p>你有著不是你的人類的記憶，很可能是因為從誕生時就被繼承其記憶的R病毒所感染的原因吧，但就算有著人類的記憶，你不是人類的事時也不會改變。</p><p>GM許可的話，可以創造出繼承死去角色記憶的轉生者。</p><p><em>效果：只限工作為【背教者生命體】的角色可取得\n從自己取得的症狀以外的症狀中，選擇並免費獲得一個異能，其等級為[最大等級-3](最低Lv1)。取得的能力不能用經驗點升級\n但不能選擇有限制的異能，敵人專屬異能，【時機：常駐】的異能。\n取得的異能被視為【限制：100%】的異能，該能力的侵蝕率上升再+4</em> / <em>備註：RB專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.22",
+      "source": ""
+    }
+  }
+}

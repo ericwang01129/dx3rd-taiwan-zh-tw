@@ -1,0 +1,40 @@
+{
+  "_id": "74zg5g3lrXRpdlKr",
+  "_key": "!items!74zg5g3lrXRpdlKr",
+  "name": "No.CRC09. 地球監視者 ウラヌス",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 129,
+  "system": {
+    "description": "<p>你是〈舊神〉的僕從。你是被製作的類似人類的存在、還是出生於這樣的家系、或是在死亡瞬間突然覺醒，這些可以自由設定。</p><p>關於諸神，你所知道的與其他超越者相同。你的知識被嚴格封鎖，不擾亂諸神的安寧是至高使命。</p><p>你的目的是狩獵那些超越人類被容許的範圍、試圖達到神明領域的超越者，也就是原菌，並保護現在的世界，阻止〈舊日支配者〉的覺醒。換句話說，你的目的與UGN一致...至少目前是如此。 其他地球監視者中，有些人可能更直接地想要排除超越者，但你至少更為\"溫和\"，仍然想要以人類的身分監視超越者，你覺得這樣做比較好。</p><p><em>效果：你所使用的〈舊神〉之力，在數據上完全與超越者相同處理。 你的【HP最大值】+10。你在回歸判定時，一劇本一次，可以選擇任意數量的骰子重擲，也可以重擲回歸判定時額外增加的骰子。但是，必須採用重擲後的點數。\n如果你在回歸判定後是死亡狀態或侵蝕率達到100%以上，你的存在本身將從宇宙中消失。與你有關的記錄和記憶都會消失。對你的露易絲立即成為泰特斯。只有持有對你的泰特斯的角色才能像記得消逝在晨光中的夢境碎片一樣，記得你的存在。</em> / <em>參照：NC P92</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.CRC09",
+      "source": "NC P92"
+    }
+  }
+}

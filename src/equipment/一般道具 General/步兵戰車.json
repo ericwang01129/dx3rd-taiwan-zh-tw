@@ -1,0 +1,34 @@
+{
+  "_id": "HC0TEcGl8MeOTAbP",
+  "_key": "!items!HC0TEcGl8MeOTAbP",
+  "name": "步兵戰車",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 145,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/skoll/race-car.svg",
+  "system": {
+    "description": "<p>運兵裝甲車，有履帶式和輪式，在日本由於常在路上跑所以輪式比較多，UGN的車輛大部分偽裝成安保公司。全力移動：75m</p><p>稀有道具。</p><p><em>參照：IA P38</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "28",
+      "difficulty": 45
+    },
+    "exp": 0,
+    "equipment": true,
+    "dodge": 0,
+    "init": -6,
+    "armor": 12
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "防具",
+      "source": "IA P38"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "Z73wl3ZgidyI8LrT",
+  "_key": "!items!Z73wl3ZgidyI8LrT",
+  "name": "線性加農炮",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 7,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>在手臂安裝電磁加速式的槍，平常收納於手臂中</p><p>可以於先制階段裝備，使用該武器進行攻擊時，對象閃避判定骰數-2個</p><p><em>射程：50m</em> / <em>參照：IA P108</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -2,
+    "attack": 8,
+    "guard": 0,
+    "range": "50m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "IA P108"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

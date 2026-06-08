@@ -1,0 +1,40 @@
+{
+  "_id": "6mz6ryL9tgDEVNIa",
+  "_key": "!items!6mz6ryL9tgDEVNIa",
+  "name": "時之沙漏",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 36,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>沙子全部都是魔眼，不操縱重力甚至無法拿起的沙漏。</p><p>場景內角色使用[時機：自動動作]異能後使用，該異能效果無效，[限制：-]和敵人專用異能無法無效，無效的異能需要達成值的情況下達成值變為0。稀有道具。</p><p><em>參照：IA P75</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P75"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

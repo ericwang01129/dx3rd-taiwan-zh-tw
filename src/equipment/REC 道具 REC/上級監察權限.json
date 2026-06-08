@@ -1,0 +1,40 @@
+{
+  "_id": "6WXE1h5P5HyHZGKy",
+  "_key": "!items!6WXE1h5P5HyHZGKy",
+  "name": "上級監察權限",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 48,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>監察官擁有的抑制權限，不服從時最壞會受到拘束處分，身為日本支部監察官、原本部特工的羅薩的監察令許多特工感到恐懼，尤其是其排除感情論徹底的追擊被人稱為“巴斯克維爾的剃刀”。</p><p><em>REC：羅薩·巴斯克維爾</em> / <em>次數：1/劇本\n1/劇本</em> / <em>通常效果：你進行<情報：UGN>前使用，該判定達成值+10。\n該效果一劇本可以使用一次。</em> / <em>強化效果：將通常效果改變如下：\n職業或本職為[UGN]相關的角色（具體由GM決定）進行判定前使用，使其該判定骰數-10個。\n該效果一劇本可以使用一次。</em> / <em>備註：IA新增</em> / <em>參照：IA P204</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：羅薩·巴斯克維爾",
+      "source": "IA P204"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

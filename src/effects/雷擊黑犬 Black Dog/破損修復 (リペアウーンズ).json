@@ -1,0 +1,64 @@
+{
+  "_id": "JRMtirF1dJ9bUYxd",
+  "name": "破損修復 (リペアウーンズ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wolf-head.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>在負傷的地方用機械式的補強來維持機能的異能。</p><p>本異能只對症候為雷擊黑犬的角色使用，對象的HP回復[LV+1]D+【肉體】。</p><p>非戰鬥中的時候，此異能一個場景只能使用一次。</p><p><em>參照：RWP34</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "參照效果",
+    "timing": "cleanup",
+    "target": "單體",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "RWP34"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!JRMtirF1dJ9bUYxd"
+}

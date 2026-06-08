@@ -1,0 +1,64 @@
+{
+  "_id": "k0QCUQi58SjvtDZJ",
+  "name": "破壞的渦動",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/punch-blast.svg",
+  "folder": "1pCX5ZBbIY55J65u",
+  "sort": 0,
+  "system": {
+    "description": "<p>將體內的背教者活性化，激發破壞性的力量的異能。</p><p>于你對超越者造成HP傷害時使用，之後在該場景中，你的攻擊無視對象的裝甲值。</p><p><em>參照：ICP48</p><p>EAP124</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "LV/劇本",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "噬身影蛇 Oroboros",
+      "syndromeItemId": "R7Jxr26CWdNB0hjx",
+      "source": "ICP48\nEAP124"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!k0QCUQi58SjvtDZJ"
+}

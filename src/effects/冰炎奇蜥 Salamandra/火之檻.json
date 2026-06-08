@@ -1,0 +1,64 @@
+{
+  "_id": "MWu4tgNxtIflujdF",
+  "name": "火之檻",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/carl-olsen/flame.svg",
+  "folder": "fTAZJwZUEo6ka7qa",
+  "sort": 0,
+  "system": {
+    "description": "<p>在自己的周圍展開數重炎輪，阻礙對方移動的異能。</p><p>該回合間，封鎖你所在的接戰區域。此效果可任意解除，也可任意再度封鎖。</p><p><em>參照：規則2P160</p><p>EAP107</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冰炎奇蜥 Salamandra",
+      "syndromeItemId": "QYuRS0HzX2yUU8d7",
+      "source": "規則2P160\nEAP107"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!MWu4tgNxtIflujdF"
+}

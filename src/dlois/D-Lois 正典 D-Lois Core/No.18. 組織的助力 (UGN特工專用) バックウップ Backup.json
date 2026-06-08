@@ -1,0 +1,40 @@
+{
+  "_id": "DFXBelvsLlWQ3uzg",
+  "_key": "!items!DFXBelvsLlWQ3uzg",
+  "name": "No.18. 組織的助力 (UGN特工專用) バックウップ Backup",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 18,
+  "system": {
+    "description": "<p>你接受UGN的後方支持。</p><p>UGN是十幾年前設立的組織，接受包刮國際企業蘭徹斯特企業和其他企業跟國家的投資，在各方面有著重大影響力。</p><p>其內部有著世界最高級的R病毒研究組織 「研究室R」。對超越者戰鬥的精英集團「打擊獵犬」。超越者專門的醫療班「白之手」。在R病毒關聯事件中，比UGN還要強力的支援組織是不存在的。</p><p><em>效果：只限工作為【UGN特工】的角色可取得\n在任意判定前使用，將判定的能力值視為10，判定的技能視為Lv5來判定。\n使用這效果時接受侵蝕率的骰子修正跟泰特司昇華的效果。\n但該判定不能使用能力。\n(也就是說直接改成10D10+5加上其他修正)\n次數限制：劇本中三次。</em> / <em>備註：UGN特工專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.18",
+      "source": ""
+    }
+  }
+}

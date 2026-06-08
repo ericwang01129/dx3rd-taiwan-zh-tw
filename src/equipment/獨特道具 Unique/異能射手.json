@@ -1,0 +1,37 @@
+{
+  "_id": "wnzudRPiroXdfSZz",
+  "_key": "!items!wnzudRPiroXdfSZz",
+  "name": "異能射手",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 22,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>將異能以子彈擊出的手槍，射出的子彈根據症候會產生冰、火、雷、音波、爪、針甚至是破壞精神的催眠波等。</p><p>使用該武器進行攻擊時侵蝕率+1，非超越者角色不能使用。</p><p><em>射程：20m</em> / <em>參照：IA P58</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 9,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P58"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

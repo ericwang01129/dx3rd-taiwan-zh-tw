@@ -1,0 +1,64 @@
+{
+  "_id": "SmMcanhYZh61QnrI",
+  "name": "真相告白",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/cyber-eye.svg",
+  "folder": "47r01TSVVubrkaef",
+  "sort": 0,
+  "system": {
+    "description": "<p>令對方感受到共感、或者激怒對方以誘導出事實真相的異能。</p><p>對於你的一個質問，對方會不帶謊言虛假正直地回答。</p><p>GM認為有必要的話，可要求利用<交涉>進行判定，或者拒絕回答。</p><p>此時不消耗使用次數。</p><p><em>參照：RWP40</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "1/劇本",
+    "timing": "major",
+    "target": "單體",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "神腦演算 Neumann",
+      "syndromeItemId": "ohcrpvm6g5xHhvRM",
+      "source": "RWP40"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!SmMcanhYZh61QnrI"
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "9u0KuouLFmIxm8VY",
+  "name": "火之鳥的加護",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/carl-olsen/flame.svg",
+  "folder": "fTAZJwZUEo6ka7qa",
+  "sort": 0,
+  "system": {
+    "description": "<p>擴大操縱體內溫度的領域，使同伴同時回復的異能。</p><p>前提條件：《菲尼克斯之翼》。</p><p>於你使用《菲尼克斯之翼》前宣言，使其對象變更成「對象：範圍(選擇)」。</p><p><em>參照：EAP110</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "極限 / LV/劇本",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冰炎奇蜥 Salamandra",
+      "syndromeItemId": "QYuRS0HzX2yUU8d7",
+      "source": "EAP110"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!9u0KuouLFmIxm8VY"
+}

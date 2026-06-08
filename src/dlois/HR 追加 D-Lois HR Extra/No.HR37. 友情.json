@@ -1,0 +1,40 @@
+{
+  "_id": "Zvy1XxA10yML7ZoW",
+  "_key": "!items!Zvy1XxA10yML7ZoW",
+  "name": "No.HR37. 友情",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 38,
+  "system": {
+    "description": "<p><em>效果：REC：取得時選擇</em> / <em>通常效果：以你取得了其Lois的角色為對象。當對象因異能、道具、D-Lois的效果導致侵蝕率上升時使用。你代替其上升等量的侵蝕率。\n這個效果一個劇本中可以使用一次。</em> / <em>強化效果：將「通常效果」的使用次數限制變更為「1個劇本中可以使用3次」，但是，你只能將此效果應用到選擇為「REC」的角色之上。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR37",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "ot5cX3tGRJ1KpDxk",
+  "_key": "!items!ot5cX3tGRJ1KpDxk",
+  "name": "AIDA",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 46,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>戰術支援用AI，正確來說並非人工智能，而是超越者或背教者生命體精神的殘渣，其自我已經十分稀薄，裝備或者直接植入自己腦內使用。</p><p>取得時選擇兩項能力值（肉體/感覺/精神/社會），使用該能力值進行的判定，骰數+3個。你使用其他道具時視為擁有3件“精神強化手術”。</p><p><em>參照：IA P127</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "40",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P127"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

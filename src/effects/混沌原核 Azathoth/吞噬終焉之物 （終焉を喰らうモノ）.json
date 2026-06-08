@@ -1,0 +1,64 @@
+{
+  "_id": "gxXwy4clcjZ4ZQ1p",
+  "name": "吞噬終焉之物 （終焉を喰らうモノ）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wolf-head.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>將邪神因子的暴走化作自身食糧的異能。</p><p>於對象受到暴走狀態（包括變異暴走）時使用，該暴走狀態及其效果改為由你承擔（對象不會受到暴走狀態）。以該效果承受的變異暴走效果將直接適用於你，並在計算《褻瀆的存在》時視為三個異常狀態。</p><p><em>參照：NC P96</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "auto",
+    "target": "場景（選擇）",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "NC P96"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!gxXwy4clcjZ4ZQ1p"
+}

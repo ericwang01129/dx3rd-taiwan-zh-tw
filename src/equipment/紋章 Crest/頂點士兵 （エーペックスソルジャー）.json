@@ -1,0 +1,40 @@
+{
+  "_id": "dCTY5mJDDEmC3TBC",
+  "_key": "!items!dCTY5mJDDEmC3TBC",
+  "name": "頂點士兵 （エーペックスソルジャー）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 250,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/heart-key.svg",
+  "system": {
+    "description": "<p>你是傳說中的FH雇傭兵，很多FH特工雇傭過你，你的肉體、精神和直覺，全都是能被稱為紋章的最佳商品</p><p><em>效果：你的能力值（肉體/感覺/精神/社會）合計+4點；但是，單項能力值最多分配2點</em> / <em>備註：IA新增</em> / <em>參照：IA P157</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "核心紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH法外者 取得條件：沒有取得FH通用以外紋章的角色",
+      "source": "IA P157"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

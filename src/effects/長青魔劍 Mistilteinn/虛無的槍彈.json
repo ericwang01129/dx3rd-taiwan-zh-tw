@@ -1,0 +1,64 @@
+{
+  "_id": "QNGRbaV1phbdhBYy",
+  "name": "虛無的槍彈",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/zeus-sword.svg",
+  "folder": "m920eVQK9xEhuLPi",
+  "sort": 0,
+  "system": {
+    "description": "<p>元型貫穿敵人的防禦並將其無效化的異能。你的武器時常饑餓著，渴望吞噬些什麼。</p><p>組合使用[類別：元型]的武器進行的攻擊時，判定骰數-2個，計算傷害時無視對象裝甲值。對方格擋時，格擋值-[LV×5]。</p><p><em>參照：UAP22</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "饑餓120%",
+    "timing": "major",
+    "target": "-",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "長青魔劍 Mistilteinn",
+      "syndromeItemId": "prV8KorHRzKAVkva",
+      "source": "UAP22"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!QNGRbaV1phbdhBYy"
+}

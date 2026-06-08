@@ -1,0 +1,40 @@
+{
+  "_id": "bMt8g7CVcWuBmHaW",
+  "_key": "!items!bMt8g7CVcWuBmHaW",
+  "name": "404房間 （チャンバー４０４）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 427,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>對Xenos特工們的活動進行支援用的安全屋，在世界上很多街角存在，但是普通人絕對發現不了</p><p><em>次數：1/劇本</em> / <em>效果：場景開始時使用，你和同行者角色的HP回復5D10點，該場景間你和同行者角色進行的<情報：●●>判定骰數+2個\n該效果1劇本可以使用1次</em> / <em>備註：IA新增</em> / <em>參照：IA P177</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "紋章：Xenos 取得條件：職業為Xenos特工A~D、XenosRB A～D、RB A~D",
+      "source": "IA P177"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

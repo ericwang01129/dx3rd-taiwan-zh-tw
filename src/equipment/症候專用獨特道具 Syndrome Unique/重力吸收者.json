@@ -1,0 +1,37 @@
+{
+  "_id": "1mOPwTeHJxVws3cU",
+  "_key": "!items!1mOPwTeHJxVws3cU",
+  "name": "重力吸收者",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 21,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>表面裝有特殊液體金屬的盾，這種對重力有特殊感應的液體金屬能將衝擊擴散、吸收。</p><p>被無法進行格擋的攻擊命中後使用，從該攻擊中（預定）受到的HP傷害-3D10，該效果一回合可以使用一次。</p><p><em>射程：至近</em> / <em>參照：IA P74</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 2,
+    "guard": 5,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P74"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

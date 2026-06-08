@@ -1,0 +1,64 @@
+{
+  "_id": "MF2lVhbs85af0fiU",
+  "name": "通往破滅的引誘 （破滅への誘い）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>有如飛蛾撲火一般，引誘受邪神氣息觸碰者通往破滅的異能</p><p>對象立刻以盡可能接近你的方式移動（無法進行脫離），若是能做到的話會嘗試與你接戰。該異能即使是對象不在你的可視範圍之中也能使用，也就是說，能夠將對象從藏身處等地方勾引出來</p><p><em>參照：CRC P97</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "單體",
+    "range": "1000km",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P97"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!MF2lVhbs85af0fiU"
+}

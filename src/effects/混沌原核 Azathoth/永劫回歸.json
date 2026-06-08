@@ -1,0 +1,64 @@
+{
+  "_id": "ftncA60LhtSWOodV",
+  "name": "永劫回歸",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>將常人體內無法控制的邪神因子送回其本應所在之處，自身也同時消散于阿撒托斯宮殿的異能。</p><p>于同意效果的對象原菌化時使用，對象的原菌化將會被阻止（經驗點參照當前侵蝕率進行計算），其靈魂將與你一同被阿撒托斯吸收，共滅於永劫。</p><p><em>參照：NC P97</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "120%",
+    "timing": "auto",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "NC P97"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ftncA60LhtSWOodV"
+}

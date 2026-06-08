@@ -1,0 +1,37 @@
+{
+  "_id": "0QLbQhaRbf4AOWr0",
+  "_key": "!items!0QLbQhaRbf4AOWr0",
+  "name": "評議員之刃 （カウンシラーズエッジ）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 74,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>交付給成為評議員者的細身短劍，受EX背教者病毒所感染，其造成的傷害會使對方的背教者病毒不穩定化。</p><p><em>參照：IA P138</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "紋章/近戰",
+    "skill": "-",
+    "add": 0,
+    "attack": 0,
+    "guard": 0,
+    "range": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN中樞評議會（Axis） 取得條件：職業為UGN特工A~D、UGN支部長A~D 需要GM同意 取得該類紋章的角色將會稱為UGN中樞評議會的評議員之一",
+      "source": "IA P138"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

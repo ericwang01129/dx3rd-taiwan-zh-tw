@@ -1,0 +1,40 @@
+{
+  "_id": "G1ydGz33kC5N1QUd",
+  "_key": "!items!G1ydGz33kC5N1QUd",
+  "name": "感覺指向性護目鏡",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 8,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>搭載了能排除多餘的情報並為天使光環強化過的感覺賦予指向性的裝置的護目鏡。</p><p>次要動作使用，該場景間你進行【感覺】判定骰數+2個，該效果無法用於閃避判定，使用後你的侵蝕率+1。</p><p><em>參照：IA P72</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P72"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "6WYtW7CO8GJfHbpk",
+  "_key": "!items!6WYtW7CO8GJfHbpk",
+  "name": "高等票據 （ハイアーチケット）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 64,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>能將緊急情況下的移動手段立刻準備好的體制</p><p><em>次數：1/劇本</em> / <em>效果：選擇一件[購入：購入不可]以外非獨特道具的載具，你獲得選擇的載具及能夠駕駛它的臨時演員\n該效果1劇本可以使用1次</em> / <em>備註：IA新增</em> / <em>參照：IA P137</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "關聯：中樞評議員\n（コネ：アクシズ評議員）",
+      "source": "IA P137"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

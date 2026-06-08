@@ -1,0 +1,64 @@
+{
+  "_id": "ISXByJZ647wuont5",
+  "name": "消去的號令",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/ouroboros.svg",
+  "folder": "1pCX5ZBbIY55J65u",
+  "sort": 0,
+  "system": {
+    "description": "<p>與對象的<RC>進行對決，勝利的話，解除對象受到的簡易異能的效果，</p><p>並且該場景中，對象不能再使用同一招簡易異能。</p><p>該簡易異能為「時機：常駐」的話，該場景中不再受到異能的效果。</p><p><em>參照：ICP51</p><p>EAP127</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "單體",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "噬身影蛇 Oroboros",
+      "syndromeItemId": "R7Jxr26CWdNB0hjx",
+      "source": "ICP51\nEAP127"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ISXByJZ647wuont5"
+}

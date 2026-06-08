@@ -1,0 +1,64 @@
+{
+  "_id": "UkgpSffEMZi1NpsI",
+  "name": "漆天暗陽 （黒い太陽）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>將你轉變為〈外神〉其存在本身——生有漆黑發光的粘稠外皮與閃耀紅光的赤紅雙眼，包覆著無數觸手與雷鳴的殺戮者的異能。</p><p>先決條件：《虛無的觸手》</p><p>與《虛無的觸手》組合使用，於《虛無的觸手》效果中，你的<近戰>+LV，裝甲值+[LV×5]。</p><p><em>參照：NC P97</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "極限 / LV/劇本",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 6,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "NC P97"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!UkgpSffEMZi1NpsI"
+}

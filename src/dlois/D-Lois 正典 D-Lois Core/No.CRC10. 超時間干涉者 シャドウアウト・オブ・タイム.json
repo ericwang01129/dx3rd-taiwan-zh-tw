@@ -1,0 +1,40 @@
+{
+  "_id": "MkvTS8OACXPIon6T",
+  "_key": "!items!MkvTS8OACXPIon6T",
+  "name": "No.CRC10. 超時間干涉者 シャドウアウト・オブ・タイム",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 130,
+  "system": {
+    "description": "<p>你是\"伊斯之偉大種族\"。你奪取了超越者的肉體，為了調查邪神因子而在這條時間線上活動。解開背教者之謎可能會結束你們的時空漂流。</p><p>對你而言，這個肉體和周圍的社會只是觀察對象，但也不能隨意拋棄。要將意識重新傳送回6億年前需要相當的準備工作。在此之前不能被殺死，而且你也理解為了控制背教者需要維持與周圍的社會性。從這個意義上說，你與其他超越者並無不同。 此外，像西薩裡奧（NC P69）一樣，也存在使用新技術，平時保持本來的人格，只在緊急時才顯現你的人格的個體。若有GM許可，你也可以扮演這樣的個體。</p><p>值得注意的是，伊斯之偉大種族極度重視保密，即使對同族也是如此。你對於其他個體在這條時間軸上的活動幾乎一無所知。</p><p><em>效果：一場景一次，你可以通過干預時間線使某些事件變成未曾發生。具體而言，當場景中任意對象進行判定後，宣言使用D-lois，你可以將其達成值變為0。\n然而，時間干涉會大幅影響你的身心，使你的侵蝕率+[對象的成功值÷10]D，並在該劇本中降低相當於增加侵蝕率數值的【HP最大值】。如果導致【HP最大值】降至0以下，你將被時空扭曲吞噬，前往阿撒托斯的宮廷，永遠無法再參與這個遊戲。</em> / <em>參照：NC P93</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.CRC10",
+      "source": "NC P93"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "zhZ1uQOrYXwjB6j8",
+  "_key": "!items!zhZ1uQOrYXwjB6j8",
+  "name": "殺戮的聖甲蟲",
+  "folder": "pkEDzV7adwmhoSOR",
+  "sort": 4,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>寶石工藝品形狀的、兇暴的RB。扔出之後會變為昆蟲攻擊。1場景只能使用1次。</p><p>封具效果：主要動作使用，可以無視這個道具的使用次數進行攻擊，這次攻擊的對象變為範圍（選擇），傷害+2D。</p><p><em>射程：20m</em> / <em>參照：DF P41</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 20,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 封具 Sealing Tool",
+      "section": "",
+      "source": "DF P41"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

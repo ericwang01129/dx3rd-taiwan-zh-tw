@@ -1,0 +1,64 @@
+{
+  "_id": "ASNV4o2RnnBMZLEa",
+  "name": "電光楔嵌 (スパークウェッジ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-arc.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>將電擊傳入敵人的體內，妨礙其攻擊你以外的人的異能。</p><p>組合此異能的攻擊命中的話，之後對象的攻擊對象包含你以外的角色時，會受到[LV×3]點HP傷害。</p><p>此效果持續到對象的攻擊對象包含你以外的角色，或者場景結束。</p><p><em>參照：HRP77</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "單體",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "HRP77"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ASNV4o2RnnBMZLEa"
+}

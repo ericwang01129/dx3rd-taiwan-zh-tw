@@ -1,0 +1,40 @@
+{
+  "_id": "3SZkE7pi1UGVMhRM",
+  "_key": "!items!3SZkE7pi1UGVMhRM",
+  "name": "No.44. 沙塵使 (煉金化形專用) サンドマン Sand Man",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 44,
+  "system": {
+    "description": "<p>你是擅長操控砂的能力者，因此被稱為「砂之使役者」。</p><p>你的砂並非自然物，而是R病毒生成的特殊物質，夢現能力者可以無限的生成並操控這種砂子。</p><p>你有著瞬間生成砂子，使任何行動無力化。即使是斬擊，炮彈，火焰，在你的砂面前也是無力的。</p><p><em>效果：只限症狀為【煉金化形】的角色可取得。\n自動獲得異能【沙塵城壁】Lv1，可使用經驗提升等級。\n這異能視為煉金化形的異能\n同時，你不能取得跟使用【無限武器】和【百槍】\n砂塵城壁 \n最大等級：3 \n時機：自動動作 \n技能：- \n難易度：自動成功 \n對象：單體 \n射程：視界 \n侵蝕：1D10 \n限制：D露易絲 \n次數：1/劇本\n效果：對象受到HP傷害前使用，對方預定受到的HP傷害變成零。 \n該主要階段結束後，你的HP - [10-Lv]。  \n用大量的沙塵做出牆壁，防禦攻擊的能力</em> / <em>備註：煉金化形專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.44",
+      "source": ""
+    }
+  }
+}

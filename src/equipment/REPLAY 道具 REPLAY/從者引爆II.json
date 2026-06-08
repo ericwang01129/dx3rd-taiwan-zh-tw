@@ -1,0 +1,40 @@
+{
+  "_id": "fQTc3nu2zDLyzQaL",
+  "_key": "!items!fQTc3nu2zDLyzQaL",
+  "name": "從者引爆II",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 22,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>表示你從者的爆炸能夠破壞建築物或載具。</p><p><em>效果：你的從者使用《暗夜的詛咒》時，可以將進行攻擊替換為破壞該從者所在接戰區域中的一棟建築物或是一輛載具，建築物具體破壞到什麼程度由GM決定。你進行組合了《暗夜的詛咒》的判定時，決定是否應用這個效果。</em> / <em>參照：IA P190</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P190"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

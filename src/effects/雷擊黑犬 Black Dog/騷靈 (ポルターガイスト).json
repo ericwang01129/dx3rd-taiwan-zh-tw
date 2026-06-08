@@ -1,0 +1,64 @@
+{
+  "_id": "J81uHnXPHncsfDwr",
+  "name": "騷靈 (ポルターガイスト)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wolf-head.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>透過電磁力遠距操縱武器的異能。</p><p>選擇一件持有的武器。該場景中，你所進行的攻擊的攻擊力+[選擇的武器的攻擊力]，</p><p>但是選擇的武器會立刻被破壞。</p><p><em>參照：規則2P97</p><p>EAP42</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "100%",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "規則2P97\nEAP42"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!J81uHnXPHncsfDwr"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "ohcrpvm6g5xHhvRM",
+  "name": "神腦演算 Neumann",
+  "type": "syndrome",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/cyber-eye.svg",
+  "sort": 900,
+  "system": {
+    "description": "<p><strong>掌握著世上所有的才能</strong></p>\n<p>萬能的天才，這簡單而直觀地說明了神腦演算的能力。</p><p>發症者的腦內形成了被稱為「腦內回路」的神經網絡，其結果就是人類的腦袋不可能做得到的高速思考，並列思考等等的可能性被實現。</p><p>當然這也只是假說，有可能不是真實的情況。</p><p>但是神腦演算發症的超越者們，才第一次碰到之前沒看過的鎗就可以以超過專家的等級使用它，瞭解平常應該不可能瞭解的知識，並且確確實實的在各方面展現出名副其實的天才能力。</p><p>症狀名稱的由來，是發明了計算機演算基本形態的科學家，數學家馮＝諾伊曼，用諾伊曼這個單詞來代表「計算機的」意義。</p>\n<blockquote>「界限」，就是名為「常識」的枷鎖。思考也好，洞察力也好，直觀也好，解析也好，理解也好，你就是可以「作得到」。<br>這世界上沒有什麼東西是你的頭腦所不能理解的。<br>來吧，踏出超越的第一步吧。<br>「Dr. beautiful mind」如是說。</blockquote>",
+    "skillTmp": "melee",
+    "skills": {},
+    "attributes": {
+      "body": {
+        "value": 0
+      },
+      "sense": {
+        "value": 0
+      },
+      "mind": {
+        "value": 3
+      },
+      "social": {
+        "value": 1
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "english": "Neumann",
+      "chinese": "神腦演算"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ohcrpvm6g5xHhvRM"
+}

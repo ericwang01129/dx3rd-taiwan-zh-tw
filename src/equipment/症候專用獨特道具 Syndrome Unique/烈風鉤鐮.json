@@ -1,0 +1,37 @@
+{
+  "_id": "cNnpfo7j6jMNSzBV",
+  "_key": "!items!cNnpfo7j6jMNSzBV",
+  "name": "烈風鉤鐮",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 111,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>攻擊速度越快就越鋒利的單手鐮，可以投擲且投出後會回到手裡。</p><p>以[種類：射擊]使用時使用右側數據，使用該武器進行組合疾速靈猿異能攻擊的攻擊力+5。</p><p><em>射程：至近/20m</em> / <em>參照：IA P84</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "近戰/射擊",
+    "skill": "melee",
+    "add": -1,
+    "attack": 7,
+    "guard": 2,
+    "range": "至近/20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P84"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

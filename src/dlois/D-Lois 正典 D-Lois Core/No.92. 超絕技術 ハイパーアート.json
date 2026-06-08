@@ -1,0 +1,40 @@
+{
+  "_id": "aoOuHdcwgi8S3C66",
+  "_key": "!items!aoOuHdcwgi8S3C66",
+  "name": "No.92. 超絕技術 ハイパーアート",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 92,
+  "system": {
+    "description": "<p>你發明出了一項在這個時代已無法重現的先進技術。</p><p>然而，這技術實在太過先進，以至於除了你之外沒人能使用，也因此得不到任何人的認可。像是只需將一顆鐵球對準人體，就能治療傷口，又或者是看起來只是垃圾的機械塊，卻能產生超越常識的電力……你所發明的技術為何種型態，可以自由決定，但有一點是肯定的，這項技術之所以成立正是因為你的異能，因此，你的發明也只能由你來使用。</p><p><em>效果：此D-Lois只能在「舞臺：奇妙時代」中使用。\n\n你持有某個構成你發明技術核心的道具。\n取得道具「象徵機關」。\n取得此D-Lois時，你的侵蝕率基本值+3。\n\n象徵機關\n種類：其他\n購買／常備化：無法購買／無法\n解說：雖然看起來只是破銅爛鐵，但只要是你在使用，就會展現不可思議的力量。\n取得時，選擇一個你所取得的異能。在使用該異能前宣言，該異能的效果+2D。對不以骰子判定效果的異能無效。使用該效果時，侵蝕率+3。該效果一場景可以使用一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.92",
+      "source": ""
+    }
+  }
+}

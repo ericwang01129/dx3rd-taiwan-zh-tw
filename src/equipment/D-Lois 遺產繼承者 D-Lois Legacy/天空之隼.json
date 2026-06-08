@@ -1,0 +1,37 @@
+{
+  "_id": "MxYLaRIENJvpu2sX",
+  "_key": "!items!MxYLaRIENJvpu2sX",
+  "name": "天空之隼",
+  "folder": "E34ex0UnjIox4JZN",
+  "sort": 9,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>作為天空神化身的獵隼雕像，能像真正的獵隼一樣飛到空中襲擊敵人。</p><p>取得時從【感覺】【精神】中選擇一項，該能力值+2。你進行的射擊攻擊達成值+4。</p><p>代價：契約者會害怕黑暗。侵蝕率基本值+5。</p><p><em>射程：150m</em> / <em>備註：IA新增</em> / <em>參照：IA P118</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 7,
+    "guard": 0,
+    "range": "150m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 遺產繼承者 D-Lois Legacy",
+      "section": "",
+      "source": "IA P118"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

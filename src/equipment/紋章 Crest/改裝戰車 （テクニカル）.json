@@ -1,0 +1,40 @@
+{
+  "_id": "VKFolteh4CGdNO20",
+  "_key": "!items!VKFolteh4CGdNO20",
+  "name": "改裝戰車 （テクニカル）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 354,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/skoll/race-car.svg",
+  "system": {
+    "description": "<p>各個組織在抗爭中使用的，進行了武裝改造的皮卡車</p><p><em>效果：技能：<駕駛：四輪>   攻擊力：6   行動值：-5   裝甲值：6   全力移動：100m\n搭乘期間，戰鬥移動+20m，且視為裝備了可以使用的榴彈發射器</em> / <em>參照：IA P169</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/載具",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "鴻央會 取得條件：職業為黑社會或是刺客的角色",
+      "source": "IA P169"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

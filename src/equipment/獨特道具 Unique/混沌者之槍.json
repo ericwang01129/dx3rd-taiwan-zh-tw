@@ -1,0 +1,37 @@
+{
+  "_id": "VnW2SmQekdqmj2lH",
+  "_key": "!items!VnW2SmQekdqmj2lH",
+  "name": "混沌者之槍",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 5,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>被EX背教者感染而形狀變化的長槍，能夠與複數症候的異能組合的攻擊發生強大的反應。</p><p>該武器進行的攻擊判定中組合了兩種以上症候的異能（一般異能除外）時判定骰數+3個。雙手持握。</p><p><em>射程：至近</em> / <em>參照：IA P56</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 12,
+    "guard": 4,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P56"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

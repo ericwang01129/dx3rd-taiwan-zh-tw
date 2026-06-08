@@ -1,0 +1,37 @@
+{
+  "_id": "OoccUsfRc7NnZ2gF",
+  "_key": "!items!OoccUsfRc7NnZ2gF",
+  "name": "三連打樁機",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 29,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>使用三發40mm彈藥聯裝加速的特殊結晶鋼制打樁機，作為UGN開發的武器普及。</p><p>使用該武器進行的近戰攻擊判定前使用，該攻擊的攻擊力+10。該效果一劇本可以使用三次。搭載火器。稀有道具。</p><p><em>射程：至近</em> / <em>參照：IA P25</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "12",
+      "difficulty": 46
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -4,
+    "attack": 6,
+    "guard": 4,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P25"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

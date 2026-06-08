@@ -1,0 +1,37 @@
+{
+  "_id": "HgCooNxQHXJK0I8O",
+  "name": "幻象惑星 Solaris",
+  "type": "syndrome",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "sort": 1200,
+  "system": {
+    "description": "<p><strong>幻惑的泉源</strong></p>\n<p>幻象惑星的發症者，可以在自身體內生成各式各樣的藥品，也就是說，他們自身體內就有如化學工廠一樣，不僅可以供給自己使用，也可以以氣體或者液體的形式放出體外，影響到其他人。</p><p>前者的異能包含了腦內麻藥的生成，提高身體能力，促進治癒能力，後者可以加強痛覺刺激，引起麻痹，甚至產生幻覺，恐怖感，又或者是記憶障礙之類的異能。</p><p>再者，Solaris這個名字乃是行星自體擁有意志，並且讓在其上的住民看到幻覺的有名SF小說作品中得出的。</p>\n<blockquote>我是獨自一人的投影技師。<br>名為夢的幻燈片，投影在名為意識的投影屏幕上。<br>人生不過就是神經細胞所產生的有如泡沫般的劇場，而人只是悲哀的小丑罷了。<br>就這樣在夢中死去，這不是很美好的一件事情嗎？<br>S級特工「電影樂園」的獨白。</blockquote>",
+    "skillTmp": "melee",
+    "skills": {},
+    "attributes": {
+      "body": {
+        "value": 0
+      },
+      "sense": {
+        "value": 0
+      },
+      "mind": {
+        "value": 1
+      },
+      "social": {
+        "value": 3
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "english": "Solaris",
+      "chinese": "幻象惑星"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!HgCooNxQHXJK0I8O"
+}

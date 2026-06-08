@@ -1,0 +1,64 @@
+{
+  "_id": "3kbrq6hSbO6QqgHX",
+  "name": "十德指",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wing-cloak.svg",
+  "folder": "RXR6u4iWhThVDoog",
+  "sort": 0,
+  "system": {
+    "description": "<p>將指尖變形成各種形狀，替代專用工具的異能。</p><p>想要的話也可以替代萬能鑰匙。不管多難的作業都能像熟練的專家一樣精通。</p><p>GM認為有必要的話，可要求用<知識：機械工學>進行判定。</p><p><em>參照：規則2P125</p><p>EAP71</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "流亡畸體 Exile",
+      "syndromeItemId": "kPOoy0czVl8GhmK7",
+      "source": "規則2P125\nEAP71"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!3kbrq6hSbO6QqgHX"
+}

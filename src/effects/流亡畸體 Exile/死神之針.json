@@ -1,0 +1,68 @@
+{
+  "_id": "PVYUxLREVBmGItgr",
+  "name": "死神之針",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wing-cloak.svg",
+  "folder": "RXR6u4iWhThVDoog",
+  "sort": 0,
+  "system": {
+    "description": "<p>將頭髮像針一樣射出的異能。</p><p>進行「攻擊力：+[LV×2]」的射擊攻擊，並且會使對象的回避判定骰數-2顆。</p><p>此攻擊不能以與你接戰的角色為對象，不能加上裝備的武器的攻擊力。</p><p><em>參照：規則2P120</p><p>EAP67</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "ranged",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*2"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "流亡畸體 Exile",
+      "syndromeItemId": "kPOoy0czVl8GhmK7",
+      "source": "規則2P120\nEAP67"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!PVYUxLREVBmGItgr"
+}

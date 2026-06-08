@@ -1,0 +1,64 @@
+{
+  "_id": "3FRHyJa5EZJPB0wt",
+  "name": "真理的顯現 （真理の現出）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>你的恐怖將使現實與虛構的境界崩壞，使人超越幻夢境幻視阿撒托斯宮殿的異能。</p><p>該場景間，持有對你恐懼異常狀態的角色進行的判定達成值為[LV×3]以下時，將視為大失敗。</p><p><em>參照：NC P99</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "恐怖\n120%",
+    "timing": "setup",
+    "target": "場景",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 6,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "NC P99"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!3FRHyJa5EZJPB0wt"
+}

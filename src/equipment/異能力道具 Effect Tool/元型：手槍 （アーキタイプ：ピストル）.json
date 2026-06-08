@@ -1,0 +1,37 @@
+{
+  "_id": "RjOht2l1eeJSJfY2",
+  "_key": "!items!RjOht2l1eeJSJfY2",
+  "name": "元型：手槍 （アーキタイプ：ピストル）",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 54,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>《弑神之刃》作出的手槍。至近距離也可以方便使用的射擊用武器元型。</p><p><em>射程：20m</em> / <em>參照：UAP26</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊/元型",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 2,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "UAP26"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

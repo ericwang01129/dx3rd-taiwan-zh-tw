@@ -1,0 +1,37 @@
+{
+  "_id": "ggaJS0lRIC26gfjO",
+  "_key": "!items!ggaJS0lRIC26gfjO",
+  "name": "重力弓",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 25,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/bow-arrow.svg",
+  "system": {
+    "description": "<p>被調整為能將《瞬速之刃》加速箭矢的能力最大化的弓。</p><p>使用該武器組合《瞬速之刃》進行的攻擊判定骰數+2個。雙手持握。至近不可。</p><p><em>射程：50m</em> / <em>參照：IA P74</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 9,
+    "guard": 0,
+    "range": "50m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P74"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

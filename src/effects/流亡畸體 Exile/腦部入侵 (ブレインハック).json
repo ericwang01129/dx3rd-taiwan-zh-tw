@@ -1,0 +1,64 @@
+{
+  "_id": "MBHdllfjjgg3K5i5",
+  "name": "腦部入侵 (ブレインハック)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/brain-leak.svg",
+  "folder": "RXR6u4iWhThVDoog",
+  "sort": 0,
+  "system": {
+    "description": "<p>將自己的一部分潛伏在他人體內，引發憎惡的異能。</p><p>組合此異能的攻擊命中的話，對象受到以你選擇的場景內一人為對象的憎惡狀態。</p><p><em>參照：規則2P122</p><p>EAP68</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "1/場景",
+    "timing": "major",
+    "target": "單體",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 10,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "battle"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "流亡畸體 Exile",
+      "syndromeItemId": "kPOoy0czVl8GhmK7",
+      "source": "規則2P122\nEAP68"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!MBHdllfjjgg3K5i5"
+}

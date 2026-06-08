@@ -1,0 +1,40 @@
+{
+  "_id": "j6YB7VLxgkvopmVI",
+  "_key": "!items!j6YB7VLxgkvopmVI",
+  "name": "No.79. 名將 コマンダー",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 79,
+  "system": {
+    "description": "<p>在決定戰局走勢的眾多因素中，無論是單個士兵的能力與訓練，還是作為硬件的兵器的性能，這些都至關重要，這點無需爭論。</p><p>然而，比這些更重要的是，那些作為指揮官的存在。如果無法將這些硬件進行統合、運用，那麼作為「軟件」的軍隊就無法正常運作。越是現代化的戰爭，越是如此。一百匹由一隻羊領導的狼，終究不敵由一隻狼領導的一百隻羊。</p><p>士兵們知道，唯有卓越的將領，才能帶領他們活著回到家人身邊。因此，無論命令多麼艱苦，或看似多麼無謀，他們都願意相信這名將領，追隨其步伐，即使面對再危險的戰場，也能奮勇向前。</p><p><em>效果：此D-Lois只能在「舞臺：陽炎戰場」中使用。你免費取得異能【名將的指揮】Lv1，可使用經驗提升等級。\n名將的指揮\n最大等級：3 \n時機：準備階段 \n技能：- \n難易度：自動成功 \n對象：場景(選擇) \n射程：視界\n侵蝕值：4 \n限制：-\n效果：體現出作為名將的卓越戰術指揮能力的異能。\n同意的對象立即進行一次戰鬥移動，該回合內，對象的主要動作判定骰數增加LV個。此異能無法以自己為對象。\n該回合內，你的【行動值】變為1。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.79",
+      "source": ""
+    }
+  }
+}

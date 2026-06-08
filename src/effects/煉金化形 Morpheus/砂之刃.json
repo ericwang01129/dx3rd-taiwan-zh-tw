@@ -1,0 +1,68 @@
+{
+  "_id": "gWD76vTo1pEGxl99",
+  "name": "砂之刃",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "folder": "1c2f74fWFU3n9X1W",
+  "sort": 0,
+  "system": {
+    "description": "<p>將沙子變成刃狀飛出，攻擊敵人的異能。沙子的形狀可以隨意志無限變換，成為巨大的刀刃切斷敵人。</p><p>進行「攻擊力：+[LV+2]」的射擊攻擊。格擋此攻擊的話，該格擋的格擋值-5。</p><p><em>參照：規則2P136</p><p>EAP83</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 10,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level+2"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "煉金化形 Morpheus",
+      "syndromeItemId": "VAwDGRpXdkn7vZjE",
+      "source": "規則2P136\nEAP83"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!gWD76vTo1pEGxl99"
+}

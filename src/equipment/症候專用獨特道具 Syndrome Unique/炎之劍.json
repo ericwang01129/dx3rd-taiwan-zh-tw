@@ -1,0 +1,37 @@
+{
+  "_id": "eRRZdOn4GPpaSgzG",
+  "_key": "!items!eRRZdOn4GPpaSgzG",
+  "name": "炎之劍",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 291,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>傳說為克圖格亞為了消滅奈亞拉托提普所鍛，</p><p>裝備中，【行動值】-5。與風暴之矛一同用於《複數武器》時，這件武器的攻擊力+10。此效果無法疊加。</p><p><em>射程：至近</em> / <em>參照：NC P111</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 12,
+    "guard": 2,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "NC P111"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

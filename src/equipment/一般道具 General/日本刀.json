@@ -1,0 +1,37 @@
+{
+  "_id": "2kd652hDG7eTpt4l",
+  "_key": "!items!2kd652hDG7eTpt4l",
+  "name": "日本刀",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 15,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/katana.svg",
+  "system": {
+    "description": "<p>刀身有些弧度的單刃劍，作為藝術品也具備一定的價值，也有很多愛好者。古刀有作為古董的價值，現代刀在美觀的同時也有作為武器的威嚇力。</p><p><em>射程：至近</em> / <em>參照：IA P23</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "5",
+      "difficulty": 11
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 5,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P23"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

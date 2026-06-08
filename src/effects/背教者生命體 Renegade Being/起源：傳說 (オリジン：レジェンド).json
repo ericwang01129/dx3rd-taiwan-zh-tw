@@ -1,0 +1,64 @@
+{
+  "_id": "ViIbH9CAyneao1xf",
+  "name": "起源：傳說 (オリジン：レジェンド)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/dna2.svg",
+  "folder": "AvyHUzJeOF7NG7Ul",
+  "sort": 0,
+  "system": {
+    "description": "<p>表示你是由謠言、都市傳說或者集合意識等變成的背教者生命體。</p><p>該場景中，你使用【精神】的判定達成值+[LV×2]。</p><p><em>參照：規則2P180</p><p>EAP135</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "RB",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "背教者生命體 Renegade Being",
+      "syndromeItemId": "MupaMCIUGiXa5xBa",
+      "source": "規則2P180\nEAP135"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ViIbH9CAyneao1xf"
+}

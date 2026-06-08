@@ -1,0 +1,37 @@
+{
+  "_id": "prV8KorHRzKAVkva",
+  "name": "長青魔劍 Mistilteinn",
+  "type": "syndrome",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/zeus-sword.svg",
+  "sort": 1500,
+  "system": {
+    "description": "<p><strong>心魂之劍,斬斷神明</strong></p>\n<p>新的威脅與希望</p><p>某天，“那個”突然出現了。</p><p>那個落在東京近郊N市的物體，使得世界產生了更進一步的變化。</p><p>降臨種與之後誕生的新症候群瞬間改變了這個世界的局勢，新的超越者成為了世界的威脅。</p><p>如同為了對抗威脅一般，長青魔劍症候群誕生了。</p><p>這個症候群的特徵是能夠誕生出獨自的武器——“元型”。</p><p>煉金化形為首的其他症候群也可以製造武器，但每個宿有長青魔劍的超越者只能夠製作出一把武器，這就是他們的獨特之處。</p><p>以超越者的性命為食糧，製造出世上僅有一把的武器，將其強化到極限。這就是長青魔劍的特性。</p><p>弑神的武器</p><p>元型具備對抗偽神天鎖的特性。</p><p>某些武器可以對偽神天鎖發揮出堪稱特攻的效果，也有某些武器能夠吞噬、打破他們的異能。</p><p>如同被稱作對抗種的特殊背教者一般，它們只會對偽神天鎖發揮出特別的效果。</p><p>因此，人們認為長青魔劍是能打倒它們的最後的希望。</p>\n<blockquote>那是為殺死敵人而創造的形體。<br>名為弑神的故事的元型。<br>那是由你的生命所誕生的武器。<br>是抵抗世界的意志的具現。<br>那是為了守護這個世界的力量。<br>是留給你的最後的依靠。<br>若你拒絕終結，<br>我有一個提案要向你提出。<br>——“計劃者”都築京香</blockquote>",
+    "skillTmp": "melee",
+    "skills": {},
+    "attributes": {
+      "body": {
+        "value": 2
+      },
+      "sense": {
+        "value": 2
+      },
+      "mind": {
+        "value": 0
+      },
+      "social": {
+        "value": 0
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "english": "Mistilteinn",
+      "chinese": "長青魔劍"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!prV8KorHRzKAVkva"
+}

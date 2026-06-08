@@ -1,0 +1,37 @@
+{
+  "_id": "DZp0fhNIgCiDYqGO",
+  "_key": "!items!DZp0fhNIgCiDYqGO",
+  "name": "元型：火炮",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 57,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-bow.svg",
+  "system": {
+    "description": "<p>《弑神之刃》作出的炮擊用重火器。雖然有壓倒性的火力，但打出一擊就會粉碎。</p><p>攻擊後武器會被破壞。兩手裝備。不可攻擊至近距離。</p><p><em>射程：200m</em> / <em>參照：UAP27</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊/元型",
+    "skill": "ranged",
+    "add": -4,
+    "attack": 3,
+    "guard": 0,
+    "range": "200m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "UAP27"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

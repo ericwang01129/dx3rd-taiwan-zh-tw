@@ -1,0 +1,68 @@
+{
+  "_id": "aVz8MtN0MPSqVkAo",
+  "name": "鋼之顎",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/grim-reaper.svg",
+  "folder": "FmovFwS0XlDsBEPd",
+  "sort": 0,
+  "system": {
+    "description": "<p>操縱領域內的機械、車輛等硬物對對象進行攻擊。</p><p>進行「攻擊力:+7」的射擊攻擊，該攻擊無視對象的裝甲值。</p><p>不能攻擊與你同一個接戰區的對象。</p><p><em>參照：RWP41</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "LV/場景",
+    "timing": "major",
+    "target": "-",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "battle"
+    },
+    "attributes": {
+      "attack": {
+        "value": "7"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冥府領域 Orcus",
+      "syndromeItemId": "VkIuxIHuGC4SwBN8",
+      "source": "RWP41"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!aVz8MtN0MPSqVkAo"
+}

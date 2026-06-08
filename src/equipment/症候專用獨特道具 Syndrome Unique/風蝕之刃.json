@@ -1,0 +1,37 @@
+{
+  "_id": "NLbPWxlrhQ3HSOTr",
+  "_key": "!items!NLbPWxlrhQ3HSOTr",
+  "name": "風蝕之刃",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 112,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>將強腐蝕性的氣體使用疾速靈猿操縱振動的能力構成劍型的武器，可以將各種物質用腐蝕氣體溶解切斷。</p><p>次要動作使用，該場景間可以作為武器使用。使用該武器進行的攻擊無視對象裝甲值。</p><p><em>射程：至近</em> / <em>參照：IA P84</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 9,
+    "guard": 0,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P84"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

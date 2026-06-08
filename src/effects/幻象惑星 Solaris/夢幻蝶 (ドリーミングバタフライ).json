@@ -1,0 +1,64 @@
+{
+  "_id": "Hx3hJWf64y3oELok",
+  "name": "夢幻蝶 (ドリーミングバタフライ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>生成支援他人身心持續強化的物質。</p><p>此異能的對象不能為自己。本場景間，對象的一個能力值+LV。</p><p>以此效果增加的能力值不會進行副能力值的再計算，此異能不能以單體以外為對象。</p><p><em>參照：RWP43</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "80% / 1/場景",
+    "timing": "setup",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": "1D10"
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "battle"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "RWP43"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Hx3hJWf64y3oELok"
+}

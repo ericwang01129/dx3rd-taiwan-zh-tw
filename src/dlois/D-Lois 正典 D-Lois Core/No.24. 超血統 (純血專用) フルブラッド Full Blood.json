@@ -1,0 +1,40 @@
+{
+  "_id": "n6oO4Qp1h6BrzBjv",
+  "_key": "!items!n6oO4Qp1h6BrzBjv",
+  "name": "No.24. 超血統 (純血專用) フルブラッド Full Blood",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 24,
+  "system": {
+    "description": "<p>你的能力比起其他純血種更加的純粹，將限定的一個能力更加的強化，甚至能跟原菌的能力匹敵。但是據說也更容易發生暴走狀態，也有著潛在的「比誰都更加純粹」的自尊心。</p><p><em>效果：只限血統為【純血種】的角色可取得\n從習得的異能中選擇一個異能，該異能Lv+1，最大等級+2\n但你不能取得【結界化】【復蘇】【集中】【反射】以外的一般異能</em> / <em>備註：純血專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.24",
+      "source": ""
+    }
+  }
+}

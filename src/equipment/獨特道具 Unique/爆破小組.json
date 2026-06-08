@@ -1,0 +1,34 @@
+{
+  "_id": "Cq6M4rEHBz4d3VWg",
+  "_key": "!items!Cq6M4rEHBz4d3VWg",
+  "name": "爆破小組",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 94,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>攜帶大範圍殲滅裝備的戰鬥部隊，他們會聽從你的指示迅速殲滅敵人。</p><p>與“攻堅小組”同時使用，使用“攻堅小組”效果進行的射擊攻擊變為[對象：範圍（選擇）]，該效果的對象優先級大於組合異能的對象，該效果一劇本可以使用一次。</p><p><em>參照：IA P67</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P67"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

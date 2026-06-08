@@ -1,0 +1,40 @@
+{
+  "_id": "SSZYsf37mOdaXi7Z",
+  "_key": "!items!SSZYsf37mOdaXi7Z",
+  "name": "No.HR08. 蜘蛛之巢",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 9,
+  "system": {
+    "description": "<p><em>效果：REC：玉野樁</em> / <em>通常效果：取得該D-Lois時，指定一項技能。該技能的等級+4。\n將因D-lois而提升前後的數值按照像是5(9)這樣的格式作分別記錄，使用技能判定時採用提升後的後者，但是成長技能所需的經驗則由提升前的前者決定。\n取得這個D-Lois的話，你的侵蝕率基本值+2。</em> / <em>強化效果：於使用「通常效果」所指定的技能進行的判定前使用。此次判定的達成值+4。這個效果一個劇本可以使用一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR08",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "AmvMrxMP3sD28vxy",
+  "_key": "!items!AmvMrxMP3sD28vxy",
+  "name": "壓縮瓦斯刀",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 19,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/katana.svg",
+  "system": {
+    "description": "<p>匕首握柄內部裝有小型氣壓瓶，突刺後從刀尖噴射出去可以對敵人的體內造成極大的破壞。</p><p>使用該武器進行的近戰攻擊傷害擲骰前使用，該攻擊的攻擊力+5，該效果一劇本可以使用一次。</p><p><em>射程：至近</em> / <em>參照：IA P24</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "7",
+      "difficulty": 13
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 2,
+    "guard": 0,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P24"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

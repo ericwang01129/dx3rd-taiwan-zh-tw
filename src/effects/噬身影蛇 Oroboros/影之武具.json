@@ -1,0 +1,64 @@
+{
+  "_id": "gi93rAbKyTE2sBo8",
+  "name": "影之武具",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/shadow-grasp.svg",
+  "folder": "1pCX5ZBbIY55J65u",
+  "sort": 0,
+  "system": {
+    "description": "<p>用影子製作出武器的複製品。</p><p>取得一個「製作並裝備武器(防具)」的「限制：－」異能。</p><p>此效果製作的武器攻擊力與格擋值-1(最低0)，防具裝甲值-2(最低0)。</p><p><em>參照：ICP46</p><p>EAP122</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "參照效果",
+    "limit": "參照效果",
+    "timing": "-",
+    "target": "參照效果",
+    "range": "參照效果",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": "參照效果"
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "噬身影蛇 Oroboros",
+      "syndromeItemId": "R7Jxr26CWdNB0hjx",
+      "source": "ICP46\nEAP122"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!gi93rAbKyTE2sBo8"
+}

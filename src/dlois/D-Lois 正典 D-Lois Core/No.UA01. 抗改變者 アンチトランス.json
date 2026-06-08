@@ -1,0 +1,40 @@
+{
+  "_id": "XlsKlLI3hIOxfIwu",
+  "_key": "!items!XlsKlLI3hIOxfIwu",
+  "name": "No.UA01. 抗改變者 アンチトランス",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 136,
+  "system": {
+    "description": "<p>你受到了AD背教者的侵蝕，但你抵抗住了侵蝕，獲得了新的力量。</p><p>AD背教者的特徵之一是被稱作轉化異能的異形的異能。原本只有偽神天鎖症候的RB可以使用這種力量，最近收到報告稱在AD背教者的侵蝕中倖存的超越者中也發現了類似轉化異能的異能。他們被稱作“抗改變者”。</p><p>他們的精神仍在被ad背教者侵蝕，因此UGN內部也有人認為他們很危險。</p><p><em>效果：你可以選擇一個符合自己症候的抗改變者專用異能力並取得LV1，不需要消耗經驗。可使用經驗取得新的抗改變者專用異能或提升等級。\n取得時，你的衝動變更為【改變】，衝動的初始侵蝕率為30。此外，你無法取得衝動異能。</em> / <em>參照：DF P25</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA01",
+      "source": "DF P25"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "4Ghd0NLZm1xdVXtG",
+  "_key": "!items!4Ghd0NLZm1xdVXtG",
+  "name": "罪之鐵枷",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 284,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>套在背教者生命的手腕或腳踝上、無法卸除的金屬枷鎖。你所生成的一切鎖鏈皆與此枷鎖相連。</p><p>你使用《起源：人類》時，從技能中選擇一項。在該次《起源：人類》的效果期間，你進行所選技能的判定，其達成值+4。</p><p>每次使用《起源：人類》時，可重新選擇技能。</p><p><em>參照：DF P23</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "DF P23"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

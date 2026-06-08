@@ -1,0 +1,37 @@
+{
+  "_id": "SoK5lBzvOhay48dq",
+  "_key": "!items!SoK5lBzvOhay48dq",
+  "name": "破夜拂曉",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 36,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>被天使光環EX背教者感染的激光炮，發射需要蓄力，但其火力能一擊熔斷高樓。</p><p>準備階段使用，該回合間該武器攻擊力使用右側數據，你的行動值-10。使用該武器進行的攻擊無視裝甲值。至近不可。</p><p><em>射程：200m</em> / <em>參照：IA P59</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 75,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -2,
+    "attack": 0,
+    "guard": 0,
+    "range": "200m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P59"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

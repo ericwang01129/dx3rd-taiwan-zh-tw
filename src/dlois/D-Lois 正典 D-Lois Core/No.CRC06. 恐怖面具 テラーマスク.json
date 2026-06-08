@@ -1,0 +1,40 @@
+{
+  "_id": "RmHXuLflMS9dA0O1",
+  "_key": "!items!RmHXuLflMS9dA0O1",
+  "name": "No.CRC06. 恐怖面具 テラーマスク",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 126,
+  "system": {
+    "description": "<p>你是詛咒之\"面具\"的持有者，這個面具被認為就是渴望流血的〈舊日支配者〉本身，或是其顯現。</p><p>創造\"面具\"的是何者可以自由決定。可能是舒布・尼古拉絲，可能是夏烏戈納爾・法格恩，可能是加塔諾托亞或格拉基，也可能是未知的全新〈舊日支配者〉。</p><p>無論如何，你絕對不會想要放開\"面具\"，即使不得不放手時也會盡可能讓它保持在能立刻拿到的地方。而一旦進入戰鬥，你必定會戴上那個\"面具\"（裝備不需要行動。不知何時它就已經裝在你的臉上了）。</p><p><em>效果：你裝備的名稱包含\"電鋸\"的武器【暫時包括：電鋸（IA P24）鏈鋸劍（IA P57）】的\"命中\"變更為\"±0\"，傷害擲骰時無視對象的[你目前的侵蝕率÷10]點裝甲值。\n你的主要動作必須盡可能攻擊你以外的角色。也就是說，如果你停留在只有同伴的接戰區，就必須攻擊同伴（不需要攻擊自己。\"面具\"不會放開你這樣出色的奴隸）。該場景中沒有敵人的場合，此限制不適用。\n你脫離有敵對者的接戰區，或從戰鬥中的場景退場時，為了抵抗殺戮衝動，侵蝕率上升2點。\n取得此D-Lois時，你的侵蝕率基本值+3。</em> / <em>參照：NC P91</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.CRC06",
+      "source": "NC P91"
+    }
+  }
+}

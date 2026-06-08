@@ -1,0 +1,37 @@
+{
+  "_id": "dHgpGtUnz9Sao6NB",
+  "_key": "!items!dHgpGtUnz9Sao6NB",
+  "name": "閃電手槍",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 40,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>能射出帶著電擊的子彈的自動手槍，因為是充電式所以攻擊需要充能。</p><p>次要動作使用，該主要階段間攻擊力使用右側數值，裝備複數“閃電手槍”時可以在一個次要動作中變更全部“閃電手槍”的攻擊力。</p><p><em>射程：20m</em> / <em>參照：IA P76</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 3,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P76"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_id": "hzMuySIbZHUSR4W8",
+  "name": "星光火花 （アストラルスパーク）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/carl-olsen/flame.svg",
+  "folder": "m920eVQK9xEhuLPi",
+  "sort": 0,
+  "system": {
+    "description": "<p>解放從身體深處迸出的火花的異能。</p><p>前提條件：《星光寒冰》或《星光火焰》</p><p>與《星光寒冰》或《星光火焰》同時使用，這個主要階段進行的攻擊的攻擊力+[LV×4]，判定骰數-2個。</p><p><em>參照：UAP21</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "極限",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*4"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "長青魔劍 Mistilteinn",
+      "syndromeItemId": "prV8KorHRzKAVkva",
+      "source": "UAP21"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!hzMuySIbZHUSR4W8"
+}

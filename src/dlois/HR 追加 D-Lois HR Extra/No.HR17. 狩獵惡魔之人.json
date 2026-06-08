@@ -1,0 +1,40 @@
+{
+  "_id": "bhACAy7YWA0ebbDY",
+  "_key": "!items!bhACAy7YWA0ebbDY",
+  "name": "No.HR17. 狩獵惡魔之人",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 18,
+  "system": {
+    "description": "<p><em>效果：REC：春日恭二</em> / <em>通常效果：於傷害擲骰前使用。將一個Lois昇華為Titus，使得此次傷害增加5D10。這個效果一個劇本之中最多可以使用一次。</em> / <em>強化效果：以「通常效果」Titus化的Lois為[Lois:春日恭二]時，所增加的傷害值額外再增加5D10（合計10D10）。即使因此而導致REC被Titus化，這個效果也能作為特例生效</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR17",
+      "source": ""
+    }
+  }
+}

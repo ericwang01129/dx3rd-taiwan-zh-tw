@@ -1,0 +1,40 @@
+{
+  "_id": "bNPve0iGZnGitOSW",
+  "_key": "!items!bNPve0iGZnGitOSW",
+  "name": "載具尖刺",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 204,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>將使用車輛碰撞時的破壞力強化的撞角等部件，安裝後重量增加所以操縱性能低下。</p><p>取得時選擇你常備化的一件載具，該載具攻擊力+3，行動值-3。</p><p><em>參照：IA P45</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "12",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P45"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

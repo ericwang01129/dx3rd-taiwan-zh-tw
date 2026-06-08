@@ -1,0 +1,40 @@
+{
+  "_id": "HKCIecIBTAZiHtnB",
+  "_key": "!items!HKCIecIBTAZiHtnB",
+  "name": "No.84. 惡魔的右臂 デビルハンド",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 84,
+  "system": {
+    "description": "<p>你是協助統治世界的FH的超越者之一，但並非僅僅是一名普通的協力者。</p><p>無論是都築京香、春日恭二、日下部仁、還是藥王寺結希，這些名震世界的FH幹部與特工都認可了你的實力，視你為一騎當千的超越者。</p><p>法外者、特工、UGN之子、FH之子——你以何種身份、懷抱何種想法與FH建立聯繫皆可自由設定。是被某位FH幹部的魅力所吸引？還是為了在FH內部爬上更高的地位，滿足自己的野心？或者因為某人對你的能力加以賞識，你心懷恩情而效忠對方？具體理由可以與GM商討並自由決定。</p><p>唯一確定的是，你已臣服於某個FH高層，並為對方全身心地奉獻自己的力量。</p><p>當你為自己的主人戰鬥時，你能超越極限，完全發揮自身的力量。</p><p><em>效果：此D-Lois只能在「舞臺：終焉世界線」中取得。\n\n當你取得此D-Lois時，需選擇一名FH角色並與之建立固定露易絲。\n關係：主人\n感情：可以自由決定。\n固定露易絲的對象需從終焉世界線專用的NPC人物中選擇。若GM同意，也可設定為原創NPC或其他PC。注意，此露易絲無法轉化為泰特斯。在劇本結束後，此露易絲必須被保留為固定露易絲。\n當你執行某個「符合所取得固定露易絲的主人意志」的行動時，進行的判定骰數+3個。判斷該行動是否符合主人意志的最終裁定權在GM手中。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.84",
+      "source": ""
+    }
+  }
+}

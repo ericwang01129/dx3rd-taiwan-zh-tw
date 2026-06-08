@@ -1,0 +1,37 @@
+{
+  "_id": "n1ymLffH0PxJAgGm",
+  "_key": "!items!n1ymLffH0PxJAgGm",
+  "name": "飛斧",
+  "folder": "pkEDzV7adwmhoSOR",
+  "sort": 3,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/sharp-axe.svg",
+  "system": {
+    "description": "<p>具有浮游能力、喜歡自由的雙刃斧型RB。這個武器不計入裝備的武器個數中。</p><p>封具效果：在用這個武器進行近戰攻擊時使用，這一次攻擊變為射程：視界，攻擊力+3d。</p><p><em>射程：至近/10m</em> / <em>參照：DF P41</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -3,
+    "attack": 12,
+    "guard": 2,
+    "range": "至近/10m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 封具 Sealing Tool",
+      "section": "",
+      "source": "DF P41"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

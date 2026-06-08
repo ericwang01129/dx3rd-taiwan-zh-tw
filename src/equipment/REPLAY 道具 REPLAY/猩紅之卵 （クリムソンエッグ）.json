@@ -1,0 +1,40 @@
+{
+  "_id": "bVXsTvSalbY4o0DE",
+  "_key": "!items!bVXsTvSalbY4o0DE",
+  "name": "猩紅之卵 （クリムソンエッグ）",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 20,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>表示你的從者擁有能散佈“Σ變換”（Σ-Trans，能將人超越者化）的器官的獨特道具。從者形狀多為如血一般赤紅的卵。</p><p><em>效果：你的從者在主要階段使用，與該從者處於同一接戰區域的一名超越者下次進行的主要動作的判定暴擊值-1（最小為6）。使用了這個效果的從者，在其主要階段結束後HP變為0。</em> / <em>參照：IA P190</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P190"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "K0Wd1xNXmgbFRdu3",
+  "_key": "!items!K0Wd1xNXmgbFRdu3",
+  "name": "No.87. 知曉真相者 アンディシーブ",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 87,
+  "system": {
+    "description": "<p>你曾經是FH的一員。</p><p>然而，當你知曉了FH所隱藏的背教者恐怖真相後，你選擇與他們決裂。你發現了駭人的事實——在越發繁榮的世界背後，蠢動著邪惡的陰謀。</p><p>FH根本不是什麼引領世界的偉大組織，而是一群依照自身欲望，企圖吞噬整個世界的怪物。</p><p>然而，由於FH的信息操控，這些真相被巧妙地隱藏起來，大多數人仍蒙在鼓裡。</p><p>現在，你正致力於向世界傳達真相——可能是通過協助UGN等反FH組織，或者透過網絡傳播信息等各種方式。</p><p>作為叛徒，或者說危險分子，你正被FH追捕。至於為何甘願冒著生命危險揭露真相——是出於正義感？是對被背叛的憤怒？還是其他原因？這點可以與GM商討後自由決定。</p><p><em>效果：此D-Lois只能在「舞臺：終焉世界線」中取得。\n\n你保留了一件在FH時代使用的道具，這件道具已成為你的夥伴，幾乎可說是你身體的一部分。\n你可以免費常備化一件常備化點數不超過40的FH專用道具。在判定中使用了此D-Lois獲得的FH專用道具時，判定骰數+2個。\n此道具可以交給他人，但只有你能夠使用它。\n取得此D-Lois時，你的侵蝕率基本值+2。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.87",
+      "source": ""
+    }
+  }
+}

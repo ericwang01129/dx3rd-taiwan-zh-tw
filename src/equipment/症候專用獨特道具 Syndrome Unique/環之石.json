@@ -1,0 +1,37 @@
+{
+  "_id": "Ljns8zGQRsiHoVEM",
+  "_key": "!items!Ljns8zGQRsiHoVEM",
+  "name": "環之石",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 265,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>對背教者產生反應，環狀浮現的無數原石。可以根據持有者的意志像子彈一樣發射，使用後也會回到手邊。</p><p>在受到次要動作中使用的偽神天鎖異能效果的影響期間，這個武器的攻擊力+3。</p><p><em>射程：20m</em> / <em>參照：UA P86</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 6,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "UA P86"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

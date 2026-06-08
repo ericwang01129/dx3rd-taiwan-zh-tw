@@ -1,0 +1,37 @@
+{
+  "_id": "9OPODCyhARcWhAsJ",
+  "_key": "!items!9OPODCyhARcWhAsJ",
+  "name": "熵覆 （エントロピーブレイカー）",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 293,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>無法對以該武器發起的攻擊進行格擋或掩護，且無論何等手段均不能減輕其傷害。這件武器1個劇本中只能使用1次。</p><p><em>射程：10m</em> / <em>參照：NC P111</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 60,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -5,
+    "attack": 20,
+    "guard": 0,
+    "range": "10m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "NC P111"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

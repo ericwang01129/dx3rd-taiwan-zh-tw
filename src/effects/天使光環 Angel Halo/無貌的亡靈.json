@@ -1,0 +1,64 @@
+{
+  "_id": "ZMNApColmyTx3hNT",
+  "name": "無貌的亡靈",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/skull-crossed-bones.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>操縱幻影激發他人的恐懼，將對象無力化的異能。</p><p>只能以集團為對象使用，進行射擊攻擊。命中的話，對象陷入戰鬥不能狀態。與這個異能組合的攻擊無法給對象造成HP傷害。</p><p><em>參照：RUP36</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "恐怖120%",
+    "timing": "major",
+    "target": "場景(選擇)",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "RUP36"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ZMNApColmyTx3hNT"
+}

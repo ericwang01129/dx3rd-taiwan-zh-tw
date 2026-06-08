@@ -1,0 +1,40 @@
+{
+  "_id": "NyowAKX1WnvSbQlh",
+  "_key": "!items!NyowAKX1WnvSbQlh",
+  "name": "小灰人偵探事務所 （リトルグレイ探偵事務所）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 297,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>由宇宙友愛協會的熱心成員們經營的偵探事務所，偵探們身上寄宿著協力型變節者，遭遇危機時便會發力相助</p><p><em>次數：1/劇本</em> / <em>效果：準備階段使用，該回合間，你進行的回應動作判定的暴擊值-1（下限6）\n該效果1劇本可以使用1次</em> / <em>參照：IA P162</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "宇宙友愛協會 取得條件：沒有取得其他紋章的角色",
+      "source": "IA P162"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

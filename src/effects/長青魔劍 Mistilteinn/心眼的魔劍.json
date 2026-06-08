@@ -1,0 +1,68 @@
+{
+  "_id": "EE0h4ROZdO2PJ39K",
+  "name": "心眼的魔劍",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/rune-sword.svg",
+  "folder": "m920eVQK9xEhuLPi",
+  "sort": 0,
+  "system": {
+    "description": "<p>表示你的元型能夠讀取對象的行動，使得回避更加有利。</p><p>裝備[類別：元型]的武器期間，你的回避骰數+[LV+1]個。</p><p>這個異能的等級不會因侵蝕率上升而增加。取得時，《弑神之刃》的侵蝕值+2。</p><p><em>參照：UAP17</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "dodge_dice": {
+        "value": "@level+1"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "長青魔劍 Mistilteinn",
+      "syndromeItemId": "prV8KorHRzKAVkva",
+      "source": "UAP17"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!EE0h4ROZdO2PJ39K"
+}

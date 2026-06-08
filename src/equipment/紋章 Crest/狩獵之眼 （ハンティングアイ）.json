@@ -1,0 +1,40 @@
+{
+  "_id": "o85ZdqHfpDxR8uJt",
+  "_key": "!items!o85ZdqHfpDxR8uJt",
+  "name": "狩獵之眼 （ハンティングアイ）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 156,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你是主要負責驅趕獵物和佯攻擔當的特工的紋章</p><p><em>次數：1/場景</em> / <em>效果：你對對象造成至少1點HP傷害時使用，對其造成[異常狀態：憎惡]，憎惡對象為你；對多個角色造成傷害時，則對全員造成[異常狀態：憎惡]\n該效果1場景可以使用1次</em> / <em>參照：IA P147</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH特工 取得條件：職業為FH特工A~D",
+      "source": "IA P147"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

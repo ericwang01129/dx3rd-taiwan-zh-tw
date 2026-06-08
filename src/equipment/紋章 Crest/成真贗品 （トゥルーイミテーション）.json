@@ -1,0 +1,40 @@
+{
+  "_id": "DislUcIfo0m2fyzx",
+  "_key": "!items!DislUcIfo0m2fyzx",
+  "name": "成真贗品 （トゥルーイミテーション）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 342,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/heart-key.svg",
+  "system": {
+    "description": "<p>你是製作贗品的專家，你的作品幾乎是藝術品，有時甚至超越了正品</p><p><em>次數：1/劇本</em> / <em>效果：主要動作使用，選擇一件在該劇本中目擊過的道具並製作其仿造品，仿造品擁有與正品相同的效果，可以是親眼所見、通過錄影等媒介、甚至是權力或作戰等非實體道具\n該效果1劇本可以使用1次</em> / <em>備註：IA新增</em> / <em>參照：IA P167</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 50,
+    "equipment": true,
+    "type": "核心紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "結社 取得條件：職業為結社成員、黑社會、小偷、駭客的角色",
+      "source": "IA P167"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

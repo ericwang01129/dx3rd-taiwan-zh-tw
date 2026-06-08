@@ -1,0 +1,40 @@
+{
+  "_id": "2SfQHuTArk4qDAgT",
+  "_key": "!items!2SfQHuTArk4qDAgT",
+  "name": "草薙劍",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 404,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>表示你是特化了與殲滅任務的隊員的符牒，你為應對背教者污染和原菌大量出現等情況而被允許攜帶各種火器，期待你能像野火迅速燒盡般的殲滅</p><p><em>效果：你進行射擊攻擊的攻擊力+10，你使用帶有[該武器1劇本可以使用1次]的[種類：射擊]一般道具武器時可以無視使用次數使用</em> / <em>備註：IA新增</em> / <em>參照：IA P174</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "核心紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "紋章：陌生者 取得條件：職業為陌生者、防衛隊員、傭兵的角色",
+      "source": "IA P174"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

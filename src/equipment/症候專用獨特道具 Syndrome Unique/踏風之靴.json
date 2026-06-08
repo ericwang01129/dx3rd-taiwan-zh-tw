@@ -1,0 +1,40 @@
+{
+  "_id": "px9N635VRhjPEpxF",
+  "_key": "!items!px9N635VRhjPEpxF",
+  "name": "踏風之靴",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 119,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>最適合疾速靈猿超越者奔跑的運動鞋。</p><p>你進行的閃避判定骰數+2個，每次閃避時你的侵蝕率+1。</p><p><em>參照：IA P85</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P85"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

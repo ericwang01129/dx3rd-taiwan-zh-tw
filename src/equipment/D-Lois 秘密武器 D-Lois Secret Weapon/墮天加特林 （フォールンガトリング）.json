@@ -1,0 +1,37 @@
+{
+  "_id": "6nE4FDPKGjdgTNpg",
+  "_key": "!items!6nE4FDPKGjdgTNpg",
+  "name": "墮天加特林 （フォールンガトリング）",
+  "folder": "2kAs6YkcXBjKKf0t",
+  "sort": 15,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>受EX背教者病毒所感染的加特林機炮，其不需要任何動力源，重量也輕量化到了人類可以攜帶的程度。</p><p>使用該武器進行的，[對象：單體]以外的射擊攻擊，攻擊力+4。雙手持握。至近不可。</p><p><em>射程：150m</em> / <em>參照：IA P114</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -2,
+    "attack": 13,
+    "guard": 0,
+    "range": "150m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 秘密武器 D-Lois Secret Weapon",
+      "section": "",
+      "source": "IA P114"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

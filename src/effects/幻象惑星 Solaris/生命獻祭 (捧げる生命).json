@@ -1,0 +1,64 @@
+{
+  "_id": "CtUGw8WwwVk5xBZX",
+  "name": "生命獻祭 (捧げる生命)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>將自己的肉體全部變化成有治癒效果的液體，進行劇烈性的治癒的異能。</p><p>不能與其他異能組合。回復對象[LV×10]點HP，使用此異能後，你的HP會變成0。</p><p><em>參照：ICP65</p><p>EAP118</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "120% / 1/劇本",
+    "timing": "initiative",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": "4D10"
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "ICP65\nEAP118"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!CtUGw8WwwVk5xBZX"
+}

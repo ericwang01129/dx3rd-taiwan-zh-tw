@@ -1,0 +1,64 @@
+{
+  "_id": "zWbIvdl5C5A8KJmr",
+  "name": "一角鬼",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lion.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>從身體產生角狀的突起並作為武器的異能。</p><p>該場景中，你的空手變更成以下數據。</p><p>種類：近戰　技能：<近戰>　命中：0　攻擊力：[LV×3+3]　格擋值：2　射程：5m</p><p><em>參照：規則2P110</p><p>EAP57</p><p>IAP105</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "規則2P110\nEAP57\nIAP105"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!zWbIvdl5C5A8KJmr"
+}

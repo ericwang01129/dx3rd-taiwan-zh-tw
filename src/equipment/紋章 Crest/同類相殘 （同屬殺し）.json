@@ -1,0 +1,40 @@
+{
+  "_id": "xVmzdB9NZvxIouBc",
+  "_key": "!items!xVmzdB9NZvxIouBc",
+  "name": "同類相殘 （同屬殺し）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 192,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>你在經受的訓練中，徹底瞭解了自己症候群的特點和弱點，正因如此，對於擁有相同症候群的超越者來說，你將是危險的天敵</p><p><em>效果：你的攻擊命中與你至少持有一種相同症候群的超越者時，傷害+2D10</em> / <em>參照：IA P151</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH之子 取得條件：職業為FH之子A~C",
+      "source": "IA P151"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

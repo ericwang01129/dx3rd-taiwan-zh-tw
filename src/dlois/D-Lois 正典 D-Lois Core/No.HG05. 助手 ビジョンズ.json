@@ -1,0 +1,40 @@
+{
+  "_id": "v91kAuhAHvF1gTJj",
+  "_key": "!items!v91kAuhAHvF1gTJj",
+  "name": "No.HG05. 助手 ビジョンズ",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 111,
+  "system": {
+    "description": "<p>你是魔術師或吟游詩人，也是決定陪伴騎士的人。</p><p>你們具備透過魔術或神秘力量預見將來的能力。雖說是預見未來，但那只是模糊的幻視，不是人力所能左右的未來。</p><p>有時會有人在這樣的幻視中無可奈何地強烈浮現出來。</p><p>自亞瑟王統治以來，這樣的人更加增多了。</p><p>就是那些聚集在卡美洛的騎士們。</p><p>他們每個人都背負著各種宿命。就像在遙遠的未來，那些命運會成為一個故事一樣。而且那些命運形成巨大的紋理，像一塊織物般覆蓋著這個不列顛。</p><p>怎麼可能置之不理。</p><p>他們對危險和未來太過無知、毫無戒心。</p><p>需要像你這樣的人的協助。</p><p><em>效果：此D-lois只能在「舞臺：聖杯傳說」中取得。\n\n你擁有稍微預見未來的力量。這個力量對自己無效。\n只對足以撼動命運的英雄（或被認為會成為英雄的對象）有效。\n在你持有露易絲的對象進行判定前使用。該判定的暴擊值-1（下限值5）。\n但是，使用該效果時你的侵蝕率上升5點。\n該效果無法以你自身為對象。該效果一場景可以使用一次、一劇本可以使用三次。</em> / <em>參照：OC P40</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.HG05",
+      "source": "OC P40"
+    }
+  }
+}

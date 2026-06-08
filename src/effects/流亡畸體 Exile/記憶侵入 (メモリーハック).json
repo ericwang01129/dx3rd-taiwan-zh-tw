@@ -1,0 +1,64 @@
+{
+  "_id": "WBvvAeV2HtVZsyJa",
+  "name": "記憶侵入 (メモリーハック)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wing-cloak.svg",
+  "folder": "RXR6u4iWhThVDoog",
+  "sort": 0,
+  "system": {
+    "description": "<p>將對象的大腦與自己的肉體相連接，盜取記憶的異能。</p><p>你與對象進行意志對決。你勝利的話就可以盜取對象的記憶，盜取的程度視GM決定。</p><p>感到迷茫的話，就給出對象關於一個問題所知道的內容。</p><p><em>參照：BCP61</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "LV/劇本",
+    "timing": "major",
+    "target": "單體",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "流亡畸體 Exile",
+      "syndromeItemId": "kPOoy0czVl8GhmK7",
+      "source": "BCP61"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!WBvvAeV2HtVZsyJa"
+}

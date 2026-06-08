@@ -1,0 +1,64 @@
+{
+  "_id": "vUcauKq3HByaP6T7",
+  "name": "天使的歌聲",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spiked-halo.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>你能夠以比普通人類更高的精度捕捉到聲音，進行更加精細的演奏和歌唱。此外，你也能準確地記得聽過一次的聲音。例如聽到槍聲就能判斷是哪種槍，聽到聲音就能知道是誰在說話等等。如果GM認為有必要，可以進行<知覺>判定。</p><p><em>參照：UAP30</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "UAP30"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!vUcauKq3HByaP6T7"
+}

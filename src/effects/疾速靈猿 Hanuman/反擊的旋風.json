@@ -1,0 +1,64 @@
+{
+  "_id": "VzVZ2y7ezXDcNXqA",
+  "name": "反擊的旋風",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wind-hole.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>用旋風反擊的異能。</p><p>在你受到HP傷害之後使用，傷害反彈回給你造成傷害的角色。但是對象只能承受最大[LV×20]點的傷害。</p><p><em>參照：RUP39</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "憎惡120% / 1/劇本",
+    "timing": "auto",
+    "target": "參照效果",
+    "range": "參照效果",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 8,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "RUP39"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VzVZ2y7ezXDcNXqA"
+}

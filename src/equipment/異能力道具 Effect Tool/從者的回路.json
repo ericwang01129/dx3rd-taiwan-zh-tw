@@ -1,0 +1,40 @@
+{
+  "_id": "0iCF63zubwEDKCN8",
+  "_key": "!items!0iCF63zubwEDKCN8",
+  "name": "從者的回路",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 24,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>將從者的體內變成容易控制背教者的模樣</p><p>從者進行的<RC>判定達成值+2，重複取得時該道具效果可以累計</p><p><em>參照：IA P110</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "IA P110"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

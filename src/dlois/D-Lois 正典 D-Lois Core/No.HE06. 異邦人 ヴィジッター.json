@@ -1,0 +1,40 @@
+{
+  "_id": "tztBUQasEThWMUjk",
+  "_key": "!items!tztBUQasEThWMUjk",
+  "name": "No.HE06. 異邦人 ヴィジッター",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 119,
+  "system": {
+    "description": "<p>你不是這個國家出生的。</p><p>來自越過海洋的西方大國或半島的民族，或是北方的未開之地，甚至南方的島國，總之是日本以外的出身。</p><p>在故鄉就擁有特殊力量的你，不知何種因緣來到了日本的平安京。</p><p>這個地方似乎也發生著怪異事件，看來你的力量在這裡也很搶手。</p><p>特別是在這個都市，被稱為物怪的詭異存在橫行作惡。無論你願意與否，必然會有很多發揮力量的機會。</p><p>這也意味著，你能夠充分運用過去獲得的知識。</p><p>你是如何來到這個地方的，抱著什麼目的而來，可以自由決定。</p><p><em>效果：此D-lois只能在「舞臺：平安京物怪錄」中取得。\n\n你擁有的異國智慧，在這個國家是最先進的知識，那份博學在各種場面都很有用。\n在場景中登場的任意角色進行判定之後使用。該判定的達成值+5。該效果也可以對你自己使用。該效果一劇本可以使用三次。</em> / <em>參照：OC P87</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.HE06",
+      "source": "OC P87"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "mBpCgnnkS8QQRvmu",
+  "_key": "!items!mBpCgnnkS8QQRvmu",
+  "name": "最愛之人 （ワンラストハグ／最愛の人）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 189,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>你有與不想忘記的人物、親人或者兄弟一起生活的記憶，這些記憶化作守護你精神的核心，對他人的干涉有穩固的保護作用。記憶中的人物是何許人，你依然知道或者已然忘卻都可以</p><p><em>效果：你使用【精神】進行的回應動作判定，骰子數+3個</em> / <em>備註：IA新增</em> / <em>參照：IA P150</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH之子 取得條件：職業為FH之子A~C",
+      "source": "IA P150"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

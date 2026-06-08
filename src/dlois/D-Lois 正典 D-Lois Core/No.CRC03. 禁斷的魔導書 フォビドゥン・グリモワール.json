@@ -1,0 +1,40 @@
+{
+  "_id": "HdE80yncyO1PFKx5",
+  "_key": "!items!HdE80yncyO1PFKx5",
+  "name": "No.CRC03. 禁斷的魔導書 フォビドゥン・グリモワール",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 123,
+  "system": {
+    "description": "<p>你是魔導書中隱藏的“知識”本身開啟異界之門而產生的特異背教者生命體，也就是魔導書本身。</p><p>你站在人類一方，擁有如人類般“異常”精神的理由可以自由設定。你並非要“正確”地使用隱藏在自身內部的知識來召喚〈舊日支配者〉或〈外神〉，而是要守護人類。或許那記述了《阿爾・阿吉夫》、作為背叛者被神靈永劫詛咒的阿卜杜爾・阿爾哈劄德的遺志在你身上寄宿著。</p><p><em>效果：你的本職是[背教者生命體]。背教者生命體的規則依照“基本規則書2”。\n你可以常備化一本常備化點數為〈知識：克蘇魯〉×4以下的魔導書，不消費常備化點數。常備化的魔導書可以在開始遊戲前變更。此外，你的〈知識：克蘇魯〉技能+2。</em> / <em>參照：NC P89</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.CRC03",
+      "source": "NC P89"
+    }
+  }
+}

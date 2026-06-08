@@ -1,0 +1,40 @@
+{
+  "_id": "TElZs9NBvFKlyj55",
+  "_key": "!items!TElZs9NBvFKlyj55",
+  "name": "No.HR22. 仿徨者",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 23,
+  "system": {
+    "description": "<p><em>效果：REC：黑須左京</em> / <em>通常效果：於場景中登場的角色進行攻擊判定前使用。將那個攻擊的對象變更為你一人，並重新進行回應動作後。使用該效果後，任何異能、道具、D-Lois等效果都不能將攻擊對象從你身上轉移，也無法因任何效果使得其他角色承受該攻擊所產生的傷害。使用這個效果時，你的侵蝕率會上升1D10點。這個效果一個劇本中可以使用一次。</em> / <em>強化效果：你從使用「通常效果」影響的攻擊中承受的傷害-10。但是，將「Lois：黑須左京」昇華為Titus時，你的侵蝕率會上升2D10點。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR22",
+      "source": ""
+    }
+  }
+}

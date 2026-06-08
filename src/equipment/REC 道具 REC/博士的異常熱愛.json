@@ -1,0 +1,40 @@
+{
+  "_id": "lsPLS6BCeQZxiCLS",
+  "_key": "!items!lsPLS6BCeQZxiCLS",
+  "name": "博士的異常熱愛",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 54,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>表示你是姬宮由裡香手中的試驗體的道具。對於向研究傾注心血的她來說，只有少數人能引起她的興趣：實驗體，以及她自己。只要你需要力量，這份關係就對雙方有利。現在正是你需要她的知識、她需要你的身體之時。</p><p><em>REC：姬宮由裡香</em> / <em>次數：1/劇本</em> / <em>通常效果：你的HP最大值+10，侵蝕率基本值+4。</em> / <em>強化效果：任何時候都可以使用，你取得的[一場景可以使用X次]的異能使用次數+1。\n該效果一劇本可以使用一次。</em> / <em>備註：IA新增</em> / <em>參照：IA P205</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：姬宮由裡香",
+      "source": "IA P205"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

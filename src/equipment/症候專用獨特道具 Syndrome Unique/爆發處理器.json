@@ -1,0 +1,40 @@
+{
+  "_id": "yvcusJA48RJourvn",
+  "_key": "!items!yvcusJA48RJourvn",
+  "name": "爆發處理器",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 53,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>搭載試做型高性能演算機能的背教者控制終端，工作需要雷擊黑犬的能力供給電力。</p><p>你進行的<RC>判定骰數+10個，你使用<RC>進行攻擊的攻擊力+5。</p><p><em>參照：IA P77</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 100,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P77"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

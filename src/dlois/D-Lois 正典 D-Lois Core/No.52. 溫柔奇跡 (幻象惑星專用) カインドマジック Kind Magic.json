@@ -1,0 +1,40 @@
+{
+  "_id": "w058IBaS9nncKMtd",
+  "_key": "!items!w058IBaS9nncKMtd",
+  "name": "No.52. 溫柔奇跡 (幻象惑星專用) カインドマジック Kind Magic",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 52,
+  "system": {
+    "description": "<p>你有著與他人有著共感的能力，不是單純的同情，而是連物理上的疼痛都一起分擔的心靈連結。</p><p>你不把自己受到的苦痛視為苦痛，但是看到他人痛苦的姿態這件事，對你來說才是真正的痛苦。這份溫柔讓你的R病毒產生變異。他人痛苦時，你能分擔對方一半的痛苦，這份溫柔的能力拯救了許多人，而你也不會畏懼分擔那份痛苦。</p><p>你那顆堅韌的心才是你真正的強大。</p><p><em>效果：只限症狀為【幻象惑星】的角色可取得。\n自動獲得異能【同甘共苦】Lv1，可使用經驗提升等級。\n這異能視為幻象惑星的異能\n同甘共苦 (ディヴィジョン Division)\n最大等級：3 \n時機：自動動作 \n技能：- \n難易度：自動成功 \n對象：單體 \n射程：視界 \n侵蝕：1D10 \n限制：D露易絲 \n次數：LV/劇本\n效果：對象受到HP傷害時使用，該傷害除以二(無條件舍去) \n同時自己也受到同等的傷害。 \n與他人分擔痛苦的能力</em> / <em>備註：幻象惑星專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.52",
+      "source": ""
+    }
+  }
+}

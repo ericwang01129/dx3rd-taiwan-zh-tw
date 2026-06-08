@@ -1,0 +1,68 @@
+{
+  "_id": "vuKmUrzFIdt8FYom",
+  "name": "犧牲之血",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/vampire-dracula.svg",
+  "folder": "wboZ95SHJuim4ZlG",
+  "sort": 0,
+  "system": {
+    "description": "<p>將全身化為盾，守護周圍同伴的異能。</p><p>在對方進行對象中包括你的[對象：範圍]或[對象：範圍(選擇)]的攻擊時使用。這個攻擊將只以你一人為對象。在這個攻擊期間，你的裝甲值+10。</p><p><em>參照：RUP35</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "自傷120% / LV/劇本",
+    "timing": "auto",
+    "target": "參照效果",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "armor": {
+        "value": "10"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "鮮血真祖 Bram Stoker",
+      "syndromeItemId": "yZ26mUMQV6FowBlo",
+      "source": "RUP35"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!vuKmUrzFIdt8FYom"
+}

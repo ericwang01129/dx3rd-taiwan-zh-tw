@@ -1,0 +1,64 @@
+{
+  "_id": "81HZptf5pflHng9y",
+  "name": "原初之虹",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/ouroboros.svg",
+  "folder": "1pCX5ZBbIY55J65u",
+  "sort": 0,
+  "system": {
+    "description": "<p>取得一個[限制：-]或[限制：純血種]的異能，</p><p>但是不能取得「時機：常駐」的異能與敵人異能。</p><p>取得的異能侵蝕值+2，且限制為純血種。若取得的異能有使用次數限制，侵蝕率基本值+3。</p><p><em>參照：UAP42</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "參照效果",
+    "limit": "純血種 / 參照效果",
+    "timing": "-",
+    "target": "參照效果",
+    "range": "參照效果",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": "參照效果"
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "噬身影蛇 Oroboros",
+      "syndromeItemId": "R7Jxr26CWdNB0hjx",
+      "source": "UAP42"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!81HZptf5pflHng9y"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "ovkK8598w59gQIdZ",
+  "_key": "!items!ovkK8598w59gQIdZ",
+  "name": "渦之戒指",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 269,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>被偽神天鎖症狀侵蝕的戒指，擁有纏繞和偏離他人能力的效果。</p><p>你進行的針對\"組合了異能的攻擊\"的閃避判定骰數+2個。</p><p><em>參照：UA P86</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "UA P86"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

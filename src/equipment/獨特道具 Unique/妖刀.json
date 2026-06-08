@@ -1,0 +1,37 @@
+{
+  "_id": "wmJUmP0mBguzrJ2Z",
+  "_key": "!items!wmJUmP0mBguzrJ2Z",
+  "name": "妖刀",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 9,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/katana.svg",
+  "system": {
+    "description": "<p>近代之前熟練劍客使用的據說吸收了數人鮮血的日本刀，受到使用者情感侵染，臨近戰鬥時會發出刀鍔自鳴表達欣喜，因為感染了EX背教者所以擁有超越普通刀劍的破壞力。</p><p>你的侵蝕率超過100%時攻擊力+2。</p><p><em>射程：至近</em> / <em>參照：IA P56</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 10,
+    "guard": 4,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P56"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

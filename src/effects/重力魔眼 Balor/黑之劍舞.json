@@ -1,0 +1,64 @@
+{
+  "_id": "oy0jmuZP3xTQXsgY",
+  "name": "黑之劍舞",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>以重力同時操縱複數武器的異能。裝備的同技能武器的攻擊力和效果可以合計使用。射程與攻擊範圍選擇較小的一方。當組合無法攻擊同一接戰區域與能夠攻擊的武器時，視為無法攻擊同一接戰區域。此次攻擊的判定骰數+[LV+1]個。</p><p><em>參照：UAP31</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "純血種",
+    "timing": "major",
+    "target": "-",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "UAP31"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!oy0jmuZP3xTQXsgY"
+}

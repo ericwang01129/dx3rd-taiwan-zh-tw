@@ -1,0 +1,64 @@
+{
+  "_id": "L6fupfF4m5NiDVi0",
+  "name": "誘惑 (テンプテーション)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>大量產生誘惑性的物質令交涉變得有利，該物質可能還會含有幻覺效果。令以異能為基礎的精神攻擊變得更加有效。</p><p>與此異能組合的<交涉>技能判定達成值+[LV×2]。</p><p><em>參照：RWP43</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "negotiation",
+    "difficulty": "",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "RWP43"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!L6fupfF4m5NiDVi0"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "PhvQ7K0TO2FOMwt2",
+  "_key": "!items!PhvQ7K0TO2FOMwt2",
+  "name": "隱形力場",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 38,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>施加光學與紅外迷彩的小型裝置，大多為手錶型或護目鏡型。</p><p>次要動作使用，你進入隱蔽狀態，該隱蔽狀態期間你進行的所有判定骰數-2個，該效果一場景可以使用一次。</p><p><em>參照：IA P126</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "10",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P126"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "u5t4KNhWarELdbUp",
+  "name": "血之石 （ブラッドストーン）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/vampire-dracula.svg",
+  "folder": "wboZ95SHJuim4ZlG",
+  "sort": 0,
+  "system": {
+    "description": "<p>將自身或他人的血液結晶化，生成寶石的異能。寶石中寄宿著血液主人的記憶，拿著寶石就可以閱覽其中的記憶。由於生成寶石需要新鮮血液，當對象不是自己時，需要對象同意或處於無法戰鬥狀態。GM可以在閱讀記憶時要求<RC>判定。</p><p><em>參照：UAP33</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "鮮血真祖 Bram Stoker",
+      "syndromeItemId": "yZ26mUMQV6FowBlo",
+      "source": "UAP33"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!u5t4KNhWarELdbUp"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "bPBcSj4ZM7Iczjni",
+  "_key": "!items!bPBcSj4ZM7Iczjni",
+  "name": "特異體 （特異體／イレギュラーブリード）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 53,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/heart-key.svg",
+  "system": {
+    "description": "<p>你因為特殊試驗或天生體質等原因，發現了與已知血統不同形態的異能</p><p><em>效果：選擇你已取得的症候群以外的一個異能取得LV1，但不能選擇[限制：純血種]和敵人異能（NPC異能）；你可以使用經驗值使該異能成長，此時該異能的最大等級按照異能記述，不受血統影響</em> / <em>備註：IA新增</em> / <em>參照：IA P135</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "核心紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN之子 取得條件：職業為UGN之子A~C的角色",
+      "source": "IA P135"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

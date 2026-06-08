@@ -1,0 +1,37 @@
+{
+  "_id": "v35xMy44xf4XMzW8",
+  "_key": "!items!v35xMy44xf4XMzW8",
+  "name": "常暗之劍 （常闇の剣）",
+  "folder": "JGiIqEn4KCHBiEod",
+  "sort": 2,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>傳說中人類最初的殺人者所用的漆黑之劍，由黑曜石製成。從刀身到刀柄通體漆黑，就連裝飾於握把末段的寶石都是黑色。在給持有者帶來勝利榮耀的同時，若裝備者不配擁有那榮耀則會反過來加害其身。</p><p>以該武器進行的攻擊的達成值為40以上時，無視對象的裝甲值計算傷害。達成值為60以上時，再無視格擋和掩護計算傷害。</p><p>以該武器進行的攻擊未能將對象的HP降為0時，你失去1D10點HP。</p><p><em>射程：至近</em> / <em>參照：NC P115</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -3,
+    "attack": 20,
+    "guard": 6,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 咒物污染者 Curse Item",
+      "section": "",
+      "source": "NC P115"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

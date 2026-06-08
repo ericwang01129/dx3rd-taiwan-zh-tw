@@ -1,0 +1,40 @@
+{
+  "_id": "om4XrUEKgjCIRZoZ",
+  "_key": "!items!om4XrUEKgjCIRZoZ",
+  "name": "記憶的載體 （記憶の運び手）",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 16,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>表示你從“世界的支配者”繼承了記憶。在記憶中，你持有支配世界的力量。該記憶侵蝕著世界，構築著你所期望的狀況。</p><p><em>效果：你的《結界化》效果中，該場景內登場的角色進行判定前使用，判定骰數+2個。該道具只有取得了「D-Lois：起源種」的角色可以取得，該效果一回合可以使用一次。</em> / <em>參照：IA P189</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P189"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "wyR28tFg16HVLHTf",
+  "_key": "!items!wyR28tFg16HVLHTf",
+  "name": "決鬥領主",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 32,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>古舊的杠杆式霰彈槍。槍身很短，在近戰中才能發揮威力。</p><p>使用該武器對處於同一接戰區域內的角色進行攻擊時攻擊力+10，該效果的攻擊對象必須是[對象：單體]。</p><p><em>射程：20m</em> / <em>參照：IA P59</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 45,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 9,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P59"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

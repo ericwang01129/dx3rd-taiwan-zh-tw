@@ -1,0 +1,40 @@
+{
+  "_id": "2FywMfVBI7k4pJYE",
+  "_key": "!items!2FywMfVBI7k4pJYE",
+  "name": "重裝甲貨車 （重裝甲トラック）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 386,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/skoll/race-car.svg",
+  "system": {
+    "description": "<p>陌生者部隊在城市區域的作戰中使用的貨車，其外觀與市面上的商用貨車無異，但其內部改造成了部隊運輸車，可以乘載一個分隊（8人）的士兵</p><p><em>效果：技能：<駕駛：四輪> 攻擊力：4 行動值：-6 裝甲值：12 全力移動：100m</em> / <em>參照：IA P172</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/載具",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "紋章：陌生者 取得條件：職業為陌生者、防衛隊員、傭兵的角色",
+      "source": "IA P172"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "svHE6ZMJmfx2O38F",
+  "_key": "!items!svHE6ZMJmfx2O38F",
+  "name": "單元部隊：突襲",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 34,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>對你進行支援的單元部隊，擅長襲擊任務，會進行火力支援。</p><p>你進行攻擊判定前使用，該攻擊的攻擊力+3，該效果一場景可以使用一次。</p><p><em>參照：IA P125</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "5",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P125"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "GmNIPZMxkxFiasxU",
+  "name": "阿撒托斯之詩 （アザトースの詩）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>與超越了時間和空間的阿撒托斯的意識連接，知曉未知事物的異能。</p><p>你可以掌握一件在自己不登場的場景中發生的事件，將其有如瘋話一般的和口水一起流出來。其他人愛信不信是他們的自由，但總之那就是真相。</p><p><em>參照：CRC P96</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P96"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!GmNIPZMxkxFiasxU"
+}

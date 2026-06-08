@@ -1,0 +1,68 @@
+{
+  "_id": "E2bFTLXpPLvPSUBq",
+  "name": "天生靈感 (天性のひらめき)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/cyber-eye.svg",
+  "folder": "47r01TSVVubrkaef",
+  "sort": 0,
+  "system": {
+    "description": "<p>以瞬間的靈感看穿任何行動的正解的異能。</p><p>可與任何能力值或技能判定組合，該判定暴擊值-LV(下限值7)，但是不能在戰鬥中使用此異能。</p><p><em>參照：規則1P148</p><p>EAP92</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "critical": {
+        "value": "-(@level)"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "神腦演算 Neumann",
+      "syndromeItemId": "ohcrpvm6g5xHhvRM",
+      "source": "規則1P148\nEAP92"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!E2bFTLXpPLvPSUBq"
+}

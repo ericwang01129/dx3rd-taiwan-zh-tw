@@ -1,0 +1,64 @@
+{
+  "_id": "iSARPrZhJRaYqT5S",
+  "name": "拘束血液 （ストレイブラッド）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/chained-arrow-heads.svg",
+  "folder": "wboZ95SHJuim4ZlG",
+  "sort": 0,
+  "system": {
+    "description": "<p>解放漂浮於周身的血盾，拘束敵人行動的異能。</p><p>僅限《鮮血外套》的效果生效期間使用。於對象進行判定後使用，使該判定的達成值-[《鮮血外套》消耗的HPx2]。使用該異能後，《鮮血外套》的效果將會結束。</p><p><em>參照：HRP78</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "LV/劇本",
+    "timing": "auto",
+    "target": "單體",
+    "range": "10m",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "鮮血真祖 Bram Stoker",
+      "syndromeItemId": "yZ26mUMQV6FowBlo",
+      "source": "HRP78"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!iSARPrZhJRaYqT5S"
+}

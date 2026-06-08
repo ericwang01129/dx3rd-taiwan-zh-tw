@@ -1,0 +1,71 @@
+{
+  "_id": "WaLD2z6RGsTXvzVA",
+  "name": "海德拉之怒 (ヒュドラの怒り)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wing-cloak.svg",
+  "folder": "RXR6u4iWhThVDoog",
+  "sort": 0,
+  "system": {
+    "description": "<p>伸出無數新的四肢，進行壓倒性的攻擊的異能。</p><p>該回合間，你的主要動作判定骰數+3顆，且攻擊的攻擊力+[LV×3]，</p><p>但你在效果期間會受到暴走狀態，此暴走不能用昇華泰特斯以外的方法回復。</p><p><em>參照：ICP59</p><p>EAP70</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "100%",
+    "timing": "setup",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "dice": {
+        "value": "3"
+      },
+      "attack": {
+        "value": "@level*3"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "流亡畸體 Exile",
+      "syndromeItemId": "kPOoy0czVl8GhmK7",
+      "source": "ICP59\nEAP70"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!WaLD2z6RGsTXvzVA"
+}

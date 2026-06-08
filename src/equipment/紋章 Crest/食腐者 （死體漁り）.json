@@ -1,0 +1,40 @@
+{
+  "_id": "g0L14hyrnCR8oi9K",
+  "_key": "!items!g0L14hyrnCR8oi9K",
+  "name": "食腐者 （死體漁り）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 239,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你從FH的監視者那裡得到了某種“出讓的東西”。可能那並不是道具，而是權利等無形之物也說不定</p><p><em>效果：取得時從FH紋章中選擇一個，你可以取得所選的紋章，取得那個紋章所需的經驗點需要另外消耗；選擇需要GM許可的紋章時，同樣需要先征得GM的同意</em> / <em>參照：IA P156</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH法外者 取得條件：沒有取得FH通用以外紋章的角色",
+      "source": "IA P156"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

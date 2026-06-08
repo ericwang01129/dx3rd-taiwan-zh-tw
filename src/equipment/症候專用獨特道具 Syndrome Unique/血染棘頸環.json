@@ -1,0 +1,40 @@
+{
+  "_id": "T1MzQ1znwWkdHfA0",
+  "_key": "!items!T1MzQ1znwWkdHfA0",
+  "name": "血染棘頸環",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 281,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>套在背教者生命頸部、無法取下的帶刺項圈。你所生成的鎖鏈會纏繞於自身肉體，並與皮膚同化。</p><p>你使用《起源：動物》效果期間，你的裝甲值+10。此道具在《起源：動物》效果持續期間也可以使用。</p><p><em>參照：DF P23</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "DF P23"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "G6MxTWfdzAmtniSI",
+  "_key": "!items!G6MxTWfdzAmtniSI",
+  "name": "星群",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 24,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>沒有握柄，十二把為一套的匕首，通過重力魔眼的魔眼操縱重力才能使用。</p><p>裝備的該武器不計入已裝備武器數量，可以與雙手持握武器同時裝備。該武器只能裝備一件。使用該武器攻擊或格擋時你的侵蝕率+1。</p><p><em>射程：至近</em> / <em>參照：IA P74</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 15,
+    "guard": 1,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P74"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

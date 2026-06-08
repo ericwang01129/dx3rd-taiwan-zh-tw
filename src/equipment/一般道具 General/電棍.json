@@ -1,0 +1,37 @@
+{
+  "_id": "4X0qIEpODNzapYka",
+  "_key": "!items!4X0qIEpODNzapYka",
+  "name": "電棍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 3,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>伸縮式護身警棍，按下按鈕就能用電流將敵人無力化，在保安公司當中很常見，但對付超越者力不從心。</p><p><em>射程：至近</em> / <em>參照：IA P22</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "1",
+      "difficulty": 4
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 3,
+    "guard": 2,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P22"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

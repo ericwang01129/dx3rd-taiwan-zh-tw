@@ -1,0 +1,37 @@
+{
+  "_id": "ZHVc5COo2kP08vA5",
+  "_key": "!items!ZHVc5COo2kP08vA5",
+  "name": "燃燒瓶",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 41,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>在玻璃瓶裡裝入固體酒精或汽油的簡易武器。</p><p>該武器命中時使對象陷入不良狀態[恍惚]，該武器一劇本可以使用一次。至近不可。</p><p><em>射程：10m</em> / <em>參照：IA P26</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "1",
+      "difficulty": 2
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -5,
+    "attack": 0,
+    "guard": 0,
+    "range": "10m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P26"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

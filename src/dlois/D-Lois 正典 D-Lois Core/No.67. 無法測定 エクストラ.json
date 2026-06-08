@@ -1,0 +1,40 @@
+{
+  "_id": "NyHYqtxHSB6dqPEq",
+  "_key": "!items!NyHYqtxHSB6dqPEq",
+  "name": "No.67. 無法測定 エクストラ",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 67,
+  "system": {
+    "description": "<p>你被歸類為\"EX級\"。</p><p>通常，能力的級別被分為C到S級。只要看見級別，大致可以預測一個人能夠做到什麼程度的事情。</p><p>但是，有一個例外。那就是你——EX級超越者。</p><p>EX級是完全無法預測的。</p><p>正常情況下，你的輸出功率頂多只有C級水準，但在危機情況下，有時甚至能發揮出淩駕SS級的力量。學園方面正在謹慎地將你作為珍貴樣本進行觀察。然而，要解明你的能力，還需要更多時間。</p><p>另外，為了方便起見，你被賦予了從C到S中的某一個級別。你可以選擇知道自己實際上是EX級的事實，也可以選擇不知道。</p><p><em>效果：此D-Lois只能在「舞臺：超越者學園」中使用。\n你獲得獨特道具「EX級」。數據如下。你不能獲得其他「種類：級別」的獨特道具。\n\nEX級\n種類：級別\n購買/常備化：\n購入不可／不可\n說明：被授予EX級的證明。EX級的稱呼還沒有確定。\n準備階段使用。該回合中，你取得的「時機：常駐」以外的所有異能的等級和最大等級+1。然而，此效果不會改變異能的使用次數。使用此效果後，在該回合的結算階段你的HP將變為0。該效果一劇本可以使用一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.67",
+      "source": ""
+    }
+  }
+}

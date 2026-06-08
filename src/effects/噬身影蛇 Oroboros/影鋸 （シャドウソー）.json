@@ -1,0 +1,64 @@
+{
+  "_id": "XGpaQybDQODD8N7h",
+  "name": "影鋸 （シャドウソー）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/shadow-grasp.svg",
+  "folder": "1pCX5ZBbIY55J65u",
+  "sort": 0,
+  "system": {
+    "description": "<p>用影子束縛對象，讓對象無法行動的異能。</p><p>你可以通過奪取一般人的影子來讓對方無法行動。被奪去影子的對象身體無法動彈，如果你想的話也可以發不出聲音。使用這個異能可以在不使用《結界化》的情況下讓一般人無力化。對超越者沒有效果。</p><p><em>參照：UAP42</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "噬身影蛇 Oroboros",
+      "syndromeItemId": "R7Jxr26CWdNB0hjx",
+      "source": "UAP42"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!XGpaQybDQODD8N7h"
+}

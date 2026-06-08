@@ -1,0 +1,37 @@
+{
+  "_id": "a0ZgEo7xHTmCcXdJ",
+  "_key": "!items!a0ZgEo7xHTmCcXdJ",
+  "name": "狂暴之刃",
+  "folder": "2kAs6YkcXBjKKf0t",
+  "sort": 9,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>受EX背教者病毒感染的巨大刀劍，會根據使用者的意志而強化威力。</p><p>以該武器進行近戰攻擊前使用，該攻擊的傷害+2D，該效果一場景可以使用一次。裝備該武器時【行動值】-4。雙手持握。</p><p><em>射程：至近</em> / <em>參照：IA P113</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 12,
+    "guard": 6,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 秘密武器 D-Lois Secret Weapon",
+      "section": "",
+      "source": "IA P113"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

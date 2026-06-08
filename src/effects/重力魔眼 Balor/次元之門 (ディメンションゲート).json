@@ -1,0 +1,64 @@
+{
+  "_id": "zNYCoeSgJeJ7eMlU",
+  "name": "次元之門 (ディメンションゲート)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>扭曲空間，製造出連系遠方已知地點的次元門的異能。</p><p>次元門可固定成一般的門的樣子，也可以給其他角色利用，</p><p>但因為無法在緊張狀態下使用，所以不能在戰鬥中或緊急狀態使用此異能。GM可禁止使用此異能。</p><p><em>參照：規則2P90</p><p>EAP35</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "參照效果",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "規則2P90\nEAP35"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!zNYCoeSgJeJ7eMlU"
+}

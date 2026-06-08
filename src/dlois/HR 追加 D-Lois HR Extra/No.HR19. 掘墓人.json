@@ -1,0 +1,40 @@
+{
+  "_id": "LNxvuqDR3T3pTCZY",
+  "_key": "!items!LNxvuqDR3T3pTCZY",
+  "name": "No.HR19. 掘墓人",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 20,
+  "system": {
+    "description": "<p><em>效果：REC：墓守清正</em> / <em>通常效果：在墓守的協助下排除障礙。\n於先攻階段使用，可以破壞存在於場景之中的一棟建築物或者載具，亦或是使一個登場中的集團戰鬥不能，這個效果一個劇本中可以使用一次。</em> / <em>強化效果：在「通常效果」中追加「對一名角色造成5D10點HP傷害」的選項。也就是說，通常效果的可選項增加了！</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR19",
+      "source": ""
+    }
+  }
+}

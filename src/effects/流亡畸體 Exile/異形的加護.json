@@ -1,0 +1,64 @@
+{
+  "_id": "RRUMGTjcvBMVxzj1",
+  "name": "異形的加護",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wing-cloak.svg",
+  "folder": "RXR6u4iWhThVDoog",
+  "sort": 0,
+  "system": {
+    "description": "<p>當受到「對象(或者你自身)所受到的(預定的)HP傷害-[ ]點」效果時使用。</p><p>該異能的效果+3D(即是傷害多減少3D)。</p><p>此異能一回合只能使用一次，但當你處於暴走狀態時可以無視使用次數限制。</p><p><em>參照：RWP37</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "參照效果",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "流亡畸體 Exile",
+      "syndromeItemId": "kPOoy0czVl8GhmK7",
+      "source": "RWP37"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!RRUMGTjcvBMVxzj1"
+}

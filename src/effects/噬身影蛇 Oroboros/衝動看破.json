@@ -1,0 +1,64 @@
+{
+  "_id": "AypjwZZYNwE6u6Qq",
+  "name": "衝動看破",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/ouroboros.svg",
+  "folder": "1pCX5ZBbIY55J65u",
+  "sort": 0,
+  "system": {
+    "description": "<p>吸收並分析對方的R病毒，看破其衝動的異能。</p><p>與對象進行一個<RC>對決，成功的話就可以得知對方的衝動。這個異能一劇本最多使用LV次。</p><p><em>參照：BCP68</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "LV/劇本",
+    "timing": "major",
+    "target": "單體",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "噬身影蛇 Oroboros",
+      "syndromeItemId": "R7Jxr26CWdNB0hjx",
+      "source": "BCP68"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!AypjwZZYNwE6u6Qq"
+}

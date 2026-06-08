@@ -1,0 +1,40 @@
+{
+  "_id": "UEJaRyYCxNxiDFvR",
+  "_key": "!items!UEJaRyYCxNxiDFvR",
+  "name": "終末音樂盒",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 279,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>發出陌生旋律的音樂盒。</p><p>你使用《破滅的鎖冠》時同時使用。該回合內，你進行的主要動作和回應動作的判定骰數+10個。一劇本可以使用一次。</p><p><em>參照：UA P87</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 150,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "UA P87"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

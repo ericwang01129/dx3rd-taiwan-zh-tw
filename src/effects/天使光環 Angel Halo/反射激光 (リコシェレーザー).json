@@ -1,0 +1,68 @@
+{
+  "_id": "HBHCxke3XQN8reGv",
+  "name": "反射激光 (リコシェレーザー)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spiked-halo.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>利用不規則彈射的激光或彈丸追逼敵人的異能。</p><p>組合此異能的射擊攻擊的達成值+[LV×3]，但該攻擊的攻擊力-5。</p><p><em>參照：CEP63</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "3/劇本",
+    "timing": "major",
+    "target": "-",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 3,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "add": {
+        "value": "@level*3"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "CEP63"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!HBHCxke3XQN8reGv"
+}

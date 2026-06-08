@@ -1,0 +1,40 @@
+{
+  "_id": "xsbDLWI9ZO8nWwk1",
+  "_key": "!items!xsbDLWI9ZO8nWwk1",
+  "name": "No.UA19. 城壁使 ウォールクラフター",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 154,
+  "system": {
+    "description": "<p>你擅長在大範圍內創造出巨大的建築。</p><p>自古以來，為了抵禦外敵入侵，人們花費悠久的歲月和大量的人力建造了許多城壁。所謂城壁，是劃定領域之物。區分敵我、阻礙敵人、保護我方。</p><p>但仍然不夠。為了保護重要的東西，必須瞬間建造出固若金湯的防壁。</p><p>許下這樣的願望之後，你得到了這一能力。移動的城塞、守護弱者的最後的希望。那就是你的城壁。</p><p><em>效果：只限症狀為【煉金化形】的角色可取得。\n自動獲得異能【城壁使】Lv1，視為煉金化形異能力，可使用經驗提升等級。\n城壁使（wall crafter）\n最大等級：3\n時機：自動動作\n技能：-\n難易度：自動\n對象：自身\n射程：至近\n侵蝕：5\n限制：D露易絲\n次數：LV/劇本\n效果：格擋時使用。可以將你的格擋值沿用於與你接戰的任意角色身上，對象自身可以進行回應動作。格擋時由對象選擇使用哪一方的格擋值。</em> / <em>備註：煉金化形專用</em> / <em>參照：DF P34</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA19",
+      "source": "DF P34"
+    }
+  }
+}

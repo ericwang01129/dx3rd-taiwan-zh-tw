@@ -1,0 +1,37 @@
+{
+  "_id": "42oLFGEObOZZlCM9",
+  "_key": "!items!42oLFGEObOZZlCM9",
+  "name": "輕機槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 69,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/sbed/rifle.svg",
+  "system": {
+    "description": "<p>支援前線士兵的輕機槍，擁有很高的連射力和壓制力。</p><p>使用該武器進行的攻擊命中時使用，使對象陷入不良狀態[恍惚]。該效果一場景可以使用一次。雙手持握。至近不可。</p><p><em>射程：150m</em> / <em>參照：IA P29</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "15",
+      "difficulty": 20
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -2,
+    "attack": 10,
+    "guard": 0,
+    "range": "150m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P29"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

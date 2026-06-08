@@ -1,0 +1,37 @@
+{
+  "_id": "kIIFnKG0rTBgk30k",
+  "_key": "!items!kIIFnKG0rTBgk30k",
+  "name": "激光發射器",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 66,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>發達國家使用的激光照射器，不需要彈藥所以很便宜，只要有電就能一直攻擊。</p><p>該武器進行的攻擊無視對象裝甲值。搭載火器。至近不可。稀有道具。</p><p><em>射程：200m</em> / <em>參照：IA P29</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "12",
+      "difficulty": 50
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 8,
+    "guard": 0,
+    "range": "200m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P29"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

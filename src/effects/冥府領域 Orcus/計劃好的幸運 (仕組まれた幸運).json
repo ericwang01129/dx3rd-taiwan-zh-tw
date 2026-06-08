@@ -1,0 +1,64 @@
+{
+  "_id": "VHWOgSxBZcNnuN0N",
+  "name": "計劃好的幸運 (仕組まれた幸運)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/sparkles.svg",
+  "folder": "FmovFwS0XlDsBEPd",
+  "sort": 0,
+  "system": {
+    "description": "<p>在領域內的各種東西安排因子，吸引相當限定的幸運狀況的異能。</p><p>舉例來說，可以從準備好的抽獎裡抽出目標獎項，或者連續扔出正面的硬幣。</p><p>但如果有無法安排因子的要素，或者是牽涉到複數人的事，此異能便無效。</p><p><em>參照：EAP103</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冥府領域 Orcus",
+      "syndromeItemId": "VkIuxIHuGC4SwBN8",
+      "source": "EAP103"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VHWOgSxBZcNnuN0N"
+}

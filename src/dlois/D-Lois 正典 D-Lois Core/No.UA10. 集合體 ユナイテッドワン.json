@@ -1,0 +1,40 @@
+{
+  "_id": "gPtgI2Ka598Dtjhi",
+  "_key": "!items!gPtgI2Ka598Dtjhi",
+  "name": "No.UA10. 集合體 ユナイテッドワン",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 145,
+  "system": {
+    "description": "<p>你——準確來說你們是複數個RB集合成的一個集合體。RB有各種形態，其中也存在共享一個肉體、能進行有機的合作的個體。集合的原因多種多樣，例如生存需要、研究需要、個人的同伴意識等。即使是構成同一個集合體的RB，也可能具備各種不同的理由。</p><p>決策的方式可以是由一個RB支配其他RB，又或者是商談後多數表決、抽籤、猜拳等。</p><p>你可以自由扮演構成你的RB們的人格，行動由你決定，這些RB視為一個你的PC。</p><p><em>效果：你可以使用和你共生的RB們的異能力。\n在使用異能時宣言，選擇一個你所使用的異能力。這個動作間，所選的一個異能力的侵蝕值變為0，但之後在劇本中無法再使用這個異能力。\n無法選擇“一劇本一次”的異能力。\n這一效果最多可以宣言[你取得的《起源：●●》個數+2]次。</em> / <em>備註：RB專用</em> / <em>參照：DF P29</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA10",
+      "source": "DF P29"
+    }
+  }
+}

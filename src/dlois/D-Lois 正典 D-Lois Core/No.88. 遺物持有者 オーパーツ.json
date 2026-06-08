@@ -1,0 +1,40 @@
+{
+  "_id": "ZupbWFWsyr9Vr6vL",
+  "_key": "!items!ZupbWFWsyr9Vr6vL",
+  "name": "No.88. 遺物持有者 オーパーツ",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 88,
+  "system": {
+    "description": "<p>你持有一件超古代文明所遺留下來的「遺物」。</p><p>關於這件遺物的獲取方式，你可以自由設定——或許是在人跡罕至的遺跡中發現的，或許是從某人手中繼承而來，又或許是你家族世代相傳的寶物。</p><p>你所擁有的這件遺物，是以現代科學無法解析的超級技術所製造而成。</p><p>雖然它擁有驚人的力量，但仍有許多不明之處，就連作為持有者的你，也尚未能完全自如地駕馭它。</p><p>世界各國政府和秘密結社都虎視眈眈地盯著這些蘊含絕大力量的遺物，派遣精英特工在世界各地進行探索任務。</p><p>若是讓這些遺物落入邪惡之人手中，可能會導致世界性的危機。</p><p>因此，你持有的遺物絕不能讓它落入他人之手。</p><p><em>效果：此D-Lois只能在「舞臺：奇妙時代」中取得。\n\n你可以免費常備化一件常備化點數不超過50的道具，此時可以選擇其他舞臺的道具和FH專用道具，但獨特道具或通過其他D-Lois獲得的道具不能以此方式常備化。此道具被視為超古代文明的遺物。你可以將它交給他人，但你以外的角色不能使用。通過此D-Lois常備化的道具只能在劇本的高潮階段使用。\n取得此D-Lois時，你的侵蝕率基本值+5。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.88",
+      "source": ""
+    }
+  }
+}

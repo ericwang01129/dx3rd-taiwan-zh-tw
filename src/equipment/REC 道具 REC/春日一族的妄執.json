@@ -1,0 +1,40 @@
+{
+  "_id": "UtMjFNzoM5NDbSID",
+  "_key": "!items!UtMjFNzoM5NDbSID",
+  "name": "春日一族的妄執",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 27,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>表示你作為春日一族的關係者擁有強大意志力的道具。無論春日恭二被打倒多少次，那不滅的生命力和執念都體現出“他來自春日一族”的出身。那個執念有將周圍全都捲入並加以改變的特質。</p><p><em>REC：春日恭二</em> / <em>次數：1/劇本\n1/劇本</em> / <em>通常效果：你從戰鬥不能中回復時使用，該回合間，你進行的判定的骰數+5個。\n該效果一劇本可以使用一次。</em> / <em>強化效果：你陷入戰鬥不能時使用，解除你的戰鬥不能狀態並將HP回復至1點。\n該效果一劇本可以使用一次。</em> / <em>參照：IA P200</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：春日恭二",
+      "source": "IA P200"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

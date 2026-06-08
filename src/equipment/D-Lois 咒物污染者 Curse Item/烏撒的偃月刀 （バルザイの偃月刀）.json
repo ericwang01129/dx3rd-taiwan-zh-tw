@@ -1,0 +1,37 @@
+{
+  "_id": "ppke1xTYMBpWsi7X",
+  "_key": "!items!ppke1xTYMBpWsi7X",
+  "name": "烏撒的偃月刀 （バルザイの偃月刀）",
+  "folder": "JGiIqEn4KCHBiEod",
+  "sort": 3,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/katana.svg",
+  "system": {
+    "description": "<p>《死靈之書》中記載的、帶有土星領域力量的彎刀（scimitar）。帶有侍奉阿撒托斯宮廷的舊神們的力量，用於繪製魔法陣或幾何學記號來強化咒力，以及用來討滅靈性存在。平時必須用黑色絲布覆蓋。使用者以希望作為代價，背負著在各個多元宇宙中與〈外神〉戰鬥的宿命。</p><p>使用此武器攻擊造成1點以上傷害時，可以解除對象正在使用且效果持續中的一個E-Lois。但是，如果解除設有其他條件，未經GM許可則無法解除。</p><p>此武器無法從裝備中卸下，裝備中，你受到來自[神性][神話生物]的異常狀態【恐怖】會變更為【暴走】。</p><p><em>射程：至近</em> / <em>參照：NC P115</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 10,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 咒物污染者 Curse Item",
+      "section": "",
+      "source": "NC P115"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

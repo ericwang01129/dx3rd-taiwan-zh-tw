@@ -1,0 +1,40 @@
+{
+  "_id": "s3wrRO4II1xFOe5C",
+  "_key": "!items!s3wrRO4II1xFOe5C",
+  "name": "No.71. 宿命之子 チャイルドオブフェイト",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 71,
+  "system": {
+    "description": "<p>你與學園島有著奇妙的緣分。</p><p>你體內的背教者在這座島上顯示出不可思議的活性。研究者們推測這可能是由島內存在的某種影響物所引起，但真相仍然是個謎。</p><p>唯一確定的是，當你身處學園島時，你作為超越者的力量會顯著增強。</p><p><em>效果：此D-Lois只能在「舞臺：超越者學園」中使用。\n你免費取得異能【最大化】Lv1。\n\n最大化\n最大等級：1 \n時機：準備階段 \n技能：- \n難易度：自動成功\n對象：自身 \n射程：至近\n侵蝕值：7 \n限制：D-Lois\n次數：1/劇本\n效果：最大程度釋放從島上流入的力量的異能。\n該回合間，你使用的所有異能判定的暴擊值-1(下限值6)。使用此異能會使你失去20點HP。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.71",
+      "source": ""
+    }
+  }
+}

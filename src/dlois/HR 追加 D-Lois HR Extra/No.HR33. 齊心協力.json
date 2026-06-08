@@ -1,0 +1,40 @@
+{
+  "_id": "JRvG3ZhYFzAyZVPO",
+  "_key": "!items!JRvG3ZhYFzAyZVPO",
+  "name": "No.HR33. 齊心協力",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 34,
+  "system": {
+    "description": "<p><em>效果：REC：取得時選擇</em> / <em>通常效果：你進行的所有判定的骰數+[在該場景中登場，並且你取得了其Lois的角色數量]D。但是，當你締結了Lois的角色陷入戰鬥不能或是死亡時，該角色的Lois將會立即Titus化，且你的侵蝕率會上升3點。</em> / <em>強化效果：選擇為「REC」的角色登場的情況下，「通常效果」所增加的判定骰數在原本的基礎上再+1D。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR33",
+      "source": ""
+    }
+  }
+}

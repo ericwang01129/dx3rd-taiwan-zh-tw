@@ -1,0 +1,37 @@
+{
+  "_id": "UhpmKQTpw9t7i4kg",
+  "_key": "!items!UhpmKQTpw9t7i4kg",
+  "name": "流砂守禦者 （サンドブロッカー）",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 47,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>以“X02沙人”的防禦能力數據為基礎開發的EX背教者病毒砂及其控制單元。能讀取使用者的思想，自由變換形態。</p><p><em>參照：IA P193</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "武器/近戰",
+    "skill": "rc",
+    "add": 0,
+    "attack": 0,
+    "guard": 0,
+    "range": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P193"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "EELCiUHjLbxYfdHU",
+  "_key": "!items!EELCiUHjLbxYfdHU",
+  "name": "No.10. 傳承者：<技能名> サクセサー Successor",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 10,
+  "system": {
+    "description": "<p>你繼承著家裡代代相傳的密傳之技。</p><p>很可能是單子相傳的武術，或是帝王學或戰術理論等菁英教育，或是接受情報組織的培訓。就結果而言，你獲得他人難以模仿的高超技巧。</p><p><em>效果：取得這D露易絲時，選擇一個技能填入(ex.傳承者：<近戰>)。\n進行該技能的判定之前可以發動，該判定爆擊值-1(下限5)。\n使用的主要階段結束後，HP-10。\n次數限制：場景中一次，劇本中合計三次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.10",
+      "source": ""
+    }
+  }
+}

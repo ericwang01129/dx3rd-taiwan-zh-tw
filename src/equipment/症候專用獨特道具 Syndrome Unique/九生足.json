@@ -1,0 +1,40 @@
+{
+  "_id": "S12thzdAZqlrZLBG",
+  "_key": "!items!S12thzdAZqlrZLBG",
+  "name": "九生足",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 94,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>與超越者結成共生關係、有九條腿的塔藍圖拉毒蛛。能賦予流亡畸體不死身般的生命力。</p><p>你因為任何效果從戰鬥不能狀態回復時使用，你回復10HP，使用該效果後你的侵蝕率+1。</p><p><em>參照：IA P82</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P82"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

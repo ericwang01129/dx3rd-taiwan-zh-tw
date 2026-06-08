@@ -1,0 +1,37 @@
+{
+  "_id": "o8EIBXQwSn5XDdum",
+  "_key": "!items!o8EIBXQwSn5XDdum",
+  "name": "毒氣手榴彈",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 46,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/grenade.svg",
+  "system": {
+    "description": "<p>散佈能通過皮膚傳染的毒的手榴彈。</p><p>使用該武器進行攻擊的對象變為[對象：範圍]，該攻擊命中時使對象陷入不良狀態[邪毒：3]。使用該武器無法造成HP傷害。該武器一劇本可以使用一次。</p><p><em>射程：10m</em> / <em>參照：IA P27</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "3",
+      "difficulty": 5
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -3,
+    "attack": 0,
+    "guard": 0,
+    "range": "10m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P27"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

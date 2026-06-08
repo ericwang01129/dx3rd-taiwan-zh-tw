@@ -1,0 +1,40 @@
+{
+  "_id": "x8QHy6d0MsYl2hik",
+  "_key": "!items!x8QHy6d0MsYl2hik",
+  "name": "No.UA05. 魔街的獵犬 フロムヘル",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 140,
+  "system": {
+    "description": "<p>你是逃離了[舞臺：魔街]的魔街的居民。櫻井翔香是魔街的“正教會”的修女，也是天使之家孤兒院的運營者。她在那裡訓練過有超越者能力的孩子們，其中有一些孩子的結局是不幸的。之後，許多孩子們變成了原菌，她也從魔街消失了。</p><p>她為什麼會失蹤？為什麼會發生原菌化事件？對她來說，孩子們只是實驗動物嗎？</p><p>你追尋著櫻井翔香離開了魔街。那是背水一戰的脫逃劇，成功本身便是奇跡。UGN中央評議會下令一旦發現你就立刻殲滅，靠著極少數非官方協助者的庇護，你活了下來。</p><p>據說現在櫻井翔香正作為傷戮的一員在訓練成員。</p><p><em>效果：在魔街的生活使你鍛煉出了強韌的肉體。在你受到HP傷害之前使用，你（將要）受到的HP傷害-3d10。\n取得這個D露易絲時，你無法裝備、使用自由職業外的紋章道具。\n需要注意取得這個露易絲不等於可以取得[舞臺：魔街]的專用數據。</em> / <em>參照：DF P27</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA05",
+      "source": "DF P27"
+    }
+  }
+}

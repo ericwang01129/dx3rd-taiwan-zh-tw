@@ -1,0 +1,40 @@
+{
+  "_id": "WLCg7n0qUhA81DkG",
+  "_key": "!items!WLCg7n0qUhA81DkG",
+  "name": "No.21. 神格 (RB專用) ディエティ Deity",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 21,
+  "system": {
+    "description": "<p>你是曾經接受信仰的神佛，或是某個地區孕育的自然神靈，或者是有著能與之匹敵的力量的RB。</p><p>研究者間流傳著一種說法，過去傳說中出現的神靈，精靈，英雄是一種RB，而且可能存活至現代。對於不知道超越者存在前人而言，或許把他們視作惡魔或神祉吧。</p><p><em>效果：只限工作為【背教者生命體】的角色可取得\n於先攻階段使用，你可以引起地震或颶風等天災，破壞場景內的一個建築或一個載具，或者使登場的一個交戰區內的集團戰鬥不能，但這個效果不會造成角色傷害，NPC的下場由GM決定。\n戰鬥中的發動時機是主動階段。\n次數限制：劇本中一次。</em> / <em>備註：RB專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.21",
+      "source": ""
+    }
+  }
+}

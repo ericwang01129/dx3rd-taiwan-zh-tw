@@ -1,0 +1,37 @@
+{
+  "_id": "D2tCLedESzLCVkHE",
+  "_key": "!items!D2tCLedESzLCVkHE",
+  "name": "堅兵戰刃",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 12,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>使用能與異能反應的特殊合金製作的劍，背教者越活性化劍就越鋒利。</p><p>次要動作使用，該場景間該武器攻擊力+3，每次使用該效果你的侵蝕率+2，該效果最多可以疊加3次。</p><p><em>射程：至近</em> / <em>參照：IA P57</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 12,
+    "guard": 2,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P57"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

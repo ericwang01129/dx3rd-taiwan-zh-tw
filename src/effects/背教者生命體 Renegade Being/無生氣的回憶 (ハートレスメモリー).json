@@ -1,0 +1,64 @@
+{
+  "_id": "HtZVKbM2m2vTZr0Y",
+  "name": "無生氣的回憶 (ハートレスメモリー)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/dna2.svg",
+  "folder": "AvyHUzJeOF7NG7Ul",
+  "sort": 0,
+  "system": {
+    "description": "<p>從人們的記憶呼喚出死者的人格，並與其對話的異能。</p><p>死者的記憶經常曖昧不明。需要遺物或遺體的一部分。</p><p>呼喚出的難易度依死亡時間而定，一周內為8，一個月以內為15，在此之上為30。</p><p>GM可視狀況讓死者無法被呼喚。</p><p><em>參照：規則2P181</p><p>EAP135</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "參照效果",
+    "limit": "RB / 1/場景",
+    "timing": "major",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "battle"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "背教者生命體 Renegade Being",
+      "syndromeItemId": "MupaMCIUGiXa5xBa",
+      "source": "規則2P181\nEAP135"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!HtZVKbM2m2vTZr0Y"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "pt0FKCYI918hFo4Y",
+  "_key": "!items!pt0FKCYI918hFo4Y",
+  "name": "彗星投彈手",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 34,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>被EX背教者侵蝕的小石子大小的隕石，與異能反應後能產生爆發般的力場。</p><p>與組合重力魔眼異能的<RC>攻擊同時使用，該攻擊傷害+3D10。稀有道具。</p><p><em>參照：IA P75</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P75"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "R6hZlFs2Wz1DBTym",
+  "_key": "!items!R6hZlFs2Wz1DBTym",
+  "name": "No.26. 亞純血 (混血專用) デミブリード Demi-Bleed",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 26,
+  "system": {
+    "description": "<p>你是混血種當中，特別傾向其中一種症狀的特殊血統。一般來說，混血種的兩種症狀應該是均衡的狀態，但亞純血的其中一種症狀會非常強力，而另一個症狀會弱化。這在混血種當中是非常罕見的，有著雙親都是同一症狀的純血種而誕生的天生亞純血，或是藉由藥物強化特定症狀的後天亞純血。</p><p><em>效果：只限血統為【混血種】的角色可取得。\n可以免費取得兩種症狀中的一個【限制：純血】的能力Lv1，但是不能升級\n而且不能取得另一個症狀的【限制：100%】的能力</em> / <em>備註：混血專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.26",
+      "source": ""
+    }
+  }
+}

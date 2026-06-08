@@ -1,0 +1,40 @@
+{
+  "_id": "1OtSWCceIlhkMVx0",
+  "_key": "!items!1OtSWCceIlhkMVx0",
+  "name": "No.HR38. 純愛",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 39,
+  "system": {
+    "description": "<p><em>效果：REC：取得時選擇</em> / <em>通常效果：於場景中登場的一個角色受到的HP傷害結算完成時使用，使該HP傷害降低10D10點。使用這個效果時，你的侵蝕率會上升2D10點。這個效果一個劇本中可以使用一次。</em> / <em>強化效果：將「通常效果」應用于選擇作為「REC」的角色身上時，將「使該HP傷害降低10D10點」變更為「使該HP傷害降低至0點」。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR38",
+      "source": ""
+    }
+  }
+}

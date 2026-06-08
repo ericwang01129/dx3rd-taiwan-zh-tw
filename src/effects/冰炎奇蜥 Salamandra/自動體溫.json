@@ -1,0 +1,64 @@
+{
+  "_id": "3c1pgmeiecVAicmj",
+  "name": "自動體溫",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/frostfire.svg",
+  "folder": "fTAZJwZUEo6ka7qa",
+  "sort": 0,
+  "system": {
+    "description": "<p>能調節自己的體溫，保持最適合作業的狀態，提高輕度作業或思考的集中力的異能。</p><p>除了提高作業效率外，也能調整最適合放鬆的溫度來有效率地休息。</p><p>擁有此異能的人，便擁有比其他人更不容易疲勞的體質。</p><p><em>參照：EAP111</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冰炎奇蜥 Salamandra",
+      "syndromeItemId": "QYuRS0HzX2yUU8d7",
+      "source": "EAP111"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!3c1pgmeiecVAicmj"
+}

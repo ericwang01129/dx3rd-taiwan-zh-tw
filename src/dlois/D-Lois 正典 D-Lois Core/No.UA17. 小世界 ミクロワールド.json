@@ -1,0 +1,40 @@
+{
+  "_id": "4G0dP6SQN1GKMDvb",
+  "_key": "!items!4G0dP6SQN1GKMDvb",
+  "name": "No.UA17. 小世界 ミクロワールド",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 152,
+  "system": {
+    "description": "<p>你能夠自由地改變自己的身體大小，善於控制肉體的尺寸。</p><p>尤其是你可以把自己變得很小，進入只有幾釐米大的世界中。</p><p>無論變得多小，你的力量都不會減弱。被壓縮的肌肉力量反倒會被增強，能跳到相當於身高數倍的高度、打飛體重相當於幾百個自己的目標。變小的時候，你的身體就像是有自我意識的子彈。</p><p>而且巨大化有過於顯眼的劣勢。這個世界上大多數超越者都對外隱瞞自己的存在，過於顯眼會讓人無法忽視你。</p><p>變小之後你的威脅程度反倒更高了。利用這種隱秘性，你可以活躍在諜報、暗殺之類的場合。</p><p>變小，居然是件好事。</p><p><em>效果：只限症狀為【流亡畸體】的角色可取得。\n你可以把自己的身體自由縮小、擴大。使用自動動作宣言後，可以在這一場景中將自己的肉體自由變小或變大，具體程度由GM決定。\n你熟知如何利用變化身體大小獲得好處的方法。變化大小期間你的判定骰子+5個，期間進行的攻擊無視對象的裝甲值。\n每次變化體型時你的侵蝕率+5（變回去不用消耗）。變化期間，你無法裝備防具。</em> / <em>備註：流亡畸體專用</em> / <em>參照：DF P33</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA17",
+      "source": "DF P33"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "ne1SxjfGZceSglSa",
+  "name": "海之魔術師",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/gorilla.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>操縱海浪的波動，在水中自由自在游泳的異能。</p><p>你能夠以魚一樣的速度在水中暢泳，亦能夠在大陸之間用游泳渡海而且不會溺水。</p><p>這個效果對同一場景裡登場的其他角色都有效果。</p><p>因為使用時需要集中精神，在戰鬥中不能發揮效果。</p><p><em>參照：RWP38</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "RWP38"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ne1SxjfGZceSglSa"
+}

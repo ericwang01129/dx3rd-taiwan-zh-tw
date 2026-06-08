@@ -1,0 +1,40 @@
+{
+  "_id": "Q7Ey6cDO8Nn7pMFt",
+  "_key": "!items!Q7Ey6cDO8Nn7pMFt",
+  "name": "畏怖",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 203,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你周圍的人因你的個人魅力而服從於你。通常來說，你的代號將會與恐懼、絕望等負面感情有所關聯。</p><p><em>次數：1/主要階段</em> / <em>效果：其他角色為針對你的攻擊進行掩護時使用；該角色不會因執行掩護而變為“已行動”，但使用該效果時，你的侵蝕率+3\n該效果一主要階段可以使用1次</em> / <em>參照：IA P152</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "尊主特工 取得條件：職業為FH特工、FH單元隊長、FH之子，需征得GM同意",
+      "source": "IA P152"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

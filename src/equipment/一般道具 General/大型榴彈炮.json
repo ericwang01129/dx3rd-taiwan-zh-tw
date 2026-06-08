@@ -1,0 +1,37 @@
+{
+  "_id": "UWkOFkVOE823OhR3",
+  "_key": "!items!UWkOFkVOE823OhR3",
+  "name": "大型榴彈炮",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 76,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/grenade.svg",
+  "system": {
+    "description": "<p>車輛搭載用手榴彈發射器，使用大型榴彈。</p><p>次要動作使用，該主要階段間該武器進行的攻擊對象變為[對象：範圍]，該效果一劇本可以使用一次。搭載火器。至近不可。稀有道具。</p><p><em>射程：50m</em> / <em>參照：IA P30</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "25",
+      "difficulty": 36
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -4,
+    "attack": 15,
+    "guard": 0,
+    "range": "50m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P30"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

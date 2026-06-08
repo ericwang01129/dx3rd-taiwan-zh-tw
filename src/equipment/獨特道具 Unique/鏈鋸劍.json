@@ -1,0 +1,37 @@
+{
+  "_id": "Yrmc5uRWMCR8FlIJ",
+  "_key": "!items!Yrmc5uRWMCR8FlIJ",
+  "name": "鏈鋸劍",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 11,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>使用特殊鋼材製作刀刃的戰鬥用鏈鋸，據說是由結社的犯罪者為了製造恐懼而開發，雖然從實戰武器角度來說一言難盡，但只說攻擊力的話是夠格的。</p><p>次要動作使用，該場景間可以將該道具作為武器使用。雙手持握。</p><p><em>射程：至近</em> / <em>參照：IA P57</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -3,
+    "attack": 16,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P57"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "vCsKS3ldfPQ61xw2",
+  "name": "結界化 (ワーディング)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "folder": "eTUfIRkQAvufdxsT",
+  "sort": 0,
+  "system": {
+    "description": "<p>在空中散佈特殊的物質，使一般人無力化的異能。</p><p>可隨時使用，使所有登場於場景的非超越者角色變成臨時角色。</p><p>相對地，登場的超越者會自動知道有人使用了此異能。此異能的效果會在場景中持續。</p><p><em>參照：規則1P169</p><p>EAP129</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "auto",
+    "target": "場景",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "一般 General",
+      "syndromeItemId": "t9bsxYmBHW27Rk9N",
+      "source": "規則1P169\nEAP129"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!vCsKS3ldfPQ61xw2"
+}

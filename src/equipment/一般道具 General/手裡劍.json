@@ -1,0 +1,37 @@
+{
+  "_id": "CYCRsibrCuNZa8It",
+  "_key": "!items!CYCRsibrCuNZa8It",
+  "name": "手裡劍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 42,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>忍者使用的投擲特化武器，熟練的話可以一次投擲多枚</p><p>使用該武器對處於同一接戰區域內的角色進行攻擊時判定達成值+2。</p><p><em>射程：10m</em> / <em>參照：IA P26</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "2",
+      "difficulty": 7
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 2,
+    "guard": 0,
+    "range": "10m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P26"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

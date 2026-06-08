@@ -1,0 +1,40 @@
+{
+  "_id": "68KumnKUnI5PXL8c",
+  "_key": "!items!68KumnKUnI5PXL8c",
+  "name": "機器駕車 （ロボカー）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 124,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/skoll/race-car.svg",
+  "system": {
+    "description": "<p>車輛搭載的自動駕駛功能，除車輛外也有船舶和飛機用的系統</p><p><em>效果：取得時選擇你常備化的一個[種類：載具]道具，搭載該載具時進行的<駕駛：●●>判定骰數+2個</em> / <em>備註：IA新增</em> / <em>參照：IA P143</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN通用 取得條件：職業為UGN系，或是身為UGN法外者的角色",
+      "source": "IA P143"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

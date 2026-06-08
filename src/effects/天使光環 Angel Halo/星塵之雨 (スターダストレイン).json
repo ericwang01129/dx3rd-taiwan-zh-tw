@@ -1,0 +1,64 @@
+{
+  "_id": "WZRgOXC0O05b2Db7",
+  "name": "星塵之雨 (スターダストレイン)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/sbed/water-drop.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>亂射鐳射光線的異能。</p><p>組合此異能的射擊攻擊的對象與射程變更成場景(選擇)與視界，但是攻擊力-[20-LV×5](最大0)。</p><p><em>參照：規則1P99</p><p>EAP23</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "1/劇本",
+    "timing": "major",
+    "target": "場景(選擇)",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 6,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "規則1P99\nEAP23"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!WZRgOXC0O05b2Db7"
+}

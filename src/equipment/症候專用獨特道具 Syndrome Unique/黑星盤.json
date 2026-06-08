@@ -1,0 +1,40 @@
+{
+  "_id": "uU2aRhz8Gdae6f85",
+  "_key": "!items!uU2aRhz8Gdae6f85",
+  "name": "黑星盤",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 35,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>被EX背教者侵蝕的漆黑圓盤，將其插入魔眼後能將暴走增強。</p><p>你使用《黑星粉碎》造成的HP傷害+20。</p><p><em>參照：IA P75</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P75"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "wEcM1Sad9psLCCeA",
+  "_key": "!items!wEcM1Sad9psLCCeA",
+  "name": "雙槽",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 153,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>搭載了與使用者同等思考能力但擁有不同判斷基準的人工智能的終端，可以從複數視角尋找現狀的解決辦法，多數是觸摸平板或小型無人機型，啟動時可以按照你的狀況進行設定。</p><p>次要動作使用，該場景間你進行的【精神】判定骰數+2個。</p><p><em>參照：IA P88</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P88"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

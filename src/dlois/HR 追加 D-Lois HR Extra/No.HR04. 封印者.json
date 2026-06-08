@@ -1,0 +1,40 @@
+{
+  "_id": "lGgKEnReNOPdScAo",
+  "_key": "!items!lGgKEnReNOPdScAo",
+  "name": "No.HR04. 封印者",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 5,
+  "system": {
+    "description": "<p><em>效果：REC：強羅瑠璃</em> / <em>通常效果：你進行的攻擊的傷害增加1D10。若是攻擊的對象持有\"遺產\"，則額外再增加1D10的傷害（合計為2D10）。\n所謂遺產，是指「D-Lois：遺產繼承者」專用的道具，以及GM承認為遺產的物品等。\n但是，每當你進行攻擊時，你的侵蝕率都會上升2點。</em> / <em>強化效果：你所攻擊攻擊的對象持有\"遺產\"的情況下，增加的傷害在「通常效果」的基礎上額外再增加1D10（合計3D10）。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR04",
+      "source": ""
+    }
+  }
+}

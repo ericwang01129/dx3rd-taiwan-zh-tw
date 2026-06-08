@@ -1,0 +1,37 @@
+{
+  "_id": "rnfnV0o6BLXi7ROw",
+  "_key": "!items!rnfnV0o6BLXi7ROw",
+  "name": "STRIDER",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 3,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>某流亡畸體研究者開發的特殊皮革素材製成的帶腿甲戰靴，同時擁有堅固性和舒適性。</p><p>你的戰鬥移動+5m。</p><p><em>射程：至近</em> / <em>參照：IA P56</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 7,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P56"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

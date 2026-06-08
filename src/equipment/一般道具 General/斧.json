@@ -1,0 +1,37 @@
+{
+  "_id": "ayMkf1kgQ3nQgu3l",
+  "_key": "!items!ayMkf1kgQ3nQgu3l",
+  "name": "斧",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 16,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/sharp-axe.svg",
+  "system": {
+    "description": "<p>專門用來戰鬥的斧，很重，揮舞時能獲得很強的破壞力。</p><p>使用該武器進行的近戰攻擊傷害擲骰後可以使用，選其中任意一顆骰子重骰，且不論結果好壞必須接受重骰結果。</p><p><em>射程：至近</em> / <em>參照：IA P23</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "6",
+      "difficulty": 11
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -3,
+    "attack": 4,
+    "guard": 1,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P23"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

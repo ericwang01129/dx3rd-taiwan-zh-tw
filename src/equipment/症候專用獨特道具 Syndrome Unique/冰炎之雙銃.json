@@ -1,0 +1,37 @@
+{
+  "_id": "dm3BmzqEoNReCo24",
+  "_key": "!items!dm3BmzqEoNReCo24",
+  "name": "冰炎之雙銃",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 292,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>以該武器進行的攻擊對象為［神格］、［神話生物］、［不死］其中之一時，無視對象的裝甲值。</p><p><em>射程：20m</em> / <em>參照：NC P111</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -3,
+    "attack": 10,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "NC P111"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

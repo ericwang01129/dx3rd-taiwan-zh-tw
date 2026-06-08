@@ -1,0 +1,40 @@
+{
+  "_id": "e6oBqO71BvQY5XiE",
+  "_key": "!items!e6oBqO71BvQY5XiE",
+  "name": "No.7. 特權階級 ハイロード High Lord",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 7,
+  "system": {
+    "description": "<p>你出身極端高貴。可能是國際企業的董事，某個國家的政要，甚至是UGN上層的成員。(請跟GM商談自己能扮演的角色)</p><p>演出上，你有著支持他人，下達命令的習慣或才能。可能是使用特權階級的地位或財力，獨佔技術或專屬醫療班來源助他人。</p><p><em>效果：自己可以把泰特司昇華所獲得的效果用在別人身上，像是增加對方的判定骰或降低對方的爆擊值。對象可與自己的泰特司昇華效果並用。\n但是你的泰特司昇華的效果中，「爆擊值-1(下限2)」的下限改為5。「爆擊值-1(下限5)」\nS露易絲的昇華不適用於此D露易絲的效果。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.7",
+      "source": ""
+    }
+  }
+}

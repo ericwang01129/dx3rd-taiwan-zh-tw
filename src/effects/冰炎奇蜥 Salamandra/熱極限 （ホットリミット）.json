@@ -1,0 +1,64 @@
+{
+  "_id": "T3oWORxaNnDI7jFr",
+  "name": "熱極限 （ホットリミット）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/frostfire.svg",
+  "folder": "fTAZJwZUEo6ka7qa",
+  "sort": 0,
+  "system": {
+    "description": "<p>提高對象的大腦溫度，讓集體陷入狂熱的異能。受到這個效果的集體會被你的話語控制，跟從你的誘導。但由於是狂熱狀態，無法完成複雜的命令。如果GM認為有必要，可以進行<交涉>判定。這個異能對超越者無效。</p><p><em>參照：UAP40</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "範圍(選擇)",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冰炎奇蜥 Salamandra",
+      "syndromeItemId": "QYuRS0HzX2yUU8d7",
+      "source": "UAP40"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!T3oWORxaNnDI7jFr"
+}

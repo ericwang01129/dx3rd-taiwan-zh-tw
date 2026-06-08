@@ -1,0 +1,64 @@
+{
+  "_id": "ahYJsNYuhkyEdOdG",
+  "name": "逃避的代價 （逃避の代償）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>你因自我厭惡而嘗試自殺，諷刺的是卻反而使得你的邪神因子到達真正覺醒的異能。</p><p>你受到[LV]D10點HP傷害。該場景間，你取得的所有混沌原核症候異能以其LV再加上《逃避的代價》的LV來進行效果計算（但無法超過最大等級）。</p><p><em>參照：NC P99</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "自殘\n120%",
+    "timing": "minor",
+    "target": "自身",
+    "range": "無",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 8,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "NC P99"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ahYJsNYuhkyEdOdG"
+}

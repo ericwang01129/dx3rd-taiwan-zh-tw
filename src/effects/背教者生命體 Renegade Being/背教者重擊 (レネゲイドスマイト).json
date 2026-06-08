@@ -1,0 +1,68 @@
+{
+  "_id": "8MYGyfSmDQvIvSXK",
+  "name": "背教者重擊 (レネゲイドスマイト)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/dna2.svg",
+  "folder": "AvyHUzJeOF7NG7Ul",
+  "sort": 0,
+  "system": {
+    "description": "<p>凝聚周圍的背教者進行攻擊的異能。遍佈世界各地的背教者將擊碎對方。</p><p>只能在《起源：🔴🔴》發揮效果的期間使用，可與任何攻擊組合。攻擊力+[LV×2]。</p><p><em>參照：規則2P181</p><p>EAP135</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "",
+    "limit": "RB",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*2"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "背教者生命體 Renegade Being",
+      "syndromeItemId": "MupaMCIUGiXa5xBa",
+      "source": "規則2P181\nEAP135"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!8MYGyfSmDQvIvSXK"
+}

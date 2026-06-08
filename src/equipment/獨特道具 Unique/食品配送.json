@@ -1,0 +1,34 @@
+{
+  "_id": "rSrc0g0pJ4F9X6oj",
+  "_key": "!items!rSrc0g0pJ4F9X6oj",
+  "name": "食品配送",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 70,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>UGN的有志小隊運營的補給食物配送服務，發出請求後無論地址都會配送，人氣很高，訂購需要排隊。</p><p>主要動作使用，進行目標值為7的<籌措>判定，成功時，該場景中登場的任意角色回復5D10HP，無法在戰鬥中使用，該效果一劇本可以使用一次。</p><p><em>參照：IA P64</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P64"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

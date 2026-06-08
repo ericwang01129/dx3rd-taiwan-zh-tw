@@ -1,0 +1,64 @@
+{
+  "_id": "LPeeuuMZ3L2ID78F",
+  "name": "白熱",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/frostfire.svg",
+  "folder": "fTAZJwZUEo6ka7qa",
+  "sort": 0,
+  "system": {
+    "description": "<p>將溫度集中在拳頭或腳掌等部位，產生局部性的超高熱的異能。會發出白色的光，燒盡所接觸到的一切。</p><p>該場景中，你的空手變更成以下數據。</p><p>種類：近戰　技能：<近戰>　命中：0　攻擊力：[LV×3+4]　格擋值：4　射程：至近</p><p><em>參照：規則2P160</p><p>EAP107</p><p>IAP106</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冰炎奇蜥 Salamandra",
+      "syndromeItemId": "QYuRS0HzX2yUU8d7",
+      "source": "規則2P160\nEAP107\nIAP106"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!LPeeuuMZ3L2ID78F"
+}

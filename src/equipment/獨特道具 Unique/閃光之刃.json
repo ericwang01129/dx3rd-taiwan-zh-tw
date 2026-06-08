@@ -1,0 +1,37 @@
+{
+  "_id": "iqBBWZbIpiIBAeYE",
+  "_key": "!items!iqBBWZbIpiIBAeYE",
+  "name": "閃光之刃",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 13,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>從刀身放出光的古老刀具，可以暫時將刀身變成巨大的光刃進行大範圍揮砍。</p><p>次要動作使用，該主要階段間使用該武器進行的近戰攻擊變為[對象：範圍（選擇）]，該效果優先級大於組合異能的對象，該效果一場景可以使用一次。</p><p><em>射程：至近</em> / <em>參照：IA P57</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 35,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 5,
+    "guard": 2,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P57"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

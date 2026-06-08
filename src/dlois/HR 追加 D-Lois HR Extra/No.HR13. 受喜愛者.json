@@ -1,0 +1,40 @@
+{
+  "_id": "8CLvuprKzQ5pd0X7",
+  "_key": "!items!8CLvuprKzQ5pd0X7",
+  "name": "No.HR13. 受喜愛者",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 14,
+  "system": {
+    "description": "<p><em>效果：REC：阿爾弗雷德·J·科多維爾</em> / <em>通常效果：以你自己或是視野記憶體在的任意角色為對象。於對象進行傷害擲骰前使用，使此次傷害+3D10。\n這個效果一個劇本可以使用一次。</em> / <em>強化效果：使用「通常效果」所增加的傷害額外再增加2D10（合計+5D10）。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR13",
+      "source": ""
+    }
+  }
+}

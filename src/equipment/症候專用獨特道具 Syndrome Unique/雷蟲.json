@@ -1,0 +1,40 @@
+{
+  "_id": "xFFLDLW5jCgIifnw",
+  "_key": "!items!xFFLDLW5jCgIifnw",
+  "name": "雷蟲",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 54,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>在體內寄生，能夠改變宿主生物電流向的寄生蟲。</p><p>任何時候都可以使用，該主要階段間你使用的一個[技能：RC]異能LV+1，使用複數異能時從中選擇一個，可以超過LV上限，但不能增加限制使用次數的異能的使用次數。稀有道具。</p><p><em>參照：IA P77</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P77"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

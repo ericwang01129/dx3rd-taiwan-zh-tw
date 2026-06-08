@@ -1,0 +1,40 @@
+{
+  "_id": "Bym24xt0vMThp9nN",
+  "_key": "!items!Bym24xt0vMThp9nN",
+  "name": "No.77. 立於頂點者 カリスマ",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 77,
+  "system": {
+    "description": "<p>你擁有一種令人無法抗拒的魅力。可以稱之為「風采」，也可以說是「華」。</p><p>這或許是與生俱來的天賦，或者是作為超越者的能力所帶來的結果。無論如何，僅僅是你站在那裡，就能吸引周圍所有人的目光與注意。你身上擁有一種能夠牽動人心的「某種特質」。</p><p>自然地，許多人被你吸引並聚集在你的身邊。在與那些對你心懷敬慕之人共同生活的日子裡，你建立自己的團隊無疑是順理成章之事。如今，你作為這個團隊的領袖，已經是魔街內舉足輕重的存在。</p><p>更重要的是，你的魅力不僅僅只是吸引人。它還能提升他人的精神狀態，引出他們的才能，從而使那個人能夠展現出超越以往的表現。</p><p>能夠凝聚人群，並完全激發跟隨者潛力的你，是無愧於團隊領袖之位的存在。</p><p><em>效果：此D-Lois只能在「舞臺：魔街」中取得。\n\n身為團隊或組織的領袖，你的魅力不僅能吸引眾人，還能幫助追隨者全力發揮他們的力量。\n在場景中登場的你以外的角色進行判定後使用，該判定達成值+10，該效果一次判定中只能使用一次。這個D-Lois的效果一劇本可使用三次。\n使用該效果時，你的侵蝕率會+5。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.77",
+      "source": ""
+    }
+  }
+}

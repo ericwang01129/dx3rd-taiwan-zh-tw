@@ -1,0 +1,37 @@
+{
+  "_id": "b0xZBb20prxaYsZI",
+  "_key": "!items!b0xZBb20prxaYsZI",
+  "name": "秘密定制 （シークレットカスタム）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 492,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>間諜等擅長潛入工作的人愛用的小型自動手槍，用於狙擊的精密度非常高</p><p><em>備註：IA新增</em> / <em>參照：IA P184</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/射擊",
+    "skill": "-",
+    "add": 0,
+    "attack": 0,
+    "guard": 0,
+    "range": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "自由人 取得條件：沒有取得其他紋章的角色",
+      "source": "IA P184"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

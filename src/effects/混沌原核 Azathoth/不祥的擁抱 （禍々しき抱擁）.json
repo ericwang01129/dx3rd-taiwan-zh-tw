@@ -1,0 +1,64 @@
+{
+  "_id": "NxgkjqDclFI4jfqn",
+  "name": "不祥的擁抱 （禍々しき抱擁）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>將你的R病毒流入對方體內，將對方暫時變為接近超越者的存在的異能。</p><p>對組合了該異能的近戰攻擊回避失敗或是進行格擋時，對象在該場景間【肉體】和【感覺】能力值+1，並且會被視為超越者。但這並不意味著連異能也能夠使用。</p><p><em>參照：CRC P99</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "單體",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P99"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!NxgkjqDclFI4jfqn"
+}

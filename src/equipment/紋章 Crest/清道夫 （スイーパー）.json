@@ -1,0 +1,40 @@
+{
+  "_id": "NisLsPjalUt5aGAh",
+  "_key": "!items!NisLsPjalUt5aGAh",
+  "name": "清道夫 （スイーパー）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 271,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你在FH之中十分擅長掃射戰的紋章。那些被削弱的、失去戰意的、陷入混亂的，於你而言都是絕佳的獵物。</p><p><em>效果：你對受到了任何異常狀態的角色進行攻擊時，傷害+1D10</em> / <em>參照：IA P160</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH通用 取得條件：職業為FH，或是身為FH法外者的角色",
+      "source": "IA P160"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

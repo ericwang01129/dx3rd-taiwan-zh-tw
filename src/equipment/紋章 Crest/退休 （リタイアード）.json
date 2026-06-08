@@ -1,0 +1,40 @@
+{
+  "_id": "vqG0pPje9HLkFFl4",
+  "_key": "!items!vqG0pPje9HLkFFl4",
+  "name": "退休 （リタイアード）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 504,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你因為感到身心極限而退出其他組織的紋章，身體已經因為長期逞強出了問題</p><p><em>效果：取得時從其他組織的紋章中選擇一個，你能夠取得所選的紋章；常備化那個紋章所需的經驗點需要另外消耗。選擇需要GM許可的紋章時，同樣需要先征得GM的同意\n該道具最多可以取得3個，但是每取得一個，你的侵蝕率+3</em> / <em>備註：IA新增</em> / <em>參照：IA P185</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "關聯：夥伴\n（コネ：相棒）",
+      "source": "IA P185"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

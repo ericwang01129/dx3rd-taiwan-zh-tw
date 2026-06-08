@@ -1,0 +1,40 @@
+{
+  "_id": "d8PzmFx0bt32dxGV",
+  "_key": "!items!d8PzmFx0bt32dxGV",
+  "name": "No.H02. 黃泉歸來(Dead Memory)",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 104,
+  "system": {
+    "description": "<p>你是一位透過背教者生命體「記憶大人」的能力「黃泉歸來」而復活的死者。更準確地說，你是根據某人的記憶而被重新構築的人類。</p><p>當「面影島事件」使記憶大人陷入沉睡時，你本應該一同消失。</p><p>然而，你現在依然活著。</p><p>為什麼你能繼續存活，原因不明。是命運的捉弄，還是某人的思念喚來了奇跡，或者你已經成為了真正的人類？原因完全不得而知。</p><p>但有一件事你深信不疑。</p><p>那就是你是被某人的思念所賦予生命。想要見你，想要傳達給你。擁有這樣思念的人，正是賦予你生命的存在。</p><p>如何運用這條生命，是由你來決定的。</p><p>但是，如果是為了那思念著你的人，你能發揮比平常更強大的力量。或許，你之所以能夠繼續存活，就是為了用這股力量完成某些事情。</p><p>關於你是否知道讓你復活的人是誰，以及他們是否就在你身邊，請與GM商議後決定。</p><p><em>效果：場景中登場的角色取得了對你的Lois時，你進行的所有判定的骰數+2D。存在複數取得對你的Lois的角色時，效果會迭加。NPC是否取得了對你的Lois由GM決定。\n此外，對你的Lois變為Titus時，你的侵蝕率+10。</em> / <em>參照：RU P113\nLM P111</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.H02",
+      "source": "RU P113\nLM P111"
+    }
+  }
+}

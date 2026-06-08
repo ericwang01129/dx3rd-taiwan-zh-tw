@@ -1,0 +1,40 @@
+{
+  "_id": "cKu603IVi86fm2Aq",
+  "_key": "!items!cKu603IVi86fm2Aq",
+  "name": "繁星球",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 30,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>將魔眼包覆的重力增幅裝置，擁有改變《虛無的城壁》製造的光重力場盾形狀的機能，變化成守護夥伴而非你的形狀。</p><p>你使用的《虛無的城壁》變更為[對象：單體]。</p><p><em>參照：IA P75</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P75"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

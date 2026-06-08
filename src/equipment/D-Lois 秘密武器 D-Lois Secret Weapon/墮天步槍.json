@@ -1,0 +1,37 @@
+{
+  "_id": "N2oFE3cqN7JDgJZV",
+  "_key": "!items!N2oFE3cqN7JDgJZV",
+  "name": "墮天步槍",
+  "folder": "2kAs6YkcXBjKKf0t",
+  "sort": 16,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/sbed/rifle.svg",
+  "system": {
+    "description": "<p>受EX背教者病毒感染的步槍，能射出對背教者病毒有鎮靜效果的子彈</p><p>使用該武器進行的射擊攻擊，對超越者（或原菌）造成至少1點HP傷害時，該回合間，對象進行的所有判定骰子數-3個</p><p>至近不可</p><p><em>射程：200m</em> / <em>參照：IA P114</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 10,
+    "guard": 0,
+    "range": "200m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 秘密武器 D-Lois Secret Weapon",
+      "section": "",
+      "source": "IA P114"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

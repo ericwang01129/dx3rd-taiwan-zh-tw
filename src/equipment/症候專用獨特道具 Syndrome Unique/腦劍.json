@@ -1,0 +1,37 @@
+{
+  "_id": "Wpu6NJ8rFF7lkeMv",
+  "_key": "!items!Wpu6NJ8rFF7lkeMv",
+  "name": "腦劍",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 146,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>被EX背教者感染的格鬥匕首，可以將情報分析、狀況預測直接傳入使用者的大腦，但因為情報量過大只有精神強韌的持有者才能使用。</p><p>該武器只能在組合《思考陣列》進行攻擊時使用，該判定骰數+4個。</p><p><em>射程：至近</em> / <em>參照：IA P88</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 7,
+    "guard": 2,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P88"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

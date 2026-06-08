@@ -1,0 +1,40 @@
+{
+  "_id": "LkHeCp39vI5nA4iS",
+  "_key": "!items!LkHeCp39vI5nA4iS",
+  "name": "No.C01. 惡靈之主(Old Wraith)",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 101,
+  "system": {
+    "description": "<p>你被授予了FH中唯一一位最強超越者的稱號「幽魂之主」。而且，這並非科德威爾博士選中的那些孩子們所獲得的證明。</p><p>換句話說，你在某種意義上可以說是最後的「幽魂之主」。如今，你被稱為「惡靈之主」，年輕的特工們將你視為過時的舊世代而輕視你。</p><p>選擇你成為「幽魂之主」的是都築京香。她提出的「幽魂之主」條件有兩個：成為強大的超越者，以及擁有「改變世界」的欲望。</p><p>隨著時間流逝，選擇了你的都築離開了FH。「幽魂之主」的含義被科德威爾博士重新定義。即便如此，你作為「幽魂之主」的事實依然不變。</p><p>日下部仁試圖創造一個自己站在頂點的世界。</p><p>佐久間彰人則試圖創造一個超越者支配人類的世界。</p><p>你同樣也在試圖改變世界。至於那是什麼樣的改變，你可以自由決定。「改變世界」的定義，也可以是你自己的理解。</p><p><em>效果：這個D-Lois只有職業為FH相關的角色可以取得。\n你的侵蝕率達到120%以上時，你取得的「時機:常駐」以外異能的等級和等級上限+1，且你進行的所有判定的骰數+4D。但是這個效果不會改變異能的使用次數。\n取得這個D-Lois時，你的侵蝕率基本值+10。\n此外，你可以照常消耗常備點來常備化FH專用道具，以該D-Lois取得的道具基本上除你以外均無法使用和裝備，即時持有也無法受到其效果影響。</em> / <em>備註：FH專用</em> / <em>參照：RU P56\nLM P110</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.C01",
+      "source": "RU P56\nLM P110"
+    }
+  }
+}

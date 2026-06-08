@@ -1,0 +1,64 @@
+{
+  "_id": "uWMEwFKuZms1c8ys",
+  "name": "天理的嘲笑者 （摂理の嘲笑者）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>于你也好、於邪神也好，物理法則之流絲毫不能適用。所謂牛頓力學，不過是人類所見的虛妄。這正是你發揮那絕對性的防禦力的異能</p><p>於你受到帶有「無視裝甲值」效果的攻擊造成的傷害之前使用，將此次攻擊的傷害降低[LV×3]點</p><p><em>參照：CRC P98</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P98"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!uWMEwFKuZms1c8ys"
+}

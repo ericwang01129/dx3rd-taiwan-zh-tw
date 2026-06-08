@@ -1,0 +1,37 @@
+{
+  "_id": "vZlZypAoc5M0nH0U",
+  "_key": "!items!vZlZypAoc5M0nH0U",
+  "name": "拐棍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 10,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>古武道中使用的棍棒，其中一端附近有握把，可以為腕部到肘部提供防禦，攻守優秀，在西方作為警棍使用。</p><p><em>射程：至近</em> / <em>參照：IA P23</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "3",
+      "difficulty": 5
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 2,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P23"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "yeTnBhxsnRiNHklD",
+  "_key": "!items!yeTnBhxsnRiNHklD",
+  "name": "戰術霰彈槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 58,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>用來實戰的自動霰彈槍，在洞窟或地下設施等密閉空間非常好用所以受到UGN突入部隊的喜愛。</p><p>使用該武器對處於同一接戰區域內的角色進行攻擊的攻擊力+2。</p><p><em>射程：10m</em> / <em>參照：IA P28</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "8",
+      "difficulty": 12
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 5,
+    "guard": 0,
+    "range": "10m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P28"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

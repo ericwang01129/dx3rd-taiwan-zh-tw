@@ -1,0 +1,37 @@
+{
+  "_id": "hkhPfN05ypmr8bE0",
+  "_key": "!items!hkhPfN05ypmr8bE0",
+  "name": "重機槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 71,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/sbed/rifle.svg",
+  "system": {
+    "description": "<p>以設置使用為前提的大型機關槍，套裝附帶射擊後坐力抑制裝置、彈藥箱和三腳架。</p><p>搭載火器。至近不可。稀有道具。</p><p><em>射程：200m</em> / <em>參照：IA P29</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "18",
+      "difficulty": 24
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -3,
+    "attack": 12,
+    "guard": 0,
+    "range": "200m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P29"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

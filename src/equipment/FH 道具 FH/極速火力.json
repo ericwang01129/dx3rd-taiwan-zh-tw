@@ -1,0 +1,37 @@
+{
+  "_id": "AG9JZDFMUJ9CeRL4",
+  "_key": "!items!AG9JZDFMUJ9CeRL4",
+  "name": "極速火力",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 14,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>使用特殊彈頭的突擊步槍，對人對物都有強大的破壞力。</p><p>使用該武器進行攻擊決定對象前使用，該攻擊變為[對象：範圍（選擇）]，該武器的對象優先級大於組合異能的對象，該效果一場景可以使用一次。雙手持握。至近不可。</p><p><em>射程：50m</em> / <em>參照：IA P123</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "10",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 9,
+    "guard": 0,
+    "range": "50m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P123"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "wF5RGV5BCLBiwAb4",
+  "name": "巨增模式 (ギガンティックモード)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/morph-ball.svg",
+  "folder": "1c2f74fWFU3n9X1W",
+  "sort": 0,
+  "system": {
+    "description": "<p>使武器分裂的異能。分成無數份的武器尖端，會精確打倒面前所有的敵人。</p><p>組合此異能的攻擊對象變更成範圍(選擇)，但判定後你裝備的武器會全部被破壞。</p><p><em>參照：規則1P141</p><p>EAP82</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "範圍(選擇)",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "煉金化形 Morpheus",
+      "syndromeItemId": "VAwDGRpXdkn7vZjE",
+      "source": "規則1P141\nEAP82"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!wF5RGV5BCLBiwAb4"
+}

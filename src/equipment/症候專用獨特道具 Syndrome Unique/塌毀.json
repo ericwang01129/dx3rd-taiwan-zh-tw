@@ -1,0 +1,37 @@
+{
+  "_id": "WzJqIsx8oRqI2ZdS",
+  "_key": "!items!WzJqIsx8oRqI2ZdS",
+  "name": "塌毀",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 149,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>使用高度演算貫穿各種防禦的手槍。</p><p>次要動作使用，使用該武器進行的攻擊無法被格擋，該效果一場景可以使用一次。</p><p><em>射程：20m</em> / <em>參照：IA P88</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 100,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 25,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P88"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

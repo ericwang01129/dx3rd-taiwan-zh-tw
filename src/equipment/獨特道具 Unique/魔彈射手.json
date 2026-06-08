@@ -1,0 +1,37 @@
+{
+  "_id": "e5Z2yKqaWS6Odai0",
+  "_key": "!items!e5Z2yKqaWS6Odai0",
+  "name": "魔彈射手",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 28,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>永遠只能準備三發子彈，射出後能永遠追蹤目標的狙擊槍，對EX背教者來說不存在射擊距離這一概念。</p><p>對使用該武器進行的攻擊的閃避判定骰數-2個，該武器的射程優先級大於組合異能的射程。該武器一劇本可以使用三次。至近不可。</p><p><em>射程：視野</em> / <em>參照：IA P59</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 10,
+    "guard": 0,
+    "range": "視野"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P59"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "mS2UWZZUMjqICoUK",
+  "_key": "!items!mS2UWZZUMjqICoUK",
+  "name": "從者引爆",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 21,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>表示你擁有可以隨時引爆從者的能力。</p><p><em>效果：鮮血真祖症候可以取得。先攻階段使用，使你一個該場景中登場的從者進行主要階段，該主要階段間，從者無法進行戰鬥移動和全力移動，且主要動作只能進行組合了《暗夜的詛咒》的判定。</em> / <em>參照：IA P190</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P190"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

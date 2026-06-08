@@ -1,0 +1,40 @@
+{
+  "_id": "ZPxJuNetPA4foh1h",
+  "_key": "!items!ZPxJuNetPA4foh1h",
+  "name": "移動指揮所 （コマンドモービル）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 21,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/skoll/race-car.svg",
+  "system": {
+    "description": "<p>只允許被選擇的支部長搭乘的特殊裝甲車。</p><p><em>次數：3/劇本</em> / <em>效果：技能：<駕駛：四輪>   攻擊力：12   行動值：-3   裝甲值：15   全力移動：180m\n準備階段時使用，你可以召喚並搭乘該載具\n此外，你可以在你以外的單位進行判定前宣言，使該判定的判定骰數+3個\n該效果在搭乘期間，1劇本可以使用3次</em> / <em>參照：IA P132</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "紋章/載具",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN支部長 取得條件：職業為UGN支部長A~D的角色",
+      "source": "IA P132"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "tNexnFHw08qyRsMD",
+  "_key": "!items!tNexnFHw08qyRsMD",
+  "name": "No.UA20. 軍神 ストラテジスト",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 155,
+  "system": {
+    "description": "<p>你是戰爭的天才。</p><p>神腦演算被認為是有著所有才能的症候，但在其中沒有人的軍略比你更強。戰場是混沌的。參戰的人越多，越不可能預判到之後的發展。</p><p>但你不同。</p><p>你讀懂了古往今來全世界所有戰爭的記錄。你能夠感覺到所有將領與士兵的呼吸。不管怎樣的戰爭都不是偶然，一切都是戰術上的必然。</p><p>你在尋找著。尋找需要你的軍才的地方。尋找渴求你的戰場。</p><p><em>效果：只限症狀為【神腦演算】的角色可取得。\n自動獲得異能【勝利的軍才】Lv1，視為神腦演算異能力，可使用經驗提升等級。\n勝利的軍才\n最大等級：3\n時機：準備階段\n技能：-\n難易度：自動\n對象：場景（選擇）\n射程：視界\n侵蝕：8\n限制：D露易絲\n效果：對象的下一個主要動作的傷害骰子+（LV）D。不能以自己為對象。</em> / <em>備註：神腦演算專用</em> / <em>參照：DF P34</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA20",
+      "source": "DF P34"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "jDx1t686kNwUCFVf",
+  "name": "必有惡人來 （何かが道をやってくる）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>讓他人幻覺到你的氣息和存在的異能。</p><p>只能在自己沒有登場的場景中使用。對象的侵蝕率上升1D10，並令其產生幻覺。若對象不是超越者，甚至可以讓對方發狂，具體由GM判斷。即使你對對象毫無認知也能夠使用，</p><p><em>參照：CRC P98</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "LV/劇本",
+    "timing": "auto",
+    "target": "單體",
+    "range": "參照效果",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P98"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!jDx1t686kNwUCFVf"
+}

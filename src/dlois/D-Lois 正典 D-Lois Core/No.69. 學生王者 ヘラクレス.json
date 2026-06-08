@@ -1,0 +1,40 @@
+{
+  "_id": "ovLXfhSav0qeVoFV",
+  "_key": "!items!ovLXfhSav0qeVoFV",
+  "name": "No.69. 學生王者 ヘラクレス",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 69,
+  "system": {
+    "description": "<p>你是模擬戰鬥課程\"R戰鬥\"的冠軍。無數的學生和教師...不，「觀眾」們將你比作希臘神話英雄，稱你為「赫拉克勒斯」並讚頌著你。</p><p>\"R戰鬥\"的內容非常多元化，從格鬥技和槍戰、馬上長槍決鬥等直接戰鬥，到展示超越人類極限的運動競技，再到使用載具的競速賽，甚至還包括將對手辯論到崩潰的邏輯·決鬥。不僅有個人競技，也有各種各樣的團體競技。</p><p>關於你是哪一個領域的「赫拉克勒斯」，請與GM商量後自由決定詳細設定。作為赫拉克勒斯的你在學園內是名人。觀眾中也會有人想打敗你，成為新的赫拉克勒斯。</p><p>此外，你也可以設定為目前已從R戰鬥一線退役的「前赫拉克勒斯」。即使如此，只要你擁有這個D-Lois，你的名字仍會作為不朽的傳說響徹學園。</p><p><em>效果：此D-Lois只能在「舞臺：超越者學園」中使用。\n取得該D-Lois時指定一項技能。在你進行指定技能的判定前使用。該判定的達成值+1D。該效果一劇本可以使用三次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.69",
+      "source": ""
+    }
+  }
+}

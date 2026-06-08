@@ -1,0 +1,40 @@
+{
+  "_id": "knplfJw5tAgXD6nU",
+  "_key": "!items!knplfJw5tAgXD6nU",
+  "name": "毒素血液",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 31,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>于從者的體內生成的毒。可透過變化自己身體的攻擊注入對方</p><p>次要動作使用，該主要階段使用《愚者的兵裝》取得的武器進行攻擊命中時，該回合間對象進行的判定骰數-2個</p><p><em>參照：IA P111</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "IA P111"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

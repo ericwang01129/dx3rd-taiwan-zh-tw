@@ -1,0 +1,64 @@
+{
+  "_id": "xVbIrCXecPTcmvZ2",
+  "name": "完全抗體",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>于體內保存或者立刻生成各種抗體，藉此抵消毒物或藥物的效果的異能。</p><p>可與任何回應動作判定組合，組合的判定骰數+LV顆，</p><p>但如果行動側在判定時沒有使用異能的話，便不能使用此異能。</p><p><em>參照：EAP114</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "reaction",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "EAP114"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!xVbIrCXecPTcmvZ2"
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "VZ9ih4QJkEj6kqG3",
+  "_key": "!items!VZ9ih4QJkEj6kqG3",
+  "name": "幻燈鏡",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 107,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>映照幻影的鏡子，成功複刻遺產一部分力量的仿造品。</p><p>目標發動[對象：範圍]或[對象：範圍（選擇）]攻擊，且你是攻擊對象之一時使用，該攻擊變為[目標：單體]，並需重新選擇目標，該效果的對象優先級大於組合異能的對象，該效果一劇本可以使用一次。</p><p><em>參照：IA P68</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 50,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P68"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

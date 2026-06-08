@@ -1,0 +1,64 @@
+{
+  "_id": "yajgVhbZ73sozqHA",
+  "name": "散亂漫影 (ランブリングシャドウ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/shadow-grasp.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《戰鬥的預感》。</p><p>生出無數殘像翻弄敵人的異能。</p><p>與《戰鬥的預感》組合使用，在這個場景中你的所有判定骰[LV+3]個。當你受到至少1點HP傷害時，這個效果將會消失。</p><p><em>參照：BCP56</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "極限",
+    "timing": "setup",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "BCP56"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!yajgVhbZ73sozqHA"
+}

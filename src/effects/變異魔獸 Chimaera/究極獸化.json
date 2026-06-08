@@ -1,0 +1,68 @@
+{
+  "_id": "oL3r3Foc6T2QFm6x",
+  "name": "究極獸化",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lion.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>將肉體變化成究極程度的強韌的異能。</p><p>只能在《完全獸化》發揮效果的期間使用。你的攻擊傷害+(LV)D，且裝甲值+10。</p><p>此異能持續到場景結束或《完全獸化》的效果消失。</p><p><em>參照：規則1P125</p><p>EAP62</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "120%",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": "4D10"
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "damage_roll": {
+        "value": "@level"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "規則1P125\nEAP62"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!oL3r3Foc6T2QFm6x"
+}

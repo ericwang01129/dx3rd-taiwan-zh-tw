@@ -1,0 +1,68 @@
+{
+  "_id": "WyGa01ZY1jGCukxf",
+  "name": "破碎之顎",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/grim-reaper.svg",
+  "folder": "FmovFwS0XlDsBEPd",
+  "sort": 0,
+  "system": {
+    "description": "<p>讓岩石連續如槍般從地面上隆起的異能。</p><p>進行「攻擊力：+[LV×2+2]」的射擊攻擊。此攻擊會使對象的回避判定骰數-2顆。不能以與你接戰的角色為對象。</p><p><em>參照：規則1P154</p><p>EAP99</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "1/場景",
+    "timing": "major",
+    "target": "範圍(選擇)",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "battle"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*2+2"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冥府領域 Orcus",
+      "syndromeItemId": "VkIuxIHuGC4SwBN8",
+      "source": "規則1P154\nEAP99"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!WyGa01ZY1jGCukxf"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "vxRupLUefcmTjeyp",
+  "_key": "!items!vxRupLUefcmTjeyp",
+  "name": "No.HR10. 同一存在",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 11,
+  "system": {
+    "description": "<p><em>效果：REC：藥王寺結希</em> / <em>通常效果：從你取得的症候以外的症候之中選擇一個異能，以Lv1的狀態取得，取得這個異能不需要經驗點。但是，無法通過這個D-Lois來取得「限制：—」以外的異能以及敵人異能。\n以該效果取得的「時機：常駐」以外的異能，其侵蝕值+2；若是取得「時機：常駐」的異能，則你的侵蝕率基本值+3。你可以使用經驗來成長以該D-Lois取得的異能。\n此外，以該D-Lois取得的異能，其等級上限為「異能的最大等級-1」（至少為1），這個等級上限不會受到你的血統影響</em> / <em>強化效果：以「通常效果」取得的「時機：常駐」以外的異能的所增加的侵蝕值-1。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR10",
+      "source": ""
+    }
+  }
+}

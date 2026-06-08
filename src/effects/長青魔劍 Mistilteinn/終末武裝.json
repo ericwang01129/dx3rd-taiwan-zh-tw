@@ -1,0 +1,64 @@
+{
+  "_id": "DGzALTjIAGM7Io5c",
+  "name": "終末武裝",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "folder": "m920eVQK9xEhuLPi",
+  "sort": 0,
+  "system": {
+    "description": "<p>表示你的元型具備能夠毀滅世界的廣範圍攻擊性能的異能。</p><p>組合使用[類別：元型]的武器進行的攻擊時，攻擊的對象變為範圍（選擇），傷害+[LV+2]D。</p><p><em>參照：UAP22</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "破壞120%",
+    "timing": "major",
+    "target": "範圍（選擇）",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "長青魔劍 Mistilteinn",
+      "syndromeItemId": "prV8KorHRzKAVkva",
+      "source": "UAP22"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!DGzALTjIAGM7Io5c"
+}

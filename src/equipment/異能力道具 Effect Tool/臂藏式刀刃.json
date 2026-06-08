@@ -1,0 +1,37 @@
+{
+  "_id": "5eI3n19hFqsHFXmw",
+  "_key": "!items!5eI3n19hFqsHFXmw",
+  "name": "臂藏式刀刃",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 2,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/katana.svg",
+  "system": {
+    "description": "<p>在手臂安裝內藏式刀刃。非常銳利，連鐵都能輕鬆切斷，平常收納於手臂中</p><p>可以於先制階段裝備，使用該武器攻擊的對象進行格擋時按照對象的格擋值-5計算傷害</p><p><em>射程：至近</em> / <em>參照：IA P108</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 9,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "IA P108"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

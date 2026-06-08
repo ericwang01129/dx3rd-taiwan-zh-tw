@@ -1,0 +1,40 @@
+{
+  "_id": "Qyu1UHjAm5E5WZot",
+  "_key": "!items!Qyu1UHjAm5E5WZot",
+  "name": "No.HG03. 詛咒刻印 カースブランド",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 109,
+  "system": {
+    "description": "<p>你被下了詛咒。</p><p>在不列顛存在著許多操縱折磨人類的詛咒的存在，如懷有惡意的妖精、百騎士、魔術師等。或者，這可能是對犯罪的你降下的神罰。</p><p>詛咒有各種形式，從身體的一部分變醜、變成動物等身體上的變化，到奪走你話語中的真實（只能說謊）、無法獲得他人信任等等。</p><p>但是，任何詛咒都必定存在解除的方法。為此需要的可能是魔術儀式，或者是與宿敵的了斷。</p><p>也可能需要真實的愛，或者需要真正的騎士之舉。</p><p>無論如何，這都不是一朝一夕就能獲得的東西。但也正因如此，絕對不能放棄。</p><p>所以你要繼續旅行。</p><p>解除你身上詛咒的方法可以與GM商量後自由決定。</p><p><em>效果：此D-lois只能在「舞臺：聖杯傳說」中取得。\n\n你被詛咒了，但正因為這個詛咒，你能夠發揮強大的背教者力量。\n你可以選擇任意兩個異能。這些異能必須都是「時機：主要動作」且能夠組合使用的異能。\n你進行組合選定異能的攻擊時，攻擊力+10。此外，透過此效果選擇的異能的侵蝕值+3。\n當達成解除詛咒的條件時，可以消除此D-lois。</em> / <em>參照：OC P39</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.HG03",
+      "source": "OC P39"
+    }
+  }
+}

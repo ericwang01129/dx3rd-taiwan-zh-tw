@@ -1,0 +1,40 @@
+{
+  "_id": "nMkYIyxErQeyJTHP",
+  "_key": "!items!nMkYIyxErQeyJTHP",
+  "name": "鷺乃宮家特製女僕裝",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 41,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>發配給鷺乃宮家部分女僕的特殊女僕裝，也存在著男性用的管家服。是為鷺乃宮家傭之中擔當保鏢者所備之物；若是有誰在你面前受傷，那便無異於使鷺乃宮家顏面掃地吧。</p><p><em>REC：鷺乃宮香</em> / <em>通常效果：閃避：0 行動值：-1 裝甲值：7\n你進行掩護時，該防具視為[裝甲值：20]來進行傷害計算。</em> / <em>強化效果：你進行掩護時，不會因為此次掩護的攻擊而受到不良狀態。</em> / <em>參照：IA P203</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "聯繫/防具",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：鷺乃宮香",
+      "source": "IA P203"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "KDpgY5E3oXQNiMOS",
+  "_key": "!items!KDpgY5E3oXQNiMOS",
+  "name": "衝動抑制劑 （アージインヒビター）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 105,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>UGN為無法定期進行醫學檢查的法外者準備的衝動抑制劑，雖然副作用很強但是能在緊急情況下避免暴走</p><p><em>效果：你進行衝動判定前使用；該判定骰數+5個，但判定後你受到[異常狀態：恍惚]</em> / <em>備註：IA新增</em> / <em>參照：IA P141</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN法外者 取得條件：沒有取得UGN通用以外紋章的角色",
+      "source": "IA P141"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

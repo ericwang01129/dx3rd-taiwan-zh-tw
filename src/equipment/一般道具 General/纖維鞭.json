@@ -1,0 +1,37 @@
+{
+  "_id": "kedtLzAYMv9Xxfs9",
+  "_key": "!items!kedtLzAYMv9Xxfs9",
+  "name": "纖維鞭",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 24,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>用非常細的纖維製成的鞭子，很難使用。</p><p><em>射程：10m</em> / <em>參照：IA P24</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "8",
+      "difficulty": 12
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -6,
+    "attack": 6,
+    "guard": 0,
+    "range": "10m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P24"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

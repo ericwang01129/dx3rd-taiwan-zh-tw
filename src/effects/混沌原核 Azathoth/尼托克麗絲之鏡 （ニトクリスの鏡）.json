@@ -1,0 +1,64 @@
+{
+  "_id": "Xom2KLwHL199IvbJ",
+  "name": "尼托克麗絲之鏡 （ニトクリスの鏡）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>從漆黑之鏡的盡頭召喚來恐怖的修格斯，以其巨體碾殺敵人的異能。</p><p>於你受到來自攻擊的傷害之後使用，對攻擊者造成相同的傷害，返還的傷害上限為[LV×10]</p><p><em>參照：CRC P99</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "80% / 1/場景",
+    "timing": "auto",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "battle"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P99"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Xom2KLwHL199IvbJ"
+}

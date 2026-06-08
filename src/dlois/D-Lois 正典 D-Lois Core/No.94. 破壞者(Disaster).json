@@ -1,0 +1,40 @@
+{
+  "_id": "UBsq0jzDjBRgwwAq",
+  "_key": "!items!UBsq0jzDjBRgwwAq",
+  "name": "No.94. 破壞者(Disaster)",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 94,
+  "system": {
+    "description": "<p>表示你是個以破壞、暗殺或誘拐等工作來謀生的人類的D露易絲。</p><p><em>效果：你的【行動值】+5，且攻擊傷害+1D。\n你的閃避判定骰數-3顆，且進行格擋的格擋值-5。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.94",
+      "source": ""
+    }
+  }
+}

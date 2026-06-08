@@ -1,0 +1,40 @@
+{
+  "_id": "3X999nKGy1fhiEvc",
+  "_key": "!items!3X999nKGy1fhiEvc",
+  "name": "高性能治療箱",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 194,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>包含提高再生能力的安瓿的急救箱，使用了從超越者處提取的的治療成分，已確認普通人也能安全使用。</p><p>主要動作使用，你的HP回復3D10，不能在戰鬥中使用，該效果一劇本可以使用一次。</p><p><em>備註：存在官方將“消耗品”錯誤分到“一般”類別可能性，敬請注意</em> / <em>參照：IA P44</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "4",
+      "difficulty": 9
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P44"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

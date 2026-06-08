@@ -1,0 +1,40 @@
+{
+  "_id": "uFtEze8INrlp9kpp",
+  "_key": "!items!uFtEze8INrlp9kpp",
+  "name": "再生細胞",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 100,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>體內埋入了能迅速回復《細胞侵蝕》消耗的細胞的特殊器官。</p><p>與《細胞侵蝕》同時使用，回復一次《細胞侵蝕》的使用次數，該效果一劇本可以使用一次。</p><p><em>參照：IA P83</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P83"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

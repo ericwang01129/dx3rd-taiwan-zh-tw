@@ -1,0 +1,37 @@
+{
+  "_id": "iiuDavfGz3dOlT5C",
+  "_key": "!items!iiuDavfGz3dOlT5C",
+  "name": "切裂之剪",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 15,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>切斷特化單刃劍，其獨特的握柄看起來像是剪刀柄。</p><p>使用該武器進行攻擊時無視對方裝甲值，若對象裝備多個防具，則防具提供的裝甲值只無視最高的一件。</p><p><em>射程：至近</em> / <em>參照：IA P57</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 40,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 14,
+    "guard": 0,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P57"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

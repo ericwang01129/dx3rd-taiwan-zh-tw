@@ -1,0 +1,40 @@
+{
+  "_id": "qjnWMavCVmWtYBrO",
+  "_key": "!items!qjnWMavCVmWtYBrO",
+  "name": "No.37. 野獸本能 (變異魔獸) ビーストハート Beast Heart",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 37,
+  "system": {
+    "description": "<p>在你身體深處，潛藏著令人恐懼的野獸的本能。</p><p>平常並不會對你的日常生活帶來影響，就像沒有在狩獵的猛獸在安穩沉眠一樣。但是一旦被捲入戰鬥，你體內的野獸就會覺醒，比其他魔獸能力者更快變身或進入戰鬥型態，然後盡己所能地揮舞暴力。</p><p>普通的動物跟感覺敏銳的人類會察覺你體內的野獸而本能的產生恐懼。</p><p><em>效果：只限症狀為【變異魔獸】的角色可取得。\n你可以在準備階段讓一個【時機：次要行動】的變異魔獸異能當成【時機：準備階段】使用，使用這個效果的準備階段結束後，你的侵蝕率+5。\n次數限制：場景中一次。\n另外，NPC的動物會敬畏你，恐懼你，對你順從。</em> / <em>備註：變異魔獸專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.37",
+      "source": ""
+    }
+  }
+}

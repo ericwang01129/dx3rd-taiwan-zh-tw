@@ -1,0 +1,37 @@
+{
+  "_id": "R2ubTwwIKDe9rz6J",
+  "_key": "!items!R2ubTwwIKDe9rz6J",
+  "name": "獵槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 51,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>使用22口徑小口徑彈藥，在狩獵小動物和鹿時廣泛應用。對熊和原菌威力不足，但是一般情況已經夠用了。</p><p>以次要動作使用，該主要階段間，該武器進行的攻擊的判定達成值+5。雙手持握。至近不可。</p><p><em>射程：100m</em> / <em>參照：IA P27</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "5",
+      "difficulty": 7
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 4,
+    "guard": 0,
+    "range": "100m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P27"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

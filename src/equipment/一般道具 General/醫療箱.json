@@ -1,0 +1,40 @@
+{
+  "_id": "BtMsvUn9qIL1cfUu",
+  "_key": "!items!BtMsvUn9qIL1cfUu",
+  "name": "醫療箱",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 201,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>裝入醫療器械和藥品的大箱子，與急救箱不同雖然使用需要時間但可以重複使用。</p><p>主要動作使用，你的HP回復2D10，不能在戰鬥中使用，該效果一場景可以使用一次。</p><p><em>參照：IA P44</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "10",
+      "difficulty": 20
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P44"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

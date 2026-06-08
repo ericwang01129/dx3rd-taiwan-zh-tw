@@ -1,0 +1,40 @@
+{
+  "_id": "UmL5uz5okpJFIzP2",
+  "_key": "!items!UmL5uz5okpJFIzP2",
+  "name": "貴人禮贊",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 64,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>只對鮮血真祖超越者有效的古老裝飾品，能夠讓他人產生攜帶者是高貴的存在的印象。</p><p>次要動作使用，該主要階段間你進行的【社會】判定骰數+3個，該效果一場景可以使用一次。</p><p><em>參照：IA P79</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P79"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "gXX6VYFjy1pAHK3b",
+  "name": "潛影者 (シャドウダイバー)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/shadow-grasp.svg",
+  "folder": "1pCX5ZBbIY55J65u",
+  "sort": 0,
+  "system": {
+    "description": "<p>以影子為媒介，讀取他人感情的異能。只要觸摸對象的影子，便可知道對象現在的感情。</p><p>對象想隱瞞感情的話，以你的<RC>跟對象的<意志>進行對決。</p><p>能得知的只有感情而已，無法連思考內容都讀取。</p><p><em>參照：ICP51</p><p>EAP127</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "單體",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "噬身影蛇 Oroboros",
+      "syndromeItemId": "R7Jxr26CWdNB0hjx",
+      "source": "ICP51\nEAP127"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!gXX6VYFjy1pAHK3b"
+}

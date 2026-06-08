@@ -1,0 +1,40 @@
+{
+  "_id": "8nZB7VCiK34X39nm",
+  "_key": "!items!8nZB7VCiK34X39nm",
+  "name": "鋼鐵巨獸",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 30,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/skoll/race-car.svg",
+  "system": {
+    "description": "<p>FH開發的全長超過20米的多腳戰車，全力移動：120m。</p><p>你只能將該載具或搭載火器作為武器使用。稀有道具。</p><p><em>參照：IA P125</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "50",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "載具",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P125"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

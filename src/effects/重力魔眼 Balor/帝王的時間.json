@@ -1,0 +1,64 @@
+{
+  "_id": "koXUgUb3ZItfrJxl",
+  "name": "帝王的時間",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/sands-of-time.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>操縱周圍的時間流，在比他人流動得更慢的時間中，</p><p>不受打擾地調查、讀書、悠閒渡過休閒時間的異能。</p><p>由於無法在緊張狀態下使用，所以不能使用於戰鬥中或緊急作業的場面。</p><p><em>參照：規則2P90</p><p>EAP35</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "規則2P90\nEAP35"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!koXUgUb3ZItfrJxl"
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "EH7gloDe8N4gehom",
+  "name": "不可視之刃",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>在極近距離打出振動波，作為武器使用的異能。</p><p>該回合間，製作並裝備以下數據的武器。使用該武器進行攻擊時以對象的裝甲值-5計算傷害。</p><p>種類：近戰　技能：<近戰>　命中：-3　攻擊力：[LV×2+4]　格擋值：－　射程：至近</p><p><em>參照：CEP65</p><p>IAP106</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "CEP65\nIAP106"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!EH7gloDe8N4gehom"
+}

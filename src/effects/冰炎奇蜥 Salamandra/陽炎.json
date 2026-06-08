@@ -1,0 +1,68 @@
+{
+  "_id": "uH2P8C0J38I0eczI",
+  "name": "陽炎",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/carl-olsen/flame.svg",
+  "folder": "fTAZJwZUEo6ka7qa",
+  "sort": 0,
+  "system": {
+    "description": "<p>透過熱作出陽炎來欺瞞敵人的視線，趁隙回避攻擊的異能。明明感覺觸手可及卻絕對摸不著，那就是陽炎。</p><p>組合此異能的回避骰數+[LV+1]顆。</p><p><em>參照：規則1P159</p><p>EAP105</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "reaction",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "dodge_dice": {
+        "value": "@level+1"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冰炎奇蜥 Salamandra",
+      "syndromeItemId": "QYuRS0HzX2yUU8d7",
+      "source": "規則1P159\nEAP105"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!uH2P8C0J38I0eczI"
+}

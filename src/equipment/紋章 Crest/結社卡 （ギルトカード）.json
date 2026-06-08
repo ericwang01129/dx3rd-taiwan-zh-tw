@@ -1,0 +1,40 @@
+{
+  "_id": "mD3OiC2dqbxobQw1",
+  "_key": "!items!mD3OiC2dqbxobQw1",
+  "name": "結社卡 （ギルトカード）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 329,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>印有昭示結社特工身份紋章的信用卡，與結社有所關係的犯罪組織必須為持有這張信用卡的人謀求便利</p><p><em>效果：你進行的<交涉>判定的骰子數+1個</em> / <em>參照：IA P166</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "結社 取得條件：職業為結社成員、黑社會、小偷、駭客的角色",
+      "source": "IA P166"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

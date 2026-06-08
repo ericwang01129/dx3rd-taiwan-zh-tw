@@ -1,0 +1,37 @@
+{
+  "_id": "NCM3FtbEByciHBQd",
+  "_key": "!items!NCM3FtbEByciHBQd",
+  "name": "液態劍",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 14,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>使用被EX背教者生命體感染的液態金屬製作的劍，可以根據使用者的嗜好變成最合適的形態。</p><p>取得時可以將該武器的攻擊力和格擋值在總計12點範圍內自由分配，雙方最低需要分配1點，可以使用主要動作變更分配數值。</p><p><em>射程：至近</em> / <em>參照：IA P57</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 35,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 0,
+    "guard": 0,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P57"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "4xyNoMNYuPSUyjiK",
+  "_key": "!items!4xyNoMNYuPSUyjiK",
+  "name": "栓動式步槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 62,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/sbed/rifle.svg",
+  "system": {
+    "description": "<p>能通過認真瞄準提升精准度的步槍。</p><p>次要動作使用，該主要階段間該武器進行的攻擊判定達成值+5。至近不可。</p><p><em>射程：200m</em> / <em>參照：IA P28</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "10",
+      "difficulty": 15
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 8,
+    "guard": 0,
+    "range": "200m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P28"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

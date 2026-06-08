@@ -1,0 +1,40 @@
+{
+  "_id": "MUS2wG0YTV1uxfZp",
+  "_key": "!items!MUS2wG0YTV1uxfZp",
+  "name": "風靈領域 （シルフィードレルム）",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 51,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>以“X05風靈”的廣域殲滅能力為基礎開發的手鐲型裝置。一經啟動，便能將異能的效果向周圍傳播。</p><p><em>次數：1/劇本</em> / <em>效果：你使用異能前使用，使該異能變為[對象：範圍（選擇）]，使用該效果時侵蝕率+3，該效果一劇本可以使用一次。</em> / <em>參照：IA P193</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P193"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

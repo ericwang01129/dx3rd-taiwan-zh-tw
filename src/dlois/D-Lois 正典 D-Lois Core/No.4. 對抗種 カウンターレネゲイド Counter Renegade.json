@@ -1,0 +1,40 @@
+{
+  "_id": "KzT4e84XeDKeIySd",
+  "_key": "!items!KzT4e84XeDKeIySd",
+  "name": "No.4. 對抗種 カウンターレネゲイド Counter Renegade",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 4,
+  "system": {
+    "description": "<p>你是超越者殺手，像是白血球的存在，不知為何你擁有著只對其他超越者有害的攻擊手段，雖然使用時也會造成自己身體的損傷。</p><p><em>效果：你的攻擊對象是超越者(包括原菌)時，攻擊的傷害+2D10。\n使用效果的主要階段結束後，你失去3點HP，即使會因此而導致HP降低至0或以下時也可以發動。\n範圍攻擊中有超越者跟非超越者時，只有超越者的傷害+2D10。\n範圍攻擊複數超越者時，不會額外減少HP(還是-3)。\n這個效果總是會隨著你的攻擊而發動，但是攻擊未能命中時，你不會因為這個D-lois的效果而失去HP</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.4",
+      "source": ""
+    }
+  }
+}

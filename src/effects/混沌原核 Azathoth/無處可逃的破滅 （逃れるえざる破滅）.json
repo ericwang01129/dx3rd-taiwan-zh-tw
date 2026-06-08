@@ -1,0 +1,68 @@
+{
+  "_id": "yUTRvFKZFsWZLmVp",
+  "name": "無處可逃的破滅 （逃れるえざる破滅）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>從自以為躲在安全裝甲之中的對手背後，以你的觸手與詛咒降下破滅的異能。</p><p>組合了該異能的攻擊對象符合處於搭乘狀態、同乘狀態，抑或是身為〔兵器〕任一條件時，攻擊力+[LV×3]，且無視裝甲值，GM認可時，亦可對躲在掩體等壁障後方的角色生效。</p><p><em>參照：NC P96</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*3"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "NC P96"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!yUTRvFKZFsWZLmVp"
+}

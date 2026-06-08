@@ -1,0 +1,40 @@
+{
+  "_id": "FMLZVJGI9Kp1IqDO",
+  "_key": "!items!FMLZVJGI9Kp1IqDO",
+  "name": "利維坦代碼",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 2,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>UGN日本支部長的特殊作戰通知，能得到日本支部全體的支援指令，跨越支部和所屬的藩籬，流動性地調動人材，必要戰力在瞬間就會到達。</p><p>普通狀況下會因過度集中戰力而使其他地方破綻百出，不可能進行這麼亂來的作戰，但霧谷那超人般的人才把握和指揮能力能使其成為可能。</p><p><em>REC：霧谷雄吾</em> / <em>次數：1/劇本</em> / <em>通常效果：任何時候均可使用，指定任意一個技能，該場景間登場的，由你選擇的任意角色的指定技能判定達成值+5，被選擇的角色可以拒絕這個效果。\n該效果一劇本可以使用一次。</em> / <em>強化效果：與通常效果同時使用，該場景間，你能夠以通常效果所指定的技能等級為5，對應能力值為10來(替代你原本的數據)進行判定。</em> / <em>參照：IA P196</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 40,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：霧谷雄吾",
+      "source": "IA P196"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

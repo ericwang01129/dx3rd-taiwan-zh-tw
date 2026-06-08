@@ -1,0 +1,37 @@
+{
+  "_id": "frEbZR8ATOFqEX9Q",
+  "_key": "!items!frEbZR8ATOFqEX9Q",
+  "name": "全自動霰彈槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 68,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>使用氣動裝置全自動射擊的霰彈槍，大量射出的散彈能讓對方無所遁形。</p><p>使用該武器對處於同一接戰區域內的角色進行攻擊時，攻擊力+5，且對象回避判定骰數-1個。</p><p><em>射程：10m</em> / <em>參照：IA P29</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "14",
+      "difficulty": 20
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 5,
+    "guard": 0,
+    "range": "10m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P29"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

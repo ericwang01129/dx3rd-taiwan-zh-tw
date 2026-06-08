@@ -1,0 +1,68 @@
+{
+  "_id": "90wZOBnTN5esQ062",
+  "name": "死亡追蹤者 (デスストーカー)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/skull-crossed-bones.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《看不見的死神》。</p><p>完全遮蔽住自己的氣息，從死角發出致命一擊的異能。</p><p>在隱蔽狀態下，你所進行的攻擊的攻擊力+[LV×4]。</p><p>此異能的等級不受侵蝕率影響，取得這個異能時，你的基本侵蝕率+5。</p><p><em>參照：BCP56</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "極限",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*4"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "BCP56"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!90wZOBnTN5esQ062"
+}

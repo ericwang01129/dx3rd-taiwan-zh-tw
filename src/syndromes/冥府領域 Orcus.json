@@ -1,0 +1,37 @@
+{
+  "_id": "VkIuxIHuGC4SwBN8",
+  "name": "冥府領域 Orcus",
+  "type": "syndrome",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/grim-reaper.svg",
+  "sort": 1000,
+  "system": {
+    "description": "<p><strong>「領域」之王</strong></p>\n<p>至今所發現的所有症狀當中，冥府領域算是最為神秘的一種，其發症者可以將自身的「因子」浸透周圍的空間，那空間內的東西都可以隨著發症者的意志自由動作。</p><p>像是地上射出土之槍，與動物共享知覺，操作人類的意識 。</p><p>那空間，專家們稱之為「領域」，而冥府領域就是「領域的支配者」。</p><p>此外，冥府領域也是優秀的支持，指揮角色。把握戰場上所有的情報，並且能夠自在的變化，這也是可想而知的結果。</p><p>Orcus這個名字，是羅馬神話當中冥府之王的名字，領域支配者的能力，就像是地獄之王Orcus一般，在他的空間內掌握生殺予奪的大權。</p>\n<blockquote>停下吧。再過來就是我的「領域」了。<br>誰都不能碰觸，誰都不能踏入，即便這樣還要前進？你是笨蛋嗎？<br>......好吧。你的執念究竟可以做到什麼程度，我就讓你看看吧。<br>代價就是......嗯，你的一條命就夠了。<br>「黎明的使者」神城早月，對襲擊者的宣告。</blockquote>",
+    "skillTmp": "melee",
+    "skills": {},
+    "attributes": {
+      "body": {
+        "value": 0
+      },
+      "sense": {
+        "value": 1
+      },
+      "mind": {
+        "value": 1
+      },
+      "social": {
+        "value": 2
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "english": "Orcus",
+      "chinese": "冥府領域"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VkIuxIHuGC4SwBN8"
+}

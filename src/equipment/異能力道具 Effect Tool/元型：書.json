@@ -1,0 +1,37 @@
+{
+  "_id": "K6NEqDAcBh1L3x2c",
+  "_key": "!items!K6NEqDAcBh1L3x2c",
+  "name": "元型：書",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 68,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-bow.svg",
+  "system": {
+    "description": "<p>《弑神之刃》作出的書本形態元型。書中記載的事項或描繪的圖像將獲得實體，有時文字與插畫會保持原樣，直接向敵人襲擊而去。使用《神威的幻想》時，可將此武器作為攻擊手段。以此武器進行的攻擊視為射擊攻擊。</p><p><em>射程：50m</em> / <em>參照：DFP17</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊/元型",
+    "skill": "-",
+    "add": 0,
+    "attack": 3,
+    "guard": 0,
+    "range": "50m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "DFP17"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "PiqY4WW3SCGUb1W6",
+  "_key": "!items!PiqY4WW3SCGUb1W6",
+  "name": "約翰特選",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 24,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>總結了附近甜品評價的神秘筆記本。等級分為一星到三星，沒有和洋區分，寫得非常細緻，其評價確實是值得信賴的內容。如果去買其中評價很高的店鋪的甜品，雖然其表面會吐槽，但嘴角似乎會稍微上揚一點。</p><p><em>REC：約翰·C·考德威爾</em> / <em>次數：3/劇本\n1/劇本</em> / <em>通常效果：你進行<情報：流言>判定前使用，該判定的達成值+2。\n該效果一劇本可以使用三次。</em> / <em>強化效果：你進行<情報：FH>判定前使用，該判定達成值+5，但你需消耗3點財產點數。\n該效果一劇本可以使用一次。</em> / <em>參照：IA P200</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：約翰·C·考德威爾",
+      "source": "IA P200"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

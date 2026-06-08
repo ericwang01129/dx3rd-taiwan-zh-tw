@@ -1,0 +1,37 @@
+{
+  "_id": "e6cNmI4D3oQZDf3H",
+  "_key": "!items!e6cNmI4D3oQZDf3H",
+  "name": "衝鋒槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 60,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>小型衝鋒槍，因為使用手槍子彈也被稱為機關手槍，速射性能和壓制能力都很優秀。</p><p><em>射程：20m</em> / <em>備註：IA刪除了“至近不可”</em> / <em>參照：IA P28</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "9",
+      "difficulty": 14
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 8,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P28"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

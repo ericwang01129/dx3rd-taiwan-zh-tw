@@ -1,0 +1,64 @@
+{
+  "_id": "kCWVsZcFzUNp4HjS",
+  "name": "贗作師",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/morph-ball.svg",
+  "folder": "1c2f74fWFU3n9X1W",
+  "sort": 0,
+  "system": {
+    "description": "<p>鍊成見過的物品的複製品的異能。</p><p>只要見過實物一次就能把外觀、手感等完美重現，造出和原物一模一樣的東西。</p><p>但是作成的複製品只有外觀一樣並沒有該道具的機能，一星期後就會變回泥土。</p><p>GM認為有必要的話，可要求利用<RC>進行判定。</p><p><em>參照：RWP39</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "煉金化形 Morpheus",
+      "syndromeItemId": "VAwDGRpXdkn7vZjE",
+      "source": "RWP39"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!kCWVsZcFzUNp4HjS"
+}

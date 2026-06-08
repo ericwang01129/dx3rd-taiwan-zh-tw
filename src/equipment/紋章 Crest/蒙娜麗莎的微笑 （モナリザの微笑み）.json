@@ -1,0 +1,40 @@
+{
+  "_id": "CO8HYajWXE9xHe1F",
+  "_key": "!items!CO8HYajWXE9xHe1F",
+  "name": "蒙娜麗莎的微笑 （モナリザの微笑み）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 378,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/heart-key.svg",
+  "system": {
+    "description": "<p>在瘋狂的盡頭幻視到的美麗世界，使人獲得如同被神選召般壓倒性全能感的紋章，已經沒有人能夠阻止陷入暴走的你了</p><p><em>次數：1/劇本</em> / <em>效果：與E-lois同時使用，該場景間你進行判定的暴擊值-3（下限值7）\n該效果1劇本可以使用1次</em> / <em>備註：IA新增</em> / <em>參照：IA P171</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 90,
+    "equipment": true,
+    "type": "核心紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "神恩天國 取得條件：職業為黑手黨、刺客、小偷、駭客的角色",
+      "source": "IA P171"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

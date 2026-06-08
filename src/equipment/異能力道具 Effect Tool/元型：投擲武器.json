@@ -1,0 +1,37 @@
+{
+  "_id": "6k0BBBXuqpU5IEPj",
+  "_key": "!items!6k0BBBXuqpU5IEPj",
+  "name": "元型：投擲武器",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 47,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>《弑神之刃》作出的可以投擲用的近戰武器。有短劍或圓月輪等形態。</p><p>使用[類別：射擊]時，採用斜杠右側的數據。</p><p><em>射程：至近/20m</em> / <em>參照：UAP26</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰/射擊/元型",
+    "skill": "melee",
+    "add": 0,
+    "attack": 2,
+    "guard": 1,
+    "range": "至近/20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "UAP26"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

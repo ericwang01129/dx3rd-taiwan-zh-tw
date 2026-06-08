@@ -1,0 +1,37 @@
+{
+  "_id": "AtTlaWtcX0hRWxht",
+  "_key": "!items!AtTlaWtcX0hRWxht",
+  "name": "吉他",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 9,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>演奏音樂時用的絃樂器，因為很重也能當鈍器。</p><p>你進行的<藝術：音樂>判定達成值+1。</p><p><em>射程：至近</em> / <em>參照：IA P22</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "3",
+      "difficulty": 7
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -3,
+    "attack": 2,
+    "guard": 0,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P22"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

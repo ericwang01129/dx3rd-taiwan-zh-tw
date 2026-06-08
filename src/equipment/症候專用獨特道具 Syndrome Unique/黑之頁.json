@@ -1,0 +1,40 @@
+{
+  "_id": "puPOqZlb9AQoAYmW",
+  "_key": "!items!puPOqZlb9AQoAYmW",
+  "name": "黑之頁",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 287,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>帶有被撕除痕跡的純黑紙片。你所生成的鎖鏈會化為草寫文字列，或宛如文字般的紋樣群，將你包覆其中。</p><p>你使用《起源：傳說》效果期間，你進行的閃避，其達成值+10。</p><p><em>參照：DF P23</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "DF P23"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

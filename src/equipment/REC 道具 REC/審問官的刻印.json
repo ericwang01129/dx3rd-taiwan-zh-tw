@@ -1,0 +1,40 @@
+{
+  "_id": "tkM7X5SgqzlQ29Vi",
+  "_key": "!items!tkM7X5SgqzlQ29Vi",
+  "name": "審問官的刻印",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 47,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>表示你接受了羅薩·巴斯克維爾特殊命令的REC道具，她會將監察任務的一部分以密令的形式交由其他特工代行，作為接受任務的證明，你的身份證或裝備上會被授予薔薇刻印，可以根據你的意志隱藏或浮現。</p><p><em>REC：羅薩·巴斯克維爾</em> / <em>次數：1/場景</em> / <em>通常效果：任何時候都可以使用，該場景間你進行的攻擊，攻擊力+5。\n該效果一場景可以使用一次。</em> / <em>強化效果：你使用通常效果期間進行攻擊的攻擊力額外+5，但該效果僅對身份或本職為[UGN]相關的角色生效，具體由GM決定。</em> / <em>備註：IA新增</em> / <em>參照：IA P204</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：羅薩·巴斯克維爾",
+      "source": "IA P204"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "89B6GpeiOYVqJYGy",
+  "name": "變異魔獸 Chimaera",
+  "type": "syndrome",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lion.svg",
+  "sort": 500,
+  "system": {
+    "description": "<p><strong>覺醒的野獸</strong></p>\n<p>手腕，腳，眼睛，又或者身體的一部份化為了昆蟲或者野獸樣貌的症狀。</p><p>又或者長出了翅膀，尾巴，甚至是第三只手等等原本屬_xffff_人類的器官增加了也是有可能的。</p><p>另外，也別忘了變身能力醒覺的變異魔獸，擁有超越常識的筋力。</p><p>就算是在八歲小孩子身上發作的症狀，也能夠讓他輕鬆地抬起一輛大型乘用車輛。</p><p>就單純的攻擊力來說可以說是全種類症狀當中最高檔次的。</p><p>再者，症狀的命名是出自於希臘神話當中架空的魔獸，獅子的頭部與前腳，公羊的身體與後腳，尾巴是蛇，然後從身體部分有長出公羊的頭部，多種類型的野獸混合而成的幻獸，與這症狀的情形剛好相符。</p>\n<blockquote>看看我，這張臉啊，任誰都會感到恐懼而逃走吧。<br>看看我，這手腕啊，可以輕鬆地將你撕開啊。<br>......但是，請相信我。<br>我就是我。絕對不是什麼怪物，是人類啊！<br>某超越者，於狩獵前。</blockquote>",
+    "skillTmp": "melee",
+    "skills": {},
+    "attributes": {
+      "body": {
+        "value": 3
+      },
+      "sense": {
+        "value": 0
+      },
+      "mind": {
+        "value": 0
+      },
+      "social": {
+        "value": 1
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "english": "Chimaera",
+      "chinese": "變異魔獸"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!89B6GpeiOYVqJYGy"
+}

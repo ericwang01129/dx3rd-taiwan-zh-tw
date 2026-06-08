@@ -1,0 +1,64 @@
+{
+  "_id": "xCNqkArGnTQmqqMP",
+  "name": "墮落的絕望",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>給予對象強烈的精神負荷，刺激其衝動的異能。</p><p>與對象的<意志>進行對決，勝利的話，若對象為超越者，則進行難易度為[LV×3]的衝動判定，</p><p>若對象為非超越者，便有覺醒成超越者的可能性。詳細由GM決定。</p><p><em>參照：規則2P171</p><p>EAP118</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "120%",
+    "timing": "major",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": "4D10"
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "規則2P171\nEAP118"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!xCNqkArGnTQmqqMP"
+}

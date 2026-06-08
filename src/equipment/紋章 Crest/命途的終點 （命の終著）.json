@@ -1,0 +1,40 @@
+{
+  "_id": "0ePd2oNelJUifa0z",
+  "_key": "!items!0ePd2oNelJUifa0z",
+  "name": "命途的終點 （命の終著）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 193,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你一次又一次的任務中被過度驅使，但即便如此仍然生存下來的FH之子的紋章。連連曆戰賦予了你從中生還的力量，但被過度壓榨的肉體也到達了崩潰邊緣</p><p><em>效果：取得時選擇一個你擁有的症候群，你獲得所選症候群的《戰鬥反射》LV3，但你的【最大HP】-20（最低1）。</em> / <em>參照：IA P151</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH之子 取得條件：職業為FH之子A~C",
+      "source": "IA P151"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

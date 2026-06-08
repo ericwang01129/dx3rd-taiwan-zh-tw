@@ -1,0 +1,37 @@
+{
+  "_id": "tU101QSmOKvD2vyo",
+  "_key": "!items!tU101QSmOKvD2vyo",
+  "name": "信仰之火",
+  "folder": "E34ex0UnjIox4JZN",
+  "sort": 8,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>據說是某傭兵使用的火繩槍，契約者會擁有名為啟示或心眼的超感覺。</p><p>使用該武器進行的射擊攻擊判定骰數+4個，你沒有受到[不良狀態：暴走]時攻擊力額外+6。至近不可。</p><p>代價：契約者會漸漸失去視力。<知覺>判定骰數-2個。</p><p><em>射程：50m</em> / <em>備註：IA新增</em> / <em>參照：IA P118</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 9,
+    "guard": 0,
+    "range": "50m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 遺產繼承者 D-Lois Legacy",
+      "section": "",
+      "source": "IA P118"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

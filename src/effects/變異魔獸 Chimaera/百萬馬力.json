@@ -1,0 +1,64 @@
+{
+  "_id": "irrhHNqv8isi7WDS",
+  "name": "百萬馬力",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lion.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>發揮出超怪力的異能。</p><p>你可以以工程機械以上的效率搬動或破壞重物。如果有合適的器材，你可以以相當於外燃機的效率發電。即使長時間進行這種作業，你也不會感覺疲憊。如果GM認為有必要的話，可以進行【肉體】判定。</p><p><em>參照：UAP34</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "UAP34"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!irrhHNqv8isi7WDS"
+}

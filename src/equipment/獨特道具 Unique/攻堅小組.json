@@ -1,0 +1,34 @@
+{
+  "_id": "y5cBRo73WP7OGtm8",
+  "_key": "!items!y5cBRo73WP7OGtm8",
+  "name": "攻堅小組",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 82,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>聽從你指揮的戰鬥部隊，擁有高度訓練和對超越者裝備，在你的指揮下能發揮更強的力量。</p><p>取得該道具需要【社會】6以上。你可以進行主要動作使用如下武器攻擊，判定可以與異能組合，該效果一劇本可以使用三次。</p><p>種類：射擊  技能：交涉  命中：0  攻擊力：5  格擋值：-  射程：20m</p><p><em>參照：IA P65</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P65"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

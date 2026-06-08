@@ -1,0 +1,40 @@
+{
+  "_id": "wb4BNRvl0GM74WOg",
+  "_key": "!items!wb4BNRvl0GM74WOg",
+  "name": "中空彈",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 213,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>加工彈頭以更加有效的破壞人體內部的子彈。</p><p>次要動作使用，該主要階段間你使用[種類：射擊]武器進行攻擊的攻擊力+3。</p><p><em>參照：IA P46</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "3",
+      "difficulty": 10
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P46"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

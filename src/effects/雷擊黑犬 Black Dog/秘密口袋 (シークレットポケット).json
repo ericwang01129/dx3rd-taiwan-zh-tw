@@ -1,0 +1,64 @@
+{
+  "_id": "VOD5xrVAUxzg8Pau",
+  "name": "秘密口袋 (シークレットポケット)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wolf-head.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>在身體某處隱藏小東西的異能。</p><p>最多可隱藏LV個「種類：其他」的道具。如果有人想發現隱藏的東西的話，以<知覺>進行對決。</p><p>GM認為要隱藏的道具不適當的話，可予以否絕。</p><p><em>參照：規則2P98</p><p>EAP43</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 10,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "規則2P98\nEAP43"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VOD5xrVAUxzg8Pau"
+}

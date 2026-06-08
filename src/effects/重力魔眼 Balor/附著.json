@@ -1,0 +1,64 @@
+{
+  "_id": "Ok6DR7xnIgcm14Fn",
+  "name": "附著",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>操縱重力方向，使手上拿著的任何物體都不會「掉落」的異能。</p><p>就算宇宙翻轉，手裡的香檳杯的酒依然不會灑出來。</p><p>此外，也可以將自己的頭髮或衣擺往任意方向飄動。</p><p>此異能在戰鬥中沒有效果。</p><p><em>參照：規則2P90</p><p>EAP35</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "規則2P90\nEAP35"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Ok6DR7xnIgcm14Fn"
+}

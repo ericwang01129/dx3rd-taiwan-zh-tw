@@ -1,0 +1,34 @@
+{
+  "_id": "RtCcKMh8BURe6WTJ",
+  "_key": "!items!RtCcKMh8BURe6WTJ",
+  "name": "波紋之衣",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 118,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>內藏能增幅你放出波動裝置的羽衣，可以穿在衣服外面。</p><p>你使用《波紋的方陣》額外-2D10傷害。</p><p><em>參照：IA P85</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 2
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P85"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

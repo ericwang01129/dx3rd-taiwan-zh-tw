@@ -1,0 +1,37 @@
+{
+  "_id": "Mcvy1BzjeNtm5cvw",
+  "_key": "!items!Mcvy1BzjeNtm5cvw",
+  "name": "電擊槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 6,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>能放出數萬到50萬的電壓的防身武器，因為電流比較小所以殺傷力較低。</p><p>使用該武器進行的近戰攻擊給對象造成至少1點HP傷害時，使對象陷入不良狀態[硬直]。該武器一場景可以使用一次。</p><p><em>射程：至近</em> / <em>參照：IA P22</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "2",
+      "difficulty": 7
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 0,
+    "guard": 0,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P22"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

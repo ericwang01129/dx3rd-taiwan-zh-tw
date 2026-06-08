@@ -1,0 +1,64 @@
+{
+  "_id": "r6HDcAEzsNczMD3f",
+  "name": "誘導 (ミスディクション)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spiked-halo.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>作出光學誘餌，保護自己免於廣範圍的攻擊。</p><p>於對象進行「對象：範圍」或「對象：範圍(選擇)」的攻擊的判定前使用，</p><p>使該攻擊的對象變更成「對象：單體」，並重新選擇對象。</p><p><em>參照：規則2P79</p><p>EAP24</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "LV/劇本",
+    "timing": "auto",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "規則2P79\nEAP24"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!r6HDcAEzsNczMD3f"
+}

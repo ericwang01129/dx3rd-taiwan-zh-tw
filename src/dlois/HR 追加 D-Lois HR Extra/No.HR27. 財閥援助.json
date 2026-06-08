@@ -1,0 +1,40 @@
+{
+  "_id": "SwqTCubQmxrSQQ4U",
+  "_key": "!items!SwqTCubQmxrSQQ4U",
+  "name": "No.HR27. 財閥援助",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 28,
+  "system": {
+    "description": "<p><em>效果：REC：鷺乃宮香</em> / <em>通常效果：於次要動作使用，選擇一個特殊道具。該場景間，你取得所選擇的道具。此時，你也可以選擇自己所屬症候的專用特殊道具。取得的道具為武器或防具時可以立即裝備，為載具時也可以立即進入搭乘狀態。\n使用了該效果的次要動作結束時，你的侵蝕率上升7點，這個效果一個劇本中可以使用一次。</em> / <em>強化效果：因「通常效果」而上升的侵蝕率變更為3點。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR27",
+      "source": ""
+    }
+  }
+}

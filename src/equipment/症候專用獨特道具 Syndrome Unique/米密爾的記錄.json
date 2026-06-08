@@ -1,0 +1,40 @@
+{
+  "_id": "2kbRHQswe5B4eiDd",
+  "_key": "!items!2kbRHQswe5B4eiDd",
+  "name": "米密爾的記錄",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 167,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>記錄了知識之泉的守護者擁有的所有知識的古書，全部頁面都是白紙，只有注入冥府領域的因子才會顯現出文字。</p><p>你進行情報收集判定前使用，選擇[種類：關聯]中的一個，不能選擇取得或常備化有限制的關聯，該場景間該道具擁有該關聯相同的效果，該效果一劇本可以使用一次。</p><p><em>參照：IA P90</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P90"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

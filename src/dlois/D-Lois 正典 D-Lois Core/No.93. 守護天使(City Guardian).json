@@ -1,0 +1,40 @@
+{
+  "_id": "3yehBzpTuoXratfd",
+  "_key": "!items!3yehBzpTuoXratfd",
+  "name": "No.93. 守護天使(City Guardian)",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 93,
+  "system": {
+    "description": "<p>你是有名的萬事屋，不知何時，你的名號悄悄地流傳於大街小巷。</p><p><em>效果：於你進行判定前宣言使用此效果，該判定骰數+5D，且無視你受到的任何減少骰數的減值。\n此效果1判定最多使用1次，1劇本最多使用3次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.93",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "ybFqzHEbl6Ls8Q9E",
+  "_key": "!items!ybFqzHEbl6Ls8Q9E",
+  "name": "臂藏式打樁機",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 3,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>埋藏於雙臂的打樁機，平常是收納著的</p><p>可以用次要動作展開並裝備，取得該裝備時按照《硬體連接》取得3件份的道具進行計算；使用該武器進行攻擊造成至少1點傷害時，對象受到[異常狀態：硬直]</p><p>雙手持握</p><p><em>射程：至近</em> / <em>參照：IA P108</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -3,
+    "attack": 15,
+    "guard": 1,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "IA P108"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

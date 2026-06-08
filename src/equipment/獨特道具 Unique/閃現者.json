@@ -1,0 +1,37 @@
+{
+  "_id": "hC8X31bdxGsevhFt",
+  "_key": "!items!hC8X31bdxGsevhFt",
+  "name": "閃現者",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 23,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>將扭曲空間的子彈射出的EX背教者衝鋒槍，擊出的子彈會從目標背後出現而無法回避。</p><p>使用該武器進行的射擊攻擊變為[對象：單體]，該效果優先級大於組合異能的對象。針對使用該武器進行的攻擊，對象進行的回避判定骰數-4個。</p><p><em>射程：20m</em> / <em>參照：IA P58</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 6,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P58"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "SkpdkkS2m4UemRBG",
+  "_key": "!items!SkpdkkS2m4UemRBG",
+  "name": "支配者的微笑",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 18,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>表示你持有“世界的支配者”，使見到的人成為同伴的魅力。</p><p><em>效果：主要動作使用，與該場景內登場的一個角色進行<交涉>對決，你勝出時，該劇本間，在該效果的對決中落敗的角色在對象包含你的判定中骰數-2個。</em> / <em>參照：IA P189</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P189"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

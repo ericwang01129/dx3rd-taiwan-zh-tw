@@ -1,0 +1,37 @@
+{
+  "_id": "7JidvktDwAJa2Ml5",
+  "_key": "!items!7JidvktDwAJa2Ml5",
+  "name": "元型：筆",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 67,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-bow.svg",
+  "system": {
+    "description": "<p>《弑神之刃》作出的筆狀元型資料。藉由長青魔劍的力量，將描繪於虛空中的事物實體化。使用《神威的幻想》時，可將此武器作為攻擊手段。以此武器進行的攻擊視為射擊攻擊。</p><p><em>射程：20m</em> / <em>參照：DFP17</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊/元型",
+    "skill": "-",
+    "add": -1,
+    "attack": 3,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "DFP17"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

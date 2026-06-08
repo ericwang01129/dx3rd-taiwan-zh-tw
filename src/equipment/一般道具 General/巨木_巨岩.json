@@ -1,0 +1,37 @@
+{
+  "_id": "F3Kp96pL0EA8dQrk",
+  "_key": "!items!F3Kp96pL0EA8dQrk",
+  "name": "巨木/巨岩",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 23,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>利用自然環境製造的武器。</p><p>使用該武器需要【肉體】6。</p><p><em>射程：至近</em> / <em>參照：IA P24</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "8",
+      "difficulty": 11
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -4,
+    "attack": 8,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P24"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "FCzzoLEKCMex0W97",
+  "_key": "!items!FCzzoLEKCMex0W97",
+  "name": "死神",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 162,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>預測戰場發揮十成威力的子彈，使用弓的話就是箭，使用小刀的話就是速效毒藥，可以根據你的武器設定。</p><p>你使用[對象：單體]射擊武器進行的攻擊前使用，該攻擊的攻擊力+10。稀有道具。</p><p><em>參照：IA P89</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P89"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

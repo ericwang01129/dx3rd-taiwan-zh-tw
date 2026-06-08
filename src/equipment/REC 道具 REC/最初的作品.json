@@ -1,0 +1,40 @@
+{
+  "_id": "4CGD6xv1cwJP8bu3",
+  "_key": "!items!4CGD6xv1cwJP8bu3",
+  "name": "最初的作品",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 66,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>表示“塞薩裡奧”將協助和友情的證明交給了你，據說是莎士比亞最初作品集的舊書。如果是真貨的話十分珍貴，但可惜真偽不明。雖說書本身只是友情的證明，但如果你願意和她討論作品的話，她會非常高興。只要持有就會受到“塞薩裡奧”的助力，通常來說沒有一直隨身攜帶的必要。</p><p><em>REC：塞薩裡奧</em> / <em>次數：1/劇本</em> / <em>通常效果：主要動作使用，你進行的<知識：莎士比亞>判定骰數+5個，該效果持續到劇本結束。</em> / <em>強化效果：場景中登場的一名角色進行判定前使用，判定骰數-8個。\n該效果一劇本可以使用一次。</em> / <em>備註：IA新增</em> / <em>參照：IA P207</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：塞薩裡奧",
+      "source": "IA P207"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

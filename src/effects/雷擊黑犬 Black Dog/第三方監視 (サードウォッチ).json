@@ -1,0 +1,64 @@
+{
+  "_id": "0o7ft4XTb0rNVix2",
+  "name": "第三方監視 (サードウォッチ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wolf-head.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>經由監視攝影機等方式，把握狀況的異能。</p><p>于場景登場時使用，你可以不親自在場景登場，而是透過監視攝影機等方式得知場景狀況。</p><p>會跟正常的登場一樣上升侵蝕率。GM可禁止使用此異能，此時不上升侵蝕率。</p><p><em>參照：規則2P94</p><p>EAP39</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "規則2P94\nEAP39"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0o7ft4XTb0rNVix2"
+}

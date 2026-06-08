@@ -1,0 +1,40 @@
+{
+  "_id": "uvHalQWfTrG63io4",
+  "_key": "!items!uvHalQWfTrG63io4",
+  "name": "抗背教者彈",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 220,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>內部包有抗背教者藥物的子彈。</p><p>次要動作使用，該主要階段間你使用[種類：射擊]武器進行的攻擊命中時，對象該回合進行的所有判定骰數-1個，該效果只在超越者角色作為對象時生效。</p><p><em>參照：IA P47</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "17",
+      "difficulty": 22
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P47"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

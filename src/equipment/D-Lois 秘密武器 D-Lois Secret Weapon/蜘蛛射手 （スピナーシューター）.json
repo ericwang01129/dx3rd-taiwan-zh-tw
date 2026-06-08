@@ -1,0 +1,37 @@
+{
+  "_id": "teDNVwN27i3Fklie",
+  "_key": "!items!teDNVwN27i3Fklie",
+  "name": "蜘蛛射手 （スピナーシューター）",
+  "folder": "2kAs6YkcXBjKKf0t",
+  "sort": 12,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>手掌大小、能發射強韌絲線的裝置，可以直接射擊敵人也可以用絲線拘束，還可以纏住其他東西快速移動。</p><p>次要動作使用，你以飛行狀態進行戰鬥移動，使用該效果時你的侵蝕率+1。</p><p><em>射程：100m</em> / <em>備註：IA新增</em> / <em>參照：IA P114</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 6,
+    "guard": 0,
+    "range": "100m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 秘密武器 D-Lois Secret Weapon",
+      "section": "",
+      "source": "IA P114"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

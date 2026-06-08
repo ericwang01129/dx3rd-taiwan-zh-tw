@@ -1,0 +1,40 @@
+{
+  "_id": "frOxpVPEbaO82LQm",
+  "_key": "!items!frOxpVPEbaO82LQm",
+  "name": "MASKed",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 43,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>覆蓋在臉上，能讓你變成希望的人的樣子的面具。</p><p>主要動作使用，變成你希望的人的樣子，有人想要識破時需要與你進行<知覺>對抗。任何時候都可以變回原形，但是再次變化需要使用主要動作。</p><p><em>參照：IA P126</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "20",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P126"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

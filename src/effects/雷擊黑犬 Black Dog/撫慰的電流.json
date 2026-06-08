@@ -1,0 +1,64 @@
+{
+  "_id": "eLwkThnhZh7sr6b7",
+  "name": "撫慰的電流",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-arc.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>分析對象的不安，放出去除身體不適的微弱電流的異能。</p><p>回復對象除了暴走之外的全部不良狀態。但是，這個異能不能以你為對象。這個異能不能與其他異能組合。</p><p><em>參照：RUP36</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "恐怖120% / LV/劇本",
+    "timing": "initiative",
+    "target": "範圍(選擇)",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 6,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "RUP36"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!eLwkThnhZh7sr6b7"
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "MD9u7sbkEd2VlmpZ",
+  "name": "癡愚神禮贊",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>心懷莫大慈悲，授予愚者名為忘卻之祝福的異能。</p><p>先決條件：《黃昏之詩》</p><p>與《黃昏之詩》組合使用，將《黃昏之詩》的對象變更為「對象：場景（選擇）」，受到其效果的對象將變得只有在惡夢中才能回想起該場景間發生的事件。</p><p><em>參照：NC P98</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "極限 / LV/劇本",
+    "timing": "setup",
+    "target": "場景（選擇）",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "NC P98"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!MD9u7sbkEd2VlmpZ"
+}

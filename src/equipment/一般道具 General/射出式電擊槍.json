@@ -1,0 +1,37 @@
+{
+  "_id": "xNgQHLkOFsAKDqOw",
+  "_key": "!items!xNgQHLkOFsAKDqOw",
+  "name": "射出式電擊槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 43,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>射出連著電線的針並放出電流的電擊槍，射出的針使用了氣動發射和單髮式導體，無法連續使用。</p><p>使用該武器進行的射擊攻擊給對象造成至少1點HP傷害時，使對象陷入不良狀態[硬直]。該武器一場景可以使用一次。</p><p><em>射程：10m</em> / <em>參照：IA P26</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "3",
+      "difficulty": 9
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 0,
+    "guard": 0,
+    "range": "10m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P26"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

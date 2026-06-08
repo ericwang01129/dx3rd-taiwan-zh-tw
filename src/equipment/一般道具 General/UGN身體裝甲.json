@@ -1,0 +1,34 @@
+{
+  "_id": "n3mgFEv3Sy2METy3",
+  "_key": "!items!n3mgFEv3Sy2METy3",
+  "name": "UGN身體裝甲",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 102,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>為經常接受戰鬥任務的特工開發的套裝，使用了多層耐衝擊布料，能夠減輕受到的傷害。</p><p><em>參照：IA P33</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "18",
+      "difficulty": 12
+    },
+    "exp": 0,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 8
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "防具",
+      "source": "IA P33"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

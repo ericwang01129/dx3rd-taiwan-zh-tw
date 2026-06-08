@@ -1,0 +1,64 @@
+{
+  "_id": "nSq7nkMmQ98HdBOa",
+  "name": "神樹的城壁",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/zeus-sword.svg",
+  "folder": "m920eVQK9xEhuLPi",
+  "sort": 0,
+  "system": {
+    "description": "<p>瞬間將武器巨大化，如城壁般展開保護同伴的異能。</p><p>只有裝備[類別：元型]的道具期間可以使用。在對象的HP傷害適用前宣言，對象預定受到的HP傷害減少[LV×3]D點。使用後，裝備的[類別：元型]道具會被破壞。</p><p><em>參照：UAP19</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "80%",
+    "timing": "auto",
+    "target": "範圍（選擇）",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "長青魔劍 Mistilteinn",
+      "syndromeItemId": "prV8KorHRzKAVkva",
+      "source": "UAP19"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!nSq7nkMmQ98HdBOa"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "txa5EDbMGj9FaW7A",
+  "_key": "!items!txa5EDbMGj9FaW7A",
+  "name": "R等化器 （Ｒバランサー）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 98,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>你在UGN處接受過能夠安全使用特定異能的訓練。</p><p><em>效果：團前選擇一個你取得的異能，所選異能的「侵蝕值」-1（最低1）</em> / <em>備註：IA修改經驗值</em> / <em>參照：IA P140</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN法外者 取得條件：沒有取得UGN通用以外紋章的角色",
+      "source": "IA P140"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

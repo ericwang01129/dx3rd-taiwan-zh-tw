@@ -1,0 +1,40 @@
+{
+  "_id": "FNIT2oXXGJJEasaF",
+  "_key": "!items!FNIT2oXXGJJEasaF",
+  "name": "惡魔之家 （ハウスオブデモンズ）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 174,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示單元危險度的稱號。“家”表示擁有如同對同一血脈般的統率力，“惡魔”則意味著最高級的危險程度</p><p><em>次數：1/場景</em> / <em>效果：準備階段使用，該回合間，場景中登場的任意角色的【行動值】+5\n該效果1場景可以使用1次</em> / <em>參照：IA P149</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH單元隊長 取得條件：職業為FH單元隊長A~D",
+      "source": "IA P149"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

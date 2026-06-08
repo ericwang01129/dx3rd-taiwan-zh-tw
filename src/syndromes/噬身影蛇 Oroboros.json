@@ -1,0 +1,37 @@
+{
+  "_id": "R7Jxr26CWdNB0hjx",
+  "name": "噬身影蛇 Oroboros",
+  "type": "syndrome",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/ouroboros.svg",
+  "sort": 1300,
+  "system": {
+    "description": "<p><strong>起源亦或終焉？</strong></p>\n<p>噬身影蛇是最近加入症狀分類體系的新症候。擁有此症候的超越者可以竊取其他超越者的病毒菌株並將他們的異能納為己用。該症候的複製能力就是噬身之蛇被忽視了如此之久的原因，並且成為了現在的主要爭論點。在過去的六個月裡，學術界圍繞著噬身之蛇究竟是變節者的最終進化還是病毒的原始菌株這一話題展開了無盡的爭論。他們的分歧在於如何看待噬身之蛇複製能力的能力。</p><p>有如用來命名它的那條巨蛇一般，在更多研究完成前，關於噬身之蛇的複製原理的爭論還會繼續下去。</p>\n<blockquote>吞噬吧！將那非人者！背叛者們盡情的全數吞噬吧！<br>去吞噬，捕食，進化！直至進化為究極之唯一的那一刻！<br>……嗯。那麼，將所有的超越者吞噬殆盡之後又會如何呢？如傳說記載的那般開始吞食自己的腳嗎？不對不對….要是真成了那樣的話……<br>                              ——瘋狂的科學家，于噬身影蛇之前</blockquote>",
+    "skillTmp": "melee",
+    "skills": {},
+    "attributes": {
+      "body": {
+        "value": 1
+      },
+      "sense": {
+        "value": 1
+      },
+      "mind": {
+        "value": 2
+      },
+      "social": {
+        "value": 0
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "english": "Oroboros",
+      "chinese": "噬身影蛇"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!R7Jxr26CWdNB0hjx"
+}

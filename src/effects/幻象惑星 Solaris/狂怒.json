@@ -1,0 +1,64 @@
+{
+  "_id": "9ihI7gIYQHlIrEg8",
+  "name": "狂怒",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>生成並投與對象增幅戰意的化學物質的異能。</p><p>在對象進行目標為「對象：單體」的攻擊判定之前使用，攻擊目標變為範圍(選擇)。但是，在你暴走時，攻擊目標變為「對象：範圍」。這個異能只能讓同意效果的對象使用。</p><p><em>參照：RUP25</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "破壞120% / 1/劇本",
+    "timing": "auto",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "RUP25"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!9ihI7gIYQHlIrEg8"
+}

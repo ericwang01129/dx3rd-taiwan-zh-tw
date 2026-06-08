@@ -1,0 +1,40 @@
+{
+  "_id": "6DDJoQMOIazG0sAM",
+  "_key": "!items!6DDJoQMOIazG0sAM",
+  "name": "No.38. 羅剎 (變異魔獸專用) タイラント Tyrant",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 38,
+  "system": {
+    "description": "<p>你有著光從外表看不出來的怪力。能夠輕易地扭曲鐵棒，甚至跟大型重機相匹敵。雖然你在日常生活中能自由控制那股力量，一旦進入戰鬥中，就很難制禦，而且也沒有能承受你怪力的武器，只會變成一堆一用即棄的廢鐵。</p><p>(ex.平和島靜雄)</p><p><em>效果：只限症狀為【變異魔獸】的角色可取得。\n你的近戰攻擊，攻擊力固定+8\n但是使用空手以外的武器進行近戰攻擊時，該武器必在攻擊的主要階段結束時被破壞。</em> / <em>備註：變異魔獸專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.38",
+      "source": ""
+    }
+  }
+}

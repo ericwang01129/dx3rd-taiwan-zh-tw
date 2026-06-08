@@ -1,0 +1,40 @@
+{
+  "_id": "ibSSEAvduOB3M3Y8",
+  "_key": "!items!ibSSEAvduOB3M3Y8",
+  "name": "陽之特工 （サンズエージェント）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 67,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你是“萬陽”亞修·雷多利克的直屬特工的紋章，你有著與亞修的賞識相稱的功績。</p><p><em>次數：1/劇本</em> / <em>效果：你組合了異能的判定前使用；該判定達成值+20，但侵蝕率會上升10點\n該效果1劇本可以使用1次</em> / <em>參照：IA P137</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "關聯：中樞評議員\n（コネ：アクシズ評議員）",
+      "source": "IA P137"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

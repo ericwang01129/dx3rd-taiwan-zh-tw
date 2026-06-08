@@ -1,0 +1,64 @@
+{
+  "_id": "VkvzCgxnq9EsP89U",
+  "name": "超越者的眼力",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/eyeball.svg",
+  "folder": "eTUfIRkQAvufdxsT",
+  "sort": 0,
+  "system": {
+    "description": "<p>以超越者擁有的超常魄力，使對象無力化。</p><p>只能以非超越者的角色為對象，使其臨時角色化。</p><p>不會受到《結界化》的效果的角色，也不會受到此異能的效果。</p><p><em>參照：ICP67</p><p>EAP133</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "will",
+    "difficulty": "自動成功",
+    "limit": "LV/劇本",
+    "timing": "major",
+    "target": "範圍(選擇)",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "一般 General",
+      "syndromeItemId": "t9bsxYmBHW27Rk9N",
+      "source": "ICP67\nEAP133"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VkvzCgxnq9EsP89U"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "igUFXuL6UEzL05DO",
+  "_key": "!items!igUFXuL6UEzL05DO",
+  "name": "No.HR12. 諜報員",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 13,
+  "system": {
+    "description": "<p><em>效果：REC：亞修‧雷多利克</em> / <em>通常效果：你的常備點+15。</em> / <em>強化效果：任何時候均可使用。你可以隱藏或是憑空捏造一個指定的資訊。效果對象不論是什麼資訊都可以。可以消除犯罪記錄，捏造某人的記憶，也可以是改變恐怖計畫的一部分。隱蔽資訊的具體結果或是影響由GM來決定。\n但首先你必須先通過目標值為20的【社會】判定以獲取你欲掩蓋/捏造之情報的真相，此時你每使用一點財產點都會使目標值+1.這個效果一個劇本中只能使用一次</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR12",
+      "source": ""
+    }
+  }
+}

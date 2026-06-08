@@ -1,0 +1,37 @@
+{
+  "_id": "u6lKBwyLkC7MFt77",
+  "_key": "!items!u6lKBwyLkC7MFt77",
+  "name": "棱鏡刃",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 2,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>作為操縱天使光環異能的媒介製作的短劍。</p><p>你在主要動作中組合天使光環異能時選擇其中一個異能使其等級+1，可以超過等級上限，但不增加使用次數，使用該效果時你的侵蝕率+2。</p><p><em>射程：至近</em> / <em>參照：IA P72</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 8,
+    "guard": 1,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P72"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

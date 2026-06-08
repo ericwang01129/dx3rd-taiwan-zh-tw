@@ -1,0 +1,34 @@
+{
+  "_id": "1q2LsJU0L4X6M6VK",
+  "_key": "!items!1q2LsJU0L4X6M6VK",
+  "name": "黑泥之鎧",
+  "folder": "pkEDzV7adwmhoSOR",
+  "sort": 9,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "裝在小瓶中的漆黑的液體形狀的RB。平時沉默，偶爾會露出殘忍的一面。可以用準備階段的自動動作裝備。\n封具效果：主要階段使用，進行任意手段的攻擊，射程變為[射程：至近]，攻擊力+5D。",
+      "difficulty": 5
+    },
+    "exp": 41,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 封具 Sealing Tool",
+      "section": "防具",
+      "source": ""
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

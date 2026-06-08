@@ -1,0 +1,37 @@
+{
+  "_id": "WW3cZJsC1EfNFl5F",
+  "_key": "!items!WW3cZJsC1EfNFl5F",
+  "name": "元型：大型武器",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 49,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/zeus-sword.svg",
+  "system": {
+    "description": "<p>《弑神之刃》作出的兩手用武器。形態為大劍或長槍等巨大的武器。</p><p><em>射程：至近</em> / <em>參照：UAP26</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰/元型",
+    "skill": "melee",
+    "add": -2,
+    "attack": 3,
+    "guard": 5,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "UAP26"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

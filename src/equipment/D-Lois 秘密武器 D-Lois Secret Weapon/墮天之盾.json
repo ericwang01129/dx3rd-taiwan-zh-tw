@@ -1,0 +1,37 @@
+{
+  "_id": "mcA4Uln6CYcRKazj",
+  "_key": "!items!mcA4Uln6CYcRKazj",
+  "name": "墮天之盾",
+  "folder": "2kAs6YkcXBjKKf0t",
+  "sort": 11,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>受EX背教者病毒感染，變得能夠自由改變硬度的盾牌。</p><p>你格擋時使用，此次格擋期間該武器的格擋值+5，每當使用這個效果時，你的侵蝕率+1。</p><p><em>射程：至近</em> / <em>參照：IA P114</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 2,
+    "guard": 8,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 秘密武器 D-Lois Secret Weapon",
+      "section": "",
+      "source": "IA P114"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

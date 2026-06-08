@@ -1,0 +1,40 @@
+{
+  "_id": "Ybiy5PEVAMZNIyQ0",
+  "_key": "!items!Ybiy5PEVAMZNIyQ0",
+  "name": "No.46. 達人 ：【能力名】(神腦演算專用) アデプト Adept",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 46,
+  "system": {
+    "description": "<p>你是專精于一個行為的達人。貫徹到極限的技藝非常人所能及，鐵棒可以像名刀一樣斬切，古舊手槍可以發揮出大炮的威力。劍術，格鬥術，槍鬥術等等，你鑽研出的結果就是神技。</p><p>(雖然嚴格來說，這項能力還可以用在藝術跟學問上，但是因為此能力效果為戰鬥取向，請盡力配合)</p><p><em>效果：只限症狀為【神腦演算】的角色可取得。\n取得這D露易絲時，選擇一個異能填入(ex.達人：<守護之彈>)。\n該異能追加以下效果：\n組合時的命中判定+2D\n組合時的攻擊力+5\n侵蝕上升+2\n只要GM許可，可在開團前整理角色卡時變更選擇的異能。</em> / <em>備註：神腦演算專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.46",
+      "source": ""
+    }
+  }
+}

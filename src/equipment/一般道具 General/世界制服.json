@@ -1,0 +1,34 @@
+{
+  "_id": "vEreZSX89PblBuWn",
+  "_key": "!items!vEreZSX89PblBuWn",
+  "name": "世界制服",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 109,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>以在某處進行秘密作戰中獲得的數據再開發得到的最新型UGN強化套裝，這次是學生服和水手服的設計。</p><p>你進行的<意志>判定達成值+3。稀有道具。</p><p><em>參照：IA P34</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "22",
+      "difficulty": 35
+    },
+    "exp": 0,
+    "equipment": true,
+    "dodge": 0,
+    "init": -1,
+    "armor": 7
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "防具",
+      "source": "IA P34"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

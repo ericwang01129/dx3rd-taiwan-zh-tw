@@ -1,0 +1,37 @@
+{
+  "_id": "BFwaqLexg0E56QmT",
+  "_key": "!items!BFwaqLexg0E56QmT",
+  "name": "弓箭",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 47,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/bow-arrow.svg",
+  "system": {
+    "description": "<p>利用弦的彈力發射箭矢的人類最古老射擊武器，為了方便計算，西洋弓與和弓沒有什麼區別，也可以是用廢電線和金屬板製作的簡易弓。雖然主要是運動用和儀式用，但殺傷力也很充足。</p><p>雙手持握。至近不可。</p><p><em>射程：60m</em> / <em>參照：IA P27</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "3",
+      "difficulty": 7
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -2,
+    "attack": 3,
+    "guard": 0,
+    "range": "60m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P27"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "gzEjk34K2G41kiEG",
+  "_key": "!items!gzEjk34K2G41kiEG",
+  "name": "R鐵匠 （Rスミス）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 6,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你精通武器的構造與材質，使用異能製作武器時能夠靈活應用的紋章</p><p><em>效果：取得需要<近戰>或<射擊>LV4以上，你使用的製作武器的異能侵蝕值-1（最低1）複數製作異能組合的時候，將合計的侵蝕值-1</em> / <em>備註：IA新增</em> / <em>參照：IA P130</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN特工 取得條件：職業為UGN特工A~D的角色",
+      "source": "IA P130"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_id": "aEJlV4dBT6SfF3xm",
+  "name": "雨粒之矢",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/sbed/water-drop.svg",
+  "folder": "FmovFwS0XlDsBEPd",
+  "sort": 0,
+  "system": {
+    "description": "<p>凝縮大氣中的水分，擊穿對象的異能。</p><p>進行「攻擊力：+[LV×2]」的射擊攻擊。組合此異能的判定不能組合《集中》。</p><p><em>參照：規則2P150</p><p>EAP97</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "場景(選擇)",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*2"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冥府領域 Orcus",
+      "syndromeItemId": "VkIuxIHuGC4SwBN8",
+      "source": "規則2P150\nEAP97"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!aEJlV4dBT6SfF3xm"
+}

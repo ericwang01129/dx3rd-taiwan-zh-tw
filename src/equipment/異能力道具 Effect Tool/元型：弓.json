@@ -1,0 +1,37 @@
+{
+  "_id": "EDZhrSGHcObmv1Id",
+  "_key": "!items!EDZhrSGHcObmv1Id",
+  "name": "元型：弓",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 56,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/bow-arrow.svg",
+  "system": {
+    "description": "<p>《弑神之刃》作出的弓箭形的元型。不方便使用，但威力很高。</p><p>兩手裝備。不可攻擊至近距離。</p><p><em>射程：200m</em> / <em>參照：UAP27</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊/元型",
+    "skill": "ranged",
+    "add": -2,
+    "attack": 3,
+    "guard": 0,
+    "range": "200m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "UAP27"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "HwVpvkYwcoFM8sGp",
+  "_key": "!items!HwVpvkYwcoFM8sGp",
+  "name": "鳴泣之子 （クライベイビー）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 114,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>只會借給優秀原菌獵人的被EX背教者感染的槍，擁有自我修復能力，無論壞掉多少次都會以更加兇惡的姿態再生</p><p><em>備註：IA新增</em> / <em>參照：IA P142</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "紋章/射擊",
+    "skill": "-",
+    "add": 0,
+    "attack": 0,
+    "guard": 0,
+    "range": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN通用 取得條件：職業為UGN系，或是身為UGN法外者的角色",
+      "source": "IA P142"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

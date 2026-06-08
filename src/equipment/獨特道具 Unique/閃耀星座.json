@@ -1,0 +1,34 @@
+{
+  "_id": "EJSSV3UNX7T62LoA",
+  "_key": "!items!EJSSV3UNX7T62LoA",
+  "name": "閃耀星座",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 86,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>將背教者病毒向特定攻擊傾向變質的因子，發現時感染者的周圍舞動著星座般的光輝。</p><p>你組合異能使用[種類：射擊]武器進行的攻擊判定達成值+3，傷害+1D10。該道具無法與“致死日光”和“怪奇月相”同時獲得。</p><p><em>參照：IA P66</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P66"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

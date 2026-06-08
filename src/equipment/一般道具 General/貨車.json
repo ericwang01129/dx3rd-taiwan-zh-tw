@@ -1,0 +1,34 @@
+{
+  "_id": "8VMnU1YIft8WeaCJ",
+  "_key": "!items!8VMnU1YIft8WeaCJ",
+  "name": "貨車",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 139,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/skoll/race-car.svg",
+  "system": {
+    "description": "<p>卡車，中型和大型需要專用駕照。全力移動：100m</p><p><em>參照：IA P37</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "20",
+      "difficulty": 30
+    },
+    "exp": 0,
+    "equipment": true,
+    "dodge": 0,
+    "init": -6,
+    "armor": 6
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "防具",
+      "source": "IA P37"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

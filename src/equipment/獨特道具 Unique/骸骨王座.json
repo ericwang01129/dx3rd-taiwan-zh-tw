@@ -1,0 +1,37 @@
+{
+  "_id": "eZ5J695tbWKiu95O",
+  "_key": "!items!eZ5J695tbWKiu95O",
+  "name": "骸骨王座",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 19,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>嵌有某人骷髏的鐵手套，會根據使用者的器量與沉重的罪業相反應給予力量。</p><p>只有侵蝕率在100%以上間可以使用該武器。該武器視為空手。</p><p><em>射程：至近</em> / <em>參照：IA P58</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 70,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 23,
+    "guard": 18,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P58"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

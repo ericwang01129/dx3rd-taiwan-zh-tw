@@ -1,0 +1,40 @@
+{
+  "_id": "lx4LfeTQPDTR1bPh",
+  "_key": "!items!lx4LfeTQPDTR1bPh",
+  "name": "No.HR24. 人造者",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 25,
+  "system": {
+    "description": "<p><em>效果：REC：都築京香</em> / <em>通常效果：與生俱來便是超越者的你，早已將高效使用異能的方法銘刻於的身體之中\n你進行的組合了異能的判定骰數+2D。此外，組合了異能的攻擊的攻擊力+3。取得這個D-Lois時，你的侵蝕率基本值+3。</em> / <em>強化效果：你進行的組合了異能的判定骰數額外再+2D（合計+4D）。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR24",
+      "source": ""
+    }
+  }
+}

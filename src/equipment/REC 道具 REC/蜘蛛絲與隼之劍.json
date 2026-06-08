@@ -1,0 +1,40 @@
+{
+  "_id": "YxN11FifM077CzrM",
+  "_key": "!items!YxN11FifM077CzrM",
+  "name": "蜘蛛絲與隼之劍",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 12,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>請求玉野椿和高崎隼人搭檔協助應援的道具。兩人雖然因為各自的任務而忙碌，卻還是像以往一樣會在同伴面臨絕境時迅速趕到。</p><p><em>REC：玉野椿 or 高崎隼人</em> / <em>次數：1/劇本</em> / <em>通常效果：準備階段時使用，該回合間，你進行的攻擊，攻擊力+10，該效果一劇本可以使用一次。</em> / <em>強化效果：該效果只能在通常效果生效期間使用，你受到HP傷害前發動，該HP傷害變為0。\n該效果一劇本可以使用一次。</em> / <em>參照：IA P198</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 40,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：玉野椿",
+      "source": "IA P198"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "agfZHKfeE8MpjiTh",
+  "_key": "!items!agfZHKfeE8MpjiTh",
+  "name": "鋁合金盾牌",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 34,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>機動隊使用的鋁合金制巨大盾牌，意外地輕巧。</p><p><em>射程：至近</em> / <em>參照：IA P25</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "8",
+      "difficulty": 12
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -3,
+    "attack": 2,
+    "guard": 6,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P25"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

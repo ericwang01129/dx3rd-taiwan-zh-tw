@@ -1,0 +1,34 @@
+{
+  "_id": "Q8U6VS1cbGHudysu",
+  "_key": "!items!Q8U6VS1cbGHudysu",
+  "name": "動作禮服",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 44,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>重點為增強反應速度的武裝套裝發展型，使用特殊纖維獲得了防彈防刃效果，作為新世代UGN戰鬥服備受眾望，現在由一部分特殊部隊試驗運用中。</p><p>取得該防具需要[關聯：UGN幹部]或UGN本部特工/評議員的紋章</p><p><em>參照：IA P60</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "dodge": 0,
+    "init": 5,
+    "armor": 9
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P60"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

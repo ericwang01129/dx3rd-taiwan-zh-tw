@@ -1,0 +1,68 @@
+{
+  "_id": "suN7I8hlzUa8PR1C",
+  "name": "反射 (リフレックス)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/aura.svg",
+  "folder": "eTUfIRkQAvufdxsT",
+  "sort": 0,
+  "system": {
+    "description": "<p>發揮反射能力的異能。</p><p>取得時選擇一個自己取得的症狀，記述成《反射：症狀》的形式(例：《反射：冰炎奇蜥》)，</p><p>不同症狀視為不同異能。此外，此異能視為選擇的症狀的異能。</p><p>組合的判定暴擊值-LV(下限值7)。</p><p><em>參照：規則1P171</p><p>EAP132</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "",
+    "limit": "-",
+    "timing": "reaction",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "critical": {
+        "value": "-(@level)"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "一般 General",
+      "syndromeItemId": "t9bsxYmBHW27Rk9N",
+      "source": "規則1P171\nEAP132"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!suN7I8hlzUa8PR1C"
+}

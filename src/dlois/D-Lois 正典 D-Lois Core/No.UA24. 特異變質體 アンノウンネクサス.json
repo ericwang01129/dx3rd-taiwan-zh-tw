@@ -1,0 +1,40 @@
+{
+  "_id": "m9TV9qvOrOWsLs44",
+  "_key": "!items!m9TV9qvOrOWsLs44",
+  "name": "No.UA24. 特異變質體 アンノウンネクサス",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 159,
+  "system": {
+    "description": "<p>你是更容易受到吸收的背教者影響的噬身影蛇超越者。</p><p>眾所周知，噬身影蛇能夠吸收他人的背教者並獲得成長。一部分人將這一反應稱作進化。但進化原本必須要經過世代更替才能完成。</p><p>但你不同。你吸收背教者病毒後的變化過於巨大，會變得和過去的自己不是同一存在。連你自己都會懷疑自身的連續性。</p><p>所以你放棄了懷疑自己。如果背教者病毒希望進化，那麼你只要不斷給予食糧就好。</p><p>昨天的你還是被稱作怪物的存在，明天或許就是被稱作神的存在。如同銜尾蛇一般，你的進化永不結束。</p><p><em>效果：只限症狀為【噬身影蛇】的角色可取得。\n對超越者造成至少1點HP傷害時，這一場景中你的判定骰子+3個。在效果期間，如果又對超越者造成至少1點HP傷害，這一場景中你的判定暴擊值-1（下限5）。如果上述兩個效果期間又對超越者造成至少1點HP傷害，這一場景中你的所有異能LV+1，可以超過上限。\n但你不能使用“對超越者造成至少1點HP傷害”時使用的影蛇異能。</em> / <em>備註：噬身影蛇專用</em> / <em>參照：DF P36</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA24",
+      "source": "DF P36"
+    }
+  }
+}

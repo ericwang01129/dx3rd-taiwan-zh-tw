@@ -1,0 +1,40 @@
+{
+  "_id": "GPOgFsAfPO8jJ95Q",
+  "_key": "!items!GPOgFsAfPO8jJ95Q",
+  "name": "領域終端",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 169,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>對你的冥府領域領域進行分析管理的數據中心終端，你能利用它獲得各種社會活動的恩惠。</p><p>次要動作使用，該場景間你下一次進行的【社會】判定骰數+3個，該效果一場景可以使用一次。</p><p><em>參照：IA P90</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P90"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "PI7rRXjhFmCE4kfD",
+  "_key": "!items!PI7rRXjhFmCE4kfD",
+  "name": "No.70. 學園天使 スクールエンジェル",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 70,
+  "system": {
+    "description": "<p>你在學園內是家喻戶曉的名人。</p><p>無論是由藝能研究部製作的超級偶像、將即將廢部的弱小社團在短時間內提升為強勢社團的傳奇部長、美貌程度讓環球小姐都望塵莫及的絕世美人，或者是小學時代就被預言必定獲得全球首個諾貝爾獎的超越科學部新星——你就是這樣的人物之一。</p><p>你的存在本身就能鼓舞他人。你是以學生形象出現的美德、規範、希望，是人類潛能的化身。</p><p>沒有人能夠忽視你的存在。當然，因為知名度高，嫉妒你的人也不少。有光明就有陰影。引人注目的同時也意味著會樹立更多敵人。然而，這也是成名的宿命。或許你擁有的光芒甚至能照亮陰影——也說不定。</p><p><em>效果：此D-Lois只能在「舞臺：超越者學園」中使用。\n在場景中登場的你以外的角色進行判定後立即使用，該判定的達成值+5。該效果無法對你自身使用。該效果一劇本可以使用三次。此外，由於你過於有名，無法隱藏自己的行蹤，當你進行任何試圖向他人隱藏自己的判定時，判定骰數-5個。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.70",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "1JgmYvY7ucOZoC32",
+  "_key": "!items!1JgmYvY7ucOZoC32",
+  "name": "輝光弓",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 5,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/bow-arrow.svg",
+  "system": {
+    "description": "<p>為了提高《光之弓》的命中精度而製作的特殊弓，當做普通武器使用時就只是普通的弓。</p><p>你進行的組合《光之弓》的判定骰數+4個。雙手持握。至近不可。</p><p><em>射程：20m</em> / <em>參照：IA P72</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 2,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P72"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

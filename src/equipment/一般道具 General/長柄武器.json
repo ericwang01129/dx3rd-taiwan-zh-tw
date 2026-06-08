@@ -1,0 +1,37 @@
+{
+  "_id": "BtkXE1n6a73ZVPYo",
+  "_key": "!items!BtkXE1n6a73ZVPYo",
+  "name": "長柄武器",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 17,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>長柄前端帶刃的武器，包括戟、薙刀、竹槍、農具等，對超越者來說揮舞著火把和長柄武器的暴徒們是最需要恐懼的。</p><p>你的【行動值】-2。</p><p><em>射程：至近</em> / <em>參照：IA P23</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "6",
+      "difficulty": 8
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 5,
+    "guard": 6,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P23"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

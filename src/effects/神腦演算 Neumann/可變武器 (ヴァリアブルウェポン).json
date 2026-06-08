@@ -1,0 +1,64 @@
+{
+  "_id": "yHAzAR70nUAurq54",
+  "name": "可變武器 (ヴァリアブルウェポン)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "folder": "47r01TSVVubrkaef",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《複數武器》。</p><p>須與《複數武器》組合使用，選擇LV件你持有的，跟你攻擊時使用的武器相同技能的武器。</p><p>組合的攻擊的攻擊力+[選擇的武器的攻擊力合計]，且效果也全部適用。</p><p>選擇的武器在該主要階段間視為裝備。</p><p><em>參照：EAP94</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "極限",
+    "timing": "major",
+    "target": "-",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "神腦演算 Neumann",
+      "syndromeItemId": "ohcrpvm6g5xHhvRM",
+      "source": "EAP94"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!yHAzAR70nUAurq54"
+}

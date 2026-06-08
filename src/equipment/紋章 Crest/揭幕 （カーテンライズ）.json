@@ -1,0 +1,40 @@
+{
+  "_id": "qB2kQjPoNfaT828w",
+  "_key": "!items!qB2kQjPoNfaT828w",
+  "name": "揭幕 （カーテンライズ）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 179,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/heart-key.svg",
+  "system": {
+    "description": "<p>表示你作為幕後黑手準備了最佳舞臺的紋章，一定能讓舞臺上的演員演出最好的戲劇</p><p><em>效果：你在受到“無冕之王”影響的場所期間，場景中登場的你以外任意角色全體進行的判定暴擊值-1（下限值6）；該效果在“無冕之王”影響期間一直生效，或是只在該場景中生效，由GM決定</em> / <em>備註：IA新增</em> / <em>參照：IA P149</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "核心紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH單元隊長 取得條件：職業為FH單元隊長A~D",
+      "source": "IA P149"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

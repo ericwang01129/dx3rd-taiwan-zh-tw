@@ -1,0 +1,64 @@
+{
+  "_id": "OHdKfRPgl6MQ5aGQ",
+  "name": "影繪芝居",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/shadow-grasp.svg",
+  "folder": "1pCX5ZBbIY55J65u",
+  "sort": 0,
+  "system": {
+    "description": "<p>製作任意形狀大小的影子，並可自由自在動作的異能。</p><p>可利用投影製造出產生該影子的物體位於視界外的其他地方的錯覺，</p><p>以觀察者的<知覺>跟你的<RC>進行對決來判斷是否會被看穿。</p><p><em>參照：ICP51</p><p>EAP127</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "場景(選擇)",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "噬身影蛇 Oroboros",
+      "syndromeItemId": "R7Jxr26CWdNB0hjx",
+      "source": "ICP51\nEAP127"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!OHdKfRPgl6MQ5aGQ"
+}

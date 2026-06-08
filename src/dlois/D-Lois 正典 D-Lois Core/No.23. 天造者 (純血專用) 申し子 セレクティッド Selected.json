@@ -1,0 +1,40 @@
+{
+  "_id": "aviTyFukqzWqtNn7",
+  "_key": "!items!aviTyFukqzWqtNn7",
+  "name": "No.23. 天造者 (純血專用) 申し子 セレクティッド Selected",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 23,
+  "system": {
+    "description": "<p>你極端的擅長使役R病毒的力量。純血種本來就比其他血統更能使用高威力的能力，但你的情況是再對自己的能力進行改造和調整，創造出新的能力。這只有能夠自在的操控R病毒的「被選上之人」才做得到。</p><p><em>效果：只限血統為【純血種】的角色可取得\n你可以從天造者專用異能中先免費取得一個能力Lv1，之後也可以消耗經驗值提升該能力等級。\n但不能再取得其他天造者專用異能。</em> / <em>備註：純血專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.23",
+      "source": ""
+    }
+  }
+}

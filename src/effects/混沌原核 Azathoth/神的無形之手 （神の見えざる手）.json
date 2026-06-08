@@ -1,0 +1,64 @@
+{
+  "_id": "2EQNcOnT052FTv6o",
+  "name": "神的無形之手 （神の見えざる手）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>應風而開的暗門、由書架上掉落的日記等。於你所介入的事件中，探索者將被怪奇本身所引誘，繼而被拉入更進一步的恐怖之中。</p><p>只能在你未登場，且非戰鬥的場景中使用。於某一角色進行[探索事件]所指定的判定時使用，此次判定的骰數+[LV×2]D、</p><p><em>參照：NC P96</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "auto",
+    "target": "參照效果",
+    "range": "參照效果",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "NC P96"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!2EQNcOnT052FTv6o"
+}

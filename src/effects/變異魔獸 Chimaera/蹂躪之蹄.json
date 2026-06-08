@@ -1,0 +1,68 @@
+{
+  "_id": "d43txRZgx3y07XWn",
+  "name": "蹂躪之蹄",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lion.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>長出蹄來突擊的異能。</p><p>此回合中，你下次近戰攻擊的攻擊力+[LV×2]。該近戰攻擊使用《一角鬼》的話，攻擊力就改成+[LV×3]。</p><p>此異能只有在你於該回合中進行了戰鬥移動、全力移動、脫離的情況下才有效。</p><p><em>參照：HRP79</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "setup",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*2"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "HRP79"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!d43txRZgx3y07XWn"
+}

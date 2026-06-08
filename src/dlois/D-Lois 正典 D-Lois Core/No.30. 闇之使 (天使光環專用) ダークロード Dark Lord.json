@@ -1,0 +1,40 @@
+{
+  "_id": "OqxwmkAQrpFVqhCq",
+  "_key": "!items!OqxwmkAQrpFVqhCq",
+  "name": "No.30. 闇之使 (天使光環專用) ダークロード Dark Lord",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 30,
+  "system": {
+    "description": "<p>你是光環能力者當中非常特殊的操控黑暗的超越者。</p><p>你發出的黑色之光，在黑夜之中也非常顯眼，能將所有事物都染上漆黑的顏色。那可能是吞噬光明的黑暗物質，任何閃耀輝煌之物，在你面前只會染上黑闇。</p><p>你或許曾聽說過【光之使】的特殊光環能力者，對方有著能夠驅逐一切黑暗的光明，或許有一天你會遭遇到它吧。</p><p><em>效果：只限症狀為【天使光環】的角色可取得。\n自動獲得異能【闇之指】Lv1，可使用經驗提升等級。\n這異能視為天使光環的異能\n闇之指 \n最大等級：3 \n時機：自動動作 \n技能：- \n難易度：自動成功 \n對象：單體 \n射程：視界 \n侵蝕：7 \n限制：D露易絲\n次數：LV/劇本 \n效果：對方判定前使用，該判定的CT+1 一回合只能使用一次 \n創造絕對的黑暗阻礙行動的能力</em> / <em>備註：天使光環專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.30",
+      "source": ""
+    }
+  }
+}

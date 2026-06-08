@@ -1,0 +1,40 @@
+{
+  "_id": "qIqYoiMN9vaT3Pmw",
+  "_key": "!items!qIqYoiMN9vaT3Pmw",
+  "name": "預備心臟",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 108,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>使用被EX背教者感染的樹果作為核心製作的第二顆心臟，目前只有流亡畸體的人適合。</p><p>你陷入戰鬥不能狀態時使用，你從戰鬥不能狀態回復並回復至1HP，使用該效果時你的侵蝕率+1D10。稀有道具。</p><p><em>參照：IA P83</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P83"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

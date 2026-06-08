@@ -1,0 +1,64 @@
+{
+  "_id": "8XPTpcHxfrb4K57l",
+  "name": "悖論 (パラドックス)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《因果歪曲》。</p><p>借助重力扭曲空間，使異能同時在多處發生的異能。</p><p>與《因果歪曲》組合使用。由於組合的《因果歪曲》的效果，對象可以變為5人(與你在同一接戰區域的角色無法成為對象)</p><p><em>參照：BCP57</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "",
+    "limit": "極限",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "BCP57"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!8XPTpcHxfrb4K57l"
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "RwtLxohN3wG4qahA",
+  "_key": "!items!RwtLxohN3wG4qahA",
+  "name": "神秘台座",
+  "folder": "pkEDzV7adwmhoSOR",
+  "sort": 15,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>跟隨主人的小動物型RB。可以巨大化，讓主人坐在背上。性格悠閒而粗心大意。</p><p>準備階段使用，裝備並變更這個道具。</p><p>封具效果：在使用這個載具進行攻擊時使用，攻擊變為[對象：範圍（選擇）]，傷害+2D。</p><p><em>參照：DF P42</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 封具 Sealing Tool",
+      "section": "防具",
+      "source": "DF P42"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "25zjzuF1RM7BMGcc",
+  "_key": "!items!25zjzuF1RM7BMGcc",
+  "name": "秘密指令",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 46,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>神城集團為特工開發的高級套裝，同樣的物品在各組織之間也有使用，外觀看起來是普通的衣服，實際上縫入了精神感應金屬絲能夠根據使用者的意志增強防彈性能。</p><p>你受到的傷害-【精神】。</p><p><em>參照：IA P61</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 35,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 12
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P61"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

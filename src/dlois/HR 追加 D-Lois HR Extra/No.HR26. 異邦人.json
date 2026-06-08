@@ -1,0 +1,40 @@
+{
+  "_id": "W4QOOibsJwqvJm8R",
+  "_key": "!items!W4QOOibsJwqvJm8R",
+  "name": "No.HR26. 異邦人",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 27,
+  "system": {
+    "description": "<p><em>效果：REC：青峰深雪</em> / <em>通常效果：在「起源：●●」的效果中，你進行的所有判定的骰子+2D。但是，你所取得的「起源：●●」的侵蝕值全部+1。</em> / <em>強化效果：你的回歸判定骰子數+1D。也就是說，你會在回歸階段投擲「一般Lois的個數+1」的骰子。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR26",
+      "source": ""
+    }
+  }
+}

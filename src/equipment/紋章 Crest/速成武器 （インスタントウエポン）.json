@@ -1,0 +1,40 @@
+{
+  "_id": "CmB178MyEYEigZ3B",
+  "_key": "!items!CmB178MyEYEigZ3B",
+  "name": "速成武器 （インスタントウエポン）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 393,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>你擅長可以將身邊的東西當做即興武器使用的技術</p><p><em>效果：次要動作使用，該場景間你製作並裝備以下資料的武器，視作創造道具，以[種類：射擊]使用時使用右側資料\n技能：<近戰>/<射擊>   命中：-1   攻擊力：7   格擋值：4   射程：至近/10m</em> / <em>備註：IA新增</em> / <em>參照：IA P173</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "紋章：陌生者 取得條件：職業為陌生者、防衛隊員、傭兵的角色",
+      "source": "IA P173"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

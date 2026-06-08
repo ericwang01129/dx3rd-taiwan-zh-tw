@@ -1,0 +1,40 @@
+{
+  "_id": "v01K09e3B3nsNCLW",
+  "_key": "!items!v01K09e3B3nsNCLW",
+  "name": "強力獲取安瓿 （ジャガーノーツアンプル）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 162,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>能讓侵蝕率急速上升的再生藥，如果不是擁有強大執念的話會肉體會無法忍耐復活的衝擊，在FH中也是禁忌的藥品</p><p><em>效果：你陷入戰鬥不能狀態時使用，你從戰鬥不能狀態回復，將HP回復至20；你的侵蝕率+1D10；但是，你的<意志>在LV4以下時，你立刻死亡</em> / <em>備註：IA新增</em> / <em>參照：IA P147</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "核心紋章/消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH特工 取得條件：職業為FH特工A~D",
+      "source": "IA P147"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

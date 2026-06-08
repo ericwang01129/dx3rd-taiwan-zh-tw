@@ -1,0 +1,40 @@
+{
+  "_id": "m4SwMZwjlVuxYSAX",
+  "_key": "!items!m4SwMZwjlVuxYSAX",
+  "name": "No.UA07. 樂園歸還者 エデンサバイバー",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 142,
+  "system": {
+    "description": "<p>你是[舞臺：失落的伊甸]中的歸還者，也是通關了MMORPG《雙重十字》的玩家。被困在遊戲世界中的你，與處境相同的同伴們協作對應這一狀況。在隨時會死亡的遊戲中，你們經歷了許多冒險，最終打倒了關底BOSS“黑衣的魔女”。</p><p>但回到現實後等到你們的是苦難仍未結束的殘酷真相。《雙重十字》是將潛在的感染者覺醒為超越者、進行戰鬥模擬的實驗。在背後操縱《雙重十字》的“黑衣的魔女”目前正作為威脅地球生物的組織的一員活動。</p><p>現在，你在追查她的下落。</p><p><em>效果：你抵抗死亡的意志遠超其他超越者。在你受到回復HP的效果時使用，回復的HP+10。組合複數異能力時等使用複數效果回復HP時，在合計值上+10。\n宣言《復原》時，追加的HP不需要上升侵蝕。\n每當使用這個效果時，你的侵蝕率+2。\n需要注意取得這個露易絲不等於可以取得[舞臺：失落的伊甸]的專用數據。</em> / <em>參照：DF P28</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA07",
+      "source": "DF P28"
+    }
+  }
+}

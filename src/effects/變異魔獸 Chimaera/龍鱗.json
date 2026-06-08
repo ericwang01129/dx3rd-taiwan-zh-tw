@@ -1,0 +1,68 @@
+{
+  "_id": "B48JxCBTl0hoQi6x",
+  "name": "龍鱗",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/dragon-head.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>將自身的外皮硬質化成鱗狀來保護身體的異能。</p><p>可作為你受到攻擊時的回應動作使用，該攻擊自動命中，</p><p>但你的裝甲值+[LV×10]，會與其他防具重複計算。不能與其他異能組合。</p><p><em>參照：規則1P124</p><p>EAP61</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "reaction",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "armor": {
+        "value": "@level*10"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "規則1P124\nEAP61"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!B48JxCBTl0hoQi6x"
+}

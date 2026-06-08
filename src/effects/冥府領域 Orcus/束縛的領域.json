@@ -1,0 +1,64 @@
+{
+  "_id": "rtmPO4PsosiNh5zl",
+  "name": "束縛的領域",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/chained-arrow-heads.svg",
+  "folder": "FmovFwS0XlDsBEPd",
+  "sort": 0,
+  "system": {
+    "description": "<p>於「射程：視界」裡的角色進行攻擊判定後使用，以該攻擊的判定達成值為難易度，</p><p>進行組合此異能的判定，此時可組合「時機：回應動作」的異能，成功的話，該攻擊便失敗。</p><p><em>參照：規則1P155</p><p>EAP101</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "negotiation",
+    "difficulty": "參照效果",
+    "limit": "80% / 1/場景",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "battle"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冥府領域 Orcus",
+      "syndromeItemId": "VkIuxIHuGC4SwBN8",
+      "source": "規則1P155\nEAP101"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!rtmPO4PsosiNh5zl"
+}

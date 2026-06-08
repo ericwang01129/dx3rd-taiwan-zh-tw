@@ -1,0 +1,40 @@
+{
+  "_id": "R3AY5nGUd60ZeObh",
+  "_key": "!items!R3AY5nGUd60ZeObh",
+  "name": "No.16. 特異點 シンギュラリティ Singularity",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 16,
+  "system": {
+    "description": "<p>你有著註定人生波瀾萬丈的命運。獲得R病毒的力量，也不過就是你傳說的開始而已。</p><p>身為特異點，你身上的R病毒會將異常的機率實現在你身上。你就像輕小說的主角一樣，機率再低的事故都會「偶然」的發生，像是身邊跟隨著惡作劇之神一般。從轉角撞到咬著麵包的女孩子，到為了保護朋友向神明宣戰等等，你的「不幸」迫使你被捲入各種事件，你的「幸運」會實現你的願望，命運逼迫你被造就成傳奇。當然只要在你的精神還是人類構造的時候，這些不過就是單純的異常的偶然。</p><p><em>效果：任意判定前使用，該判定達成值+20。\n次數限制：劇本中一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.16",
+      "source": ""
+    }
+  }
+}

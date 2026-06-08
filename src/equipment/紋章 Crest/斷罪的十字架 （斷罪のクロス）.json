@@ -1,0 +1,37 @@
+{
+  "_id": "AlkdQMr2w3rKb6Ky",
+  "_key": "!items!AlkdQMr2w3rKb6Ky",
+  "name": "斷罪的十字架 （斷罪のクロス）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 412,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>Xenos回收的作為巨大十字架的十字弩，據說是寄宿著某位聖人意志的變節體，但真相不明</p><p><em>備註：IA新增</em> / <em>參照：IA P175</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 35,
+    "equipment": true,
+    "type": "紋章/射擊",
+    "skill": "-",
+    "add": 0,
+    "attack": 0,
+    "guard": 0,
+    "range": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "紋章：Xenos 取得條件：職業為Xenos特工A~D、XenosRB A～D、RB A~D",
+      "source": "IA P175"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "UFK71PTejVREnAVh",
+  "_key": "!items!UFK71PTejVREnAVh",
+  "name": "學習之物 （學ぶもの）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 423,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>你對知識和情報抱有無盡的探究心和好奇心</p><p><em>效果：你進行的<情報：●●>判定骰數+2個；使用技能在LV1以上時，骰子數額外+2個（總計+4個）</em> / <em>備註：IA新增</em> / <em>參照：IA P176</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "紋章：Xenos 取得條件：職業為Xenos特工A~D、XenosRB A～D、RB A~D",
+      "source": "IA P176"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

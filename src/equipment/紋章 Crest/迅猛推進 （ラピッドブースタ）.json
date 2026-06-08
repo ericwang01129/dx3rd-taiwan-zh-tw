@@ -1,0 +1,40 @@
+{
+  "_id": "uuskCKovtYrxLXQ4",
+  "_key": "!items!uuskCKovtYrxLXQ4",
+  "name": "迅猛推進 （ラピッドブースタ）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 281,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>使背教者活性化增強反應速度的強化手術，你的侵蝕率越高機動性就越強</p><p><em>次數：1/場景</em> / <em>效果：準備階段使用，該回合間你的【行動值】+5，你的侵蝕率超過100%以上時，【行動值】額外+5（總計+10）；使用該效果後，你的侵蝕率+3\n該效果1場景可以使用1次</em> / <em>備註：IA新增</em> / <em>參照：IA P161</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 35,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH通用 取得條件：職業為FH，或是身為FH法外者的角色",
+      "source": "IA P161"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

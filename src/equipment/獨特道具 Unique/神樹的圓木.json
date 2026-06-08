@@ -1,0 +1,37 @@
+{
+  "_id": "r0Kn6sYB4ofM57F5",
+  "_key": "!items!r0Kn6sYB4ofM57F5",
+  "name": "神樹的圓木",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 4,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>從上百年樹齡的神樹上切割出的圓木，雖然只是圓木但是帶有神樹中寄宿的EX背教者，能發揮其質量以上的粉碎力。</p><p>若該回合間你沒有移動，使用該武器進行攻擊的攻擊力+10。雙手持握。</p><p><em>射程：至近</em> / <em>參照：IA P56</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -4,
+    "attack": 5,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P56"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

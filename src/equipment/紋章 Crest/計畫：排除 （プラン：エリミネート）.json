@@ -1,0 +1,40 @@
+{
+  "_id": "OvxxGB725ZpGDZ1c",
+  "_key": "!items!OvxxGB725ZpGDZ1c",
+  "name": "計畫：排除 （プラン：エリミネート）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 436,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>將妨礙Xenos的存在抹殺掉為目的的都築京香計畫，因為將排除目標作為最優先事項，所以沒有考慮參加者的生還率</p><p><em>效果：任何時候都可以使用，該劇本間，你進行攻擊的攻擊力+7，HP最大值-5，該效果可以被你用次要動作解除；該效果生效期間，你不會受到其他“計畫：●●”效果影響</em> / <em>備註：IA新增</em> / <em>參照：IA P178</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "紋章：Xenos 取得條件：職業為Xenos特工A~D、XenosRB A～D、RB A~D",
+      "source": "IA P178"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

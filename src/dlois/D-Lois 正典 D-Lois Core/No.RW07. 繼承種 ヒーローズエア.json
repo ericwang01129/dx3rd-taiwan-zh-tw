@@ -1,0 +1,40 @@
+{
+  "_id": "TJs1rk0zAU6VLyD0",
+  "_key": "!items!TJs1rk0zAU6VLyD0",
+  "name": "No.RW07. 繼承種 ヒーローズエア",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 168,
+  "system": {
+    "description": "<p>那種背教者病毒擁有神秘的特性。</p><p>它能在人與人之間轉移。從原本的超越者傳承到下一任宿主，幾乎所有力量都會被繼承。</p><p>因此被稱為「繼承種」。</p><p>但被傳承的不只是力量。歷代宿主都會選擇合適的繼承者，將力量交給擁有正確之心的人。</p><p>交給能守護世界、守護他人的人。</p><p><em>效果：此D-lois只能在「舞臺：背教者戰爭」中取得。\n\n你以1級取得【Might for Someone】。不需消耗經驗點，且不受血統影響。\nMight for Someone\n最大等級：1 \n時機：先攻階段\n技能：－ \n難度：自動成功\n對象：自身 \n射程：至近\n侵蝕值：1D10 \n限制：D-lois\n次數：1/劇本\n效果：思念某人的心，讓身體再次動起來。\n不可與其他異能組合。你立即進行一次主要動作。即使已行動過也可使用，且若未行動過，使用後仍不視為已行動。</em> / <em>參照：CE P49</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.RW07",
+      "source": "CE P49"
+    }
+  }
+}

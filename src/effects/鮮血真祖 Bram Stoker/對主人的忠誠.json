@@ -1,0 +1,64 @@
+{
+  "_id": "CGtAM9adSGgXLT0m",
+  "name": "對主人的忠誠",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/vampire-dracula.svg",
+  "folder": "wboZ95SHJuim4ZlG",
+  "sort": 0,
+  "system": {
+    "description": "<p>讓特殊的從者登場的異能。</p><p>于場景登場時使用，使臨時角色的從者代替你登場。</p><p>從者與你共有五感，也可以進行對話，但不能戰鬥，受到傷害後就會退場。</p><p>你的侵蝕率按照正常登場計算。不能與其他異能組合。</p><p><em>參照：規則2P102</p><p>EAP47</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "auto",
+    "target": "參照效果",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": "參照效果"
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "鮮血真祖 Bram Stoker",
+      "syndromeItemId": "yZ26mUMQV6FowBlo",
+      "source": "規則2P102\nEAP47"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!CGtAM9adSGgXLT0m"
+}

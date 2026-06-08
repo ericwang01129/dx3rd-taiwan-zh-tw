@@ -1,0 +1,37 @@
+{
+  "_id": "u8g2Q8kZWHH6VYQc",
+  "_key": "!items!u8g2Q8kZWHH6VYQc",
+  "name": "風斬絲",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 115,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>將非常強韌又銳利的納米碳纖維繩用疾速靈猿異能操縱的武器，看起來就像是無數絲線被風操控。</p><p>使用該武器組合兩個以上疾速靈猿異能時，命中使用右側數據。</p><p><em>射程：15m</em> / <em>參照：IA P84</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 35,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -5,
+    "attack": 16,
+    "guard": 0,
+    "range": "15m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P84"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

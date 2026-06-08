@@ -1,0 +1,37 @@
+{
+  "_id": "8C3sGvWyE5XxWmcS",
+  "name": "重力魔眼 Balor",
+  "type": "syndrome",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "sort": 200,
+  "system": {
+    "description": "<p><strong>暗黑之力</strong></p>\n<p>操作重力的症狀，這就是「重力魔眼」。</p><p>他們在使用異能的時候，必定會在體外產生被稱之為「魔眼」或者「寶玉」的浮游球體，通過控制那球體，他們可以自由的操作重力。</p><p>這個球體，「魔眼」，為什麼能夠控制重力呢？到目前為止還沒有人明白當中的原理。</p><p>是產生強烈的磁場？透過不可思議的質量？控制回轉的速度？諸如此類各式各樣的假設，但是沒有一個決定性的說法。</p><p>要說的明白一點的話，只能說他們是擁有能夠引起操作重力的現象的能力吧。</p><p>「魔眼」的大小，個數，形狀等等會依據個人的不同而有所差別，雖然有「能夠產生，控制數量越多魔眼的超越者就越強大」的說法，但是目前也止於謠言的範疇。</p><p>再者，Balor這個名字，是擁有掌管死亡的魔眼，來自於凱爾特神話的神之名。</p>\n<blockquote>生命起於黑暗，死亡亦結束於黑暗。<br>踏過了數千數萬的屍骸，得知在黑暗的深處所藏之秘密。<br>......是故，我成為黑暗。<br>吞食生命，飲盡死亡，給與萬物同等毀滅的狩獵者。<br>「狩獵者」伊庭宗一，於黑暗之中。</blockquote>",
+    "skillTmp": "melee",
+    "skills": {},
+    "attributes": {
+      "body": {
+        "value": 0
+      },
+      "sense": {
+        "value": 1
+      },
+      "mind": {
+        "value": 2
+      },
+      "social": {
+        "value": 1
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "english": "Balor",
+      "chinese": "重力魔眼"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!8C3sGvWyE5XxWmcS"
+}

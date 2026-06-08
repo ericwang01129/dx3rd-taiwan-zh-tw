@@ -1,0 +1,40 @@
+{
+  "_id": "iNncoQBnBsNo4xex",
+  "_key": "!items!iNncoQBnBsNo4xex",
+  "name": "No.HR29. 永命者",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 30,
+  "system": {
+    "description": "<p><em>效果：REC：芬·布思羅伊德</em> / <em>通常效果：你花費了長久的歲月去鑽研與吸血鬼、惡魔等怪物戰鬥的方法。那些方法對超越者亦頗為有效。\n取得此D-Lois時選擇一個技能，使用所選技能進行的攻擊判定的骰數+3D。\n但是，這個攻擊的對象必須是超越者。</em> / <em>強化效果：于以超越者為對象的攻擊傷害擲骰之前使用，此次攻擊的傷害+2D10。\n這個效果一個場景可以使用一次</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR29",
+      "source": ""
+    }
+  }
+}

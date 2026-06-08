@@ -1,0 +1,68 @@
+{
+  "_id": "kv4Mtik133rMnai0",
+  "name": "飛火 (スピットファイア)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/carl-olsen/flame.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《細小塵埃》。</p><p>擊出激烈的槍彈風暴的異能，這副光景就如同紅蓮的吐息一般。</p><p>組合的射擊攻擊的攻擊力+[LV×3]，但此次攻擊的判定骰-2個。</p><p><em>參照：BCP56</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "ranged",
+    "difficulty": "對決",
+    "limit": "極限",
+    "timing": "major",
+    "target": "單體",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level*3"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "BCP56"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!kv4Mtik133rMnai0"
+}

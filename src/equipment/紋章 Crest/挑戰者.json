@@ -1,0 +1,40 @@
+{
+  "_id": "BWEVXhcsKmRAYMZj",
+  "_key": "!items!BWEVXhcsKmRAYMZj",
+  "name": "挑戰者",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 212,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>你的背教者病毒會因為與更加強大的背教者對峙而活性化。無論是對上何等強大的背教者，你都能做到與其進行對等的交鋒。通常來說，你的代號將會是以某種傳說為原型的名號</p><p><em>效果：你所攻擊的對象有著比你更高的侵蝕率時，攻擊力+10</em> / <em>參照：IA P153</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "尊主特工 取得條件：職業為FH特工、FH單元隊長、FH之子，需征得GM同意",
+      "source": "IA P153"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

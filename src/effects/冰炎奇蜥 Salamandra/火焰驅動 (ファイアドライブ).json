@@ -1,0 +1,64 @@
+{
+  "_id": "sbEViTmfNJEjFJKa",
+  "name": "火焰驅動 (ファイアドライブ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/carl-olsen/flame.svg",
+  "folder": "fTAZJwZUEo6ka7qa",
+  "sort": 0,
+  "system": {
+    "description": "<p>用火焰將周圍的同伴的身體活性化的異能。</p><p>對象接下來進行的攻擊的攻擊力+[LV×2]。但是，這個異能不能與《建言》之類降低對象暴擊值的異能組合使用。</p><p><em>參照：BCP65</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "範圍(選擇)",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冰炎奇蜥 Salamandra",
+      "syndromeItemId": "QYuRS0HzX2yUU8d7",
+      "source": "BCP65"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!sbEViTmfNJEjFJKa"
+}

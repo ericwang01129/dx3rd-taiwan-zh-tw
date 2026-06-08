@@ -1,0 +1,40 @@
+{
+  "_id": "30brHuxWum2WfokN",
+  "_key": "!items!30brHuxWum2WfokN",
+  "name": "刻銘",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 190,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>你是被被施與了特別強化的一系列實驗體之一。這一系列的實驗體都被授予了劍的銘刻</p><p><em>效果：取得時選擇一項技能，以所選技能進行的判定，達成值+3；你的侵蝕率基本值+2</em> / <em>參照：IA P151</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH之子 取得條件：職業為FH之子A~C",
+      "source": "IA P151"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

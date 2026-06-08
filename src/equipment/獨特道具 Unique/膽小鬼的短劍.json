@@ -1,0 +1,37 @@
+{
+  "_id": "eFM6tTpJt2TnY3qZ",
+  "_key": "!items!eFM6tTpJt2TnY3qZ",
+  "name": "膽小鬼的短劍",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 8,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>據說給了手上受傷的為政者最後一擊的短劍。</p><p>準備階段使用，若你在該回合中沒有受到1點以上HP傷害，回合結束前使用該武器進行的攻擊傷害+2D10。</p><p><em>射程：至近</em> / <em>參照：IA P56</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 2,
+    "guard": 0,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P56"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

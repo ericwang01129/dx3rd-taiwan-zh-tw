@@ -1,0 +1,40 @@
+{
+  "_id": "GWuaUXAREnvqpkPY",
+  "_key": "!items!GWuaUXAREnvqpkPY",
+  "name": "No.HE01. 高貴的血統 ノーブルブラッド",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 114,
+  "system": {
+    "description": "<p>你出身于以與天皇結成密切姻親關係的藤原氏一族為首，包括源氏、平氏、橘氏等名門貴族中政治力量特別強大的家系。</p><p>在當今這個時代，僅僅是出身於這一族，其他貴族和官僚們就會用特別的眼光看待你。</p><p>當然反過來說，僅僅因為是這一族的出身也可能招致怨恨。但是，這種事就當作是名人稅吧。正是因為如此，擁有這一族的血脈才顯得特別。</p><p><em>效果：此D-lois只能在「舞臺：平安京物怪錄」中取得。\n你的常備化點數+20。\n取得此D-lois時，侵蝕率基本值+2。</em> / <em>參照：OC P84</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.HE01",
+      "source": "OC P84"
+    }
+  }
+}

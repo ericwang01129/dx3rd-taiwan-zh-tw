@@ -1,0 +1,37 @@
+{
+  "_id": "7DwwkXRFJRAgsZX7",
+  "_key": "!items!7DwwkXRFJRAgsZX7",
+  "name": "醜陋的禦盾 （醜の禦盾）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 443,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>受EX背教者病毒感染的，律令時代的防人們所使用的木制大盾。其表面描有漩渦一樣的紋路，在受到超越者攻擊時紋路便會發光</p><p><em>參照：IA P179</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "紋章/近戰",
+    "skill": "-",
+    "add": 0,
+    "attack": 0,
+    "guard": 0,
+    "range": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "廷達羅斯 取得條件：沒有取得其他紋章的角色",
+      "source": "IA P179"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

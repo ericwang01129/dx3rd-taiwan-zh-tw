@@ -1,0 +1,40 @@
+{
+  "_id": "qta9e0rsNQ3GGWdC",
+  "_key": "!items!qta9e0rsNQ3GGWdC",
+  "name": "No.UA21. 編織命運之人 フェイトウィーバー",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 156,
+  "system": {
+    "description": "<p>冥府領域能力者能夠將被稱作“因子”的物質依附在自身領域內的物質上，隨意操縱。</p><p>在子彈上附加因子，扭曲彈道、讓自己不被擊中。由於這種能力，冥府領域可以說是操縱著幸運。</p><p>但你的能力不是那種程度的小把戲。你的領域非常大，幾乎覆蓋全球。但相對地，你只能稍微操作事物。</p><p>這已經足夠了。所有事物都互相聯繫著。一隻蝴蝶在海的對面振翅，便會引發龍捲風。</p><p>你編織著操縱一切的命運之線。</p><p><em>效果：只限症狀為【冥府領域】的角色可取得。\n自動獲得異能【宿命之線】Lv1，視為冥府領域異能力，可使用經驗提升等級。\n宿命之線\n最大等級：5\n時機：自動動作\n技能：-\n難易度：自動\n對象：單體\n射程：視界\n侵蝕：5\n限制：D露易絲\n次數：3/劇本\n效果：對象計算完達成值之後使用，達成值±（LV）D。不能以自己為對象。</em> / <em>備註：冥府領域專用</em> / <em>參照：DF P35</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA21",
+      "source": "DF P35"
+    }
+  }
+}

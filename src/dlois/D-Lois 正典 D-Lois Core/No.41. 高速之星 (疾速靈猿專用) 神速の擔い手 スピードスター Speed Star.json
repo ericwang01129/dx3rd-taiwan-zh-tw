@@ -1,0 +1,40 @@
+{
+  "_id": "kAUc7hmPilnYRMEJ",
+  "_key": "!items!kAUc7hmPilnYRMEJ",
+  "name": "No.41. 高速之星 (疾速靈猿專用) 神速の擔い手 スピードスター Speed Star",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 41,
+  "system": {
+    "description": "<p>你是極端特化速度的超越者。越是以高速移動，你體內的R病毒就越活性化，分泌腦內麻藥，讓你前往更快的境界。</p><p>這已經是一種衝動，無法抑制想要加快的衝動，遲早有一天會死在這個速度之下，但你應該也不會後悔吧。</p><p><em>效果：只限症狀為【疾速靈猿】的角色可取得。\n自動獲得異能【高速之星】Lv1，可使用經驗提升等級。\n這異能視為疾速靈猿的異能\n高速之星 (スピードスター Speed Star)\n最大等級：1 \n時機：準備階段 \n技能：- \n難易度：自動成功 \n對象：自身 \n射程：至近 \n侵蝕：3 \n限制：D露易絲 \n次數：1/場景\n效果：這回合，你給予的傷害+【行動值】 \n但是這回合，你不能進行回應階段 \n藉由速度增加傷害的能力</em> / <em>備註：疾速靈猿專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.41",
+      "source": ""
+    }
+  }
+}

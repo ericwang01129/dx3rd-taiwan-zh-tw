@@ -1,0 +1,68 @@
+{
+  "_id": "eWM03aHPFffqlwSm",
+  "name": "可變機械",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/microchip.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>將你所操縱的機器最合適化，解放其全力的異能。</p><p>從以下的效果中選擇兩項。</p><p>「【行動值】+5」、「判定骰數+3顆」、「攻擊的攻擊力+5」</p><p>在這個場景中，受到所選擇的效果。選擇同樣的效果時，效果累積計算。</p><p><em>參照：RUP16</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "解放120% / 1/劇本",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 6,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "5"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "RUP16"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!eWM03aHPFffqlwSm"
+}

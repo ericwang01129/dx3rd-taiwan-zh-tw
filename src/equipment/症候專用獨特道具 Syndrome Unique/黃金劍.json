@@ -1,0 +1,37 @@
+{
+  "_id": "bxFMGinSolboFeMU",
+  "_key": "!items!bxFMGinSolboFeMU",
+  "name": "黃金劍",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 164,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>帶有豪華裝飾的長劍，使用被EX背教者侵蝕的黃金和寶石做裝飾，能將你對領域的支配力轉換成威力。</p><p>使用該武器進行的攻擊判定骰數+[該攻擊組合的冥府領域異能數]個。</p><p><em>射程：至近</em> / <em>參照：IA P90</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 8,
+    "guard": 4,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P90"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "MQqmvQ7Te6zyLOEv",
+  "_key": "!items!MQqmvQ7Te6zyLOEv",
+  "name": "No.68. 裁定者 パックチーフ",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 68,
+  "system": {
+    "description": "<p>你是一位在學園內擁有極高權力的學生，全因你擔任著特殊的職位。</p><p>無論是學生會幹部、風紀委員長還是學生宿舍的舍監等，種類各異，但共同點是這些職位都站在「維護學園秩序」的一方。</p><p>在超越者雲集的學園中，維持秩序絕非易事。因此，賦予你的權限遠比一般學校組織中的同等職位更加強大。</p><p>請不要誤解，你所擁有的權力絕非賦予你個人，而是賦予你所擔任的職位。切勿忘記，權力伴隨著責任。</p><p>你擔任何種職位，可在與GM商量後自由決定。</p><p><em>效果：此D-Lois只能在「舞臺：超越者學園」中使用。\n先攻階段使用。你可以對場景中出現的一名角色施加任意一種不良狀態。若選擇憎惡，憎惡的對象由你指定。若需要等級，則為5級。 透過此D-Lois施加的不良狀態無法以異能或道具效果回復。注意，通過昇華Titus，D-Lois或E-Lois的效果，仍然可以回復由此D-Lois施加的不良狀態。該效果一劇本可以使用一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.68",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "Akhr04Gmf4mizFHV",
+  "name": "探知之光 (探知する光)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spiked-halo.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>發放和接收散射的光，如同雷達一樣能夠探知身邊的地形或者人的位置的異能。</p><p>發放出來的光線不是人類的眼睛可以接收的波長，一般不會被人類發現。</p><p>GM認為有必要的話，可要求利用<知覺>進行判定。</p><p>因為探知需要一定的時間，GM可以禁止在戰鬥中使用此異能。</p><p><em>參照：RWP32</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "RWP32"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Akhr04Gmf4mizFHV"
+}

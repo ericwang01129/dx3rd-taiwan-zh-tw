@@ -1,0 +1,40 @@
+{
+  "_id": "nOez2EP3M2n5yj9I",
+  "_key": "!items!nOez2EP3M2n5yj9I",
+  "name": "世界之卵",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 234,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>分不清是有機體還是無機體的卵狀物質，噬身影蛇能力者將其放入體內後能吸收內部的背教者並引發有指向性的結界。</p><p>你使用《結界化》時使用，到場景結束或結界解除為止，場景內的任意超越者全員進行的判定骰數-1個，對象為背教者生命體時，骰數額外-1個。</p><p><em>參照：IA P97</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 80,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P97"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

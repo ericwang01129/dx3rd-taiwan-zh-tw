@@ -1,0 +1,40 @@
+{
+  "_id": "3XhMIeoVWZcZZFPr",
+  "_key": "!items!3XhMIeoVWZcZZFPr",
+  "name": "No.64. 傍依之影 (噬身影蛇專用) シャドウバディ Shadow Buddy",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 64,
+  "system": {
+    "description": "<p>所有銜尾蛇症狀超越者都有奇怪的能力，但你，或是你的影子，卻是其中稀奇的例子。你的影子是個化身，一個擁有自己獨有能力跟意志的超越者。化身通常基於人類的傳說或故事，他們可能會長得像傳說中的幻獸，或是漫畫書中的英雄。據說這個形象是他們搜尋宿主的精神和潛意識得來的結果。</p><p>（因為這個Ｄ露易斯，使得銜尾蛇也常被視為替身使者或Ｐｅｒｓｏｎａ）</p><p><em>效果：只限症狀為【噬身影蛇】的角色可取得。 \n選擇一個自己沒有的症狀的異能並免費取得該異能Lv1。 \n選擇的能力不能是【時機：常駐】，不能選擇敵人專用能力，不能選擇【限制：－】以外的能力。 該能力的侵蝕率上升＋１。 \n選擇的能力視為【原初】系列的能力，也就是說視為噬身影蛇症狀的能力。 詳細規則參照銜尾蛇症狀的能力複製原則 \n使用這個能力時，可能會顯現出你的化身。</em> / <em>備註：噬身影蛇專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.64",
+      "source": ""
+    }
+  }
+}

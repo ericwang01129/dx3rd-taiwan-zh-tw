@@ -1,0 +1,40 @@
+{
+  "_id": "7xr6Uh4KK8jLJL1i",
+  "_key": "!items!7xr6Uh4KK8jLJL1i",
+  "name": "白銀砂塵",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 140,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>能將煉金化形症候的防具硬度增強的白色沙子。</p><p>與製作武器、防具、載具的煉金化形異能同時使用，武器的格擋值+3，防具、載具的裝甲值+5。</p><p><em>參照：IA P87</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P87"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

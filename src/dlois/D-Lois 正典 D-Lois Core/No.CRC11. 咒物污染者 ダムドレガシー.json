@@ -1,0 +1,40 @@
+{
+  "_id": "6oyvhrz30Gc9HdGt",
+  "_key": "!items!6oyvhrz30Gc9HdGt",
+  "name": "No.CRC11. 咒物污染者 ダムドレガシー",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 131,
+  "system": {
+    "description": "<p>你擁有一件咒物——完全超出現代物理法則的〈舊日支配者〉或〈外神〉遺物。</p><p>你可能是自願獲得這件咒物，也可能是被它纏身，想方設法要擺脫它。無論哪種情況，結果都一樣。你持有可能毀滅地球的邪神武裝，包括UGN在內的所有組織都將你視為人類的潛在威脅。</p><p>只有你能使用你的詛咒物。這是因為你的背教者病毒勉強封印了咒物裡可怕的詛咒。這也意味著，若你變成原菌，可能會帶來無法言喻的災厄，不過這也是你得以繼續存活的原因。</p><p><em>效果：取得該D-Lois時，從咒物之中選擇並取得一件取得。\n以該D-Lois取得的道具視為常備化。以該D-Lois取得的道具除你以外的角色無法使用也無法裝備，即使持有也無法受到其效果。但當你死亡或變為原菌時，亦有可能會被奪取咒物——交由GM判斷。\nGM也可以根據劇本設計設計原創咒物。</em> / <em>參照：NC P93</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.CRC11",
+      "source": "NC P93"
+    }
+  }
+}

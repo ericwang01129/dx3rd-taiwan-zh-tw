@@ -1,0 +1,40 @@
+{
+  "_id": "h1bsxWYf2BkO282s",
+  "_key": "!items!h1bsxWYf2BkO282s",
+  "name": "跟蹤無人機",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 42,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>能夠自動追蹤持有者的附帶終端的無人機，能根據持有者的指示進行情報處理、周邊探知、精神狀態檢查等工作來協助持有者。</p><p>你進行【感覺】【精神】判定前使用，判定骰數+2個，該效果一劇本可以使用三次。</p><p><em>參照：IA P126</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "15",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P126"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

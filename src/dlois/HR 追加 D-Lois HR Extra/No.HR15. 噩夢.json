@@ -1,0 +1,40 @@
+{
+  "_id": "ByyKrYP7d36spg6g",
+  "_key": "!items!ByyKrYP7d36spg6g",
+  "name": "No.HR15. 噩夢",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 16,
+  "system": {
+    "description": "<p><em>效果：REC：約翰·C·科多維爾</em> / <em>通常效果：回歸階段時，只要侵蝕率小於119%以下，就不會變成原菌，也能獲得侵蝕率大於100%的獎勵經驗值。\n但是取得了該D-Lois的場合，你無法受到Titus昇華效果中的「解除異常狀態」和「恢復戰鬥不能」這兩者以外的效果。S-Lois的效果則可以照常使用。\n該D-Lois不能與其他D-Lois同時取得（當然，也不能取得多個D-Lois：噩夢）</em> / <em>強化效果：你進行的組合了異能的攻擊的攻擊力+3</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR15",
+      "source": ""
+    }
+  }
+}

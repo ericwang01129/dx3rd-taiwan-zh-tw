@@ -1,0 +1,37 @@
+{
+  "_id": "YS3RgdehnkG0cz6T",
+  "_key": "!items!YS3RgdehnkG0cz6T",
+  "name": "暗黑爆能槍",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 26,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>將魔眼作為子彈發射的特殊兵裝，擊中時會在對象周圍引發強大重力。</p><p>使用該武器進行的攻擊命中時對象受到[不良狀態：硬直]。雙手持握。至近不可。</p><p><em>射程：100m</em> / <em>參照：IA P74</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 40,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 18,
+    "guard": 0,
+    "range": "100m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P74"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

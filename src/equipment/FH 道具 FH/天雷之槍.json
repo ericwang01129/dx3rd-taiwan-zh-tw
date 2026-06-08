@@ -1,0 +1,37 @@
+{
+  "_id": "3n4YIqPKeOEHRPte",
+  "_key": "!items!3n4YIqPKeOEHRPte",
+  "name": "天雷之槍",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 55,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>必定奪走目標性命的詛咒之槍，雖然其子彈會如受到命運引導般命中目標的致命處，但同時也有奪走使用者性命的危險性。</p><p>使用該武器進行射擊攻擊的攻擊判定前使用，你消費30以下任意數值HP，該判定的達成值+[你消費的HP值]，不能因該效果將HP消耗到0以下，使用該效果後你的侵蝕率+4。稀有道具。</p><p><em>射程：300m</em> / <em>參照：IA P128</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "60",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -2,
+    "attack": 9,
+    "guard": 0,
+    "range": "300m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P128"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "jeOMCuSIP1xkf3cY",
+  "_key": "!items!jeOMCuSIP1xkf3cY",
+  "name": "告死者之槍",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 264,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>一把外表鏽跡斑斑的長槍，纏繞著無數鎖鏈。鏈條會自動纏繞在長槍刺穿的目標上。</p><p>使用該武器與《告死之鎖》組合的攻擊，對象將無法回避，每次使用該效果時侵蝕率+2。雙手持握。</p><p><em>射程：至近</em> / <em>參照：UA P86</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 45,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 19,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "UA P86"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

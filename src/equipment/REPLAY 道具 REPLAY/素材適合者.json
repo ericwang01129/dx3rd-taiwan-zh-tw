@@ -1,0 +1,40 @@
+{
+  "_id": "rjdGsvpamzG3sr6R",
+  "_key": "!items!rjdGsvpamzG3sr6R",
+  "name": "素材適合者",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 59,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>表示你是能夠與素材同化的適合者。</p><p><em>效果：你能夠使用持有的「素材：●●」的效果；即使此時並非【取得該道具】的狀態，也可以受到素材效果的影響。</em> / <em>參照：IA P194</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P194"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

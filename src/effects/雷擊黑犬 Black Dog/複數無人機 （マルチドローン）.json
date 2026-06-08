@@ -1,0 +1,64 @@
+{
+  "_id": "lq7mGnAw2gYj8HNu",
+  "name": "複數無人機 （マルチドローン）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wolf-head.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>你的體內搭載了偵查用的小型無人機。可以用無人機偵查周圍或在遠距離進行開門之類的簡單操作。此外，也可以讓無人機進入人類無法進入的狹小地方。如果GM認為無人機進行的工作需要判定，可以進行<知識：機械工學>的判定。</p><p><em>參照：UAP32</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "UAP32"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!lq7mGnAw2gYj8HNu"
+}

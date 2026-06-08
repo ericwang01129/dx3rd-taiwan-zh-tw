@@ -1,0 +1,64 @@
+{
+  "_id": "qvJM99qjFtxK4Bd3",
+  "name": "細菌環境操作",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/shadow-grasp.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>操縱細菌環境的異能。可排除害菌，製造類似無菌室的環境，也可完全控制釀造或發酵的程度。</p><p>此外，生活在完美控制細菌的環境還可能強化免疫系統，促進健康。</p><p>GM認為有必要的話，可要求用<RC>進行判定。</p><p><em>參照：規則2P173</p><p>EAP119</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "場景(選擇)",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "規則2P173\nEAP119"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!qvJM99qjFtxK4Bd3"
+}

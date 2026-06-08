@@ -1,0 +1,64 @@
+{
+  "_id": "RduEI97mFOltycf9",
+  "name": "舒適室溫",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/frostfire.svg",
+  "folder": "fTAZJwZUEo6ka7qa",
+  "sort": 0,
+  "system": {
+    "description": "<p>絕妙控制一定空間的溫度，為該空間裡的人帶來最舒適的溫度的異能。</p><p>你可以將場景內的氣溫調節成你認為最舒適的溫度，也可以只變更一部分場景。</p><p>舒適的溫度會使人們健康與平穩，為每一天的生活帶來活力與長壽。</p><p><em>參照：規則2P164</p><p>EAP111</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "參照效果",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冰炎奇蜥 Salamandra",
+      "syndromeItemId": "QYuRS0HzX2yUU8d7",
+      "source": "規則2P164\nEAP111"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!RduEI97mFOltycf9"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "G47PY8CCXF5YVZYE",
+  "_key": "!items!G47PY8CCXF5YVZYE",
+  "name": "No.48. 馴獸大師 (冥府領域專用) マスターテイマー Master Tamer",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 48,
+  "system": {
+    "description": "<p>你與動物的親和性極高。至於辦到的方式由你自由決定。</p><p>【馴獸使】的能力能取得的動物通常只有一隻，但這個能力能讓你操控複數甚至大量的動物。不過，你的【馴獸使】能力不會有資料上的變化。</p><p><em>效果：只限症狀為【冥府領域】的角色可取得。\n自動獲得異能【馴獸攻擊】Lv1，可使用經驗提升等級。\n這異能視為冥府領域的異能\n另外，你能馬上跟動物NPC變得友好\n馴獸攻擊 (アニマルアタック Animal Attack)\n最大等級：3 \n時機：主要動作 \n技能：<RC><交涉> \n難易度：對決 \n對象：- \n射程：視界 \n侵蝕：2 \n限制：D露易絲 \n次數：3/劇本\n效果：進行攻擊+[Lv×4]的射擊攻擊。 \n驅使動物進行猛烈攻擊的能力</em> / <em>備註：冥府領域專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.48",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "wlzFN0IMBWoGA5VJ",
+  "_key": "!items!wlzFN0IMBWoGA5VJ",
+  "name": "No.RW05. 銀河的歌聲 アイドルヒーロー",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 166,
+  "system": {
+    "description": "<p>英雄是一門人氣事業。本來英雄是守護人們的存在，但隨著排行榜這種娛樂性要素的加入，來自粉絲的人氣變得極為重要。</p><p>於是，被稱為「偶像英雄」的超越者誕生了。</p><p>他們一邊從事英雄活動，一邊進行藝能活動，迅速躍升至排行榜上位。他們的存在甚至可說是一種文化。</p><p>人們從偶像們的活動中獲得生活的動力。你也是以光芒照耀世界的一人。</p><p><em>效果：此D-lois只能在「舞臺：背教者戰爭」中取得。\n\n在場景中，除你以外的任意角色擲判定骰後立即使用。\n將該判定的一顆骰值改為10。\n此效果每次判定限使用1次，每個劇本限使用2次。\n不過，基於你的立場，你不能在眾人面前對需要英雄的人視而不見。若你捨棄了需要英雄的人，你的侵蝕值+3。若是去呼叫支援、取必要道具等情況則可不增加。詳細由GM判定。</em> / <em>參照：CE P48</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.RW05",
+      "source": "CE P48"
+    }
+  }
+}

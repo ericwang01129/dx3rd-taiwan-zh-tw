@@ -1,0 +1,40 @@
+{
+  "_id": "DNvjFUl7s0WFb4Eb",
+  "_key": "!items!DNvjFUl7s0WFb4Eb",
+  "name": "覺醒之冠",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 276,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>給那些已經理解到全新真理之人的小巧王冠。</p><p>你可以將《超越者的鼓動》的效果適用於回應動作中。但請注意，即使因為此道具的效果而處於暴走狀態，仍然無法進行回應動作。</p><p><em>參照：UA P87</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "UA P87"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

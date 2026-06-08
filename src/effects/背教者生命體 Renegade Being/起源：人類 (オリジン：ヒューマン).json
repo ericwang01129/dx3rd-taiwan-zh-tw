@@ -1,0 +1,64 @@
+{
+  "_id": "VvG6dGYyc7tI5oQI",
+  "name": "起源：人類 (オリジン：ヒューマン)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/dna2.svg",
+  "folder": "AvyHUzJeOF7NG7Ul",
+  "sort": 0,
+  "system": {
+    "description": "<p>表示你是模仿人類，或者起源的機能與人類沒什麼差異的背教者生命體。</p><p>擁有意識的從者、擬態成人類的背教者、覺醒了自我的複製體等都屬_xffff_此類。</p><p>該場景中，任何你使用異能的判定達成值+LV。</p><p><em>參照：規則2P179</p><p>EAP134</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "RB",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "背教者生命體 Renegade Being",
+      "syndromeItemId": "MupaMCIUGiXa5xBa",
+      "source": "規則2P179\nEAP134"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VvG6dGYyc7tI5oQI"
+}

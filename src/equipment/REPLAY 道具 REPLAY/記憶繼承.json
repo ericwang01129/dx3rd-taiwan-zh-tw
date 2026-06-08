@@ -1,0 +1,40 @@
+{
+  "_id": "h5P7S9b66MODRr7a",
+  "_key": "!items!h5P7S9b66MODRr7a",
+  "name": "記憶繼承",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 4,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>你從其他超越者那裡繼承了記憶。你可以利用記憶中的知識或者人脈。</p><p><em>次數：1/場景</em> / <em>效果：取得時從能力值（肉體/感知/精神/社會）中選擇一種。使用了所選能力值的判定前使用，此次判定的骰數+2個，該效果一場景中可以使用一次。該道具只有D-lois為「NO.10 傳承者」的角色才能取得。</em> / <em>參照：IA P188</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 2,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P188"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

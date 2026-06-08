@@ -1,0 +1,37 @@
+{
+  "_id": "LLpiUiZDvnQU3nL5",
+  "_key": "!items!LLpiUiZDvnQU3nL5",
+  "name": "寂靜探求者",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 16,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>擁有適合襲擊的便攜性與靜音性的衝鋒槍，有效射程短但殺傷力高。</p><p>你處於隱蔽狀態下使用該武器進行攻擊時，傷害+2D10。</p><p><em>射程：15m</em> / <em>參照：IA P123</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "20",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 10,
+    "guard": 0,
+    "range": "15m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P123"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

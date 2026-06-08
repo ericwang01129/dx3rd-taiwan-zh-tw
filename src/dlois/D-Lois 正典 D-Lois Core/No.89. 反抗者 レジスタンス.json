@@ -1,0 +1,40 @@
+{
+  "_id": "jqMaMSC53DrQAWdi",
+  "_key": "!items!jqMaMSC53DrQAWdi",
+  "name": "No.89. 反抗者 レジスタンス",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 89,
+  "system": {
+    "description": "<p>你正在與某種勢力戰鬥。這可能是國家權力機構，也可能是某個人。至於你究竟在與什麼對抗，詳細內容請與GM商討決定。</p><p>在「奇妙時代」的一般敵人中，企圖征服世界的納粹德國是最具代表性的例子。當然，也可能是在某處實行壓政的暴君、特定的個人，甚至可以是如「命運」或「時代潮流」這般模糊的概念。無論對手是誰，你所要對抗的敵人都擁有極其強大的力量。但即便如此，你仍選擇反抗、抵抗並迎面挑戰。也許是為了復仇，為了大義，或為了自己的欲望......理由並不重要。</p><p>重要的是，你擁有不屈不撓的精神，是名真正的反抗者。唯有在勝利或迎接死亡之時，你才會停止反抗。</p><p><em>效果：此D-Lois只能在「舞臺：奇妙時代」中使用。\n\n在你體內燃燒的反叛之炎比任何人都更加猛烈。正是這份熱切的意志，能在生死邊緣的絕境中為你帶來勝利。\n你進行判定後使用，該判定的達成值+1D。使用此效果時，你的侵蝕率+3。該效果一次判定可以使用一次。該效果一劇本可以使用三次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.89",
+      "source": ""
+    }
+  }
+}

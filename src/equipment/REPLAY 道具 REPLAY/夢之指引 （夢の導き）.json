@@ -1,0 +1,40 @@
+{
+  "_id": "fwBtgIs8uTdh8bS9",
+  "_key": "!items!fwBtgIs8uTdh8bS9",
+  "name": "夢之指引 （夢の導き）",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 9,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>表示你擁有能以夢境為媒介使超越者暴走的能力。</p><p><em>次數：1/場景</em> / <em>效果：你使用異能前使用，該異能的對象獲得[不良狀態：暴走]，但該攻擊會變成[對象：單體]，該效果一場景可以使用一次。</em> / <em>參照：IA P188</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P188"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "S14U8Y9PT2GFOCGS",
+  "_key": "!items!S14U8Y9PT2GFOCGS",
+  "name": "殺戮之石",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 271,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>被EX背教者感染的特殊石頭，用於構成《環之石》。它被殺戮的衝動所侵蝕，它能更精准的擊中要害。</p><p>需要先取得《環之石》。使用《環之石》進行的射擊攻擊給予的傷害+1D10，此效果適用時，侵蝕率+1。</p><p><em>參照：UA P87</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "UA P87"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

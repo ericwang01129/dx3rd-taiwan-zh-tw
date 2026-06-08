@@ -1,0 +1,37 @@
+{
+  "_id": "wLEsuxQpaMoll4Lf",
+  "_key": "!items!wLEsuxQpaMoll4Lf",
+  "name": "黑曜石匕首",
+  "folder": "E34ex0UnjIox4JZN",
+  "sort": 5,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>曾作為神的祭器使用的匕首，將該武器刺入自己的心臟就能完成契約。</p><p>使用該武器造成HP傷害時你回復[【肉體】+10]HP。</p><p>代價：契約者必須定期用祭品的血液進行獻祭。每次攻擊時侵蝕率+2。</p><p><em>射程：至近</em> / <em>備註：IA新增</em> / <em>參照：IA P118</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 12,
+    "guard": 1,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 遺產繼承者 D-Lois Legacy",
+      "section": "",
+      "source": "IA P118"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

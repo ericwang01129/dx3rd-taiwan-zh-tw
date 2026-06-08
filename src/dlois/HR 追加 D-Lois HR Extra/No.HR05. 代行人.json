@@ -1,0 +1,40 @@
+{
+  "_id": "AgvBBsBZOgUqZ2tT",
+  "_key": "!items!AgvBBsBZOgUqZ2tT",
+  "name": "No.HR05. 代行人",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 6,
+  "system": {
+    "description": "<p><em>效果：REC：德蕾絲·布魯姆</em> / <em>通常效果：可於先攻階段使用。以場景中登場的任意角色為對象，該對象於主要動作進行的判定骰數+3D。但是，你不能以自己作為對象。\n該個效果持續到回合結束。這個效果一個劇本中可以使用一次。\n另外，根據從德蕾絲·布魯姆那邊得到的許可權，你可以透過你的發言對UGN產生影響，具體能造成多大的影響由GM決定。</em> / <em>強化效果：「通常效果」的對象在主要動作進行的判定骰數額外增加2D（合計增加5D）</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR05",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "d31PLpi4yIJLMsUs",
+  "_key": "!items!d31PLpi4yIJLMsUs",
+  "name": "元型：大槌",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 64,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spinning-sword.svg",
+  "system": {
+    "description": "<p>《弑神之刃》作出的大槌狀元型。在以此武器進行攻擊的前使用。若該次攻擊命中，則可使目標移動5m。移動目的地由你決定，且可無視交戰狀態與封鎖進行移動。此效果每場景僅可使用1次。此武器為雙手持用。</p><p><em>射程：至近</em> / <em>參照：DFP17</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰/元型",
+    "skill": "melee",
+    "add": -3,
+    "attack": 3,
+    "guard": 4,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "DFP17"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "rwwk5FsmVBslhDJ6",
+  "name": "秘密對談 (シークレートトーク)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/aura.svg",
+  "folder": "eTUfIRkQAvufdxsT",
+  "sort": 0,
+  "system": {
+    "description": "<p>以超越者才聽得到的特別聲音進行對話。</p><p>該場景中，可用周圍的非超越者聽不到的特殊聲音對話，接收到話的對象也可暫時透過此異能的效果，</p><p>以同樣的聲音回話，但只要是超越者，誰都聽得到此對話。</p><p><em>參照：ICP67</p><p>EAP133</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "auto",
+    "target": "單體",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "一般 General",
+      "syndromeItemId": "t9bsxYmBHW27Rk9N",
+      "source": "ICP67\nEAP133"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!rwwk5FsmVBslhDJ6"
+}

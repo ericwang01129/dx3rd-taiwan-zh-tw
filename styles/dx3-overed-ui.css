@@ -1,0 +1,1593 @@
+/* =============================================================
+   DX3rd — OVERED UI
+   A sci-fi / superhuman UI overlay for the Double Cross 3rd
+   Foundry VTT system (dx3rd). Designed around the Renegade
+   virus: crimson power, UNGN cyan tech, void-black near-future.
+   ============================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Noto+Sans+TC:wght@400;500;700;900&family=Noto+Serif+TC:wght@500;700;900&display=swap');
+
+/* ---------- Design tokens ---------- */
+:root {
+  --dx-void:        #07090f;
+  --dx-void-2:      #0d111b;
+  --dx-panel:       #121826;
+  --dx-panel-2:     #182036;
+  --dx-surface:     #1d2740;
+  --dx-line:        #2a3456;
+  --dx-line-strong: #3b4a7a;
+
+  --dx-red:         #e50028;
+  --dx-red-glow:    #ff3358;
+  --dx-cyan:        #00e5ff;
+  --dx-cyan-soft:   #5ef1ff;
+  --dx-violet:      #a855f7;
+  --dx-amber:       #ffb020;
+
+  --dx-text:        #e6edff;
+  --dx-text-dim:    #9fb0d6;
+  --dx-text-faint:  #5e6b8e;
+
+  --dx-shadow-red:  0 0 0 1px rgba(229,0,40,.45), 0 0 14px rgba(255,51,88,.35);
+  --dx-shadow-cyan: 0 0 0 1px rgba(0,229,255,.45), 0 0 14px rgba(0,229,255,.25);
+  --dx-scanline:    repeating-linear-gradient(
+                      to bottom,
+                      rgba(255,255,255,0.00) 0px,
+                      rgba(255,255,255,0.00) 2px,
+                      rgba(0,229,255,0.035)  3px,
+                      rgba(255,255,255,0.00) 4px);
+
+  --dx-font:        "Rajdhani","Noto Sans TC","Microsoft JhengHei",
+                    "PingFang TC","Segoe UI",sans-serif;
+  --dx-font-display:"Orbitron","Rajdhani","Noto Sans TC",
+                    "Microsoft JhengHei",sans-serif;
+  --dx-font-mono:   "Share Tech Mono","JetBrains Mono","Consolas",
+                    "Noto Sans TC",monospace;
+}
+
+/* Global font application — scoped to DX3 surfaces only */
+body.system-dx3rd,
+body.system-dx3rd .app,
+body.system-dx3rd .window-app,
+body.system-dx3rd #sidebar,
+body.system-dx3rd #chat-log,
+body.system-dx3rd #players,
+body.system-dx3rd #controls,
+body.system-dx3rd #navigation,
+body.system-dx3rd .dialog,
+.dx3rd,
+.dx3rd input,
+.dx3rd select,
+.dx3rd textarea,
+.dx3rd button,
+.dx3rd label,
+.dx3rd .window-content {
+  font-family: var(--dx-font) !important;
+  letter-spacing: 0.015em;
+}
+
+/* Display font — headers, titles, uppercase labels */
+body.system-dx3rd .window-header .window-title,
+.dx3rd .window-header .window-title,
+.dx3rd .sheet-wrapper .sheet-header,
+.dx3rd .sheet-wrapper .cell .cell--title,
+.dx3rd .item .sheet-header label,
+.dx3rd .tabs .item,
+.dx3rd .sheet-wrapper .sheet-stat .title,
+.dx3rd .attributes-header,
+.dx3rd .sheet-wrapper .combo-item .item-name,
+.chat-message .header .title,
+body.system-dx3rd #players h3 {
+  font-family: var(--dx-font-display) !important;
+  letter-spacing: 0.14em;
+}
+
+/* Mono font — values, readouts, item descriptions */
+.dx3rd input[type="text"],
+.dx3rd input[type="number"],
+.dx3rd .sheet-wrapper .sheet-stat .stat-box .stat-list .stat,
+.dx3rd .sheet-wrapper .sheet-stat .main-grid .stat-box .value .stat,
+.dx3rd .item-description,
+.chat-message .item-description,
+body.system-dx3rd #chat-log .message .message-metadata,
+.dice-total,
+.dice-roll .dice-total {
+  font-family: var(--dx-font-mono) !important;
+}
+
+/* =============================================================
+   1. SHEET FRAME  (actor & item sheets, dialogs)
+   ============================================================= */
+
+.app.window-app.dx3rd,
+.app.window-app.sheet.dx3rd,
+.window-app .dx3rd,
+.dx3rd.sheet,
+.dx3rd.dialog {
+  color: var(--dx-text);
+  font-family: var(--dx-font);
+  letter-spacing: 0.01em;
+}
+
+.window-app.dx3rd .window-content,
+.dx3rd .window-content {
+  background:
+    linear-gradient(180deg, rgba(0,229,255,0.04), transparent 140px),
+    radial-gradient(1200px 300px at 50% -80px, rgba(229,0,40,0.18), transparent 60%),
+    linear-gradient(180deg, var(--dx-void) 0%, var(--dx-void-2) 100%);
+  color: var(--dx-text);
+  border: 1px solid var(--dx-line);
+  box-shadow:
+    inset 0 0 0 1px rgba(0,229,255,0.08),
+    inset 0 0 60px rgba(0,229,255,0.04),
+    inset 0 0 120px rgba(229,0,40,0.05);
+  position: relative;
+  overflow: hidden auto;
+}
+
+.dx3rd .window-content::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: var(--dx-scanline);
+  opacity: .7;
+  mix-blend-mode: screen;
+  z-index: 1;
+}
+
+.dx3rd .window-content > * { position: relative; z-index: 2; }
+
+.window-app.dx3rd .window-header,
+.dx3rd .window-header {
+  background:
+    linear-gradient(90deg,
+      rgba(229,0,40,0.35) 0%,
+      rgba(13,17,27,0.95) 40%,
+      rgba(13,17,27,0.95) 60%,
+      rgba(0,229,255,0.30) 100%);
+  border-bottom: 1px solid var(--dx-cyan);
+  box-shadow:
+    0 0 0 1px var(--dx-line) inset,
+    0 1px 0 rgba(0,229,255,0.35) inset,
+    0 8px 22px rgba(0,229,255,0.10);
+  color: var(--dx-text);
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+}
+
+.dx3rd .window-header .window-title {
+  color: var(--dx-text);
+  font-weight: 600;
+  text-shadow: 0 0 8px rgba(0,229,255,0.55);
+}
+
+.dx3rd .window-header a { color: var(--dx-cyan-soft); }
+.dx3rd .window-header a:hover { color: var(--dx-red-glow); }
+
+/* resize handle accent */
+.dx3rd .window-resizable-handle {
+  background: linear-gradient(135deg, transparent 50%, var(--dx-cyan) 50%);
+  opacity: 0.5;
+}
+
+/* =============================================================
+   2. FORM CONTROLS (inputs, selects, buttons)
+   ============================================================= */
+
+.dx3rd input[type="text"],
+.dx3rd input[type="number"],
+.dx3rd input[type="password"],
+.dx3rd textarea,
+.dx3rd select {
+  background: rgba(7,9,15,0.65) !important;
+  color: var(--dx-text) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  border-radius: 2px !important;
+  box-shadow:
+    inset 0 0 0 1px rgba(0,229,255,0.08),
+    inset 0 0 8px rgba(0,0,0,0.6);
+  font-family: var(--dx-font);
+  transition: border-color .15s ease, box-shadow .15s ease;
+}
+
+.dx3rd input[type="text"]:focus,
+.dx3rd input[type="number"]:focus,
+.dx3rd textarea:focus,
+.dx3rd select:focus {
+  outline: none;
+  border-color: var(--dx-cyan) !important;
+  box-shadow:
+    inset 0 0 0 1px rgba(0,229,255,0.4),
+    0 0 0 2px rgba(0,229,255,0.25),
+    0 0 12px rgba(0,229,255,0.35);
+}
+
+.dx3rd input:disabled {
+  color: var(--dx-cyan-soft) !important;
+  opacity: .85;
+  text-shadow: 0 0 6px rgba(0,229,255,0.3);
+}
+
+.dx3rd select option { background: var(--dx-panel); color: #ffffff !important; }
+
+.dx3rd select,
+.dx3rd .sheet-wrapper .sheet-header .select-box,
+.dx3rd .sheet-wrapper .sheet-stat .dice-info .flex select {
+  color: #ffffff !important;
+}
+
+.dx3rd button,
+.dx3rd .chat-message .chat-btn {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel)) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  color: var(--dx-text) !important;
+  font-family: var(--dx-font);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  border-radius: 2px;
+  box-shadow:
+    inset 0 1px 0 rgba(0,229,255,0.15),
+    inset 0 -1px 0 rgba(229,0,40,0.12),
+    0 0 0 rgba(0,229,255,0) ;
+  transition: all .15s ease;
+  position: relative;
+}
+
+.dx3rd button:hover {
+  border-color: var(--dx-cyan) !important;
+  color: var(--dx-cyan-soft) !important;
+  box-shadow:
+    inset 0 0 0 1px rgba(0,229,255,0.4),
+    0 0 14px rgba(0,229,255,0.35);
+}
+
+.dx3rd button:active {
+  transform: translateY(1px);
+  box-shadow:
+    inset 0 0 0 1px rgba(229,0,40,0.5),
+    0 0 14px rgba(229,0,40,0.4);
+}
+
+/* =============================================================
+   3. ACTOR SHEET HEADER — Encroachment bar as "infection meter"
+   ============================================================= */
+
+.dx3rd .sheet-wrapper .sheet-header {
+  background:
+    linear-gradient(90deg,
+      rgba(229,0,40,0.55) 0%,
+      rgba(13,17,27,0.85) 35%,
+      rgba(13,17,27,0.85) 65%,
+      rgba(0,229,255,0.40) 100%) !important;
+  border: 1px solid var(--dx-line-strong);
+  border-left: 3px solid var(--dx-red);
+  border-right: 3px solid var(--dx-cyan);
+  box-shadow:
+    inset 0 0 0 1px rgba(255,255,255,0.04),
+    inset 0 0 24px rgba(229,0,40,0.15),
+    0 0 16px rgba(229,0,40,0.15);
+  position: relative;
+  overflow: hidden;
+  color: var(--dx-text) !important;
+}
+
+.dx3rd .sheet-wrapper .sheet-header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    repeating-linear-gradient(90deg,
+      transparent 0px, transparent 38px,
+      rgba(0,229,255,0.10) 38px, rgba(0,229,255,0.10) 39px);
+  pointer-events: none;
+  opacity: .5;
+}
+
+.dx3rd .sheet-wrapper .sheet-header .select-box,
+.dx3rd .sheet-wrapper .sheet-header .backtrack-btn {
+  background: rgba(7,9,15,0.75) !important;
+  border: 1px solid var(--dx-red) !important;
+  box-shadow: 0 0 8px rgba(229,0,40,0.35);
+  color: var(--dx-red-glow) !important;
+}
+
+.dx3rd .sheet-wrapper .sheet-header .select-box { font-weight: 700; }
+
+.dx3rd .sheet-wrapper .sheet-header .backtrack-btn button {
+  background: transparent !important;
+  border: none !important;
+  color: var(--dx-red-glow) !important;
+  text-shadow: 0 0 8px rgba(229,0,40,0.7);
+  letter-spacing: 0.16em;
+}
+
+.dx3rd .sheet-wrapper .sheet-header .backtrack-btn:hover {
+  border-color: var(--dx-red-glow) !important;
+  box-shadow: 0 0 14px rgba(255,51,88,0.7);
+}
+
+.dx3rd .sheet-wrapper .sheet-header .progress-bar input {
+  background: rgba(7,9,15,0.7) !important;
+  border: 2px solid var(--dx-cyan) !important;
+  color: var(--dx-cyan-soft) !important;
+  text-shadow: 0 0 8px rgba(0,229,255,0.6);
+  font-weight: 700;
+  border-radius: 2px;
+}
+
+.dx3rd .sheet-wrapper .sheet-header .progress-bar label {
+  color: var(--dx-text) !important;
+  text-shadow: 0 0 6px rgba(0,229,255,0.35);
+}
+
+/* =============================================================
+   4. STAT AREA — skewed name bars, value diamonds, main grid
+   ============================================================= */
+
+.dx3rd .sheet-wrapper .sheet-stat .title {
+  color: var(--dx-cyan-soft) !important;
+  text-shadow: 0 0 8px rgba(0,229,255,0.55);
+  letter-spacing: 0.08em;
+}
+
+.dx3rd .sheet-wrapper .sheet-stat .title::before {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-void)) !important;
+  border: 1px solid var(--dx-cyan) !important;
+  box-shadow:
+    0 0 10px rgba(0,229,255,0.35),
+    inset 0 0 8px rgba(0,229,255,0.2) !important;
+}
+
+.dx3rd .sheet-wrapper .sheet-stat .stat-box .name {
+  background: linear-gradient(180deg, rgba(7,9,15,0.9), rgba(13,17,27,0.9)) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  color: var(--dx-text) !important;
+  border-radius: 0 12px 12px 0 !important;
+  box-shadow:
+    inset 0 0 0 1px rgba(0,229,255,0.08),
+    inset 4px 0 8px rgba(229,0,40,0.08);
+}
+
+.dx3rd .sheet-wrapper .sheet-stat .stat-box .stat-list::before {
+  background: linear-gradient(180deg, rgba(13,17,27,0.95), rgba(7,9,15,0.95)) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  box-shadow: inset 0 0 10px rgba(0,229,255,0.1) !important;
+}
+
+.dx3rd .sheet-wrapper .sheet-stat .stat-box .stat-list .stat {
+  color: var(--dx-cyan-soft) !important;
+  text-shadow: 0 0 6px rgba(0,229,255,0.35);
+  font-weight: 700 !important;
+}
+
+/* HP highlight = vital / danger pulse */
+.dx3rd .highlight {
+  color: var(--dx-red-glow) !important;
+  text-shadow: 0 0 10px rgba(229,0,40,0.75);
+  font-weight: 700 !important;
+}
+
+/* dice info / crit addon */
+.dx3rd .sheet-wrapper .sheet-stat .dice-info .title .addon {
+  background: var(--dx-red) !important;
+  color: #fff;
+  border: 1px solid var(--dx-red-glow);
+  box-shadow: 0 0 8px rgba(229,0,40,0.55);
+  border-radius: 2px;
+}
+
+.dx3rd .sheet-wrapper .sheet-stat .dice-info .flex input {
+  background: rgba(7,9,15,0.8) !important;
+  color: var(--dx-cyan-soft) !important;
+  border-color: var(--dx-line-strong) !important;
+}
+
+.dx3rd .sheet-wrapper .sheet-stat .dice-info .flex select {
+  background: linear-gradient(180deg, var(--dx-red), #8a0018) !important;
+  color: #fff !important;
+  border: 1px solid var(--dx-red-glow) !important;
+  box-shadow: 0 0 10px rgba(229,0,40,0.45);
+  text-shadow: 0 0 6px rgba(0,0,0,0.6);
+}
+
+.dx3rd .slash {
+  color: var(--dx-red-glow);
+  text-shadow: 0 0 6px rgba(229,0,40,0.5);
+}
+
+/* main-grid ability + skill box */
+.dx3rd .sheet-wrapper .sheet-stat .main-grid .stat-box .value::before {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-void)) !important;
+  border: 1px solid var(--dx-cyan) !important;
+  box-shadow: 0 0 8px rgba(0,229,255,0.35) !important;
+}
+
+.dx3rd .sheet-wrapper .sheet-stat .main-grid .stat-box .value .stat {
+  color: var(--dx-cyan-soft) !important;
+}
+
+.dx3rd .sheet-wrapper .sheet-stat .main-grid .stat-box .diamond::before {
+  background: linear-gradient(135deg, var(--dx-red), #7a0018) !important;
+  border: 1px solid var(--dx-red-glow) !important;
+  box-shadow:
+    0 0 10px rgba(229,0,40,0.55),
+    inset 0 0 6px rgba(255,255,255,0.15) !important;
+}
+
+.dx3rd .sheet-wrapper .sheet-stat .main-grid .stat-box .diamond .point {
+  color: #fff !important;
+  text-shadow: 0 0 6px rgba(0,0,0,0.8);
+}
+
+.dx3rd .sheet-wrapper .sheet-stat .main-grid .skill-box .title::before {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-void)) !important;
+  border: 2px solid var(--dx-cyan) !important;
+  box-shadow:
+    0 0 8px rgba(0,229,255,0.35),
+    inset 0 0 6px rgba(0,229,255,0.2) !important;
+}
+
+.dx3rd .sheet-wrapper .sheet-stat .main-grid .skill-box .title {
+  color: var(--dx-cyan-soft) !important;
+  text-shadow: 0 0 6px rgba(0,229,255,0.5);
+}
+
+/* ability / skill rollable hover = renegade surge */
+.dx3rd .sheet-wrapper .ability-roll:hover,
+.dx3rd .sheet-wrapper .skill-roll:hover {
+  text-shadow:
+    0 0 8px rgba(229,0,40,0.9),
+    0 0 18px rgba(255,51,88,0.5) !important;
+  color: var(--dx-red-glow) !important;
+  cursor: crosshair;
+}
+
+/* =============================================================
+   5. ATTRIBUTES / CELLS  (Combos, Syndromes, Effects, Items...)
+   ============================================================= */
+
+.dx3rd .sheet-wrapper .cell .cell--title {
+  background:
+    linear-gradient(90deg,
+      rgba(229,0,40,0.55) 0%,
+      rgba(13,17,27,0.95) 45%,
+      rgba(13,17,27,0.95) 55%,
+      rgba(0,229,255,0.40) 100%) !important;
+  color: var(--dx-text) !important;
+  border: 1px solid var(--dx-line-strong);
+  border-left: 3px solid var(--dx-red);
+  border-right: 3px solid var(--dx-cyan);
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-weight: 600;
+  text-shadow: 0 0 8px rgba(0,229,255,0.35);
+  box-shadow:
+    inset 0 0 0 1px rgba(255,255,255,0.04),
+    inset 0 0 18px rgba(229,0,40,0.12);
+  position: relative;
+  clip-path: polygon(
+    0 0, calc(100% - 10px) 0, 100% 10px,
+    100% 100%, 10px 100%, 0 calc(100% - 10px));
+}
+
+.dx3rd .cell--title .left-addon {
+  background: var(--dx-red) !important;
+  color: #fff !important;
+  padding: 0 6px;
+  border-radius: 2px;
+  box-shadow: 0 0 8px rgba(229,0,40,0.55);
+  font-weight: 700;
+}
+
+.dx3rd .cell--title .addon {
+  background: rgba(7,9,15,0.8) !important;
+  border: 1px solid var(--dx-cyan) !important;
+  color: var(--dx-cyan-soft) !important;
+  box-shadow: 0 0 6px rgba(0,229,255,0.3);
+  border-radius: 2px;
+}
+
+.dx3rd .sheet-attributes .plus-addon button {
+  background: rgba(7,9,15,0.8) !important;
+  border: 1px solid var(--dx-cyan) !important;
+  color: var(--dx-cyan-soft) !important;
+  box-shadow: 0 0 8px rgba(0,229,255,0.3);
+}
+
+.dx3rd .sheet-attributes .plus-addon button:hover {
+  background: var(--dx-cyan) !important;
+  color: var(--dx-void) !important;
+  box-shadow: 0 0 14px rgba(0,229,255,0.6);
+}
+
+.dx3rd .sheet-wrapper .sheet-attributes .items-list .description-item {
+  background: linear-gradient(180deg, rgba(18,24,38,0.85), rgba(7,9,15,0.85));
+  border: 1px solid var(--dx-line) !important;
+  border-left: 3px solid var(--dx-cyan) !important;
+  color: var(--dx-text);
+  box-shadow: inset 0 0 12px rgba(0,229,255,0.05);
+  border-radius: 2px;
+}
+
+.dx3rd .cell--works .items-list .item,
+.dx3rd .cell--syndrome .items-list .item {
+  background: linear-gradient(180deg, rgba(18,24,38,0.85), rgba(7,9,15,0.85));
+  border: 1px solid var(--dx-line-strong) !important;
+  border-left: 3px solid var(--dx-violet) !important;
+  color: var(--dx-text);
+  box-shadow: inset 0 0 10px rgba(168,85,247,0.08);
+  border-radius: 2px;
+}
+
+.dx3rd .item-addon .btn-titus {
+  background: linear-gradient(180deg, var(--dx-red), #8a0018) !important;
+  color: #fff !important;
+  border: 1px solid var(--dx-red-glow) !important;
+  box-shadow: 0 0 10px rgba(229,0,40,0.45);
+  text-shadow: 0 0 6px rgba(0,0,0,0.6);
+}
+
+.dx3rd .item-addon .btn-sublimation {
+  background: linear-gradient(180deg, var(--dx-cyan), #008ea0) !important;
+  color: var(--dx-void) !important;
+  border: 1px solid var(--dx-cyan-soft) !important;
+  box-shadow: 0 0 10px rgba(0,229,255,0.5);
+}
+
+.dx3rd .sheet-wrapper .items-list .titus {
+  color: var(--dx-red-glow) !important;
+  background: linear-gradient(90deg, rgba(229,0,40,0.25), rgba(7,9,15,0.85)) !important;
+  text-shadow: 0 0 8px rgba(229,0,40,0.8);
+  border-left: 3px solid var(--dx-red) !important;
+  box-shadow: inset 0 0 14px rgba(229,0,40,0.12);
+}
+
+/* attribute-list rows */
+.dx3rd .attributes-header {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel)) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  color: var(--dx-cyan-soft) !important;
+  text-shadow: 0 0 6px rgba(0,229,255,0.3);
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  border-radius: 2px;
+}
+
+.dx3rd .attributes-list li > * {
+  border-bottom: 1px solid var(--dx-line) !important;
+  color: var(--dx-text);
+}
+
+.dx3rd .skills .attribute-control,
+.dx3rd .attributes .attribute-control {
+  color: var(--dx-cyan-soft) !important;
+  transition: all .15s ease;
+}
+
+.dx3rd .skills .attribute-control:hover,
+.dx3rd .attributes .attribute-control:hover {
+  color: var(--dx-red-glow) !important;
+  text-shadow: 0 0 8px rgba(229,0,40,0.6);
+}
+
+/* =============================================================
+   6. TABS  (navigation along the sheet body)
+   ============================================================= */
+
+.dx3rd nav.tabs {
+  border-bottom: 1px solid var(--dx-cyan) !important;
+  box-shadow: 0 1px 0 rgba(0,229,255,0.25);
+}
+
+.dx3rd .tabs .item {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel)) !important;
+  color: var(--dx-text-dim) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  border-radius: 0 !important;
+  clip-path: polygon(
+    10px 0, 100% 0, calc(100% - 10px) 100%, 0 100%);
+  margin: 0 2px -1px !important;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-weight: 600;
+  font-size: 12px;
+  transition: all .15s ease;
+}
+
+.dx3rd .tabs .item:hover {
+  color: var(--dx-cyan-soft) !important;
+  text-shadow: 0 0 8px rgba(0,229,255,0.5);
+}
+
+.dx3rd .tabs .item.active {
+  background: linear-gradient(180deg, rgba(0,229,255,0.18), rgba(13,17,27,0.95)) !important;
+  color: var(--dx-cyan-soft) !important;
+  border-color: var(--dx-cyan) !important;
+  text-shadow: 0 0 10px rgba(0,229,255,0.7);
+  box-shadow:
+    0 0 12px rgba(0,229,255,0.35),
+    inset 0 0 10px rgba(0,229,255,0.2);
+}
+
+/* =============================================================
+   7. COMBO ITEMS / ITEM ROWS
+   ============================================================= */
+
+.dx3rd .sheet-wrapper .combo-item {
+  margin-bottom: 6px;
+}
+
+.dx3rd .sheet-wrapper .combo-item .item-name {
+  background:
+    linear-gradient(90deg,
+      rgba(229,0,40,0.4) 0%,
+      rgba(13,17,27,0.95) 30%,
+      rgba(13,17,27,0.95) 70%,
+      rgba(168,85,247,0.35) 100%) !important;
+  color: var(--dx-text) !important;
+  border: 1px solid var(--dx-line-strong);
+  border-left: 3px solid var(--dx-red);
+  border-right: 3px solid var(--dx-violet);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-weight: 600;
+  text-shadow: 0 0 6px rgba(0,229,255,0.3);
+  box-shadow: inset 0 0 12px rgba(168,85,247,0.08);
+}
+
+.dx3rd .sheet-wrapper .combo-item .item-name .level {
+  background: var(--dx-cyan) !important;
+  color: var(--dx-void) !important;
+  font-weight: 700;
+  box-shadow: 0 0 8px rgba(0,229,255,0.6);
+  border-radius: 2px;
+  text-shadow: none;
+}
+
+.dx3rd .sheet-wrapper .combo-item .info-table {
+  color: var(--dx-text);
+  border-collapse: collapse;
+}
+
+.dx3rd .sheet-wrapper .combo-item .info-table td,
+.dx3rd .sheet-wrapper .combo-item .info-table th {
+  border: 1px solid var(--dx-line);
+  padding: 3px 4px;
+}
+
+/* generic item rows */
+.dx3rd .sheet-wrapper .items-list .item {
+  border-bottom: 1px solid var(--dx-line);
+}
+
+.dx3rd .item-name {
+  color: var(--dx-text);
+}
+
+.dx3rd .item-label::after {
+  border-bottom-color: var(--dx-cyan) !important;
+  box-shadow: 0 2px 6px rgba(0,229,255,0.4);
+}
+
+.dx3rd .item-description {
+  color: var(--dx-text-dim);
+  padding: 6px 8px;
+  background: rgba(0,229,255,0.04);
+  border-left: 2px solid var(--dx-cyan);
+  margin-top: 4px;
+  font-family: var(--dx-font-mono);
+  font-size: 12px;
+}
+
+.dx3rd .item-controls {
+  color: var(--dx-cyan-soft);
+}
+
+.dx3rd .item-controls a:hover {
+  color: var(--dx-red-glow);
+  text-shadow: 0 0 8px rgba(229,0,40,0.6);
+}
+
+/* =============================================================
+   8. ITEM SHEET HEADERS  (single-item editors)
+   ============================================================= */
+
+.dx3rd .item .sheet-header {
+  background:
+    linear-gradient(90deg,
+      rgba(229,0,40,0.45) 0%,
+      rgba(13,17,27,0.95) 40%,
+      rgba(13,17,27,0.95) 60%,
+      rgba(0,229,255,0.40) 100%) !important;
+  border: 1px solid var(--dx-line-strong);
+  border-left: 3px solid var(--dx-red);
+  border-right: 3px solid var(--dx-cyan);
+  color: var(--dx-text) !important;
+  box-shadow:
+    inset 0 0 0 1px rgba(255,255,255,0.04),
+    inset 0 0 24px rgba(0,229,255,0.08);
+}
+
+.dx3rd .item .sheet-header input {
+  background: transparent !important;
+  border: none !important;
+  border-bottom: 2px solid var(--dx-cyan) !important;
+  color: var(--dx-text) !important;
+  box-shadow: 0 2px 8px rgba(0,229,255,0.25);
+  text-shadow: 0 0 6px rgba(0,229,255,0.3);
+}
+
+.dx3rd .item .sheet-header .flex-item input {
+  background: rgba(7,9,15,0.7) !important;
+  color: var(--dx-cyan-soft) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  border-radius: 2px !important;
+}
+
+.dx3rd .item .sheet-header .header-fields .level input {
+  background: rgba(7,9,15,0.75) !important;
+  border: 1px solid var(--dx-red) !important;
+  color: var(--dx-red-glow) !important;
+  box-shadow: 0 0 8px rgba(229,0,40,0.4);
+}
+
+.dx3rd .item .sheet-header .flex-item label {
+  color: var(--dx-cyan-soft) !important;
+  text-shadow: 0 0 6px rgba(0,229,255,0.35);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+/* =============================================================
+   9. DIALOGS  (skill-dialog, defense-dialog, weapon-dialog...)
+   ============================================================= */
+
+.dx3rd .dialog-content .edit-list .title {
+  background: linear-gradient(180deg, var(--dx-red), #8a0018) !important;
+  color: #fff !important;
+  border: 1px solid var(--dx-red-glow);
+  box-shadow: 0 0 8px rgba(229,0,40,0.4);
+  letter-spacing: 0.1em;
+}
+
+.dx3rd .dialog-content .edit-list .text {
+  background: rgba(7,9,15,0.7) !important;
+  border: 1px solid var(--dx-line-strong);
+  color: var(--dx-cyan-soft);
+}
+
+.dx3rd.dialog .dialog-buttons button,
+.dialog.dx3rd-dialog .dialog-buttons button {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel)) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  color: var(--dx-text) !important;
+}
+
+.dialog .calc-dialog {
+  color: var(--dx-cyan-soft);
+  text-shadow: 0 0 6px rgba(0,229,255,0.3);
+}
+
+.dialog .calc-dialog input {
+  background: rgba(7,9,15,0.7) !important;
+  color: var(--dx-text) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+}
+
+/* =============================================================
+   10. CHAT MESSAGES  (combat rolls, combo readouts)
+   ============================================================= */
+
+#chat-log .chat-message:has(.chat-message .header),
+#chat-log .message.chat-message {
+  background: linear-gradient(180deg, rgba(13,17,27,0.96), rgba(7,9,15,0.96));
+  border: 1px solid var(--dx-line-strong);
+  border-left: 3px solid var(--dx-cyan);
+  color: var(--dx-text);
+  box-shadow:
+    inset 0 0 0 1px rgba(0,229,255,0.05),
+    0 2px 10px rgba(0,0,0,0.45);
+}
+
+.chat-message .message-header,
+.chat-message .header {
+  color: var(--dx-cyan-soft);
+  border-bottom: 1px dashed var(--dx-line-strong);
+  padding-bottom: 4px;
+}
+
+.chat-message .header .title {
+  color: var(--dx-cyan-soft) !important;
+  text-shadow: 0 0 6px rgba(0,229,255,0.4);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--dx-cyan);
+}
+
+.chat-message .chat-btn {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel)) !important;
+  color: var(--dx-cyan-soft) !important;
+  border: 1px solid var(--dx-cyan) !important;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  box-shadow: 0 0 8px rgba(0,229,255,0.25);
+  transition: all .15s ease;
+}
+
+.chat-message .chat-btn:hover {
+  background: var(--dx-cyan) !important;
+  color: var(--dx-void) !important;
+  box-shadow: 0 0 16px rgba(0,229,255,0.55);
+}
+
+.chat-message table {
+  border-collapse: collapse;
+  background: rgba(0,229,255,0.04);
+  border: 1px solid var(--dx-line);
+}
+
+.chat-message table th {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel));
+  color: var(--dx-cyan-soft);
+  border: 1px solid var(--dx-line);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.chat-message table td {
+  border: 1px solid var(--dx-line);
+  color: var(--dx-text);
+  padding: 2px 4px;
+}
+
+.chat-message .effect-list .item-name,
+.chat-message .weapon-list .item-name {
+  background: rgba(168,85,247,0.15) !important;
+  border: 1px solid var(--dx-violet) !important;
+  color: var(--dx-text);
+  padding: 2px 6px;
+  box-shadow: 0 0 6px rgba(168,85,247,0.3);
+}
+
+.chat-message .item-description {
+  color: var(--dx-text-dim) !important;
+  font-family: var(--dx-font-mono);
+  font-size: 11px;
+  border-left: 2px solid var(--dx-cyan);
+  padding-left: 6px;
+  margin-top: 3px;
+}
+
+.chat-message .context-box {
+  color: var(--dx-red-glow) !important;
+  text-shadow: 0 0 8px rgba(229,0,40,0.5);
+  border-bottom: 1px dashed var(--dx-red);
+  padding-bottom: 4px;
+}
+
+.chat-message .toggle-btn {
+  color: var(--dx-cyan-soft);
+  transition: all .15s ease;
+}
+
+.chat-message .toggle-btn:hover {
+  color: var(--dx-red-glow);
+  text-shadow: 0 0 8px rgba(229,0,40,0.6);
+}
+
+/* =============================================================
+   11. DICE TOOLTIP
+   ============================================================= */
+
+.dice-tooltip .dice-rolls .clear {
+  border-bottom: 2px solid var(--dx-cyan) !important;
+  color: var(--dx-cyan-soft);
+  text-shadow: 0 0 6px rgba(0,229,255,0.3);
+}
+
+.dx3rd-roll .dice-total,
+.dice-roll .dice-total {
+  color: var(--dx-cyan-soft);
+  text-shadow: 0 0 10px rgba(0,229,255,0.55);
+  border: 1px solid var(--dx-cyan);
+  background: linear-gradient(180deg, rgba(0,229,255,0.1), rgba(7,9,15,0.85));
+  border-radius: 2px;
+}
+
+/* critical-like states when a roll class adds them */
+.dice-total.success,
+.dice-total.critical {
+  color: var(--dx-red-glow) !important;
+  text-shadow: 0 0 12px rgba(255,51,88,0.8) !important;
+  border-color: var(--dx-red) !important;
+  background: linear-gradient(180deg, rgba(229,0,40,0.2), rgba(7,9,15,0.9)) !important;
+}
+
+/* =============================================================
+   12. PROFILE IMAGE FRAME  (actor portrait)
+   ============================================================= */
+
+.dx3rd .profile-img {
+  border: 2px solid var(--dx-cyan) !important;
+  box-shadow:
+    0 0 0 1px var(--dx-void),
+    0 0 14px rgba(0,229,255,0.45),
+    inset 0 0 24px rgba(229,0,40,0.1);
+  border-radius: 2px;
+  clip-path: polygon(
+    0 8px, 8px 0, calc(100% - 8px) 0, 100% 8px,
+    100% calc(100% - 8px), calc(100% - 8px) 100%,
+    8px 100%, 0 calc(100% - 8px));
+  background: var(--dx-void);
+}
+
+/* =============================================================
+   13. EDITOR (ProseMirror / TinyMCE bio)
+   ============================================================= */
+
+.dx3rd .editor,
+.dx3rd .editor-content {
+  background: rgba(7,9,15,0.6);
+  border: 1px solid var(--dx-line-strong);
+  color: var(--dx-text);
+  border-radius: 2px;
+}
+
+.dx3rd .editor-content p,
+.dx3rd .editor-content li { color: var(--dx-text); }
+
+.dx3rd .editor a { color: var(--dx-cyan-soft); }
+
+/* =============================================================
+   14. SCROLLBARS
+   ============================================================= */
+
+.dx3rd .window-content::-webkit-scrollbar,
+.dx3rd *::-webkit-scrollbar { width: 10px; height: 10px; }
+
+.dx3rd .window-content::-webkit-scrollbar-track,
+.dx3rd *::-webkit-scrollbar-track {
+  background: var(--dx-void);
+  border-left: 1px solid var(--dx-line);
+}
+
+.dx3rd .window-content::-webkit-scrollbar-thumb,
+.dx3rd *::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, var(--dx-cyan), var(--dx-red));
+  border: 1px solid var(--dx-void);
+  border-radius: 0;
+  box-shadow: 0 0 6px rgba(0,229,255,0.35);
+}
+
+/* =============================================================
+   15. MISC — checkboxes, dividers, labels
+   ============================================================= */
+
+.dx3rd .checkbox-input,
+.dx3rd input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border: 1px solid var(--dx-line-strong) !important;
+  background: rgba(7,9,15,0.7) !important;
+  position: relative;
+  cursor: pointer;
+  box-shadow: inset 0 0 6px rgba(0,229,255,0.15);
+  transition: all .15s ease;
+}
+
+.dx3rd input[type="checkbox"]:hover {
+  border-color: var(--dx-cyan) !important;
+  box-shadow: 0 0 8px rgba(0,229,255,0.4);
+}
+
+.dx3rd input[type="checkbox"]:checked {
+  background: linear-gradient(135deg, var(--dx-red), #8a0018) !important;
+  border-color: var(--dx-red-glow) !important;
+  box-shadow: 0 0 10px rgba(229,0,40,0.55);
+}
+
+.dx3rd input[type="checkbox"]:checked::after {
+  content: "";
+  position: absolute;
+  left: 4px; top: 0px;
+  width: 5px; height: 10px;
+  border: solid #fff;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+.dx3rd .sheet-wrapper .cell--crit {
+  color: var(--dx-red-glow);
+  text-shadow: 0 0 8px rgba(229,0,40,0.6);
+  font-weight: 700;
+}
+
+/* horizontal dividers */
+.dx3rd hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--dx-cyan), transparent);
+  box-shadow: 0 0 8px rgba(0,229,255,0.3);
+  margin: 8px 0;
+}
+
+/* bio area */
+.dx3rd .cell--bio {
+  background: rgba(7,9,15,0.4);
+  border: 1px solid var(--dx-line);
+  border-radius: 2px;
+  padding: 4px;
+}
+
+/* titus flavor re-emphasis (Renegade contamination) */
+.dx3rd .cell--title .left-addon[data-addon-type="titus"],
+.dx3rd .titus .item-name {
+  animation: dx-pulse 2.8s ease-in-out infinite;
+}
+
+@keyframes dx-pulse {
+  0%, 100% { box-shadow: 0 0 8px rgba(229,0,40,0.4); }
+  50%      { box-shadow: 0 0 18px rgba(255,51,88,0.8); }
+}
+
+/* ability-roll / skill-roll get a soft cursor hint */
+.dx3rd .sheet-wrapper .ability-roll,
+.dx3rd .sheet-wrapper .skill-roll {
+  transition: text-shadow .15s ease, color .15s ease;
+}
+
+/* =============================================================
+   16. CORE FVTT SURFACES (players list, sidebar, controls)
+   Scoped by the system ID so it only activates inside a DX3 world
+   ============================================================= */
+
+body.system-dx3rd #logo,
+body.system-dx3rd #logo-link,
+body.system-dx3rd #game-details .logo {
+  display: none !important;
+}
+
+body.system-dx3rd #sidebar,
+body.system-dx3rd #sidebar-tabs {
+  background: linear-gradient(180deg, var(--dx-void) 0%, var(--dx-void-2) 100%);
+  border-left: 1px solid var(--dx-line);
+  color: var(--dx-text);
+}
+
+body.system-dx3rd #sidebar-tabs > .item {
+  color: var(--dx-text-dim);
+  border: 1px solid transparent;
+  transition: all .15s ease;
+}
+
+body.system-dx3rd #sidebar-tabs > .item:hover {
+  color: var(--dx-cyan-soft);
+  text-shadow: 0 0 8px rgba(0,229,255,0.5);
+}
+
+body.system-dx3rd #sidebar-tabs > .item.active {
+  color: var(--dx-cyan-soft);
+  border-bottom: 2px solid var(--dx-cyan);
+  text-shadow: 0 0 10px rgba(0,229,255,0.7);
+}
+
+body.system-dx3rd #players {
+  background: rgba(7,9,15,0.85);
+  border: 1px solid var(--dx-line-strong);
+  border-left: 3px solid var(--dx-cyan);
+  color: var(--dx-text);
+  box-shadow: 0 0 16px rgba(0,229,255,0.12);
+}
+
+body.system-dx3rd #players h3 {
+  color: var(--dx-cyan-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  border-bottom: 1px solid var(--dx-cyan);
+  text-shadow: 0 0 8px rgba(0,229,255,0.4);
+}
+
+body.system-dx3rd #controls .scene-control,
+body.system-dx3rd #controls .control-tool {
+  background: rgba(7,9,15,0.8);
+  border: 1px solid var(--dx-line-strong);
+  color: var(--dx-cyan-soft);
+  transition: all .15s ease;
+}
+
+body.system-dx3rd #controls .scene-control:hover,
+body.system-dx3rd #controls .control-tool:hover {
+  border-color: var(--dx-cyan);
+  color: var(--dx-red-glow);
+  box-shadow: 0 0 12px rgba(0,229,255,0.4);
+}
+
+body.system-dx3rd #controls .scene-control.active,
+body.system-dx3rd #controls .control-tool.active {
+  background: linear-gradient(180deg, rgba(229,0,40,0.3), rgba(7,9,15,0.85));
+  border-color: var(--dx-red);
+  color: var(--dx-red-glow);
+  box-shadow:
+    0 0 14px rgba(229,0,40,0.45),
+    inset 0 0 10px rgba(229,0,40,0.2);
+}
+
+body.system-dx3rd #navigation #scene-list .scene {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel));
+  border: 1px solid var(--dx-line-strong);
+  color: var(--dx-text);
+}
+
+body.system-dx3rd #navigation #scene-list .scene.active {
+  border-color: var(--dx-cyan);
+  box-shadow: 0 0 12px rgba(0,229,255,0.4);
+  color: var(--dx-cyan-soft);
+}
+
+body.system-dx3rd #chat-log .message {
+  background: linear-gradient(180deg, rgba(13,17,27,0.96), rgba(7,9,15,0.96));
+  border: 1px solid var(--dx-line);
+  border-left: 3px solid var(--dx-cyan);
+  color: var(--dx-text);
+  margin-bottom: 6px;
+}
+
+body.system-dx3rd #chat-log .message .message-sender {
+  color: var(--dx-cyan-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  text-shadow: 0 0 6px rgba(0,229,255,0.4);
+}
+
+body.system-dx3rd #chat-log .message .message-metadata {
+  color: var(--dx-text-faint);
+  font-family: var(--dx-font-mono);
+  font-size: 10px;
+}
+
+body.system-dx3rd #chat-form textarea {
+  background: rgba(7,9,15,0.85);
+  border: 1px solid var(--dx-line-strong);
+  color: var(--dx-text);
+  font-family: var(--dx-font);
+}
+
+body.system-dx3rd #chat-form textarea:focus {
+  border-color: var(--dx-cyan);
+  box-shadow:
+    0 0 0 2px rgba(0,229,255,0.25),
+    0 0 12px rgba(0,229,255,0.35);
+}
+
+/* =============================================================
+   17. CORE FVTT DIALOGS  (Token / Scene / User / Settings)
+   Applies to ANY Foundry config dialog while in a DX3 world,
+   regardless of whether it sits under the .dx3rd namespace.
+   ============================================================= */
+
+body.system-dx3rd .app.window-app,
+body.system-dx3rd .token-config,
+body.system-dx3rd .scene-config,
+body.system-dx3rd .scene-sheet,
+body.system-dx3rd .user-config,
+body.system-dx3rd .client-settings,
+body.system-dx3rd .world-config,
+body.system-dx3rd .permission,
+body.system-dx3rd .file-picker,
+body.system-dx3rd .folder-edit,
+body.system-dx3rd .playlist-sheet,
+body.system-dx3rd .playlist-config,
+body.system-dx3rd .macro-sheet,
+body.system-dx3rd .roll-table-config,
+body.system-dx3rd .journal-sheet,
+body.system-dx3rd .journal-entry-pages,
+body.system-dx3rd .module-management,
+body.system-dx3rd .package-list,
+body.system-dx3rd .combat-config,
+body.system-dx3rd .av-config,
+body.system-dx3rd .keybindings,
+body.system-dx3rd .combat-tracker-config,
+body.system-dx3rd .compendium,
+body.system-dx3rd .compendium-configuration {
+  color: var(--dx-text);
+  font-family: var(--dx-font);
+}
+
+/* --- window chrome (header + content) --- */
+body.system-dx3rd .app.window-app .window-content,
+body.system-dx3rd .token-config .window-content,
+body.system-dx3rd .scene-config .window-content,
+body.system-dx3rd .scene-sheet .window-content,
+body.system-dx3rd .user-config .window-content,
+body.system-dx3rd .client-settings .window-content,
+body.system-dx3rd .world-config .window-content,
+body.system-dx3rd .file-picker .window-content,
+body.system-dx3rd .folder-edit .window-content,
+body.system-dx3rd .playlist-sheet .window-content,
+body.system-dx3rd .playlist-config .window-content,
+body.system-dx3rd .macro-sheet .window-content,
+body.system-dx3rd .roll-table-config .window-content,
+body.system-dx3rd .journal-sheet .window-content,
+body.system-dx3rd .journal-entry-pages .window-content,
+body.system-dx3rd .module-management .window-content,
+body.system-dx3rd .package-list .window-content,
+body.system-dx3rd .combat-config .window-content,
+body.system-dx3rd .av-config .window-content,
+body.system-dx3rd .keybindings .window-content,
+body.system-dx3rd .combat-tracker-config .window-content,
+body.system-dx3rd .compendium .window-content,
+body.system-dx3rd .compendium-configuration .window-content {
+  background:
+    linear-gradient(180deg, rgba(0,229,255,0.04), transparent 140px),
+    radial-gradient(1200px 300px at 50% -80px, rgba(229,0,40,0.14), transparent 60%),
+    linear-gradient(180deg, var(--dx-void) 0%, var(--dx-void-2) 100%) !important;
+  color: var(--dx-text) !important;
+  border: 1px solid var(--dx-line) !important;
+  box-shadow:
+    inset 0 0 0 1px rgba(0,229,255,0.08),
+    inset 0 0 60px rgba(0,229,255,0.04),
+    inset 0 0 120px rgba(229,0,40,0.04) !important;
+}
+
+body.system-dx3rd .app.window-app .window-header {
+  background:
+    linear-gradient(90deg,
+      rgba(229,0,40,0.35) 0%,
+      rgba(13,17,27,0.95) 40%,
+      rgba(13,17,27,0.95) 60%,
+      rgba(0,229,255,0.30) 100%) !important;
+  border-bottom: 1px solid var(--dx-cyan) !important;
+  box-shadow:
+    0 0 0 1px var(--dx-line) inset,
+    0 1px 0 rgba(0,229,255,0.35) inset,
+    0 8px 22px rgba(0,229,255,0.10) !important;
+  color: var(--dx-text) !important;
+}
+
+body.system-dx3rd .app.window-app .window-header .window-title {
+  color: var(--dx-text) !important;
+  text-shadow: 0 0 8px rgba(0,229,255,0.55);
+  letter-spacing: 0.14em;
+  font-family: var(--dx-font-display);
+}
+
+body.system-dx3rd .app.window-app .window-header a {
+  color: var(--dx-cyan-soft) !important;
+}
+
+/* --- Foundry tab navigation (sheet-tabs & data-group tabs) --- */
+body.system-dx3rd .app nav.tabs,
+body.system-dx3rd .app nav.sheet-tabs,
+body.system-dx3rd .app .tabs {
+  border-bottom: 1px solid var(--dx-cyan) !important;
+  box-shadow: 0 1px 0 rgba(0,229,255,0.25);
+  background: transparent !important;
+}
+
+body.system-dx3rd .app .tabs .item,
+body.system-dx3rd .app nav.sheet-tabs .item,
+body.system-dx3rd .app nav.tabs .item {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel)) !important;
+  color: var(--dx-text-dim) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  border-bottom: none !important;
+  border-radius: 0 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-weight: 600;
+  font-family: var(--dx-font-display);
+  transition: all .15s ease;
+}
+
+body.system-dx3rd .app .tabs .item i,
+body.system-dx3rd .app nav.sheet-tabs .item i {
+  color: var(--dx-cyan-soft) !important;
+  filter: drop-shadow(0 0 4px rgba(0,229,255,0.4));
+}
+
+body.system-dx3rd .app .tabs .item:hover,
+body.system-dx3rd .app nav.sheet-tabs .item:hover {
+  color: var(--dx-cyan-soft) !important;
+  text-shadow: 0 0 8px rgba(0,229,255,0.5);
+}
+
+body.system-dx3rd .app .tabs .item.active,
+body.system-dx3rd .app nav.sheet-tabs .item.active {
+  background: linear-gradient(180deg, rgba(0,229,255,0.18), rgba(13,17,27,0.95)) !important;
+  color: var(--dx-cyan-soft) !important;
+  border-color: var(--dx-cyan) !important;
+  text-shadow: 0 0 10px rgba(0,229,255,0.7);
+  box-shadow:
+    0 0 12px rgba(0,229,255,0.35),
+    inset 0 0 10px rgba(0,229,255,0.15) !important;
+}
+
+body.system-dx3rd .app .tabs .item.active i {
+  color: var(--dx-red-glow) !important;
+  filter: drop-shadow(0 0 6px rgba(229,0,40,0.6));
+}
+
+/* --- form fields / labels inside core dialogs --- */
+body.system-dx3rd .app.window-app input[type="text"],
+body.system-dx3rd .app.window-app input[type="number"],
+body.system-dx3rd .app.window-app input[type="password"],
+body.system-dx3rd .app.window-app input[type="search"],
+body.system-dx3rd .app.window-app textarea,
+body.system-dx3rd .app.window-app select {
+  background: rgba(7,9,15,0.65) !important;
+  color: var(--dx-text) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  border-radius: 2px !important;
+  box-shadow:
+    inset 0 0 0 1px rgba(0,229,255,0.08),
+    inset 0 0 8px rgba(0,0,0,0.6);
+  font-family: var(--dx-font);
+  transition: border-color .15s ease, box-shadow .15s ease;
+}
+
+body.system-dx3rd .app.window-app input:focus,
+body.system-dx3rd .app.window-app textarea:focus,
+body.system-dx3rd .app.window-app select:focus {
+  outline: none !important;
+  border-color: var(--dx-cyan) !important;
+  box-shadow:
+    inset 0 0 0 1px rgba(0,229,255,0.4),
+    0 0 0 2px rgba(0,229,255,0.25),
+    0 0 12px rgba(0,229,255,0.35) !important;
+}
+
+body.system-dx3rd .app.window-app select option {
+  background: var(--dx-panel) !important;
+  color: #ffffff !important;
+}
+
+body.system-dx3rd .app.window-app label,
+body.system-dx3rd .app.window-app .form-group > label,
+body.system-dx3rd .app.window-app .form-fields > label {
+  color: var(--dx-cyan-soft) !important;
+  text-shadow: 0 0 6px rgba(0,229,255,0.3);
+  letter-spacing: 0.04em;
+}
+
+body.system-dx3rd .app.window-app .notes,
+body.system-dx3rd .app.window-app .hint,
+body.system-dx3rd .app.window-app p.notes {
+  color: var(--dx-text-faint) !important;
+  font-family: var(--dx-font-mono);
+  font-size: 11px;
+}
+
+body.system-dx3rd .app.window-app .form-group {
+  border-bottom: 1px dashed rgba(0,229,255,0.15);
+  padding: 6px 0;
+}
+
+body.system-dx3rd .app.window-app h1,
+body.system-dx3rd .app.window-app h2,
+body.system-dx3rd .app.window-app h3,
+body.system-dx3rd .app.window-app h4 {
+  color: var(--dx-cyan-soft) !important;
+  text-shadow: 0 0 8px rgba(0,229,255,0.35);
+  border-bottom: 1px solid var(--dx-cyan);
+  font-family: var(--dx-font-display);
+  letter-spacing: 0.14em;
+}
+
+/* --- buttons inside core dialogs --- */
+body.system-dx3rd .app.window-app button,
+body.system-dx3rd .app.window-app .dialog-button,
+body.system-dx3rd .app.window-app input[type="submit"] {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel)) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  color: var(--dx-text) !important;
+  font-family: var(--dx-font-display);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-weight: 600;
+  border-radius: 2px !important;
+  box-shadow:
+    inset 0 1px 0 rgba(0,229,255,0.15),
+    inset 0 -1px 0 rgba(229,0,40,0.12) !important;
+  transition: all .15s ease;
+}
+
+body.system-dx3rd .app.window-app button:hover,
+body.system-dx3rd .app.window-app .dialog-button:hover {
+  border-color: var(--dx-cyan) !important;
+  color: var(--dx-cyan-soft) !important;
+  box-shadow:
+    inset 0 0 0 1px rgba(0,229,255,0.4),
+    0 0 14px rgba(0,229,255,0.35) !important;
+}
+
+body.system-dx3rd .app.window-app button.bright,
+body.system-dx3rd .app.window-app button[type="submit"] {
+  border-color: var(--dx-cyan) !important;
+  color: var(--dx-cyan-soft) !important;
+  box-shadow:
+    inset 0 0 0 1px rgba(0,229,255,0.35),
+    0 0 10px rgba(0,229,255,0.25) !important;
+}
+
+/* --- checkboxes in core dialogs --- */
+body.system-dx3rd .app.window-app input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border: 1px solid var(--dx-line-strong) !important;
+  background: rgba(7,9,15,0.7) !important;
+  position: relative;
+  cursor: pointer;
+  box-shadow: inset 0 0 6px rgba(0,229,255,0.15);
+}
+
+body.system-dx3rd .app.window-app input[type="checkbox"]:hover {
+  border-color: var(--dx-cyan) !important;
+  box-shadow: 0 0 8px rgba(0,229,255,0.4);
+}
+
+body.system-dx3rd .app.window-app input[type="checkbox"]:checked {
+  background: linear-gradient(135deg, var(--dx-red), #8a0018) !important;
+  border-color: var(--dx-red-glow) !important;
+  box-shadow: 0 0 10px rgba(229,0,40,0.55);
+}
+
+body.system-dx3rd .app.window-app input[type="checkbox"]:checked::after {
+  content: "";
+  position: absolute;
+  left: 4px; top: 0px;
+  width: 5px; height: 10px;
+  border: solid #fff;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+/* --- range inputs (Token alpha, vision range, light intensity) --- */
+body.system-dx3rd .app.window-app input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent !important;
+  height: 20px;
+}
+
+body.system-dx3rd .app.window-app input[type="range"]::-webkit-slider-runnable-track {
+  height: 4px;
+  background: linear-gradient(90deg, var(--dx-red), var(--dx-cyan));
+  border: 1px solid var(--dx-line-strong);
+  border-radius: 0;
+}
+
+body.system-dx3rd .app.window-app input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  background: var(--dx-cyan);
+  border: 1px solid var(--dx-void);
+  border-radius: 0;
+  margin-top: -6px;
+  box-shadow: 0 0 8px rgba(0,229,255,0.6);
+  cursor: pointer;
+}
+
+body.system-dx3rd .app.window-app input[type="range"]::-moz-range-track {
+  height: 4px;
+  background: linear-gradient(90deg, var(--dx-red), var(--dx-cyan));
+  border: 1px solid var(--dx-line-strong);
+}
+
+body.system-dx3rd .app.window-app input[type="range"]::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  background: var(--dx-cyan);
+  border: 1px solid var(--dx-void);
+  border-radius: 0;
+  box-shadow: 0 0 8px rgba(0,229,255,0.6);
+  cursor: pointer;
+}
+
+/* --- file-picker buttons / token image row --- */
+body.system-dx3rd .app.window-app .file-picker,
+body.system-dx3rd .app.window-app button.file-picker {
+  background: rgba(7,9,15,0.7) !important;
+  border: 1px solid var(--dx-cyan) !important;
+  color: var(--dx-cyan-soft) !important;
+  box-shadow: 0 0 6px rgba(0,229,255,0.3);
+}
+
+/* --- color pickers / color inputs --- */
+body.system-dx3rd .app.window-app input[type="color"] {
+  border: 1px solid var(--dx-line-strong) !important;
+  background: rgba(7,9,15,0.6) !important;
+  padding: 2px;
+  box-shadow: inset 0 0 6px rgba(0,229,255,0.15);
+}
+
+/* --- tables inside core dialogs (module list, permission, rolls) --- */
+body.system-dx3rd .app.window-app table {
+  border-collapse: collapse;
+  border: 1px solid var(--dx-line);
+  background: rgba(0,229,255,0.03);
+}
+
+body.system-dx3rd .app.window-app table th {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel)) !important;
+  color: var(--dx-cyan-soft) !important;
+  border: 1px solid var(--dx-line);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+body.system-dx3rd .app.window-app table td {
+  border: 1px solid var(--dx-line);
+  color: var(--dx-text);
+}
+
+/* --- compendium directory lists --- */
+body.system-dx3rd .compendium .directory-list .directory-item,
+body.system-dx3rd .app .directory-list .directory-item {
+  background: linear-gradient(180deg, rgba(18,24,38,0.85), rgba(7,9,15,0.85)) !important;
+  border: 1px solid var(--dx-line) !important;
+  border-left: 3px solid var(--dx-cyan) !important;
+  color: var(--dx-text) !important;
+  margin-bottom: 2px;
+}
+
+body.system-dx3rd .compendium .directory-list .directory-item:hover,
+body.system-dx3rd .app .directory-list .directory-item:hover {
+  border-color: var(--dx-cyan) !important;
+  box-shadow: 0 0 10px rgba(0,229,255,0.3);
+}
+
+body.system-dx3rd .compendium .folder .folder-header,
+body.system-dx3rd .app .folder .folder-header {
+  background: linear-gradient(90deg,
+    rgba(229,0,40,0.25) 0%,
+    rgba(13,17,27,0.9) 40%,
+    rgba(0,229,255,0.25) 100%) !important;
+  color: var(--dx-text) !important;
+  border-left: 3px solid var(--dx-red) !important;
+  border-right: 3px solid var(--dx-cyan) !important;
+  text-shadow: 0 0 6px rgba(0,229,255,0.35);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-family: var(--dx-font-display);
+}
+
+/* --- prose mirror / editor areas in core dialogs --- */
+body.system-dx3rd .app.window-app .editor,
+body.system-dx3rd .app.window-app .editor-content,
+body.system-dx3rd .app.window-app prose-mirror {
+  background: rgba(7,9,15,0.6) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  color: var(--dx-text) !important;
+}
+
+/* --- section headers (Token "身份/外觀/視覺/光源/資源" + group dividers) --- */
+body.system-dx3rd .app.window-app section .form-header,
+body.system-dx3rd .app.window-app section > h1,
+body.system-dx3rd .app.window-app section > h2,
+body.system-dx3rd .app.window-app .sheet-header h1 {
+  color: var(--dx-cyan-soft) !important;
+  border-bottom: 1px solid var(--dx-cyan);
+  text-shadow: 0 0 8px rgba(0,229,255,0.4);
+}
+
+/* --- scrollbars inside core dialogs --- */
+body.system-dx3rd .app.window-app *::-webkit-scrollbar {
+  width: 10px; height: 10px;
+}
+body.system-dx3rd .app.window-app *::-webkit-scrollbar-track {
+  background: var(--dx-void);
+  border-left: 1px solid var(--dx-line);
+}
+body.system-dx3rd .app.window-app *::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, var(--dx-cyan), var(--dx-red));
+  border: 1px solid var(--dx-void);
+  box-shadow: 0 0 6px rgba(0,229,255,0.35);
+}

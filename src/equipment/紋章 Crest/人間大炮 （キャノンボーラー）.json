@@ -1,0 +1,34 @@
+{
+  "_id": "yxotLu6nSASyH2ON",
+  "_key": "!items!yxotLu6nSASyH2ON",
+  "name": "人間大炮 （キャノンボーラー）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 484,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>空降作戰用動力甲，將人使用專用發射器射出並以最快速度抵達作戰地點，只有接受過特別訓練的超越者才能勝任</p><p><em>備註：IA新增</em> / <em>參照：IA P183</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "關聯：總統\n（コネ：大統領）",
+      "source": "IA P183"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

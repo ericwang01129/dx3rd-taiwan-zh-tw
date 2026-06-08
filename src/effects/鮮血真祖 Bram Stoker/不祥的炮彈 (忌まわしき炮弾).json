@@ -1,0 +1,64 @@
+{
+  "_id": "YZTBMF6vtJy7F7Jp",
+  "name": "不祥的炮彈 (忌まわしき炮弾)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/vampire-dracula.svg",
+  "folder": "wboZ95SHJuim4ZlG",
+  "sort": 0,
+  "system": {
+    "description": "<p>讓從者攻擊大量敵人的異能。你的從者即使被千人圍攻，仍能將他們驅逐。</p><p>組合此異能的攻擊對象變更成範圍(選擇)。</p><p><em>參照：規則2P106</p><p>EAP52</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "從者專用 / LV/場景",
+    "timing": "major",
+    "target": "範圍(選擇)",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "battle"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "鮮血真祖 Bram Stoker",
+      "syndromeItemId": "yZ26mUMQV6FowBlo",
+      "source": "規則2P106\nEAP52"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!YZTBMF6vtJy7F7Jp"
+}

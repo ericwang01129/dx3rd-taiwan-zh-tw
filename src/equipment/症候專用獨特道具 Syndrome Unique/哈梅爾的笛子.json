@@ -1,0 +1,40 @@
+{
+  "_id": "CRHtGuEiKfKfmPos",
+  "_key": "!items!CRHtGuEiKfKfmPos",
+  "name": "哈梅爾的笛子",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 211,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>能產生讓人們生病的奇妙結界現象的傳說之笛。</p><p>你使用《結界化》的同時使用，賦予場景內任意角色疾病，該場景間感染疾病的角色進行的回避判定暴擊值+1，對於超越者，場景結束時病症會痊癒，此外的情況則由使用者自行決定。</p><p><em>參照：IA P95</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 40,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P95"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

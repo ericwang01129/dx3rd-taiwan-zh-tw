@@ -1,0 +1,64 @@
+{
+  "_id": "vfV4gBYEhlg15eDG",
+  "name": "毒霧 (ポイズンフォッグ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>將體內生成的物質作為氣體從全身發散，散佈至周圍的異能。</p><p>組合此異能的對象與射程變更成範圍(選擇)與至近。</p><p><em>參照：規則1P166</p><p>EAP116</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "自動成功",
+    "limit": "LV/劇本",
+    "timing": "major",
+    "target": "範圍(選擇)",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "規則1P166\nEAP116"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!vfV4gBYEhlg15eDG"
+}

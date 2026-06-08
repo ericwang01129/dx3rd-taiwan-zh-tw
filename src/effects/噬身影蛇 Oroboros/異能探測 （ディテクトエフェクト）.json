@@ -1,0 +1,64 @@
+{
+  "_id": "BJbToB6nyqt0F1nb",
+  "name": "異能探測 （ディテクトエフェクト）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/ouroboros.svg",
+  "folder": "1pCX5ZBbIY55J65u",
+  "sort": 0,
+  "system": {
+    "description": "<p>可以從周圍殘留的背教者物質確定出之前在這裡使用過的異能。使用噬身影蛇特有的吸收他人背教者的能力，能夠看穿其性質。如果GM認為有必要，可以進行<RC>判定。如果殘留物質非常少，也可以只能判斷出其所屬的症候群。</p><p><em>參照：UAP42</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "噬身影蛇 Oroboros",
+      "syndromeItemId": "R7Jxr26CWdNB0hjx",
+      "source": "UAP42"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!BJbToB6nyqt0F1nb"
+}

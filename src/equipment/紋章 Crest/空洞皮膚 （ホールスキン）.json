@@ -1,0 +1,40 @@
+{
+  "_id": "wagVYAbbCgGrMAiK",
+  "_key": "!items!wagVYAbbCgGrMAiK",
+  "name": "空洞皮膚 （ホールスキン）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 40,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>幾乎沒有負傷的戰鬥裝備紋章，一方面是你戰鬥能力強大的證明，另一方面也表示你害怕疼痛</p><p><em>效果：你進行的判定骰數+1個，但你受到至少1點HP傷害時，中盤階段間該效果無效</em> / <em>備註：IA新增</em> / <em>參照：IA P134</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN之子 取得條件：職業為UGN之子A~C的角色",
+      "source": "IA P134"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

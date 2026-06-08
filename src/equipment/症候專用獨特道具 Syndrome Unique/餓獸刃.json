@@ -1,0 +1,37 @@
+{
+  "_id": "fGERQjN6gzN2c9JG",
+  "_key": "!items!fGERQjN6gzN2c9JG",
+  "name": "餓獸刃",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 219,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>被高濃度EX背教者感染的刀劍，帶有如果不用噬身影蛇的能力持續吸收就會立刻原菌化的大量背教者。</p><p>使用該武器進行的攻擊給對象造成至少1點傷害時，額外給予[不良狀態：邪毒3]，主要階段結束時你的侵蝕率+2。</p><p><em>射程：至近</em> / <em>參照：IA P96</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 35,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 7,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P96"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

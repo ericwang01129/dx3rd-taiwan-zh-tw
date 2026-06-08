@@ -1,0 +1,37 @@
+{
+  "_id": "VAwDGRpXdkn7vZjE",
+  "name": "煉金化形 Morpheus",
+  "type": "syndrome",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/morph-ball.svg",
+  "sort": 800,
+  "system": {
+    "description": "<p><strong>沒有我做不出來的東西</strong></p>\n<p>碰到物體就可以變化，就算是完全不同的物質也可以全部變化的能力，這就是「煉金化形」。</p><p>有種昆蟲，會有把吸入自己身體內部的物質結晶化之後排出體外的習性，煉金化形的原理和那昆蟲相似。</p><p>其發症者可以把小樹枝變成劍，或者把玫瑰花變成手槍等等，無視質量定律的將物體變化成令一個樣子。</p><p>還有，已經確認的煉金化形的異能當中，也有使用「沙子」的能力。</p><p>也有學者認為沙子的使用才是煉金化形能力的神髓。</p><p>他們所變化的物質，都是由像沙子一樣的「核」開始組合的。當然，這樣的假說目前還沒有強力的論證。</p><p>再者，這個症狀的名稱由來，就是「描寫」這個意思的單詞「Morphing」的語源，也就是希臘神話的神明「墨菲烏斯」。</p>\n<blockquote>「必須的東西」，沒有什麼是我沒辦法弄到手的。<br>像現在，你看看，我做出了這麼多強大的武器。<br>但是「想要的東西」，卻怎麼樣努力都做不出來。<br>究竟要怎麼樣，我才能夠做出那樣棒的笑容呢？<br>「失落的Child」質樸的疑問</blockquote>",
+    "skillTmp": "melee",
+    "skills": {},
+    "attributes": {
+      "body": {
+        "value": 1
+      },
+      "sense": {
+        "value": 2
+      },
+      "mind": {
+        "value": 0
+      },
+      "social": {
+        "value": 1
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "english": "Morpheus",
+      "chinese": "煉金化形"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VAwDGRpXdkn7vZjE"
+}

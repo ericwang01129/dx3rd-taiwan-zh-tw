@@ -1,0 +1,64 @@
+{
+  "_id": "kW8PPJpoX7C7pR9Y",
+  "name": "質感變化 (テクスチャーチェンジ)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/transform.svg",
+  "folder": "1c2f74fWFU3n9X1W",
+  "sort": 0,
+  "system": {
+    "description": "<p>維持原先機能，變更物品外表的異能。</p><p>將一件持有道具的外表按照你的想法改變，無論變化成什麼外表，都不會變更數據。</p><p>如果有人想看出改變外表的東西的原型，以<知覺>進行對決。</p><p><em>參照：規則2P141</p><p>EAP87</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "煉金化形 Morpheus",
+      "syndromeItemId": "VAwDGRpXdkn7vZjE",
+      "source": "規則2P141\nEAP87"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!kW8PPJpoX7C7pR9Y"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "gXeCbI8qzx8sdOJt",
+  "_key": "!items!gXeCbI8qzx8sdOJt",
+  "name": "另一副面孔 （アナザーフェイス）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 238,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你有著作為FH協助者和並非如此的兩幅面孔的紋章</p><p><em>效果：取得時從自由人紋章中選擇一項取得，取得所需的經驗點需要另外消耗</em> / <em>備註：IA新增</em> / <em>參照：IA P156</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH法外者 取得條件：沒有取得FH通用以外紋章的角色",
+      "source": "IA P156"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

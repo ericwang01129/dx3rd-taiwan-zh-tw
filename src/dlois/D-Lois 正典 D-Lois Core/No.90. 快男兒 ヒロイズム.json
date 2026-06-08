@@ -1,0 +1,40 @@
+{
+  "_id": "Ms0invpdOtMepVfS",
+  "_key": "!items!Ms0invpdOtMepVfS",
+  "name": "No.90. 快男兒 ヒロイズム",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 90,
+  "system": {
+    "description": "<p>懲惡揚善——你是個「快男兒」(俠義之士)。在這混亂的時代裡，這雖是艱難的生存之道，但你的心中從無悔意，總是能保持開朗豁達的心情。</p><p>至於為何選擇這種生活方式？或許是因為天生擁有純真的心性，或許是看到弱者被壓迫的景象激起了你的俠義心，又或許是因為你曾被一位堪稱「快男兒」的義士所救。關於你成為快男兒的原因，你可以自由決定。在戰爭腳步日益逼近的世界中，弱小無力的人們正遭受苦難與壓迫。而你所擁有的力量，正是在保護和幫助這些弱者時，才能發揮到最大。</p><p>只要你心中的信念之火還沒有熄滅，你就是無敵的。</p><p><em>效果：此D-Lois只能在「舞臺：奇妙時代」中使用。\n\n颯爽登場，打擊殘害人民的邪惡。無論敵人多麼強大，你都能無所畏懼地戰鬥，反而能從內心湧現出源源不絕的力量。\n當你為了拯救無辜弱者而行動時，判定骰數+3個。然而，若你採取違背仁義的行動，或是違背「扶助弱者」這一信念而行動時，判定骰數-2個。這些效果是否適用的最終判斷由GM決定。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.90",
+      "source": ""
+    }
+  }
+}

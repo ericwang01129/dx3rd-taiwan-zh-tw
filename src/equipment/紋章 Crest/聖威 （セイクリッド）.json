@@ -1,0 +1,40 @@
+{
+  "_id": "tt4NUhCqHr6UBl1S",
+  "_key": "!items!tt4NUhCqHr6UBl1S",
+  "name": "聖威 （セイクリッド）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 228,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>你有著讓其他背教者屈服的力量，即使是原菌，在這份力量面前也唯有跪倒</p><p><em>次數：1/場景</em> / <em>效果：其他角色組合了異能進行的判定之前使用，該判定的骰子數-10個\n該效果1場景可以使用1次</em> / <em>參照：IA P155</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 60,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "聯絡特工 取得條件：職業為FH特工、FH單元隊長、FH之子，需征得GM同意",
+      "source": "IA P155"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

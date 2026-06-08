@@ -1,0 +1,37 @@
+{
+  "_id": "HAQRocROxOuPzHur",
+  "name": "天使光環 Angel Halo",
+  "type": "syndrome",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spiked-halo.svg",
+  "sort": 100,
+  "system": {
+    "description": "<p><strong>光為吾友，見敵必殲</strong></p>\n<p>改變自身的折射率，自由自在操作光線的症狀。</p><p>同時，也有如水母或者熒光烏賊一樣可以創造出光線令人目眩。</p><p>透過調整光的波長，甚至可以使用激光來作為攻擊手段。</p><p>另外，五感的強化也是這症狀的特徵之一。</p><p>強化後的知覺帶來的是正確無比的狙擊，高熱的激光等等的攻擊手段，在全部的症狀當中擁有數一數二的攻擊力。</p><p>根據異能的不同，幻覺，隱秘行動等等方式為主的作戰法也有為數不少的利用者，在各個領域都有活躍的表現，這就是天使光環的特色。</p><p>再者，在發動異能時，使用者的身邊周遭都有散發出光輝的現象，也就是這個症狀被命名為「Angle Halo」也就是天使光環的原因。</p>\n<blockquote>天使？你別說笑話了。我的光只是單純的「武器」而已。<br>貫穿他人，迷惑他人，然後殺死他人。<br>溫和溫暖什麼的，哪兒都沒有啊。<br>所以......請別用那種眼神看著我。<br>「黑天使」任務後的有感而發。</blockquote>",
+    "skillTmp": "melee",
+    "skills": {},
+    "attributes": {
+      "body": {
+        "value": 0
+      },
+      "sense": {
+        "value": 3
+      },
+      "mind": {
+        "value": 1
+      },
+      "social": {
+        "value": 0
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "english": "Angel Halo",
+      "chinese": "天使光環"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!HAQRocROxOuPzHur"
+}

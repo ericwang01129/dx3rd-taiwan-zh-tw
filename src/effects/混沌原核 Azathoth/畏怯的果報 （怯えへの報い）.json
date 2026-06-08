@@ -1,0 +1,68 @@
+{
+  "_id": "jcqt1QQUjohuwUpJ",
+  "name": "畏怯的果報 （怯えへの報い）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>在具有阿撒托斯、莎布·尼古拉斯，以及偉大的克蘇魯等等邪神之力的人面前，感到恐懼是理所當然的，而這正是你給予他人此種恐怖的異能。</p><p>組合了該異能的攻擊的攻擊力+LV。攻擊的對象中包括處於恐懼狀態或永久瘋狂中的角色，則效果變為攻擊力「攻擊力+[LV×4]」</p><p><em>參照：CRC P96</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "(@level) + (@level*4)"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P96"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!jcqt1QQUjohuwUpJ"
+}

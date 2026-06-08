@@ -1,0 +1,64 @@
+{
+  "_id": "4klo3JgiS3duebSn",
+  "name": "原初之紫",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/ouroboros.svg",
+  "folder": "1pCX5ZBbIY55J65u",
+  "sort": 0,
+  "system": {
+    "description": "<p>取得一個「時機：自動動作」或「時機：先攻階段」的異能，</p><p>但是不能取得「限制：－」以外的異能與敵人異能。</p><p>取得的異能侵蝕值+1，若取得的異能有使用次數限制，侵蝕率基本值+4。</p><p><em>參照：ICP47</p><p>EAP122</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "參照效果",
+    "limit": "參照效果",
+    "timing": "-",
+    "target": "參照效果",
+    "range": "參照效果",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": "參照效果"
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "噬身影蛇 Oroboros",
+      "syndromeItemId": "R7Jxr26CWdNB0hjx",
+      "source": "ICP47\nEAP122"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!4klo3JgiS3duebSn"
+}

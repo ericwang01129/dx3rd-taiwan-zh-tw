@@ -1,0 +1,64 @@
+{
+  "_id": "LErBwKvmt1DfpBLa",
+  "name": "閃耀之臂 (シャイニングアーム)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-arc.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>以光線包住拳頭使攻擊力提高的異能。</p><p>該場景中你的空手數值變為如下所述，你使用此空手進行攻擊的攻擊力+【感覺】：</p><p>種類：近戰    技能：<近戰></p><p>命中：0      攻擊力：[LV×2]</p><p>格擋值：0     射程：至近</p><p><em>參照：BCP56</p><p>IAP104</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "BCP56\nIAP104"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!LErBwKvmt1DfpBLa"
+}

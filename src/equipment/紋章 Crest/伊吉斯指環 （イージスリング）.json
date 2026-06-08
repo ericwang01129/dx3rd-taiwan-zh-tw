@@ -1,0 +1,40 @@
+{
+  "_id": "6Xkv77zDxawTHn8z",
+  "_key": "!items!6Xkv77zDxawTHn8z",
+  "name": "伊吉斯指環 （イージスリング）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 103,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>UGN所開發的，用以對抗無視防禦異能的裝置，有著指環的造型。</p><p><em>次數：1/場景</em> / <em>效果：格擋時同時使用，即使該攻擊的傷害帶有「無視裝甲值進行傷害計算」異能效果，也仍按照裝甲值有效進行計算\n該效果1場景可以使用1次</em> / <em>參照：IA P141</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN法外者 取得條件：沒有取得UGN通用以外紋章的角色",
+      "source": "IA P141"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

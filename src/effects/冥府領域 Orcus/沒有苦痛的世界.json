@@ -1,0 +1,64 @@
+{
+  "_id": "VE2K4Do6oDaWeVe8",
+  "name": "沒有苦痛的世界",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/spell-book.svg",
+  "folder": "FmovFwS0XlDsBEPd",
+  "sort": 0,
+  "system": {
+    "description": "<p>將同伴的痛苦集中到自己身上，去除不適的異能。</p><p>回復對象包括暴走在內的全部不良狀態。但是這個異能不能以你為對象，使用後你會進入暴走狀態。這個異能不能與其他異能組合。</p><p><em>參照：RUP37</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "自傷120% / 1/劇本",
+    "timing": "initiative",
+    "target": "場景(選擇)",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "冥府領域 Orcus",
+      "syndromeItemId": "VkIuxIHuGC4SwBN8",
+      "source": "RUP37"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VE2K4Do6oDaWeVe8"
+}

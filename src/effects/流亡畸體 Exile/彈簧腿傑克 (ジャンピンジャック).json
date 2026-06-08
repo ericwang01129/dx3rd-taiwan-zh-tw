@@ -1,0 +1,64 @@
+{
+  "_id": "VKmbz2ZGlZaQ1SDk",
+  "name": "彈簧腿傑克 (ジャンピンジャック)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wing-cloak.svg",
+  "folder": "RXR6u4iWhThVDoog",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《彈簧盾》。</p><p>將肉體變為彈簧狀減緩衝擊的異能。既能減少傷害，也能將其增幅。</p><p>在你進行格擋或者投擲傷害骰時使用。你的格擋值或者傷害骰+LV個。</p><p><em>參照：BCP61</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "極限 / 1/劇本",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "流亡畸體 Exile",
+      "syndromeItemId": "kPOoy0czVl8GhmK7",
+      "source": "BCP61"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VKmbz2ZGlZaQ1SDk"
+}

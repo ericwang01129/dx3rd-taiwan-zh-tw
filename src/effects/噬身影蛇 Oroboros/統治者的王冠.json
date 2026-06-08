@@ -1,0 +1,64 @@
+{
+  "_id": "wFH3wsNLlQUJO84u",
+  "name": "統治者的王冠",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/shadow-grasp.svg",
+  "folder": "1pCX5ZBbIY55J65u",
+  "sort": 0,
+  "system": {
+    "description": "<p>將從外部吸取的背教者與自己體內的背教者融合，高效率地使用的異能。</p><p>因噬身影蛇異能的效果「侵蝕率基本值+🔴」而上升的侵蝕率基本值-LV(最低0)。</p><p>此異能的等級不受侵蝕率影響。</p><p><em>參照：ICP50</p><p>EAP126</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "純血種",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "噬身影蛇 Oroboros",
+      "syndromeItemId": "R7Jxr26CWdNB0hjx",
+      "source": "ICP50\nEAP126"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!wFH3wsNLlQUJO84u"
+}

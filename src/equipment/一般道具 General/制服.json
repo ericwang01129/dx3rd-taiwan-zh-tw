@@ -1,0 +1,40 @@
+{
+  "_id": "6InkZqcQrsqEklZ2",
+  "_key": "!items!6InkZqcQrsqEklZ2",
+  "name": "制服",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 179,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>各種制服。大部分時候組織都會進行提供，常備化只是因為個人愛好。</p><p><em>參照：IA P42</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "0",
+      "difficulty": 7
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P42"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

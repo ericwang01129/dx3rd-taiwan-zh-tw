@@ -1,0 +1,40 @@
+{
+  "_id": "5IZooonEjMs4lLAk",
+  "_key": "!items!5IZooonEjMs4lLAk",
+  "name": "生來的瘋狂 （生來の狂気）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 194,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你是在與世間道德隔絕的環境下長大的紋章。正因如此，你的價值觀有著顯著的扭曲，與你話鋒相交者，想必會因你種種離譜的想法而感到戰慄吧</p><p><em>效果：你進行的<交涉>判定，以及針對<交涉>判定進行的回應動作的達成值+10。但你進行的<情報：流言>判定必定失敗</em> / <em>參照：IA P151</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH之子 取得條件：職業為FH之子A~C",
+      "source": "IA P151"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

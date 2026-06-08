@@ -1,0 +1,37 @@
+{
+  "_id": "1BieOcPY9oA8cnCS",
+  "_key": "!items!1BieOcPY9oA8cnCS",
+  "name": "獨頭霰彈槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 57,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>將彈藥從散彈改為獨頭彈，雖然火力會削弱，但射程和精度都有所增加。</p><p><em>射程：30m</em> / <em>參照：IA P28</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "7",
+      "difficulty": 11
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 5,
+    "guard": 0,
+    "range": "30m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P28"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

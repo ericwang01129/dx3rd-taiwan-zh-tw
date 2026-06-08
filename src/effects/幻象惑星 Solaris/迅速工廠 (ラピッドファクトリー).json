@@ -1,0 +1,64 @@
+{
+  "_id": "rQQ7PImRnrl0jL95",
+  "name": "迅速工廠 (ラピッドファクトリー)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《加速》。</p><p>加速體內工廠的生成速度，廣範圍散佈物質的異能。</p><p>組合的異能的射程變為至近，對象變為範圍(選擇)。</p><p><em>參照：BCP67</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "自動成功",
+    "limit": "極限 / LV/劇本",
+    "timing": "setup",
+    "target": "範圍(選擇)",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "BCP67"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!rQQ7PImRnrl0jL95"
+}

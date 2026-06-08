@@ -1,0 +1,40 @@
+{
+  "_id": "IMlbN35s7upFI8VV",
+  "_key": "!items!IMlbN35s7upFI8VV",
+  "name": "可怖之物 （テリブルワン）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 218,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>因為存在感或是背教者病毒，你身上時常纏繞對他人產生威壓的氣場；即便不是聯絡特工，其他人也能理解其強弱差距</p><p><em>效果：其他角色以包含你在內作為對象進行的判定時，骰子數-2個</em> / <em>備註：IA新增</em> / <em>參照：IA P154</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "聯絡特工 取得條件：職業為FH特工、FH單元隊長、FH之子，需征得GM同意",
+      "source": "IA P154"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

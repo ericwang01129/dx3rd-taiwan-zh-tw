@@ -1,0 +1,40 @@
+{
+  "_id": "pQZiLTrQY9FPIXfj",
+  "_key": "!items!pQZiLTrQY9FPIXfj",
+  "name": "無形標籤 （インビジブルタグ）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 468,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>為從事危險或非法任務的部分隊員製作的無記名認識票據，沒有記錄姓名、社保編號等可以特定個人的情報，只有票據編號，作為危險情況處理可以獲得高額報酬和為合眾國奉獻之美名</p><p><em>效果：你的常備化點數+10</em> / <em>備註：IA新增</em> / <em>參照：IA P181</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "關聯：總統\n（コネ：大統領）",
+      "source": "IA P181"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

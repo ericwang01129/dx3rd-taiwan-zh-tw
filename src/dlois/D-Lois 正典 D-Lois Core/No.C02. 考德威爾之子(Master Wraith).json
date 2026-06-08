@@ -1,0 +1,40 @@
+{
+  "_id": "HZcFB8FCl4fUyFAS",
+  "_key": "!items!HZcFB8FCl4fUyFAS",
+  "name": "No.C02. 考德威爾之子(Master Wraith)",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 102,
+  "system": {
+    "description": "<p>表示你是由阿爾弗雷德·J·科德威爾選為幽魂之主，或幽魂之主候選者的D-Lois。</p><p>在『DX2』之前，擁有幽魂之主稱號的人基本上只有一位。然而，作為指導者回歸的科德威爾博士，召集了數名少年少女，並任命他們為幽魂之主。他的真正意圖尚不明確。</p><p>事實上，科德威爾博士很少對幽魂之主們下達命令。即使在幽魂之主之中，有些人如約翰和蕾莉亞那樣癡迷於科德威爾博士，也有像左京和凱因那樣與科德威爾博士和FH本體保持距離，依照自己的判斷和目的行動的人。</p><p>據某方面的情報指出，科德威爾博士正在通過觀察幽魂之主們來尋找背教者的下一步進化方向。</p><p><em>效果：這個D-Lois只有職業為FH相關的角色可以取得。\n取得這個D-Lois時，從屬_xffff_你擁有的症候且你取得了的異能中選擇一個「時機:主要動作」的異能。\n組合了所選異能的攻擊的攻擊力+10，但此效果所選擇的異能的侵蝕值+4。此外，你的侵蝕率超過100%時，增加的攻擊力變為+15，超過120%時，變更為+20。</em> / <em>備註：FH專用</em> / <em>參照：RU P56\nLM P110</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.C02",
+      "source": "RU P56\nLM P110"
+    }
+  }
+}

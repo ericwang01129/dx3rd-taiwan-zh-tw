@@ -1,0 +1,67 @@
+{
+  "_id": "MDtdgica81NK4am3",
+  "name": "UGN 支部長 D",
+  "type": "works",
+  "img": "icons/svg/book.svg",
+  "folder": "EQcE7Nyzvu9GyQkR",
+  "sort": 0,
+  "system": {
+    "description": "<p><strong>來源：</strong>真實身份表 1</p><p><strong>主要能力值：</strong>【社會】</p>",
+    "skillTmp": "melee",
+    "skills": {
+      "will": {
+        "key": "will",
+        "name": "意志",
+        "base": "mind",
+        "add": 1,
+        "apply": true
+      },
+      "negotiation": {
+        "key": "negotiation",
+        "name": "交涉",
+        "base": "social",
+        "add": 1,
+        "apply": true
+      },
+      "procure": {
+        "key": "procure",
+        "name": "調達",
+        "base": "social",
+        "add": 2,
+        "apply": true
+      },
+      "info_ugn": {
+        "key": "info_ugn",
+        "name": "情報：UGN",
+        "base": "social",
+        "add": 1,
+        "apply": true
+      }
+    },
+    "attributes": {
+      "body": {
+        "value": 0
+      },
+      "sense": {
+        "value": 0
+      },
+      "mind": {
+        "value": 0
+      },
+      "social": {
+        "value": 1
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "table": "真實身份表 1",
+      "primaryAttr": "social"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!MDtdgica81NK4am3"
+}

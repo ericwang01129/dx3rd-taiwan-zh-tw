@@ -1,0 +1,40 @@
+{
+  "_id": "NftWPiY4EYYsOBWD",
+  "_key": "!items!NftWPiY4EYYsOBWD",
+  "name": "No.HR20. 槍之刻印",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 21,
+  "system": {
+    "description": "<p><em>效果：REC：墓守清正</em> / <em>通常效果：於攻擊前使用，此次攻擊的傷害+[你的【肉體】]。使用這個效果時，你的侵蝕率會上升3點。這個效果一個劇本中可以使用一次。</em> / <em>強化效果：將「通常效果」的使用次數限制變更為「1個劇本中可以使用3次」。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR20",
+      "source": ""
+    }
+  }
+}

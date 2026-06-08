@@ -1,0 +1,68 @@
+{
+  "_id": "QkJ6Q9RLmncnHLym",
+  "name": "超越人智的災厄之顎 （人智超し災厄の顎）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>於足下描繪出昭示外神的不祥印記，接受祂們的力量，並帶來絕望性死亡的異能。</p><p>組合了該異能的攻擊的攻擊力+LV。對象為非超越者（不包含〔神格〕〔神話生物〕），亦或是〔兵器〕時，攻擊力額外增加[LV×5]。</p><p><em>參照：CRC P100</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "80%",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 10,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {
+      "attack": {
+        "value": "@level"
+      }
+    },
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "CRC P100"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!QkJ6Q9RLmncnHLym"
+}

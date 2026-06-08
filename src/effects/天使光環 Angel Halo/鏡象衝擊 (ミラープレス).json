@@ -1,0 +1,64 @@
+{
+  "_id": "nFnm0dBBjGCifEGJ",
+  "name": "鏡象衝擊 (ミラープレス)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/punch-blast.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>在四周展開虛像，妨礙對手攻擊的異能。</p><p>當你處於暴走狀態時，所有包含你為對象的攻擊判定骰-[LV×2]。</p><p>此異能的等級不受侵蝕率影響。取得此異能時，基礎侵蝕值+2。</p><p><em>參照：RWP32</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "RWP32"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!nFnm0dBBjGCifEGJ"
+}

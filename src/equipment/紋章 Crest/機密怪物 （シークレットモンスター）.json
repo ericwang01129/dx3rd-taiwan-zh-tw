@@ -1,0 +1,40 @@
+{
+  "_id": "7FtAVZw6lSe9QiSU",
+  "_key": "!items!7FtAVZw6lSe9QiSU",
+  "name": "機密怪物 （シークレットモンスター）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 54,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/heart-key.svg",
+  "system": {
+    "description": "<p>表示你的過去被封印的紋章，你在過去曾引發重大暴走事故，事故記錄已被處理為機密，只有很少人相關但無人瞭解</p><p><em>效果：你受到[異常狀態：暴走]期間造成的傷害+3D10</em> / <em>備註：IA新增</em> / <em>參照：IA P135</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "核心紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN之子 取得條件：職業為UGN之子A~C的角色",
+      "source": "IA P135"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

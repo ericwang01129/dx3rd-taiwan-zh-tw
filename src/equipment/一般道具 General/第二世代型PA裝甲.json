@@ -1,0 +1,34 @@
+{
+  "_id": "EawYEziu26aZi8iP",
+  "_key": "!items!EawYEziu26aZi8iP",
+  "name": "第二世代型PA裝甲",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 113,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>雖然是重裝甲但是比過於笨重的第一世代型要輕量化了不少，作戰持續時間也有所增加。</p><p>你可以將搭載火器視為雙手持握進行裝備。稀有道具。</p><p><em>參照：IA P34</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "25",
+      "difficulty": 40
+    },
+    "exp": 0,
+    "equipment": true,
+    "dodge": -3,
+    "init": -3,
+    "armor": 12
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "防具",
+      "source": "IA P34"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

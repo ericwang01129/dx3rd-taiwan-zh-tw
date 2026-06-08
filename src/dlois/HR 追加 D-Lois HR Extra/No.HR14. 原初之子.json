@@ -1,0 +1,40 @@
+{
+  "_id": "LgnmaZnhgDxYZDf5",
+  "_key": "!items!LgnmaZnhgDxYZDf5",
+  "name": "No.HR14. 原初之子",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 15,
+  "system": {
+    "description": "<p><em>效果：REC：阿爾弗雷德·J·科多維爾</em> / <em>通常效果：從你取得的一般異能以外的異能中選擇兩個。組合了全部所選異能的判定骰數+2D，組合的攻擊的攻擊力+4\n若是只有一個異能在組合之中，則以上的增益都不會產生效果。另外，這個增益只會生效一次而非對應兩個異能分別生效</em> / <em>強化效果：「通常效果」中所選的異能的侵蝕值各-1（最低1）。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR14",
+      "source": ""
+    }
+  }
+}

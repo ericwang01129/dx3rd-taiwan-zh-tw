@@ -1,0 +1,37 @@
+{
+  "_id": "dP1tqs10SofOUQhN",
+  "_key": "!items!dP1tqs10SofOUQhN",
+  "name": "高壓電棍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 14,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>對超越者專用，內部安裝了高壓電源的大型警棍，警察禁止攜帶，但是特殊犯罪調查室成員經常會攜帶。</p><p>使用該武器進行的近戰攻擊給對象造成至少1點HP傷害時，使對象陷入不良狀態[恍惚]。該效果一場景可以使用一次。</p><p><em>射程：至近</em> / <em>參照：IA P23</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "5",
+      "difficulty": 15
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 3,
+    "guard": 1,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P23"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

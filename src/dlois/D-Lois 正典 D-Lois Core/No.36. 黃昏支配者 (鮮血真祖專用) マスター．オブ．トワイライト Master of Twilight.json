@@ -1,0 +1,40 @@
+{
+  "_id": "7N1JyDdKNCobzCaX",
+  "_key": "!items!7N1JyDdKNCobzCaX",
+  "name": "No.36. 黃昏支配者 (鮮血真祖專用) マスター．オブ．トワイライト Master of Twilight",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 36,
+  "system": {
+    "description": "<p>你是擅長使役從者的血祖能力者。</p><p>能比誰更快的創作出從者。但做出的從者有些朦朧，就像是黃昏下投影出的影法師一樣。</p><p>黃昏在日語中有著「誰是他」的別名。黃昏之下，人與魔與影，難以分別，因此又稱為「逢魔之刻」。你的從者難以被辨認，不知是敵是友，在這渾沌的時刻，是你的人偶劇的開場。</p><p>(以上注明，都是規則書上的原句)</p><p><em>效果：只限症狀為【鮮血真祖】的角色可取得。\n自動獲得異能【從者的行軍】Lv1，可使用經驗提升等級。\n這異能視為鮮血真祖的異能\n從者的行軍 \n最大等級：3 \n時機：準備階段 \n技能：- \n難易度：自動成功 \n對象：自身 \n射程：至近 \n侵蝕：5 \n限制：D露易絲\n次數：LV/劇本 \n效果：讓你可以在設置階段使用【赤色從者】，這時不能再跟其他能力做組合 因為是準備階段，出來的從者為【未行動】 \n更快創造出從者的能力</em> / <em>備註：鮮血真祖專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.36",
+      "source": ""
+    }
+  }
+}

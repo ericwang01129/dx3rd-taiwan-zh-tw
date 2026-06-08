@@ -1,0 +1,40 @@
+{
+  "_id": "2aqOpedTPZYXNAED",
+  "_key": "!items!2aqOpedTPZYXNAED",
+  "name": "傭人",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 190,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>你的專屬臨時演員，該臨時演員可以是你的部下、交往對象、執事等，其關係在取得時決定。</p><p><em>參照：IA P43</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "3",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P43"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

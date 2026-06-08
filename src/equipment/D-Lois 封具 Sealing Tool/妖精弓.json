@@ -1,0 +1,37 @@
+{
+  "_id": "UUBmoPkSohaZLRjL",
+  "_key": "!items!UUBmoPkSohaZLRjL",
+  "name": "妖精弓",
+  "folder": "pkEDzV7adwmhoSOR",
+  "sort": 5,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/bow-arrow.svg",
+  "system": {
+    "description": "<p>喜歡惡作劇的植物型RB變成的弓。視為兩手武器，對使用這個武器的攻擊的回應動作骰數-2D。</p><p>封具效果：在場景中登場的角色進行判定後使用，達成值-20。</p><p><em>射程：30m</em> / <em>參照：DF P41</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 9,
+    "guard": 0,
+    "range": "30m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 封具 Sealing Tool",
+      "section": "",
+      "source": "DF P41"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

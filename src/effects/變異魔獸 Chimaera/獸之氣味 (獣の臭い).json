@@ -1,0 +1,64 @@
+{
+  "_id": "Tpe1YZAm4BgJFiTA",
+  "name": "獸之氣味 (獣の臭い)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lion.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>散發野獸的氣味，讓對動物的交涉變得有利的異能。</p><p>你可以命令動物的臨時角色一件事，對象會盡可能實行命令。</p><p>行動內容以及是否可能實行命令由GM決定。</p><p><em>參照：規則2P116</p><p>EAP63</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "negotiation",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "參照效果",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "規則2P116\nEAP63"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Tpe1YZAm4BgJFiTA"
+}

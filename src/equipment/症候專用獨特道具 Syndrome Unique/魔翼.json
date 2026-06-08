@@ -1,0 +1,37 @@
+{
+  "_id": "xc8B9KhOlthGYsf9",
+  "_key": "!items!xc8B9KhOlthGYsf9",
+  "name": "魔翼",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 22,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>擁有可以展開的傘狀部分的雙手長槍，展開後能夠通過重力操作輔助滑翔，進行立體機動戰鬥。</p><p>你進入過飛行狀態的主要階段間，使用該武器進行的攻擊判定骰數+2個。雙手持握。</p><p><em>射程：至近</em> / <em>參照：IA P74</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 12,
+    "guard": 2,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P74"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

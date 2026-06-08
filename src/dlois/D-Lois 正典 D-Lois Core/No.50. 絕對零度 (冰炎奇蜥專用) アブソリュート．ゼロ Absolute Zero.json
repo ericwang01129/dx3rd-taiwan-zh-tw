@@ -1,0 +1,40 @@
+{
+  "_id": "LXKdcusqhucv7hdH",
+  "_key": "!items!LXKdcusqhucv7hdH",
+  "name": "No.50. 絕對零度 (冰炎奇蜥專用) アブソリュート．ゼロ Absolute Zero",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 50,
+  "system": {
+    "description": "<p>你是冰炎能力者當中，特別擅長操控寒冰的能力者。</p><p>你的低溫連火焰都能凍結，而這並非只是比喻。你的低溫連分子運動都能停止，大氣都能凍結，區區火焰當然也不再是例外。像是宇宙熱寂的象徵，讓萬物被低溫所吞噬。</p><p>雖然還是能使用火系的能力，但你就是對寒冰有更高的適性。</p><p>你或許聽過「永恆之火」這個操控超高溫的超越者的存在。即使如此，你也相信，兩者對決後，勝利的絕對是自己。</p><p>「我是冰之使者，操控絕對零度的，『真正的』的冰炎能力者」</p><p><em>效果：只限症狀為【冰炎奇蜥】的角色可取得。\n你必須先取得【集中：冰炎奇蜥】或【反射：冰炎奇蜥】的能力\n在【集中：冰炎奇蜥】和【反射：冰炎奇蜥】之中選擇一個能力。\n選擇的異能組合時的判定骰+3D\n但是選擇的異能的上升侵蝕率改為+3</em> / <em>備註：冰炎奇蜥專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.50",
+      "source": ""
+    }
+  }
+}

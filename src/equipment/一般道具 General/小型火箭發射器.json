@@ -1,0 +1,37 @@
+{
+  "_id": "YBxUy62tuP6vP78C",
+  "_key": "!items!YBxUy62tuP6vP78C",
+  "name": "小型火箭發射器",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 50,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>以美軍M72為代表的折疊式火箭筒，火力不算強大但是能隱藏在大衣裡面，受到恐怖分子和破壞間諜喜愛。</p><p>使用該武器進行攻擊的對象變為[對象：範圍]，該武器一劇本可以使用一次。至近不可。稀有道具。</p><p><em>射程：100m</em> / <em>參照：IA P27</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "5",
+      "difficulty": 13
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -2,
+    "attack": 10,
+    "guard": 0,
+    "range": "100m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P27"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

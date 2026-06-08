@@ -1,0 +1,40 @@
+{
+  "_id": "DsWsZWYPxW5GSoZE",
+  "_key": "!items!DsWsZWYPxW5GSoZE",
+  "name": "故鄉的街道 （故郷の街）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 446,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示作為廷達羅斯在各個街道中巡邏，對其構造瞭解到了哪怕邊邊角角的紋章。從小巷到下水道，透過以各種各樣的地方為通路，你能夠以最短距離到達目的地</p><p><em>次數：1/劇本</em> / <em>效果：你進行戰鬥移動或全力移動前使用，該移動可以移動到場景內的任意位置\n該效果1劇本可以使用1次</em> / <em>參照：IA P179</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "廷達羅斯 取得條件：沒有取得其他紋章的角色",
+      "source": "IA P179"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

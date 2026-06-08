@@ -1,0 +1,40 @@
+{
+  "_id": "CZBgXt0kbl07nh00",
+  "_key": "!items!CZBgXt0kbl07nh00",
+  "name": "陰晴不定 （気まぐれ）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 195,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你的背教者病毒在隱藏著強大力量的同時，會隨著你的感情而產生顯著變化的紋章</p><p><em>效果：當你的侵蝕率不足100%時，你進行的任何判定骰數-1個；侵蝕率達到100%以上時，你進行的任何判定骰數+3個</em> / <em>參照：IA P151</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH之子 取得條件：職業為FH之子A~C",
+      "source": "IA P151"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "TBN4noXBq4S4LnFB",
+  "_key": "!items!TBN4noXBq4S4LnFB",
+  "name": "深海都市之夢",
+  "folder": "E34ex0UnjIox4JZN",
+  "sort": 34,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 遺產繼承者 D-Lois Legacy",
+      "section": "其他",
+      "source": ""
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

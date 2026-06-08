@@ -1,0 +1,40 @@
+{
+  "_id": "OYkoRMj4zefTuuh7",
+  "_key": "!items!OYkoRMj4zefTuuh7",
+  "name": "廚師的理念",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 103,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>表示你所生成的元型帶有菜刀、平底鍋等料理用具的意匠。</p><p>裝備《弑神之刃》所選擇的“元型：●●”期間，你進行的所有攻擊，其攻擊力＋3。</p><p>若重複取得，效果最多重複［你已取得的、用於料理的〈藝術〉技能中，等級最高者］次。</p><p><em>參照：DFP19</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "DFP19"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "RN6Gx5BLJikbvsEz",
+  "_key": "!items!RN6Gx5BLJikbvsEz",
+  "name": "影縫",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 24,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>能將飛鳥之影釘住的投擲匕首，有非常高的精度，能將敵人的攻擊擊落。</p><p>你對<射擊>判定進行的回應動作判定骰數+2個。</p><p><em>射程：15m</em> / <em>參照：IA P58</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 7,
+    "guard": 0,
+    "range": "15m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P58"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

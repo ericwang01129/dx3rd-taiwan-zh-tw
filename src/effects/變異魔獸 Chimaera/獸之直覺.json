@@ -1,0 +1,64 @@
+{
+  "_id": "5IihVzIZn8kRh6AZ",
+  "name": "獸之直覺",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lion.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>藉由動物特有的敏銳知覺，感知微小的氣溫或濕度變化，</p><p>或者是地磁氣或海流變化等現象，來預測天候或地震等狀況的異能。</p><p>GM認為有必要的話，可要求用<知覺>進行判定。</p><p><em>參照：規則2P116</p><p>EAP63</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "規則2P116\nEAP63"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!5IihVzIZn8kRh6AZ"
+}

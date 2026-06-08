@@ -1,0 +1,40 @@
+{
+  "_id": "t0kyMr9EYtxAaGDt",
+  "_key": "!items!t0kyMr9EYtxAaGDt",
+  "name": "能力訓練",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 192,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>為了應對各種情況而進行的訓練。</p><p>取得時選擇能力值中的一項，記作[能力訓練：●●]，你使用該能力值進行判定前使用，該判定達成值+1，該效果一場景可以使用1次，不同能力值的[能力訓練：●●]視為不同的道具，該道具各能力值只能常備一種，且只有你能使用。</p><p><em>參照：IA P43</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "3",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P43"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

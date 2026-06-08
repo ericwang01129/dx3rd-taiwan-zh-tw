@@ -1,0 +1,40 @@
+{
+  "_id": "YGY664e5SUOLetVA",
+  "_key": "!items!YGY664e5SUOLetVA",
+  "name": "神樹液",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 251,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>你的元型分泌的特殊液體，擁有治癒能力。</p><p>只有你裝備「類別：防具」的元型時有效。在結算階段使用，你的HP回復20點，該效果一劇本可以使用一次。稀有道具。</p><p><em>參照：SSS6 P48</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "SSS6 P48"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

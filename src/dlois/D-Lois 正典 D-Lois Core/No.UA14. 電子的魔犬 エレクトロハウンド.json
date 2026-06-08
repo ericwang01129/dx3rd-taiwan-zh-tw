@@ -1,0 +1,40 @@
+{
+  "_id": "ekuEIR0ueFnxC7mB",
+  "_key": "!items!ekuEIR0ueFnxC7mB",
+  "name": "No.UA14. 電子的魔犬 エレクトロハウンド",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 149,
+  "system": {
+    "description": "<p>你是特化操作互聯網或電腦之間的網絡的雷擊黑犬症候持有者。</p><p>你與電子空間的親和性非常之高，將自身的生物電流注入電腦，就能感受到如同將五感直接投影進電子空間一般的沉浸感。對你來說，需要物理連接的黑客相當於沒有開化的動物。</p><p>你將自己的意識投影到電子空間，可以去到這個世界的任何地方。如果將意識接入人造衛星，可以監視世界的任何地方。此外，你可以訪問想要的任何知識。現在基本沒有不接入網絡的數據庫，幾乎不可能有情報絕對與外部隔離。</p><p><em>效果：只限症狀為【雷擊黑犬】的角色可取得。\n你可以監視一切，即使在現實中行動也可以將部分意識接入網絡，如同千里眼一般觀測世界。\n你所有的判定骰子+4個。你可以使用主要動作問GM問題，GM可以拒絕回答。這個效果1劇本最多可以使用3次，拒絕時不計入次數。\n你也可以用主要動作讓一個機械或無人機無法戰鬥，這一行動會被記入使用次數。GM可以在無法聯網的情況下限制這一D露易絲的效果。</em> / <em>備註：雷擊黑犬專用</em> / <em>參照：DF P31</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA14",
+      "source": "DF P31"
+    }
+  }
+}

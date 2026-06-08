@@ -1,0 +1,40 @@
+{
+  "_id": "la5YpKUSmdkGebpL",
+  "_key": "!items!la5YpKUSmdkGebpL",
+  "name": "守護天貓",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 81,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>以網絡為媒介獲得貓川美亞的黑客支援。到事件解決為止的支援本來是工作外的內容，但她似乎令人意外地富有責任感，會一直幫到最後。這種時候，她會讓親手製作的貓型形象顯現在各種顯示器上進行協助。另外，正確來說Meerkat（ミーアキャット）不是貓而是貓鼬，但這一點被她無視了（譯注：ミーア=美亞，キャット=貓，組合起來正好是美亞貓貓；但ミーアキャット實際上是貓鼬，美亞自己搞錯了但是死不承認）。</p><p><em>REC：貓川美亞</em> / <em>次數：1/劇本</em> / <em>通常效果：準備階段使用，該場景間你進行的<知識：機械工學>判定骰數+2個。\n該效果一劇本可以使用一次。</em> / <em>強化效果：使用通常效果時追加效果：你使用主要動作進行的判定骰數+3個，行動值+5。</em> / <em>備註：IA新增</em> / <em>參照：IA P209</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：貓川美亞",
+      "source": "IA P209"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

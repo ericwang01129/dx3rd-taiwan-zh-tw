@@ -1,0 +1,40 @@
+{
+  "_id": "zRSk8MUV3RHIpVBk",
+  "_key": "!items!zRSk8MUV3RHIpVBk",
+  "name": "No.HR34. 強敵",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 35,
+  "system": {
+    "description": "<p><em>效果：REC：取得時選擇</em> / <em>通常效果：於你對取得了其Lois的對象進行攻擊時生效，使該攻擊的傷害+1D10</em> / <em>強化效果：攻擊的對象為選作「REC」的角色時，「通常效果」所增加的傷害額外再+1D10（合計+2D10）。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR34",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "dVM87XualCJ25Jqq",
+  "_key": "!items!dVM87XualCJ25Jqq",
+  "name": "絕對強力坦克 （ジャガンナートタンク）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 365,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/skoll/race-car.svg",
+  "system": {
+    "description": "<p>將通過非法管道籌措的戰車改造成超越者專用特殊車輛，可以依超越者意志操縱</p><p><em>效果：技能：<RC>    攻擊力：15  行動值：-10   裝甲值：25   全力移動：40m\n使用該載具進行的判定可以組合[技能：<駕駛：●●>]異能，因該載具使行動值降低到0以下時按照1計算</em> / <em>備註：IA新增</em> / <em>參照：IA P170</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 50,
+    "equipment": true,
+    "type": "紋章/載具",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "神恩天國 取得條件：職業為黑手黨、刺客、小偷、駭客的角色",
+      "source": "IA P170"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

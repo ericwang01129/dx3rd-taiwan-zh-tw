@@ -1,0 +1,40 @@
+{
+  "_id": "bX8pCAuzdlHUQhdg",
+  "_key": "!items!bX8pCAuzdlHUQhdg",
+  "name": "炸裂穿甲彈",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 207,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>由對原菌部隊特別使用的特殊穿甲彈，能在對方體內爆炸，一直破壞到無法再生為止。</p><p>次要動作使用，該主要階段中使用名字中帶有[機關][步槍][霰彈槍][擲彈炮][榴彈發射器]的武器進行的射擊攻擊傷害+1D10。</p><p><em>參照：IA P45</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "1",
+      "difficulty": 8
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P45"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

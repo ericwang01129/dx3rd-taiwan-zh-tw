@@ -1,0 +1,40 @@
+{
+  "_id": "NTnKG5tzSDGigPgf",
+  "_key": "!items!NTnKG5tzSDGigPgf",
+  "name": "惡魔之血 （デーモンブラッド／悪魔の血）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 251,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/heart-key.svg",
+  "system": {
+    "description": "<p>表示你受聯絡卿注意的紋章，你被分到了特殊的背教者病毒，它們更具有攻擊性，也能強化衝動</p><p><em>效果：取得時選擇一項能力值（肉體/感覺/精神/社會），你進行攻擊的攻擊力+[選擇的能力值]，你在場景中登場時的侵蝕率增長+1（最大增長10）</em> / <em>備註：IA新增</em> / <em>參照：IA P157</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "核心紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH法外者 取得條件：沒有取得FH通用以外紋章的角色",
+      "source": "IA P157"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

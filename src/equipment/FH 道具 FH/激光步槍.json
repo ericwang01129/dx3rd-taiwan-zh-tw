@@ -1,0 +1,37 @@
+{
+  "_id": "GGimikl4A0W2J50d",
+  "_key": "!items!GGimikl4A0W2J50d",
+  "name": "激光步槍",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 15,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/sbed/rifle.svg",
+  "system": {
+    "description": "<p>能射出激光的步槍，擁有複雜的構造，使用者需要相當高的知識。</p><p>裝備該武器需要<知識：機械工學>LV4以上。使用該武器進行的射擊攻擊無視對象裝甲值計算傷害。該武器一劇本可以使用三次。雙手持握。至近不可。稀有道具。</p><p><em>射程：200m</em> / <em>參照：IA P123</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "12",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 8,
+    "guard": 0,
+    "range": "200m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P123"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

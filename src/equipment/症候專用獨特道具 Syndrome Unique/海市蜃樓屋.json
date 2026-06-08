@@ -1,0 +1,40 @@
+{
+  "_id": "SVCFtWmaCE89nE79",
+  "_key": "!items!SVCFtWmaCE89nE79",
+  "name": "海市蜃樓屋",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 13,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>在持有者身邊自動展開、帶有鏡子般外裝的小型無人機，使用天使光環讓光線亂反射能讓人無法預測攻擊軌跡。</p><p>你以[技能：RC]進行天使光環異能的攻擊，對象為[對象：範圍]、[對象：範圍（選擇）]、[對象：場景]、[對象：場景（選擇）]時，該攻擊的對象進行的回應動作判定骰數-3個。</p><p><em>參照：IA P73</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P73"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

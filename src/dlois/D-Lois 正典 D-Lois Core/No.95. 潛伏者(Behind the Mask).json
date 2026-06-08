@@ -1,0 +1,40 @@
+{
+  "_id": "d9dkFpp9g9crBUYK",
+  "_key": "!items!d9dkFpp9g9crBUYK",
+  "name": "No.95. 潛伏者(Behind the Mask)",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 95,
+  "system": {
+    "description": "<p>表示你是進行潛入工作的特務的D露易絲。</p><p><em>效果：取得此D露易絲時選擇一個技能。\n於你進行任何判定前使用，該判定的達成值+5，\n如果該判定使用的是選擇的技能，達成值便改成+10。\n此效果1場景最多使用1次，1劇本最多使用3次。\n你可以在團前重選此技能，此時可以變更名字跟身分（但代號不變）。\n玩家須與GM討論並決定新的「自己」的相關詳細設定。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.95",
+      "source": ""
+    }
+  }
+}

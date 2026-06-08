@@ -1,0 +1,40 @@
+{
+  "_id": "hHFj6vOmtPa9nOpl",
+  "_key": "!items!hHFj6vOmtPa9nOpl",
+  "name": "夕暮登場！",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 6,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>緊急召集\"夕暮\"成員的聯繫道具。能夠喚來\"夕暮\"的成員幫助阻礙敵人行動。</p><p><em>REC：強羅琉璃 or 拉哈布 or 加賀美志津香 or Haunt or 強羅琉衣</em> / <em>次數：1/劇本</em> / <em>通常效果：準備階段使用，該場景中登場的任意角色全員進行的判定骰數-5個，持續至回合結束。\n該效果一劇本可以使用一次。</em> / <em>強化效果：受到通常效果影響中的角色進行的移動距離-10m（最低1m）。</em> / <em>參照：IA P197</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：強羅琉璃",
+      "source": "IA P197"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

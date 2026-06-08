@@ -1,0 +1,40 @@
+{
+  "_id": "ZzPevGQm4GrJ01nG",
+  "_key": "!items!ZzPevGQm4GrJ01nG",
+  "name": "No.HR09. 惡運",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 10,
+  "system": {
+    "description": "<p><em>效果：REC：藥王寺結希</em> / <em>通常效果：于你即將受到傷害時使用，你（預定）受到的傷害-5D10，這個效果一個劇本中可以使用三次</em> / <em>強化效果：「通常效果」可以在一次傷害結算中多次使用，此時，效果將會被迭加。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR09",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "SXU7YfMwmyH11vff",
+  "name": "怪醫杜立德 (ドクタードリトル)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/zeromancer/heart-plus.svg",
+  "folder": "47r01TSVVubrkaef",
+  "sort": 0,
+  "system": {
+    "description": "<p>表示你能完全掌握世界上的任何語言，連動物的意思都可能理解的異能。</p><p>你不管走到世界的哪裡都不會因語言而困擾。</p><p>GM認為有必要的話，可要求用<交涉>進行判定。</p><p><em>參照：規則2P149</p><p>EAP95</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "神腦演算 Neumann",
+      "syndromeItemId": "ohcrpvm6g5xHhvRM",
+      "source": "規則2P149\nEAP95"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!SXU7YfMwmyH11vff"
+}

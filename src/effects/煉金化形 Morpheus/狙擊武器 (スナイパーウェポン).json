@@ -1,0 +1,64 @@
+{
+  "_id": "d6IW2I4Q1p5hWHt1",
+  "name": "狙擊武器 (スナイパーウェポン)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "folder": "1c2f74fWFU3n9X1W",
+  "sort": 0,
+  "system": {
+    "description": "<p>把生成的武器定制成長距離狙擊專用。</p><p>須與《百槍》組合使用，製作出來的武器射程變更為視界，</p><p>使用該武器的<射擊>判定達成值+[LV×2]，但此武器無法攻擊同一接戰區的角色。</p><p><em>參照：RWP39</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "煉金化形 Morpheus",
+      "syndromeItemId": "VAwDGRpXdkn7vZjE",
+      "source": "RWP39"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!d6IW2I4Q1p5hWHt1"
+}

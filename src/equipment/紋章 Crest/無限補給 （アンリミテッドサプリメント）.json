@@ -1,0 +1,40 @@
+{
+  "_id": "clpJvx5LwyLBKne1",
+  "_key": "!items!clpJvx5LwyLBKne1",
+  "name": "無限補給 （アンリミテッドサプリメント）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 86,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>由UGN提供的消耗品補充支援，評議員親身行動時，來自組織的後援是理所當然的事情。</p><p><em>效果：你常備化的「種類：消耗品」不會因使用而失去</em> / <em>參照：IA P139</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 60,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN中樞評議會（Axis） 取得條件：職業為UGN特工A~D、UGN支部長A~D 需要GM同意 取得該類紋章的角色將會稱為UGN中樞評議會的評議員之一",
+      "source": "IA P139"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "VyWK62k77QE2flRF",
+  "_key": "!items!VyWK62k77QE2flRF",
+  "name": "釘頭錘",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 12,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spinning-sword.svg",
+  "system": {
+    "description": "<p>專門用來戰鬥的鈍器，有釘頭錘、戰錘、大錘等，包含晨星錘等帶刺的武器。</p><p><em>射程：至近</em> / <em>參照：IA P23</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "4",
+      "difficulty": 8
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 4,
+    "guard": 2,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P23"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

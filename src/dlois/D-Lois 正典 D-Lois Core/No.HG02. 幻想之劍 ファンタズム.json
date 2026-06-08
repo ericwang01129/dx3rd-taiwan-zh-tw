@@ -1,0 +1,40 @@
+{
+  "_id": "5OXkdg2U413AEedN",
+  "_key": "!items!5OXkdg2U413AEedN",
+  "name": "No.HG02. 幻想之劍 ファンタズム",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 108,
+  "system": {
+    "description": "<p>這個世界上存在著並非人類製作的魔法武具。有妖精直接施加咒術的武器，或是大地矮人親手打造的兵器，以及巨龍珍藏的劍等等。</p><p>因為某種偶然，你獲得了這樣的裝備。也許那是勇敢冒險的報酬。</p><p>武器中確實蘊含著如同魔法般的力量。說白了，它們就是EX背教者，魔法力量就是異能。</p><p>當然，擁有這樣的武器是騎士們的憧憬。但同時，這也是衡量你作為騎士的器量的標準。</p><p>如果擁有超出自身能力的武器，終有一天武器會對你失去興趣而離去。</p><p>要成為配得上武器的人物，需要努力、鍛煉，以及正確的行為。武器也會選擇騎士。</p><p><em>效果：此D-lois只能在「舞臺：聖杯傳說」中取得。\n\n指定你所持有的一件武器或防具。該道具成為妖精製作的武具。其中蘊含著強大的魔力，也就是異能。\n從任意症候中選擇一個異能，取得Lv3的該異能（「最大等級：1」的異能以Lv1取得），不需要消耗經驗值。但無法選擇「時機：常駐」或「限制：純血種、極限」的異能，也無法選擇衝動異能和敵人異能。\n透過此效果取得的異能，只有在裝備指定道具期間才能使用，一劇本可以使用一次，且侵蝕值額外+3。如果取得有使用次數限制的異能，你的侵蝕率基本值+3。另外，你無法使用經驗值來成長此D-lois取得的異能。</em> / <em>參照：OC P39</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.HG02",
+      "source": "OC P39"
+    }
+  }
+}

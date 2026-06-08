@@ -1,0 +1,40 @@
+{
+  "_id": "sG0yznpPE9lNFA7E",
+  "_key": "!items!sG0yznpPE9lNFA7E",
+  "name": "麥克斯韋程序",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 193,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>觀察周圍分子運動並數據化的程序，自由操縱熱量的冰炎奇蜥症候持有者可以活用於自由操縱能量的流動。</p><p>與你處於同一接戰區域的對象進行判定前使用，你選擇該判定骰數+3個或-3個，該效果一劇本可以使用三次。</p><p><em>參照：IA P93</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P93"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

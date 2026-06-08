@@ -1,0 +1,64 @@
+{
+  "_id": "mQZpK8S3bDcLysPF",
+  "name": "解放之滴",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/heraldic-sun.svg",
+  "folder": "W4u8CenVorKafxlc",
+  "sort": 0,
+  "system": {
+    "description": "<p>生成活性化背教者的物質，增強對象能力的異能。</p><p>該回合間，對象所進行的主要動作判定達成值+[LV×3]，接受這個效果的對象侵蝕率上升2。只能對同意此效果的對象使用。</p><p><em>參照：RUP17</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "解放120%",
+    "timing": "initiative",
+    "target": "範圍(選擇)",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "幻象惑星 Solaris",
+      "syndromeItemId": "HgCooNxQHXJK0I8O",
+      "source": "RUP17"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!mQZpK8S3bDcLysPF"
+}

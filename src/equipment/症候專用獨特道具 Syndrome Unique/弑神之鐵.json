@@ -1,0 +1,40 @@
+{
+  "_id": "xsTgEfDc7JjHISgD",
+  "_key": "!items!xsTgEfDc7JjHISgD",
+  "name": "弑神之鐵",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 256,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>有著與元型的親和性的小塊金屬。能夠提升元型作為武器的特性。</p><p>與使用「類別：近戰」「類別：射擊」的武器的攻擊同時使用，攻擊傷害+2D，該效果一劇本可以使用三次。</p><p><em>參照：SSS6 P48</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "SSS6 P48"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

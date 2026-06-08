@@ -1,0 +1,40 @@
+{
+  "_id": "6M9JD2HdW4VwzyAa",
+  "_key": "!items!6M9JD2HdW4VwzyAa",
+  "name": "No.RW01. 英雄殿堂 レジェンド",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 162,
+  "system": {
+    "description": "<p>你曾經獲得過那個傳說中數年才會誕生一次的英雄等級：LG。</p><p>LG等級是一個充滿謎團的等級。</p><p>所謂數年才誕生一次，似乎只是因為審查標準極為嚴格；據說過去也曾出現過同時存在多名LG的情況。而且它似乎也不是單純頒給排行榜最上位者的稱號。</p><p>無論如何，你被選為那個傳說的象徵。街上的人們會將你視為希望的化身而讚頌。</p><p><em>效果：此D-lois只能在「舞臺：背教者戰爭」中取得。\n\n你獲得一項獨特道具，分類：LG。資料如下。你無法再取得其他「分類：～」的獨特道具。\n分類：LG\n種類：其他\n必要經驗值：不可\n解說：象徵你曾在英雄排行榜中獲得榮耀殿堂——LG等級。\n取得時，選擇你已取得的一個異能。該異能的侵蝕值可變更為10。\n若該異能可多次使用，則將其侵蝕值變更為10的效果在1個劇本中僅能使用1次。</em> / <em>參照：CE P46</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.RW01",
+      "source": "CE P46"
+    }
+  }
+}

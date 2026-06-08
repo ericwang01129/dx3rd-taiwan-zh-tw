@@ -1,0 +1,40 @@
+{
+  "_id": "WWepHwpKns9KJAzt",
+  "_key": "!items!WWepHwpKns9KJAzt",
+  "name": "No.40. 人器合一 (流亡畸體專用) ツールマスター Tool Master",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 40,
+  "system": {
+    "description": "<p>你有著與道具一體化，更上手的使用道具的技術。</p><p>與武器一體化的話，那武器就像你的手足一樣可自由操控。與電腦一體化的話，會有著網路與大腦直聯的感覺。與車一體化的話，會感受到風吹過車體的觸感，將車輪視作自己的腳。</p><p>雖然流變能力者有著與他人融合的能力存在，但像你那樣跟無機物融合並發揮效果的例子幾乎沒有二例。研究員提出一種假說，你體內的R病毒，性質上可能非常接近會感染器物的EX R病毒，因此才有著與道具的高親和性。</p><p><em>效果：你使用了與你一體化的道具的判定的骰數+3D，這個效果只要是使用了「種類：關聯」以外道具的判定就可以適用。但即是使用多個道具的判定，這個效果也不會因此而迭加。\n此外，以空手以外武器進行的格擋，格擋值+5，但你以空手進行攻擊的判定骰數-3D。\n一體化和解除一體化均為自動動作，任何時候都可以進行宣言。你的肉體會因為一體化而產生變形，但不會因此而導致你的肉體或是道具被破壞。</em> / <em>備註：流亡畸體專用</em> / <em>參照：LM P80</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.40",
+      "source": "LM P80"
+    }
+  }
+}

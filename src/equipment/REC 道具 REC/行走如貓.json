@@ -1,0 +1,40 @@
+{
+  "_id": "uThvVZgBh9543kVt",
+  "_key": "!items!uThvVZgBh9543kVt",
+  "name": "行走如貓",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 80,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>表示身為優秀黑客的貓川美亞的技術。她那什麼情報都能迅速搞到手的實力毫無疑問貨真價實；雖然偶爾會馬虎，但還是很受人喜歡，只要理解這點就能構築起理想的信賴關係。不常為人所知的是，用變異魔獸異能變成動物收集情報是她的底牌之一。</p><p><em>REC：貓川美亞</em> / <em>通常效果：你進行情報收集判定時可以消費1點財產點數，使判定達成值+2。\n該效果一次判定最多可以使用1點財產點數。</em> / <em>強化效果：使用通常效果時可以消費最多3點財產點數（即，最多使達成值+6）。</em> / <em>備註：IA新增</em> / <em>參照：IA P209</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：貓川美亞",
+      "source": "IA P209"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

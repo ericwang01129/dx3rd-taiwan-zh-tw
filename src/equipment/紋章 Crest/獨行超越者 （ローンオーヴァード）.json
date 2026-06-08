@@ -1,0 +1,40 @@
+{
+  "_id": "OxCb9iZ2tbXApmRg",
+  "_key": "!items!OxCb9iZ2tbXApmRg",
+  "name": "獨行超越者 （ローンオーヴァード）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 243,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你因為協助FH的代價無法任何人親近，孤獨地生活著的紋章。不堅強就無法生存下去，你因這份孤獨而變得強大</p><p><em>效果：你的最大HP+10，但你的侵蝕率基本值+4</em> / <em>參照：IA P156</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH法外者 取得條件：沒有取得FH通用以外紋章的角色",
+      "source": "IA P156"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

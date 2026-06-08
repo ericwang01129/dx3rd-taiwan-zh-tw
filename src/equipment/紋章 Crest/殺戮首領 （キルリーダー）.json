@@ -1,0 +1,40 @@
+{
+  "_id": "fWpJtTySxhdwAUlb",
+  "_key": "!items!fWpJtTySxhdwAUlb",
+  "name": "殺戮首領 （キルリーダー）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 269,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>贈與各地區中殺死最多敵對組織特工者的稱號，其中最優秀的據說會被授予尊主之名</p><p><em>效果：你對超越者造成的傷害+2D10</em> / <em>備註：IA新增</em> / <em>參照：IA P159</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH通用 取得條件：職業為FH，或是身為FH法外者的角色",
+      "source": "IA P159"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

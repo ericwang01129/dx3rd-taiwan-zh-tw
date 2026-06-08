@@ -1,0 +1,40 @@
+{
+  "_id": "0FIgZJY8pM1zoXx5",
+  "_key": "!items!0FIgZJY8pM1zoXx5",
+  "name": "ε印記 （イプシロンマーカー）",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 6,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>表示你是“幽魂之主05”約翰·C·考德威爾部下的貼紙，往往都會好好地貼在防具或者載具上。</p><p><em>效果：你取得對「約翰·C·考德威爾」的Lois期間，所有判定的骰數+1個。</em> / <em>參照：IA P188</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P188"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

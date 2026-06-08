@@ -1,0 +1,64 @@
+{
+  "_id": "Z2WmjZbFHlCbzdzN",
+  "name": "支援射擊",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "folder": "47r01TSVVubrkaef",
+  "sort": 0,
+  "system": {
+    "description": "<p>進行支持射擊的異能。</p><p>只能在裝備「技能：<射擊>」的武器時使用，此異能射程為裝備的武器的射程。</p><p>於你以外的對象進行判定前使用，對象的判定骰數+LV顆。</p><p><em>參照：規則2P143</p><p>EAP90</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "1/回合",
+    "timing": "auto",
+    "target": "單體",
+    "range": "參照效果",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 1,
+      "level": false,
+      "disable": "round"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "神腦演算 Neumann",
+      "syndromeItemId": "ohcrpvm6g5xHhvRM",
+      "source": "規則2P143\nEAP90"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Z2WmjZbFHlCbzdzN"
+}

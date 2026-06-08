@@ -1,0 +1,40 @@
+{
+  "_id": "tWniziQqn5TystKb",
+  "_key": "!items!tWniziQqn5TystKb",
+  "name": "元型：裝甲兵器",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 63,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/skoll/race-car.svg",
+  "system": {
+    "description": "<p>《弑神之刃》作出的可以乘坐的巨大兵器。是可以用壓倒性的裝甲蹂躪敵人的弑神武器形元型。</p><p>製作時決定判定時使用的<駕駛：●●>，此載具可以裝備LV個搭載火器，全力移動為50m。</p><p><em>參照：UAP27</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "載具/元型",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "UAP27"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

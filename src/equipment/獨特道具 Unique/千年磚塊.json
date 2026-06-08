@@ -1,0 +1,34 @@
+{
+  "_id": "yN8foRMj3b6z6aEJ",
+  "_key": "!items!yN8foRMj3b6z6aEJ",
+  "name": "千年磚塊",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 108,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>古代遺跡內發現的迷之八面體護符，解開表面浮現的謎題後就會啟動並放出強大的能量。</p><p>準備階段使用，該回合間你造成的傷害+5D10，若你為【精神】8以下無法使用該效果，該效果一劇本可以使用一次。</p><p><em>參照：IA P68</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 50,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P68"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

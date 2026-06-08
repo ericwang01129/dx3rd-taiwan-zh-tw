@@ -1,0 +1,40 @@
+{
+  "_id": "hZfD9vcOdUBUnH1o",
+  "_key": "!items!hZfD9vcOdUBUnH1o",
+  "name": "死亡武器 （ダイドウェポン）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 139,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你使用的武具在作戰行動中受到了重度背教者污染的紋章，這件道具在UGN嚴密監視下才被允許使用</p><p><em>效果：取得時選擇你已取得的一件武器，使用該武器進行攻擊判定前使用，該判定暴擊值-2（下限5），判定後你的侵蝕率+1D10</em> / <em>備註：IA新增</em> / <em>參照：IA P145</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 40,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN通用 取得條件：職業為UGN系，或是身為UGN法外者的角色",
+      "source": "IA P145"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

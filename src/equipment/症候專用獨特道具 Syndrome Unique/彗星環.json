@@ -1,0 +1,40 @@
+{
+  "_id": "pc9gxYfvb0ABLjCg",
+  "_key": "!items!pc9gxYfvb0ABLjCg",
+  "name": "彗星環",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 32,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>將隕石加工而成的手環，能感應異能根據重力產生力場。</p><p>你進行的使用了《重力防護》的格擋值+10，該效果一場景可以使用一次。</p><p><em>參照：IA P75</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P75"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

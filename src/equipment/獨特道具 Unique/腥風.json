@@ -1,0 +1,37 @@
+{
+  "_id": "PIXhjeszplIqaGc1",
+  "_key": "!items!PIXhjeszplIqaGc1",
+  "name": "腥風",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 17,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>揮舞就能引起風暴的大戰斧，面對大軍才能發揮威力。</p><p>使用該武器進行攻擊判定前使用，該攻擊若非[對象：單體]則傷害+3D10，使用該效果時你的侵蝕率+3。雙手持握。</p><p><em>射程：至近</em> / <em>參照：IA P57</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 60,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -3,
+    "attack": 17,
+    "guard": 4,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P57"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

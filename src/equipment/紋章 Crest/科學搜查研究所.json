@@ -1,0 +1,40 @@
+{
+  "_id": "qEl4TM3AQxI5cEeT",
+  "_key": "!items!qEl4TM3AQxI5cEeT",
+  "name": "科學搜查研究所",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 344,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>集約了科學性搜查所需的技術和資料的研究所、於法醫學研究室之中有著負責背教者對策的部門，獨立進行著有關背教者病毒的研究和情報收集</p><p><em>效果：技能：<情報：員警>\n<情報：員警>的判定骰數+2個</em> / <em>參照：IA P168</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/關聯",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "公安員警特殊犯罪調查室 取得條件：職業為刑警或是鑒定員的角色",
+      "source": "IA P168"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

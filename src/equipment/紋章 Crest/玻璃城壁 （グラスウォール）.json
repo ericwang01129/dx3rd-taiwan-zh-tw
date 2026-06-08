@@ -1,0 +1,37 @@
+{
+  "_id": "cpAn0n5hAS9QhU6x",
+  "_key": "!items!cpAn0n5hAS9QhU6x",
+  "name": "玻璃城壁 （グラスウォール）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 112,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>特殊素材製作的強化塑膠盾，耐久性較差</p><p><em>備註：IA新增</em> / <em>參照：IA P142</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/近戰",
+    "skill": "-",
+    "add": 0,
+    "attack": 0,
+    "guard": 0,
+    "range": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN通用 取得條件：職業為UGN系，或是身為UGN法外者的角色",
+      "source": "IA P142"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

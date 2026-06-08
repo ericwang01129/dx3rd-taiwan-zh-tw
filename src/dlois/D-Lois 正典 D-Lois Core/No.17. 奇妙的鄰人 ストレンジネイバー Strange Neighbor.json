@@ -1,0 +1,40 @@
+{
+  "_id": "1a2055NB6QeXdWbc",
+  "_key": "!items!1a2055NB6QeXdWbc",
+  "name": "No.17. 奇妙的鄰人 ストレンジネイバー Strange Neighbor",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 17,
+  "system": {
+    "description": "<p>世界上的RB一個接著一個覺醒，而其中一個協力型RB，在某一天突然出現在你的體內。你注意到它的存在時，一定產生恐慌或是心理障礙吧。但是跨過那個混亂期，你與對方建立了牽絆。你獲得他的協助，學到其他超越者不可能做到的能力。</p><p><em>效果：取得時這D露易絲時，可以從RB專用能力中免費獲得一個《起源：●●》的能力Lv1。\n之後也可以消耗經驗值取得《人類之鄰》以外的RB專用能力或提升能力等級。\n你被協力型的RB所憑依，名字跟形狀可自由設定。\n憑依的RB可以是與你意識共生，或是獨立型的角色，但規則上視作與角色為統一對象，GM認可的情況下可做為NPC登場。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.17",
+      "source": ""
+    }
+  }
+}

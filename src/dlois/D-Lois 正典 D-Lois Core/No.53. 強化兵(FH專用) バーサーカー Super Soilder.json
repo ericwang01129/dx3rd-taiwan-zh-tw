@@ -1,0 +1,40 @@
+{
+  "_id": "1gt7X83Kbl9zmhoK",
+  "_key": "!items!1gt7X83Kbl9zmhoK",
+  "name": "No.53. 強化兵(FH專用) バーサーカー Super Soilder",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 53,
+  "system": {
+    "description": "<p>你是經常參與戰鬥任務的ＦＨ特務。他人也只對你所擅長的蠻力有所期待。殺戮是你的專長，你的刀刃能輕易撕裂裝甲，你的子彈能輕易命中要害。這份能力可能是你的天分，亦或是訓練的結果。但要注意你心中的黑暗慢慢的在侵蝕著你，遲早會整個吞掉你的靈魂，使你成為只會破壞的怪物。</p><p><em>效果：只有職業為【FH】相關的角色可以取得\n你進行的所有近戰、射擊攻擊的傷害+2D10\n此外，你可以照常消耗常備點來常備化FH專用道具，以該D-Lois取得的道具基本上除你以外均無法使用和裝備，即時持有也無法受到其效果影響。\n但是，你進行的<意志>判定達成值總是-5（不會因此降低到0以下），請注意這個效果也會應用於衝動判定之上</em> / <em>備註：FH專用</em> / <em>參照：PE P32</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.53",
+      "source": "PE P32"
+    }
+  }
+}

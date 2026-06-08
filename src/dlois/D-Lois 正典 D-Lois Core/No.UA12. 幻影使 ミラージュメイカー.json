@@ -1,0 +1,40 @@
+{
+  "_id": "K4CGu25a6NhZIiM3",
+  "_key": "!items!K4CGu25a6NhZIiM3",
+  "name": "No.UA12. 幻影使 ミラージュメイカー",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 147,
+  "system": {
+    "description": "<p>你是擅長操縱幻影的天使光環症候者。</p><p>你眼中的世界隨時都可以被改寫成你想要的景色。光、暗都只是裝點世界這個校園的畫具。</p><p>你生成的光學幻影十分精緻，無論怎麼仔細看都不遜色於實物。即使像實物一樣動起來，也不會讓人感到違和，識破不了幻象。</p><p>迷失在實物與幻象的夾縫間的獵物，將會永遠被囚禁在其中。</p><p><em>效果：只限症狀為【天使光環】的角色可取得。\n自動獲得異能【幻影擬餌】Lv1，視為天使光環異能力，可使用經驗提升等級。\n幻影擬餌\n最大等級：5\n時機：回應動作\n技能：症候\n難易度：對決\n對象：自身\n射程：至近\n侵蝕：4\n限制：D露易絲\n效果：組合的判定閃避成功時，對進行攻擊的角色造成[LV+2]點的HP傷害。</em> / <em>備註：天使光環專用</em> / <em>參照：DF P30</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA12",
+      "source": "DF P30"
+    }
+  }
+}

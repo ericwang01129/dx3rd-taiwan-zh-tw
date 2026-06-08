@@ -1,0 +1,40 @@
+{
+  "_id": "Yz4Ugz5zBIXRDWkT",
+  "_key": "!items!Yz4Ugz5zBIXRDWkT",
+  "name": "No.14. 安定體 スタビリティ Stability",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 14,
+  "system": {
+    "description": "<p>你擅長控制R病毒。跟其他超越者相比，你有著抵抗超越者之間衝動共鳴的抵抗力。因為有著使R病毒安定的能力而在研究員中被稱為安定體。</p><p>你可能是熟練控制R病毒的方法，或是無自覺的抑制R病毒。或是單純性格上的安定，或是某種手術的結果。詳細設定可以跟GM討論</p><p><em>效果：你在回溯階段擲骰後使用，可以再重骰一次，然後跟之前的結果中選擇一個使用。\n但是，重骰時必須使用之前所投擲的骰子數目，不能改成兩倍或改為一倍。此效果只能用於一倍或雙倍回溯，不能用於追加擲骰上。\n次數限制：劇本中一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.14",
+      "source": ""
+    }
+  }
+}

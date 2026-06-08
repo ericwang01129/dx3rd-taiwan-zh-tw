@@ -1,0 +1,64 @@
+{
+  "_id": "W7WqnPpqlbd8XBu6",
+  "name": "火箭飛拳 (ロケットアーム)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/carl-olsen/flame.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>射出身體的一部分，進行遠程操作來攻擊的異能。</p><p>該主要階段間，你的空手數據變更為</p><p>種類：射擊　技能：<射擊>  射程：[LV×10]m</p><p>此外，使用該空手進行的攻擊不能以與你接戰的角色為對象。</p><p><em>參照：CEP64</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 1,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 10,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "CEP64"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!W7WqnPpqlbd8XBu6"
+}

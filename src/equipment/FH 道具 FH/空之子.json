@@ -1,0 +1,40 @@
+{
+  "_id": "NLoZfGukHQJzZMzM",
+  "_key": "!items!NLoZfGukHQJzZMzM",
+  "name": "空之子",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 26,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/skoll/race-car.svg",
+  "system": {
+    "description": "<p>FH開發的個人用噴氣背包，精密運用需要專業知識，全力移動：參照解說。</p><p>你進入飛行狀態，該載具的全力移動與你的全力移動速度相同。你的戰鬥移動+5m。該載具無法同乘。搭載火器不可。</p><p><em>參照：IA P124</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "5",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "載具",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P124"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

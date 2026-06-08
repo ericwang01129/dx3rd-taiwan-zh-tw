@@ -1,0 +1,40 @@
+{
+  "_id": "blVCxuhcMoplo4S0",
+  "_key": "!items!blVCxuhcMoplo4S0",
+  "name": "No.35. 吸血鬼 (鮮血真祖專用) ヴァンパイア Vampire",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 35,
+  "system": {
+    "description": "<p>你的血液滿溢著生命的精華，其力量可以讓瀕死之人再生。</p><p>這個能力一般是因為由口攝取他人的血液後才發現的，因此你也不例外，有著因為什麼原因喝下血液的經驗。</p><p>在這當中，有因為這個能力的發現而積極攝取血液的超越者，就像是傳說中的吸血鬼。</p><p><em>效果：只限症狀為【鮮血真祖】的角色可取得。\n自動獲得異能【赤之聖餐】Lv1，可使用經驗提升等級。\n這異能視為鮮血真祖的異能\n同時，你不能取得或使用【赤色的從者】的異能\n赤之聖餐 \n最大等級：3 \n時機：準備階段 \n技能：- \n難易度：自動成功 \n對象：單體 \n射程：至近 \n侵蝕：3 \n限制：D露易絲\n次數：1/場景  \n效果：解除對象的【戰鬥不能】狀態，HP+[Lv×5] 。 \n用血液寄宿的力量對肉體再構成的能力</em> / <em>備註：鮮血真祖專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.35",
+      "source": ""
+    }
+  }
+}

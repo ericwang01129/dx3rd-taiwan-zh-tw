@@ -1,0 +1,40 @@
+{
+  "_id": "XPNkzn0cie607OyT",
+  "_key": "!items!XPNkzn0cie607OyT",
+  "name": "No.13. 復仇者 アヴェンジャー Avenger",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 13,
+  "system": {
+    "description": "<p>你抱有復仇的使命，而R病毒也因為你的仇恨而活性化。詳細設定可以跟GM討論。</p><p><em>效果：傷害計算前使用，傷害值追加「【你的最大HP】減去【你現在的HP】」。\n次數限制：劇本中一次。\n取得時這D露易絲時，你的復仇對象必須是你的固定露易絲之一，並且變成泰特司。\n這個泰特司可以照常昇華，但劇本結束後仍然會以泰特司的樣子成為你的固定露易絲。\n你可以在你完成復仇後消除這個D露易絲。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.13",
+      "source": ""
+    }
+  }
+}

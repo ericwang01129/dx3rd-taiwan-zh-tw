@@ -1,0 +1,40 @@
+{
+  "_id": "ifEyIaHRpoEnrtAl",
+  "_key": "!items!ifEyIaHRpoEnrtAl",
+  "name": "No.58. 愚者黃金 デミクリスタル Demi-Crystal",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 58,
+  "system": {
+    "description": "<p>你擁有的是愚者黃金，一種人造的賢者之石，然而到現在仍沒有任何一個組織能重現真正的賢者之石的力量。這偽物比真物弱小很多而被稱作愚人金，所有正常的科學家都將其視為垃圾。問題在於為何你擁有這個東西，是科學家用偽造品進行實驗的結果？是你所犧牲許多所創造出來的失敗品？還是一顆失去力量的真正賢者之石？。</p><p><em>效果：使用異能的判定前發動，所有使用的異能等級＋１。\n可超過其最大等級，但不能增加其使用次數。\n該主要階段結束後，ＨＰ－２Ｄ１０\n次數限制：劇本中一次\n\n擁有這個Ｄ露易絲的角色死亡時，屍體會變成灰燼，留下燃盡的愚人黃金。GM可以為這個現象做出額外的故事。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.58",
+      "source": ""
+    }
+  }
+}

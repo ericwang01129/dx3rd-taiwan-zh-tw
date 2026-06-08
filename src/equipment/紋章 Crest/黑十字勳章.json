@@ -1,0 +1,40 @@
+{
+  "_id": "6TJXu6XX4BzOe7UM",
+  "_key": "!items!6TJXu6XX4BzOe7UM",
+  "name": "黑十字勳章",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 397,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示在對背教者作戰中立下戰功的勳章，其作為菅原陸將私人製造的勳章，與日本政府和防衛隊皆無關係；但正因如此，其在陌生者之中比任何勳章都更有份量</p><p><em>效果：你進行的【社會】判定的骰子數+2個</em> / <em>參照：IA P174</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "紋章：陌生者 取得條件：職業為陌生者、防衛隊員、傭兵的角色",
+      "source": "IA P174"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

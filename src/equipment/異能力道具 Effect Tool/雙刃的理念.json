@@ -1,0 +1,40 @@
+{
+  "_id": "YANDS6r7glOThXSM",
+  "_key": "!items!YANDS6r7glOThXSM",
+  "name": "雙刃的理念",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 75,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>表示你同時生出複數個武器。</p><p>只有《弑神之刃》選擇“元型：近戰武器”或“元型：手槍”時可以使用。製作兩個具備《弑神之刃》效果的武器，但兩把武器分別攻擊力-3。侵蝕率視為使用兩次《弑神之刃》。</p><p><em>參照：UAP28</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "UAP28"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

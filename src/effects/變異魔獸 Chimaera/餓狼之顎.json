@@ -1,0 +1,64 @@
+{
+  "_id": "gPfeqrMNMpRxVQK5",
+  "name": "餓狼之顎",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wolf-head.svg",
+  "folder": "k8mdURTDCDqd4ohp",
+  "sort": 0,
+  "system": {
+    "description": "<p>由於饑餓，爪和牙得到增強，貫穿對象裝甲的異能。</p><p>與這個異能組合的攻擊的攻擊力+[LV×2]並且無視對象裝甲值。如果與組合這個異能的攻擊在對決中敗北，或沒有給對方造成傷害時，這個場景中你的判定骰－5個。</p><p><em>參照：RUP21</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "melee",
+    "difficulty": "對決",
+    "limit": "饑餓120%",
+    "timing": "major",
+    "target": "單體",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "變異魔獸 Chimaera",
+      "syndromeItemId": "89B6GpeiOYVqJYGy",
+      "source": "RUP21"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!gPfeqrMNMpRxVQK5"
+}

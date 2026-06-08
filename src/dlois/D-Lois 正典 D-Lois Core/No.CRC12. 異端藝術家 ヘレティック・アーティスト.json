@@ -1,0 +1,40 @@
+{
+  "_id": "Uzq5HzWFQwdQsG0D",
+  "_key": "!items!Uzq5HzWFQwdQsG0D",
+  "name": "No.CRC12. 異端藝術家 ヘレティック・アーティスト",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 132,
+  "system": {
+    "description": "<p>你是一名特殊的超越者，能透過音樂或繪畫等藝術表現背教者的力量。雖然也有其他人在展現效果時會進行類似行為，但你將藝術與背教者結合，開啟通往〈外神〉領域的大門，讓人一窺瘋狂的領域。</p><p>你演奏的音色、你表現的色彩、你雕刻的作品要麼充滿瘋狂，要麼極度褻瀆，要麼異常完美。這會讓凡人憤怒，使超越者畏懼，令諸神嫉妒。</p><p><em>效果：你進行<RC>判定時可以從你持有的<藝術：>技能中任意選擇一項當作<RC>技能使用。此時還可以同時應用<RC><藝術：>其中任意技能的修正。所進行的判定為攻擊時，你可以無視對象至多你的<意志>×10點裝甲值來計算傷害。\n但為了受益於該效果，你必須實際進行<藝術：>所指定的行為、譬如<藝術：繪畫>時需進行繪畫，<藝術：鋼琴>則必須彈奏鋼琴。此類藝術行為視為與動作同時進行，且必須持有常備化點數1以上的藝術道具（詳見道具表）才能進行。GM可以根據情況設定無法進行此類行為，或是會承受某種負面懲罰的情景。</em> / <em>參照：NC P94</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.CRC12",
+      "source": "NC P94"
+    }
+  }
+}

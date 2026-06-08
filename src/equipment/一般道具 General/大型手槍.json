@@ -1,0 +1,37 @@
+{
+  "_id": "TOcTtEYUJ22vX6UJ",
+  "_key": "!items!TOcTtEYUJ22vX6UJ",
+  "name": "大型手槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 55,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>使用馬格南子彈的大型手槍，後坐力相當之大，使用需要相當程度的技術和力量。</p><p><em>射程：20m</em> / <em>備註：IA修改命中，攻擊力\n-2→-1,5→6</em> / <em>參照：IA P28</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "7",
+      "difficulty": 11
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 6,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P28"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

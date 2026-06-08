@@ -1,0 +1,40 @@
+{
+  "_id": "pIu9akB0B57LkdlM",
+  "_key": "!items!pIu9akB0B57LkdlM",
+  "name": "醫療援助 （メディカルアシスタント）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 144,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>表示擁有從UGN的醫療設施處接受治療權利的紋章。</p><p><em>效果：你沒有登場的場景結束時使用，你的HP回復至HP上限\n該道具可以取得多個</em> / <em>參照：IA P145</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN通用 取得條件：職業為UGN系，或是身為UGN法外者的角色",
+      "source": "IA P145"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

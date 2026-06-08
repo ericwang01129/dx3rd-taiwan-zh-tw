@@ -1,0 +1,40 @@
+{
+  "_id": "9HKgHlTQa3cpd0o9",
+  "_key": "!items!9HKgHlTQa3cpd0o9",
+  "name": "No.9. 複製體 デュプリケイト Duplicate",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 9,
+  "system": {
+    "description": "<p>你是某個人的克隆體，繼承原典的不完全的記憶與一部份的能力。</p><p>現在的技術雖然能複製擁有同樣基因的人類，但是現有的技術無法完整的複製能力，依然受限於個人差異的問題。</p><p>超越者的複製依然不完全，別說能力，其他外觀上的特徵都可能有所差異。</p><p>記憶方面可以跟GM討論設定。</p><p><em>效果：從自己取得的症狀以外的症狀中，選擇並免費以LV1取得一個異能，但無法以此取得「限制:-」以外的異能和敵人專用異能。\n以該效果取得的「時機:常駐」以外的異能的侵蝕值+2，若以此取得「時機:常駐」的異能，則你的侵蝕率基本值+3。\n你可以繼續使用經驗來提升以該D-Lois取得的異能的等級，其最大等級不受你的血統影響，固定與原本記述的最大等級一致。</em> / <em>參照：LM P65</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.9",
+      "source": "LM P65"
+    }
+  }
+}

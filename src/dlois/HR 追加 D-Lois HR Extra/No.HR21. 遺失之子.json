@@ -1,0 +1,40 @@
+{
+  "_id": "k5gE0zoueqTxc8HO",
+  "_key": "!items!k5gE0zoueqTxc8HO",
+  "name": "No.HR21. 遺失之子",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 22,
+  "system": {
+    "description": "<p><em>效果：REC：黑須左京</em> / <em>通常效果：取得該D-Lois時，從你取得的「時機：常駐」以外的異能中選擇一個。所選異能的「等級」和「最大等級」+1。\n此外，你還可以消費常備點數來常備化FH專用道具。\n由此取得的道具基本上只能由你來使用或裝備，其他人即使持有也無法享受其效果</em> / <em>強化效果：於使用「通常效果」中選擇的異能時宣言。所選異能「等級」和「最大等級」再+1（合計+2）。但無法因此增加異能的使用次數。這個效果持續至主要階段結束。這個效果一個劇本中可以使用一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR21",
+      "source": ""
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "_id": "RrsDZ67udxICaHsy",
+  "name": "不良學生",
+  "type": "works",
+  "img": "icons/svg/book.svg",
+  "folder": "EQcE7Nyzvu9GyQkR",
+  "sort": 0,
+  "system": {
+    "description": "<p><strong>來源：</strong>真實身份表 1</p><p><strong>主要能力值：</strong>【肉體】</p>",
+    "skillTmp": "melee",
+    "skills": {
+      "melee": {
+        "key": "melee",
+        "name": "近戰",
+        "base": "body",
+        "add": 1,
+        "apply": true
+      },
+      "ride": {
+        "key": "ride",
+        "name": "駕駛",
+        "base": "sense",
+        "add": 2,
+        "apply": true
+      },
+      "perception": {
+        "key": "perception",
+        "name": "知覺",
+        "base": "sense",
+        "add": 1,
+        "apply": true
+      },
+      "will": {
+        "key": "will",
+        "name": "意志",
+        "base": "mind",
+        "add": 1,
+        "apply": true
+      },
+      "info_黑社會": {
+        "key": "info_黑社會",
+        "name": "情報：黑社會",
+        "base": "social",
+        "add": 1,
+        "apply": true
+      }
+    },
+    "attributes": {
+      "body": {
+        "value": 1
+      },
+      "sense": {
+        "value": 0
+      },
+      "mind": {
+        "value": 0
+      },
+      "social": {
+        "value": 0
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "table": "真實身份表 1",
+      "primaryAttr": "body"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!RrsDZ67udxICaHsy"
+}

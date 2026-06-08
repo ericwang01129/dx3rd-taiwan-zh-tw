@@ -1,0 +1,37 @@
+{
+  "_id": "ajvStemyM03Hvz58",
+  "_key": "!items!ajvStemyM03Hvz58",
+  "name": "大口徑手槍",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 63,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>使用10mm~.45口徑大型彈頭的手槍，不僅採用了最新的後坐力控制方式，還安裝了複合配件增加了精度，一般不在市面上販賣，全部被特殊部隊和執法機關採購。</p><p><em>射程：20m</em> / <em>參照：IA P28</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "11",
+      "difficulty": 15
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 8,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P28"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

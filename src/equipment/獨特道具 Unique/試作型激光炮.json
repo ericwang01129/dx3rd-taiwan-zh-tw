@@ -1,0 +1,37 @@
+{
+  "_id": "cRsQAtHjsLs0jO8A",
+  "_key": "!items!cRsQAtHjsLs0jO8A",
+  "name": "試作型激光炮",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 25,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>UGN試做的步兵用自由電子激光炮，需要搭配巨大的背包型電池使用（雷擊黑犬症候除外）。</p><p>使用該武器進行的攻擊在計算對象裝甲值時-15（最低0）。你未擁有雷擊黑犬症候時行動值-5，回避達成值-2。</p><p><em>射程：1000m</em> / <em>參照：IA P58</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 10,
+    "guard": 0,
+    "range": "1000m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P58"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "5EHS1zdzxHSRve5T",
+  "_key": "!items!5EHS1zdzxHSRve5T",
+  "name": "古老二十四之證 （古き二十四の証）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 431,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你是Xenos核心二十四名變節體之一的紋章</p><p><em>效果：選擇一項你取得的《起源：●●》，該異能最大LV+5，侵蝕值變為2倍，取得該紋章需要GM許可，只有變節體角色可以取得</em> / <em>備註：IA新增</em> / <em>參照：IA P177</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "紋章：Xenos 取得條件：職業為Xenos特工A~D、XenosRB A～D、RB A~D",
+      "source": "IA P177"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

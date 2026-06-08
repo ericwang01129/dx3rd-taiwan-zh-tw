@@ -1,0 +1,40 @@
+{
+  "_id": "4IlHCZGOu3Pje8y0",
+  "_key": "!items!4IlHCZGOu3Pje8y0",
+  "name": "No.HR31. 同伴",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 32,
+  "system": {
+    "description": "<p><em>效果：REC：取得時選擇</em> / <em>通常效果：取得時選擇一個角色，持有所選擇的角色的Lois時生效，你進行的判定骰數+2D。\n但是，當所選擇的角色從Lois變為Titus時，你的侵蝕率會上升2D10點。</em> / <em>強化效果：於判定前使用，此次判定的骰數+2D。這個效果一個劇本中可以使用一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR31",
+      "source": ""
+    }
+  }
+}

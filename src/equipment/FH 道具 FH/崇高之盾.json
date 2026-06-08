@@ -1,0 +1,37 @@
+{
+  "_id": "6yTU4dz6lie3Q9cW",
+  "_key": "!items!6yTU4dz6lie3Q9cW",
+  "name": "崇高之盾",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 11,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>大型盾牌，內部裝有能與使用者激昂的情感共鳴展開特殊力場的裝置。</p><p>使用該武器組合異能進行格擋時使用，該武器格擋值+10，使用該武器進行格擋時你的侵蝕率+2。</p><p><em>射程：至近</em> / <em>參照：IA P123</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "15",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -4,
+    "attack": 2,
+    "guard": 5,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P123"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

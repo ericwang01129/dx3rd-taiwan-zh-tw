@@ -1,0 +1,64 @@
+{
+  "_id": "t6K4JJuaMFLTsmPQ",
+  "name": "重力帶",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>你的鬥志化為重力，束縛對象攻擊的異能。</p><p>與這個異能組合的攻擊只要造成至少1點HP傷害，那麼對象下一次所進行的攻擊的攻擊力-[LV×5](最低0)。這個效果持續到該場景結束，或者對象進行下一次攻擊時。</p><p><em>參照：RUP30</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "對決",
+    "limit": "爭鬥120%",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "RUP30"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!t6K4JJuaMFLTsmPQ"
+}

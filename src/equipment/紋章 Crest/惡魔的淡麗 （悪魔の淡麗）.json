@@ -1,0 +1,40 @@
+{
+  "_id": "hpOdz46j7u9UsBGC",
+  "_key": "!items!hpOdz46j7u9UsBGC",
+  "name": "惡魔的淡麗 （悪魔の淡麗）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 283,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>在市內某處偶爾會出現的拉麵攤子，品嘗著透亮的湯頭能夠回想起自己的原點，但“攤主是何人”、“為何被稱為惡魔”之類的問題全都無人知曉</p><p><em>效果：主要動作使用，該劇本間你進行的<意志>判定，骰子數+2個</em> / <em>備註：IA新增</em> / <em>參照：IA P161</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH通用 取得條件：職業為FH，或是身為FH法外者的角色",
+      "source": "IA P161"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

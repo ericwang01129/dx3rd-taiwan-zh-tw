@@ -1,0 +1,34 @@
+{
+  "_id": "hvk8SUkK5ySF3kt7",
+  "_key": "!items!hvk8SUkK5ySF3kt7",
+  "name": "背教者輔助器",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 117,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>UGN為了活性化背教者開發的戰鬥服，能增強裝備者的背教者之力。</p><p>你進行的組合了異能的判定達成值+2。稀有道具。</p><p><em>參照：IA P34</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "32",
+      "difficulty": 55
+    },
+    "exp": 0,
+    "equipment": true,
+    "dodge": 0,
+    "init": -1,
+    "armor": 5
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "防具",
+      "source": "IA P34"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

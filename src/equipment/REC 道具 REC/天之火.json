@@ -1,0 +1,40 @@
+{
+  "_id": "6HhuYNy47Ir3W5pf",
+  "_key": "!items!6HhuYNy47Ir3W5pf",
+  "name": "天之火",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 17,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>UGN所開發，設置在衛星軌道上的巨大激光兵器，可以往地球上任何場所發射。本來是為了殲滅原菌開發的兵器，據說現在使用權由亞修‧雷多利克持有，也是他所能利用的最大王牌。</p><p><em>REC：亞修‧雷多利克</em> / <em>次數：1/劇本\n3/劇本</em> / <em>通常效果：技能：<知識：機械工學>  命中：-10  攻擊力：40  格擋值：-  射程：視野\n你進行的<交涉>判定達成值+10。該武器一劇本中可以使用一次。</em> / <em>強化效果：該武器一劇本中可以使用三次而非一次。</em> / <em>參照：IA P199</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 150,
+    "equipment": true,
+    "type": "聯繫/射擊武器",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：亞修‧雷多利克",
+      "source": "IA P199"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

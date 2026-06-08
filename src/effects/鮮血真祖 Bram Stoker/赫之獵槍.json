@@ -1,0 +1,64 @@
+{
+  "_id": "wV1xpoy84MHDoV4O",
+  "name": "赫之獵槍",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/vampire-dracula.svg",
+  "folder": "wboZ95SHJuim4ZlG",
+  "sort": 0,
+  "system": {
+    "description": "<p>擊出血液作為武器。在這個場景中，你作成並裝備如下武器。</p><p>使用這個武器時會失去LV點HP。此異能可以滿足《破壞之血》的前提條件，也適用其效果。</p><p>種類：射擊   技能：<射擊></p><p>命中：0   攻擊力：[LV×3+4]</p><p>格擋：－    射程：20m</p><p><em>參照：BCP59</p><p>IAP105</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "鮮血真祖 Bram Stoker",
+      "syndromeItemId": "yZ26mUMQV6FowBlo",
+      "source": "BCP59\nIAP105"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!wV1xpoy84MHDoV4O"
+}

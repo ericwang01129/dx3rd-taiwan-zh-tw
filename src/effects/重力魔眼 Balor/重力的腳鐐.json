@@ -1,0 +1,64 @@
+{
+  "_id": "MWu6saednmiBIR0V",
+  "name": "重力的腳鐐",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/all-seeing-eye.svg",
+  "folder": "6ca2FVDpC7rlGPTM",
+  "sort": 0,
+  "system": {
+    "description": "<p>賦予子彈超重力，藉此使被擊中的對方無法動彈的異能。</p><p>組合此異能的攻擊造成HP傷害的話，該回合間，對象的戰鬥移動距離-[LV×2]m(最低0)。</p><p>此效果不影響對象的全力移動。</p><p><em>參照：ICP53</p><p>EAP31</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "ranged",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "單體",
+    "range": "武器",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "重力魔眼 Balor",
+      "syndromeItemId": "8C3sGvWyE5XxWmcS",
+      "source": "ICP53\nEAP31"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!MWu6saednmiBIR0V"
+}

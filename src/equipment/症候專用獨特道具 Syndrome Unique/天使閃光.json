@@ -1,0 +1,40 @@
+{
+  "_id": "WhMnqgRs6xAfuvrV",
+  "_key": "!items!WhMnqgRs6xAfuvrV",
+  "name": "天使閃光",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 16,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>將天使光環製造的光增幅成大閃光的裝置，瞬間照亮周圍的光芒讓所有的不合理無處遁藏。</p><p>你進行閃避判定前使用，該判定不受骰數減少效果影響。</p><p><em>參照：IA P73</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P73"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

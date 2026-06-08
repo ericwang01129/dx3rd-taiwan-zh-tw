@@ -1,0 +1,37 @@
+{
+  "_id": "PFtaNhDzX3GVdPoT",
+  "_key": "!items!PFtaNhDzX3GVdPoT",
+  "name": "屠殺獵鷹",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 4,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>帶有自動追蹤功能的小型回旋鏢，能利用命中時的衝擊飛向其他目標。</p><p>以[種類：射擊]使用時數據參照右側，使用該武器進行的攻擊命中2體以上時該攻擊的攻擊力+5。</p><p><em>射程：至近/30m</em> / <em>參照：IA P122</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "10",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰/射擊",
+    "skill": "melee",
+    "add": -1,
+    "attack": 7,
+    "guard": 0,
+    "range": "至近/30m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P122"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

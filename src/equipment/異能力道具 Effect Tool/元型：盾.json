@@ -1,0 +1,37 @@
+{
+  "_id": "llHhv36DCoIMbvGE",
+  "_key": "!items!llHhv36DCoIMbvGE",
+  "name": "元型：盾",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 52,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>《弑神之刃》作出的盾或善於防禦攻擊的武器。</p><p>作成時視為兩手裝備，這時武器的攻擊力與格擋值+3。</p><p><em>射程：至近</em> / <em>參照：UAP26</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰/元型",
+    "skill": "melee",
+    "add": -2,
+    "attack": 5,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "UAP26"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

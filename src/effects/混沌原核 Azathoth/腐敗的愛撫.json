@@ -1,0 +1,64 @@
+{
+  "_id": "QzBEzPThSy7RFpfn",
+  "name": "腐敗的愛撫",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>以你之粘液令一切腐壞的異能。</p><p>先決條件：《腐爛的粘液》</p><p>於你使用《腐爛的粘液》前使用，額外追加造成[恐懼：你]的效果。且《腐爛的粘液》的對象將會在每月1日減少1點【HP最大值】，除非你將其解除，否則這個效果將持續至死亡為止。</p><p><em>參照：NC P98</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "極限",
+    "timing": "auto",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "NC P98"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!QzBEzPThSy7RFpfn"
+}

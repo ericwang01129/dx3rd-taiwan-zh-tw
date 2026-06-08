@@ -1,0 +1,64 @@
+{
+  "_id": "yXtdkjE82ZpM6kNP",
+  "name": "樂園放逐 （楽園追放）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/kraken-tentacle.svg",
+  "folder": "JSUkgasOPh519Dvc",
+  "sort": 0,
+  "system": {
+    "description": "<p>破壞一切文明、一切睿知的異能。食用了智慧之果實正是人之悲劇的開端。</p><p>組合了該異能的攻擊對象變更為「場景（選擇）」、射程變更為「視界」。對象裝備了任何武器、防具，亦或是身為〔兵器〕時，傷害+[LV×4]。</p><p><em>參照：NC P99</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "syndrome",
+    "difficulty": "自動成功",
+    "limit": "破壞\n120%",
+    "timing": "major",
+    "target": "範圍（選擇）",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 5,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "混沌原核 Azathoth",
+      "syndromeItemId": "DNkvSNCxTwl41l1S",
+      "source": "NC P99"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!yXtdkjE82ZpM6kNP"
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "J89GReBXVnhMG1ti",
+  "_key": "!items!J89GReBXVnhMG1ti",
+  "name": "運動套裝",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 103,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>UGN以電影明星穿過的衣服為靈感開發的戰鬥服，在近身戰鬥中衣服不會妨礙動作。</p><p>你進行的<近戰>判定骰數+1個。</p><p><em>參照：IA P33</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "18",
+      "difficulty": 22
+    },
+    "exp": 0,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 1
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "防具",
+      "source": "IA P33"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

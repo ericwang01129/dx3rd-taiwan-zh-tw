@@ -1,0 +1,40 @@
+{
+  "_id": "9X3GrDfUhKjfBjJf",
+  "_key": "!items!9X3GrDfUhKjfBjJf",
+  "name": "列石戒指",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 274,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>與你的背教者發生共鳴的不可思議戒指。當你具現鎖鏈時，戒指會成為其一部分。</p><p>你組合了偽神天鎖異能的〈RC〉判定骰數+2個。</p><p><em>參照：UA P87</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "UA P87"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

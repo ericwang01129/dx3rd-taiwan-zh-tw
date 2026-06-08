@@ -1,0 +1,74 @@
+{
+  "_id": "r4Mqo88PYMp69WJj",
+  "name": "影片創作者",
+  "type": "works",
+  "img": "icons/svg/book.svg",
+  "folder": "YpHafb2fCvjHRgWt",
+  "sort": 0,
+  "system": {
+    "description": "<p><strong>來源：</strong>真實身份表 4 (選用規則)</p><p><strong>主要能力值：</strong>【感覺】</p>",
+    "skillTmp": "melee",
+    "skills": {
+      "perception": {
+        "key": "perception",
+        "name": "知覺",
+        "base": "sense",
+        "add": 1,
+        "apply": true
+      },
+      "art_動畫": {
+        "key": "art_動畫",
+        "name": "藝術：動畫",
+        "base": "social",
+        "add": 2,
+        "apply": true
+      },
+      "will": {
+        "key": "will",
+        "name": "意志",
+        "base": "mind",
+        "add": 1,
+        "apply": true
+      },
+      "negotiation": {
+        "key": "negotiation",
+        "name": "交涉",
+        "base": "social",
+        "add": 1,
+        "apply": true
+      },
+      "info_網頁": {
+        "key": "info_網頁",
+        "name": "情報：網頁",
+        "base": "social",
+        "add": 1,
+        "apply": true
+      }
+    },
+    "attributes": {
+      "body": {
+        "value": 0
+      },
+      "sense": {
+        "value": 1
+      },
+      "mind": {
+        "value": 0
+      },
+      "social": {
+        "value": 0
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "table": "真實身份表 4 (選用規則)",
+      "primaryAttr": "sense"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!r4Mqo88PYMp69WJj"
+}

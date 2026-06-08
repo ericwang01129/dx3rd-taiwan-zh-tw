@@ -1,0 +1,37 @@
+{
+  "_id": "qNjN7ShoVNjsUNzn",
+  "_key": "!items!qNjN7ShoVNjsUNzn",
+  "name": "射手座",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 148,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>可以同時標記複數目標的高智能步槍。</p><p>你使用《鎖定》時，該主要階段間使用該武器進行的攻擊變為[對象：3體]，該武器的對象優先級大於組合異能的對象，該效果一劇本可以使用一次。至近不可。</p><p><em>射程：200m</em> / <em>參照：IA P88</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 14,
+    "guard": 0,
+    "range": "200m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P88"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

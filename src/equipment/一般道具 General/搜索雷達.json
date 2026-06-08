@@ -1,0 +1,40 @@
+{
+  "_id": "TkRyXhZTRtPyeNZv",
+  "_key": "!items!TkRyXhZTRtPyeNZv",
+  "name": "搜索雷達",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 184,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>使用電磁波探測周圍的裝置，大小只有手機那麼大。</p><p>你進行的<知覺>判定達成值+1。</p><p><em>參照：IA P43</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "2",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P43"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

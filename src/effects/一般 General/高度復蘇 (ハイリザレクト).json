@@ -1,0 +1,64 @@
+{
+  "_id": "I2UFxVZwumIBrneM",
+  "name": "高度復蘇 (ハイリザレクト)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/heart-tower.svg",
+  "folder": "eTUfIRkQAvufdxsT",
+  "sort": 0,
+  "system": {
+    "description": "<p>表示你即使在超越者中也是恢復力相當優秀的存在。</p><p>你以《復蘇》回復的HP+[LV×2]點。</p><p>此異能的等級不受侵蝕率影響。取得此異能的話，侵蝕率基本值+2。</p><p><em>參照：ICP66</p><p>EAP131</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 10,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "一般 General",
+      "syndromeItemId": "t9bsxYmBHW27Rk9N",
+      "source": "ICP66\nEAP131"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!I2UFxVZwumIBrneM"
+}

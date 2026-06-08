@@ -1,0 +1,40 @@
+{
+  "_id": "6BM4CMvubhehl2Cl",
+  "_key": "!items!6BM4CMvubhehl2Cl",
+  "name": "No.CRC07. 復活的死者 リアニメーター",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 127,
+  "system": {
+    "description": "<p>你是被魔術、瘋狂科學，或許是未知的背教者作用從死亡安息中喚醒，再次行走現世的死者。</p><p>復活的同時，你的時間不再流動，你的肉體既不會腐爛也不會變質——至少現在是這樣。或許，你體內的邪神因子按照你想要保持自我的意識，讓屍體看起來就像活人一樣。你的行動不受任何限制，除非接受相當精密的檢查，否則會被認為是活人。</p><p>但這也不知道會持續到什麼時候。當你變成原菌時，就是你駭人的腐肉與骨頭集合體本質暴露的時候。</p><p><em>效果：你是靠著對他人的愛慕、妄念這類東西勉強保持人形的行走死者。你是總有一天會崩壞的夢幻泡影般的存在。\n場景中登場的你以外的角色取得對你的露易絲時，你進行的所有判定骰數+2個。存在多個對你取得露易絲的角色時，效果會疊加。NPC是否對你取得露易絲由GM決定。\n另外，對你的露易絲變成泰特斯時，你的侵蝕率立即上升10點。\n你被視為以《死者蘇生》復活的角色，並被視為[種類：不死者]。面對擅長《送葬》術式的退魔師的時候最好小心點。成為《送葬》對象時，可以消費泰特斯來抵消。不過，不抵消可能會更幸福......</em> / <em>參照：NC P91</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.CRC07",
+      "source": "NC P91"
+    }
+  }
+}

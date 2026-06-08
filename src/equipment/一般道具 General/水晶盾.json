@@ -1,0 +1,37 @@
+{
+  "_id": "jwfS8eyO1RTLypz3",
+  "_key": "!items!jwfS8eyO1RTLypz3",
+  "name": "水晶盾",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 39,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>像是用水晶製成的閃光透明盾牌，事實上使用了特殊合金能夠應對各種衝擊，但非常沉重。</p><p>雙手持握。</p><p><em>射程：至近</em> / <em>參照：IA P26</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "15",
+      "difficulty": 25
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 0,
+    "guard": 12,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P26"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

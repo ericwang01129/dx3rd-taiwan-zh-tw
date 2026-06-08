@@ -1,0 +1,37 @@
+{
+  "_id": "h7gWgSiEEsJi4lWT",
+  "_key": "!items!h7gWgSiEEsJi4lWT",
+  "name": "忠義之刀",
+  "folder": "pkEDzV7adwmhoSOR",
+  "sort": 2,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/katana.svg",
+  "system": {
+    "description": "<p>會保護持有者的日本刀型RB。說話使用古風的語氣。</p><p>封具效果：在對你的HP傷害算出後使用，你預計受到的傷害-20點。</p><p><em>射程：至近</em> / <em>參照：DF P41</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 9,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 封具 Sealing Tool",
+      "section": "",
+      "source": "DF P41"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

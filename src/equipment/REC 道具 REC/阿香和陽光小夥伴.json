@@ -1,0 +1,40 @@
+{
+  "_id": "sOQ4WBOpUC3Vq16g",
+  "_key": "!items!sOQ4WBOpUC3Vq16g",
+  "name": "阿香和陽光小夥伴",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 42,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>表示你與鷺乃宮香與其夥伴們——藤堂凜凜花、藤堂鬥月、雲雀風見等人——是朋友一事。</p><p><em>REC：鷺乃宮香 or 藤堂林琳花 or 藤堂鬥月 or 雲雀風見</em> / <em>次數：1/劇本</em> / <em>通常效果：準備階段使用，該回合間，你和該場景間登場的任意角色進行的判定，骰數+3個。\n該效果只有在舞臺為白鷺市，或是GM允許使用時才能生效，一劇本可以使用一次。</em> / <em>強化效果：【強化效果1】受通常效果影響中的角色進行的傷害擲骰+3D10，所受到的HP傷害-3D10。\n【強化效果2】該效果只能於取得了所有該道具「REC」角色為Lois時生效。受通常效果影響中的角色進行的攻擊判定，暴擊值-1。</em> / <em>參照：IA P203</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：鷺乃宮香",
+      "source": "IA P203"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

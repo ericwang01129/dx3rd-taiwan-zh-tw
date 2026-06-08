@@ -1,0 +1,37 @@
+{
+  "_id": "wzWZsuLaBbQy6m0K",
+  "name": "偽神天鎖 Gleipnir",
+  "type": "syndrome",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/chained-arrow-heads.svg",
+  "sort": 1600,
+  "system": {
+    "description": "<p><strong>彼方的來訪者</strong></p>\n<p>偽神天鎖的異能特徵與背教者病毒本身非常相似。</p><p>侵蝕他人，將其性質與形態變為其他的樣子。</p><p>在改變他人時，他們會利用一種鎖鏈狀的能量。</p><p>使用鎖鏈，他們讓其他人變成怪物，或讓周圍的環境變成自己想要的樣貌。有時，鎖鏈本身也能夠成為武器。</p><p>有時，他們也會改變自己。只要對自己有利，他們願意讓自己發生改變。</p><p>改變之子</p><p>偽神天鎖會將改變這種新的衝動作為異能加以利用。</p><p>目前，只在偽神天鎖中確認到了這種衝動。</p><p>具備這種衝動的RB可以自由地使用因其他衝動而發生變化的異能——也就是衝動異能，無關他們本身的衝動如何。可以說，自由地操作衝動就是偽神天鎖的特性。</p><p>此外具備改變衝動的RB還能夠使用特殊的異能——轉化異能。</p><p>操作黑色的光的天使光環、以振動讓周圍失去色彩的疾速靈猿等等……這些被侵蝕的、超出我們所知範圍的異能，就是所謂的轉化異能。</p><p>對於與偽神天鎖對抗的人們來說，這種力量無疑是威脅。</p>\n<blockquote>他們是突然出現的。<br>自稱神明的，暴虐的來訪者。<br>不是渴望停滯，而是為了帶來變化。<br>僅僅是為了自己所期望的進化。<br>他們為終結這個世界而來。<br>若他們是神明，又有誰能違抗？<br>僅僅是被那鎖鏈所囚禁，一切就會被覆寫。<br>——某UGN研究員</blockquote>",
+    "skillTmp": "melee",
+    "skills": {},
+    "attributes": {
+      "body": {
+        "value": 1
+      },
+      "sense": {
+        "value": 0
+      },
+      "mind": {
+        "value": 2
+      },
+      "social": {
+        "value": 1
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "english": "Gleipnir",
+      "chinese": "偽神天鎖"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!wzWZsuLaBbQy6m0K"
+}

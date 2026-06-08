@@ -1,0 +1,40 @@
+{
+  "_id": "dqDPrKzVJxJqGncD",
+  "_key": "!items!dqDPrKzVJxJqGncD",
+  "name": "No.25. 超侵蝕 (混血專用) ディープエローション Deep Erosion",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 25,
+  "system": {
+    "description": "<p>你可以藉由混合兩種力量，藉此獲得爆發性的效果。</p><p>混血種是同時擁有兩種症狀的超越者，可以組合出兩種症狀的能力，而這點有時候會發揮出相乘的效果而產生超乎想像的能力。這個現象在UGN中稱為超侵蝕，這個現象的例子非常稀少。</p><p><em>效果：只限血統為【混血種】的角色可取得。\n從自己習得的異能中各症狀選擇一個異能，這兩個能力必須都是【時機：主要】並且是能互相組合的能力。\n使用這兩個能力的組合時，可以使該組合判定的達成值+10，攻擊力+10。\n次數限制：劇本中一次。</em> / <em>備註：混血專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.25",
+      "source": ""
+    }
+  }
+}

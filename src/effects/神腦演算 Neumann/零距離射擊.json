@@ -1,0 +1,64 @@
+{
+  "_id": "zX61ggziocrsaLOd",
+  "name": "零距離射擊",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "folder": "47r01TSVVubrkaef",
+  "sort": 0,
+  "system": {
+    "description": "<p>在原本很難射擊的超接近戰中使用槍械的異能。</p><p>組合此異能的攻擊骰數+LV顆。組合此異能的攻擊必定會變成「射程：至近」，</p><p>但可以使用不能對接戰的角色攻擊的武器。</p><p><em>參照：規則2P144</p><p>EAP91</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "ranged",
+    "difficulty": "對決",
+    "limit": "-",
+    "timing": "major",
+    "target": "-",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "神腦演算 Neumann",
+      "syndromeItemId": "ohcrpvm6g5xHhvRM",
+      "source": "規則2P144\nEAP91"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!zX61ggziocrsaLOd"
+}

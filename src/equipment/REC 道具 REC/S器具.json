@@ -1,0 +1,40 @@
+{
+  "_id": "J06E0jinBz7LzwMO",
+  "_key": "!items!J06E0jinBz7LzwMO",
+  "name": "S器具",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 44,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>你持有芬·布思羅伊德的發明品，其發明品向來有著很高的質量，但有時也會因服役時代的舊習作祟，無視可用性地製造出一些詭妙的器具，你所持的，正是那種器具的其中之一。</p><p><em>REC：芬·布思羅伊德</em> / <em>次數：1/劇本</em> / <em>通常效果：選擇一件你所常備化的道具（關聯道具除外），從以下兩種效果中選擇其中之一：\n【1】判定骰數+2個\n【2】傷害擲骰+2D10\n你進行判定或傷害擲骰前使用，使用後，你的侵蝕率+3，且該道具會被破壞。\n該效果一劇本可以使用一次。</em> / <em>強化效果：將通常效果提升為：\n【1】判定骰數+4個\n【2】傷害擲骰+4D10</em> / <em>參照：IA P203</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "聯繫/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：芬·布思羅伊德",
+      "source": "IA P203"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "11romNo98RIKSJBC",
+  "_key": "!items!11romNo98RIKSJBC",
+  "name": "RC掃描器 （ＲＣスキャナ）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 101,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>能夠調查你的背教者病毒狀態的特殊裝置，有著手錶一類的外觀。掃描所得的情報將會傳輸至UGN所持有的背教者資料庫當中，並傳回最合適你的背教者病毒的操作手段。</p><p><em>效果：你進行的組合了異能的<RC>判定骰數+2個</em> / <em>參照：IA P141</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN法外者 取得條件：沒有取得UGN通用以外紋章的角色",
+      "source": "IA P141"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

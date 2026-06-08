@@ -1,0 +1,40 @@
+{
+  "_id": "z8meu1LwmkdEq35D",
+  "_key": "!items!z8meu1LwmkdEq35D",
+  "name": "No.11. 秘密武器：道具名 トイボックス Toybox",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 11,
+  "system": {
+    "description": "<p>你擁有一個特殊的道具。</p><p>那個道具可能是UGN或是軍事組織開發的最新兵器或是試作品，其中也包刮被EXR病毒感染的特殊道具或是被R病毒感染的古代遺物。因為某種理由無法交給他人使用，可能是認證或資質上的問題。</p><p>詳細的取得設定請跟GM討論。</p><p><em>效果：取得這D露易絲時，可以不消費經驗點選擇一個秘密武器專用道具並常備化。之後可以消費經驗取得秘密武器專用道具，一共可以取得三個。\n取得的道具不能讓你以外的角色使用或裝備，就算持有也不能發揮效果\n初期侵蝕+5</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.11",
+      "source": ""
+    }
+  }
+}

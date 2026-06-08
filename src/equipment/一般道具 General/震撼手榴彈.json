@@ -1,0 +1,37 @@
+{
+  "_id": "9g0Vum8IHvvcrKjo",
+  "_key": "!items!9g0Vum8IHvvcrKjo",
+  "name": "震撼手榴彈",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 44,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/grenade.svg",
+  "system": {
+    "description": "<p>用閃光和爆音暫時剝奪對手感官的手榴彈。</p><p>使用該武器進行的攻擊的對象變為[對象：範圍]，該攻擊命中時，使對象陷入不良狀態[硬直]和[恍惚]。使用該武器無法造成HP傷害。該武器一劇本可以使用一次。</p><p><em>射程：10m</em> / <em>參照：IA P26</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "3",
+      "difficulty": 5
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -3,
+    "attack": 0,
+    "guard": 0,
+    "range": "10m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P26"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

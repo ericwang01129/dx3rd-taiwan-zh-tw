@@ -1,0 +1,37 @@
+{
+  "_id": "hUEVB8d0ZZ802UKy",
+  "_key": "!items!hUEVB8d0ZZ802UKy",
+  "name": "感應盾牌",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 35,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>通常的聚碳酸酯制盾牌中安裝了感知周圍的感應器。</p><p>你進行的<知覺>判定骰數+1個。</p><p><em>射程：至近</em> / <em>參照：IA P25</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "11",
+      "difficulty": 16
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 1,
+    "guard": 4,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P25"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

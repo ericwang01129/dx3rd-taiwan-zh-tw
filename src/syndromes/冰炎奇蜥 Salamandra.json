@@ -1,0 +1,37 @@
+{
+  "_id": "QYuRS0HzX2yUU8d7",
+  "name": "冰炎奇蜥 Salamandra",
+  "type": "syndrome",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/frostfire.svg",
+  "sort": 1100,
+  "system": {
+    "description": "<p><strong>支配「熱量」</strong></p>\n<p>冰炎奇蜥的症狀基本上就是以熱能作為基礎的能力。</p><p>操縱超高溫或者超低溫，其結果就是產生火焰或者冰雪。</p><p>操縱熱能本身的能力，這就是「冰炎奇蜥」</p><p>此外，能力的變化使用方式，可以將熱能轉化為身體能力，獲得爆發性的身體能力，調節體內溫度以提升判斷力，不管哪一種，都是戰鬥能力特化型的症狀。</p><p>冰炎奇蜥的取名由來，就是Salamandra，一般想像中是類似「火蜥蜴」般的生物，但是在布利尼烏斯的「博物志」當中記載著，這是一種非常冰冷的生物，就算是火焰碰到它也會瞬間熄滅。</p><p>這樣的Salamandra，剛好也符合了可以自由自在操縱冷氣以及火焰的印象，故以此命名。</p>\n<blockquote>毋需害怕矛盾。<br>支配炎熱的，是冰一般的理性，而控制冰雪的，是火焰一般的激情。<br>調和相反的要素，從中誕生力量。<br>......一般認為相性最差的傢伙，沒料到卻是最佳的組合，<br>「龍之吐息」松波晶，對相性最差的夥伴。</blockquote>",
+    "skillTmp": "melee",
+    "skills": {},
+    "attributes": {
+      "body": {
+        "value": 2
+      },
+      "sense": {
+        "value": 0
+      },
+      "mind": {
+        "value": 1
+      },
+      "social": {
+        "value": 1
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "english": "Salamandra",
+      "chinese": "冰炎奇蜥"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!QYuRS0HzX2yUU8d7"
+}

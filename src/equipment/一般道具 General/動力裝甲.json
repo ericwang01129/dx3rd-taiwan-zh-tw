@@ -1,0 +1,34 @@
+{
+  "_id": "MMIIK48Sjhptp1G3",
+  "_key": "!items!MMIIK48Sjhptp1G3",
+  "name": "動力裝甲",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 119,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>硬化纖維制的強化服，穿上之後感覺宛如穿著機械一般，但由於動力問題無法長時間運作。</p><p>你進行的【肉體】判定骰數+2個，近戰攻擊的攻擊力+5。你可以將搭載火器視為雙手持握進行裝備。你裝備該道具的場景結束時自動解除裝備，且在劇本結束前無法再次使用。稀有道具。</p><p><em>參照：IA P35</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "37",
+      "difficulty": 60
+    },
+    "exp": 0,
+    "equipment": true,
+    "dodge": -10,
+    "init": -5,
+    "armor": 20
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "防具",
+      "source": "IA P35"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

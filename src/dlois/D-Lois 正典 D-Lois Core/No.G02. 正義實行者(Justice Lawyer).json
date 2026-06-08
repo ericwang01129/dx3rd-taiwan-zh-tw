@@ -1,0 +1,40 @@
+{
+  "_id": "hYDlmrA3EPBMdvgN",
+  "_key": "!items!hYDlmrA3EPBMdvgN",
+  "name": "No.G02. 正義實行者(Justice Lawyer)",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 106,
+  "system": {
+    "description": "<p>表示你是依照自身信念行使正義的組織——正義實行者一員的D-Lois。。</p><p>正義實行者，是一個僅以執行正義為目的的組織。擔任領導者的是以「Justice」為代號的UGN支部長，神月正義。對成員的要求只有一個：遵循自己的信念，行使正義。這是一個相當特殊的集團。</p><p>你為何會加入正義實行者？可能是被神月正義招募，也可能是因為尋求志同道合的同伴而自己前往叩門。詳細情況可以自由決定。</p><p>但有一點是確定的，那就是你的心中懷有正義，並擁有與邪惡戰鬥的堅強意志。</p><p>無論面臨何種困難，深知自己應當何為的你絕不會絕望。</p><p>今天，你依然為你所信仰的正義而戰！</p><p><em>效果：于你陷入戰鬥不能時使用，解除你的戰鬥不能狀態並將HP回復至最大值。這個效果一個劇本中只能使用一次。</em> / <em>參照：RU P123\nLM P112</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.G02",
+      "source": "RU P123\nLM P112"
+    }
+  }
+}

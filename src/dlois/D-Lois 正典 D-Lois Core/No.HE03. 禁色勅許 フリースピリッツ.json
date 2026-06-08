@@ -1,0 +1,40 @@
+{
+  "_id": "RtnLdCd424GfoX7P",
+  "_key": "!items!RtnLdCd424GfoX7P",
+  "name": "No.HE03. 禁色勅許 フリースピリッツ",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 116,
+  "system": {
+    "description": "<p>律令制的「衣服令」規定不得穿著超過自身當色以上的顏色，這就是禁色規則，但若獲得天皇對特定顏色的許可，便能使用該顏色，這就是禁色聽許的宣旨。</p><p>你已從天皇那裡獲得了這個禁色聽許的宣旨，不僅是特定顏色，甚至連不穿衣冠束帶，或是佩刀登殿都被允許。</p><p><em>效果：此D-lois只能在「舞臺：平安京物怪錄」中取得。\n你在任何地方、對任何地位的對手都有面子。獲得禁色勅許的你，甚至可以強行通過各種無理要求。\n你可以讓臨時角色聽從一個命令。也可以同時對多個臨時角色下命令。藉此可以讓他們說出知道的情報，或讓他們從現場退去。但是，不能做出會危及生命的行為。該效果一劇本可以使用一次。</em> / <em>參照：OC P85</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.HE03",
+      "source": "OC P85"
+    }
+  }
+}

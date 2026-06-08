@@ -1,0 +1,40 @@
+{
+  "_id": "JvEYOJkKYaANi3bj",
+  "_key": "!items!JvEYOJkKYaANi3bj",
+  "name": "No.15. 觸媒 カタリスト Catalyst",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 15,
+  "system": {
+    "description": "<p>你有著活化他人的R病毒的能力。</p><p>在R病毒中，有著不是強化宿主，而是促進其他R病毒活性化的特殊病毒，在研究員中被稱為觸媒。這個特殊性質目前無法再現，是一部份超越者的固有能力。觸媒的能力有可能極端不安定，需要用激昂的感情與對象的精神進行連結。因為能上升整體隊伍的戰力而在菁英中非常受歡迎。</p><p><em>效果：在先攻階段時選擇你以外的一名登場角色。選擇的角色馬上進行主要階段，就算該角色已行動也能發動，而且就算主要階段結束後也不會變成【已行動】。對象必須是超越者或原菌。\n次數限制：劇本中一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.15",
+      "source": ""
+    }
+  }
+}

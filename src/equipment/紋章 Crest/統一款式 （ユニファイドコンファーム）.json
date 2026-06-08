@@ -1,0 +1,40 @@
+{
+  "_id": "WKkQOlVrq3j9ggFd",
+  "_key": "!items!WKkQOlVrq3j9ggFd",
+  "name": "統一款式 （ユニファイドコンファーム）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 178,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/heart-key.svg",
+  "system": {
+    "description": "<p>表示特別製作的單元戰鬥服的紋章，衣服上雖然沒有施加魔法，但能讓穿上的人獲得對你的領導力和單元的理想無盡的執念</p><p><em>效果：取得需要“整裝待發”，因你的“整裝待發”裝備“FH防護背心”的角色進行的判定，骰子數+3個</em> / <em>備註：IA新增</em> / <em>參照：IA P149</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "核心紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH單元隊長 取得條件：職業為FH單元隊長A~D",
+      "source": "IA P149"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

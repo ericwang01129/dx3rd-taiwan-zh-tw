@@ -1,0 +1,40 @@
+{
+  "_id": "ajwtaoYkf42DZYGv",
+  "_key": "!items!ajwtaoYkf42DZYGv",
+  "name": "No.RW04. 不列序號 ブラックアウト",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 165,
+  "system": {
+    "description": "<p>你的力量充滿謎團。因此，政府決定不將你列為正式登記的英雄。未知之處太多，可能會引發一般市民的不安。</p><p>因此，你的代號不會被記錄在排行榜上。不過，你的英雄活動仍然勉強獲得承認。</p><p>雖然沒有知名度與名聲，但你的實力並不遜於一流英雄，甚至有人認為足以匹敵頂尖英雄。</p><p>無論如何，就算沒有名聲，身為英雄該做的事也不會改變——對吧？</p><p><em>效果：此D-lois只能在「舞臺：背教者戰爭」中取得。\n\n你獲得一項獨特道具，分類：黑幕。資料如下。你不能再取得其他「分類：～」的獨特道具。\n分類：黑幕\n種類：其他\n必要經驗值：不可\n解說：你的存在並未對一般大眾公開。\n於主要動作判定前使用。將該判定中組合的一個異能LV+3後計算效果，且可突破原本上限。但此效果不會改變使用次數。\n此外，在該主要動作結束後，直到該回合結束為止，你的所有判定骰數-5。\n此效果每個劇本限使用1次。</em> / <em>參照：CE P48</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.RW04",
+      "source": "CE P48"
+    }
+  }
+}

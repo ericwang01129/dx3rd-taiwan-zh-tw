@@ -1,0 +1,37 @@
+{
+  "_id": "bf6FgDWt4seXjQx4",
+  "_key": "!items!bf6FgDWt4seXjQx4",
+  "name": "斬鬼的古太刀",
+  "folder": "E34ex0UnjIox4JZN",
+  "sort": 3,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/katana.svg",
+  "system": {
+    "description": "<p>傳說是曾斬殺過鬼的太刀，有著可以終結邪惡魔術的能力。</p><p>使用該武器的攻擊造成至少1點HP傷害時，可以將一個對象使用的，效果仍在持續生效的E-lois解除，但是當設定了其他解除條件時，需要得到GM的允許才能解除。</p><p>代價：契約者會變得非常討厭原菌。侵蝕率基本值+4。</p><p><em>射程：至近</em> / <em>參照：IA P118</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 10,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 遺產繼承者 D-Lois Legacy",
+      "section": "",
+      "source": "IA P118"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "DljAHsBy2xJFMTeS",
+  "_key": "!items!DljAHsBy2xJFMTeS",
+  "name": "反應盾牌",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 38,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>表面貼有可以瞬間硬化的凝膠物質的盾牌，可以將應對衝擊的壓力最小化，但不能連續使用。</p><p>你進行格擋時使用，該格擋的格擋值+1D10，該效果一場景可以使用一次。</p><p><em>射程：至近</em> / <em>參照：IA P26</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "12",
+      "difficulty": 18
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -2,
+    "attack": 2,
+    "guard": 6,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P26"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

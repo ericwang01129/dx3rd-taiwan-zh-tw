@@ -1,0 +1,37 @@
+{
+  "_id": "GuI2UuuFBM1KB0V4",
+  "_key": "!items!GuI2UuuFBM1KB0V4",
+  "name": "PDW",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 72,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/sbed/rifle.svg",
+  "system": {
+    "description": "<p>同時擁有衝鋒槍便捷性和突擊步槍火力的槍械。</p><p>次要動作使用，該主要階段間該武器進行的攻擊對象變為[對象：範圍（選擇）]，該效果一劇本可以使用一次。</p><p>至近不可</p><p><em>射程：20m</em> / <em>參照：IA P29</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "20",
+      "difficulty": 30
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 9,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P29"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

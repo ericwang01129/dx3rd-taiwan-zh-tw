@@ -1,0 +1,40 @@
+{
+  "_id": "gjWYoINlseCRsCCe",
+  "_key": "!items!gjWYoINlseCRsCCe",
+  "name": "No.2. 起源種 オリジナルレネゲイド Original Renegade",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 2,
+  "system": {
+    "description": "<p>你是被二十年前在中東遺跡發現的R病毒所感染的，最初的超越者。可能是遺跡的關係者，或是當年空難的倖存者。</p><p>你也可能是碰到其他古代遺跡或古代傳下來的R病毒相關遺物而受到感染覺醒的。</p><p>但無論是哪一種形式，你體內的病毒跟現在在世界廣泛流傳的R病毒並不是一樣的東西，而是更特別的存在。特化能力強化的特性而不像一般超越者擁有的使肉體跟精神增幅的力量。</p><p><em>效果：你有著專用的侵蝕率修正表，不再因為修正率而獲得判定骰的加成，但能力的等級上升效果會更容易獲得。\n侵蝕率修正表 \n侵蝕率   能力的等級上升\n0~79%   Lv+0\n80~99%   Lv+1\n100~149%  Lv+2\n150~199%  Lv+3\n200%~    Lv+4</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.2",
+      "source": ""
+    }
+  }
+}

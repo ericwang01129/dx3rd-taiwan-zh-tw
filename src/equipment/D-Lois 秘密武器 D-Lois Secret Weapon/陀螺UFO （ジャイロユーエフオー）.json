@@ -1,0 +1,37 @@
+{
+  "_id": "H6V16dksa9OMJkiV",
+  "_key": "!items!H6V16dksa9OMJkiV",
+  "name": "陀螺UFO （ジャイロユーエフオー）",
+  "folder": "2kAs6YkcXBjKKf0t",
+  "sort": 13,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>使用陀螺儀的的效果自由操縱軌道的戰鬥悠悠球，可以使用各種機關進行變幻自在的攻擊。</p><p>使用該武器進行攻擊的判定擲骰後使用，將其中一顆判定骰的骰值變為10，該效果可以在判定過程中使用，該效果一場景可以使用一次。</p><p><em>射程：15m</em> / <em>備註：IA新增</em> / <em>參照：IA P114</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 7,
+    "guard": 0,
+    "range": "15m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 秘密武器 D-Lois Secret Weapon",
+      "section": "",
+      "source": "IA P114"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

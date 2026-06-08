@@ -1,0 +1,40 @@
+{
+  "_id": "FHiqKJ5xoDZu91mx",
+  "_key": "!items!FHiqKJ5xoDZu91mx",
+  "name": "學院出身 （學園帰り）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 120,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你從被叫做學園島的地方畢業，抑或是從那裡來的實習生的紋章。你有著一些得意的領域</p><p><em>效果：取得時選擇一個能力值（肉體/感覺/精神/社會），使用了所選能力值進行的任何判定骰數+1個</em> / <em>參照：IA P143</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN通用 取得條件：職業為UGN系，或是身為UGN法外者的角色",
+      "source": "IA P143"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

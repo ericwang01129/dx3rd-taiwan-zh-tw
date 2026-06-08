@@ -1,0 +1,34 @@
+{
+  "_id": "zroWazLyKAhyaP9v",
+  "_key": "!items!zroWazLyKAhyaP9v",
+  "name": "墮天機械 （フオールンマシン）",
+  "folder": "2kAs6YkcXBjKKf0t",
+  "sort": 35,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>三米高的人形機械。利用EX背教者病毒完成的獨一無二的機體。</p><p>搭乘期間，具有“雙手持握”性質的武器可以裝備最多4個。</p><p><em>參照：IA P115</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 秘密武器 D-Lois Secret Weapon",
+      "section": "防具",
+      "source": "IA P115"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "Fp7qvQk4MQfIa3fX",
+  "_key": "!items!Fp7qvQk4MQfIa3fX",
+  "name": "詛咒骸骨",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 221,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>封印並支配了惡靈、也就是低位背教者生命體的骷髏戒指，被封印的惡靈會吞噬你的衝動化為子彈射出。</p><p>你解除[不良狀態：暴走]時，該場景間你使用該武器進行的攻擊傷害+2D10。使用該武器攻擊時你的侵蝕率+1。</p><p><em>射程：20m</em> / <em>參照：IA P96</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -2,
+    "attack": 9,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P96"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

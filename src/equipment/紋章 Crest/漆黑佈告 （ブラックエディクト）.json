@@ -1,0 +1,40 @@
+{
+  "_id": "xQFNM3adLNvNMJ5R",
+  "_key": "!items!xQFNM3adLNvNMJ5R",
+  "name": "漆黑佈告 （ブラックエディクト）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 285,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>可以對他人強行發出粗暴命令的藥物</p><p><em>效果：與[種類：關聯]同時使用，該關聯使用的判定骰數+2個；使用該效果後，直到劇本結束，無法再次使用該關聯</em> / <em>備註：IA新增</em> / <em>參照：IA P161</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH通用 取得條件：職業為FH，或是身為FH法外者的角色",
+      "source": "IA P161"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

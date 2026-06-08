@@ -1,0 +1,40 @@
+{
+  "_id": "X3Uyzim5duAYBcdK",
+  "_key": "!items!X3Uyzim5duAYBcdK",
+  "name": "No.HR30. 發明品",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 31,
+  "system": {
+    "description": "<p><em>效果：REC：芬·布思羅伊德</em> / <em>通常效果：你可以在不消耗常備點的情況下將一件需要的常備化點在50以下的道具常備化。此時，你也可以選擇取得FH專用道具。但是無法常備化特殊道具和通過D-Lois取得的道具。\n雖然這個D-Lois所取得的道具可以交給別人，但除你以外的角色不能使用或裝備，即使持有也不能享受其效果。\n取得這個D-Lois的話，你的侵蝕率基本值+5。</em> / <em>強化效果：在你持有、裝備以通常效果取得的道具期間可以使用。於你進行判定前使用，取消該判定所承受的一切骰數懲罰。該效果一個劇本中只能使用一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR30",
+      "source": ""
+    }
+  }
+}

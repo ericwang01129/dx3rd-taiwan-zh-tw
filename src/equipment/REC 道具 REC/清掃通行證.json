@@ -1,0 +1,40 @@
+{
+  "_id": "WzgACxJTxkjSzSqN",
+  "_key": "!items!WzgACxJTxkjSzSqN",
+  "name": "清掃通行證",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 50,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>表示身為藤崎弦一部下的制服夾克，也是為了彰顯本部支援而特別製作的（也可以是藤崎直屬特工送來的）。以特別紡織技術織入的部隊章，在各國的支部進行移動、連攜時，可以代替通行證使用。不過因為過於庸俗的設計，不少穿戴者表達過不滿，但擅自改造會招來藤崎的嚴密注意。</p><p><em>REC：藤崎弦一、高崎隼人</em> / <em>通常效果：閃避：0 行動值：0 裝甲值：7\n你進行【社會】判定骰數+1個，該效果在戰鬥中無效。</em> / <em>強化效果：你進行的【社會】判定骰數額外+2（即，與通常效果合計後+3），該效果在戰鬥中無效。</em> / <em>備註：IA新增</em> / <em>參照：IA P204</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "聯繫/防具",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：藤崎弦一",
+      "source": "IA P204"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

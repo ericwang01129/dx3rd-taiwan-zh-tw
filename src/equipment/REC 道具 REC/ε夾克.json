@@ -1,0 +1,40 @@
+{
+  "_id": "6RnwVzQjwQW20TxE",
+  "_key": "!items!6RnwVzQjwQW20TxE",
+  "name": "ε夾克",
+  "folder": "jysLzfje7pT5WRDC",
+  "sort": 23,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/linked-rings.svg",
+  "system": {
+    "description": "<p>約翰平時愛穿的白色夾克，有時會送給他中意的對手。使用連約翰操縱的火焰也能耐受的特殊素材製作。因為是用訂做的手工品，保養也很周到，傳達了穿著者的喜愛，穿上後仿彿能體會到他燃燒的鬥志。</p><p><em>REC：約翰·C·考德威爾</em> / <em>次數：1/劇本</em> / <em>通常效果：閃避：-1 行動值：-1 裝甲值：5\n你所（預定）受到的HP傷害-3。</em> / <em>強化效果：次要動作使用，取消你受到的所有骰數減少效果。\n該效果一劇本可以使用一次。</em> / <em>參照：IA P200</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "聯繫/防具",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REC 道具 REC",
+      "section": "關聯：約翰·C·考德威爾",
+      "source": "IA P200"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "ZxuGx9v2i8ZzB4IR",
+  "_key": "!items!ZxuGx9v2i8ZzB4IR",
+  "name": "No.HR32. 盾之人",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 33,
+  "system": {
+    "description": "<p><em>效果：REC：取得時選擇</em> / <em>通常效果：于你進行掩護時使用，此次掩護可以對和你不處於同一接戰區域中的角色使用，但是，這個效果只能在你取得了欲掩護的角色的Lois時才能生效，這個效果一個劇本中可以使用一次。</em> / <em>強化效果：將「通常效果」的使用次數限制變更為「1個劇本中可以使用3次」。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR32",
+      "source": ""
+    }
+  }
+}

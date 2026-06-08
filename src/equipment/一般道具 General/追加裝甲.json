@@ -1,0 +1,40 @@
+{
+  "_id": "Ap4EtSxiJ3Aepisw",
+  "_key": "!items!Ap4EtSxiJ3Aepisw",
+  "name": "追加裝甲",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 205,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>使載具重裝甲化的部件，因為獲得了裝甲而使操縱性能低下。</p><p>取得時選擇你常備化的一件載具，該載具行動值-3，裝甲值+3，該效果對[裝甲值：0]的載具無效。</p><p><em>參照：IA P45</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "12",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P45"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

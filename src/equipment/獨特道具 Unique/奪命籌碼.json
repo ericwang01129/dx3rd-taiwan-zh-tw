@@ -1,0 +1,37 @@
+{
+  "_id": "TkS7EBSMb2AlfCxq",
+  "_key": "!items!TkS7EBSMb2AlfCxq",
+  "name": "奪命籌碼",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 26,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>UGN開發的超越者用投擲武器，平時是硬幣型，會與異能反應變成使用者想像的形態。</p><p>次要動作使用，該主要階段間使用該武器組合異能進行的攻擊判定骰數+2個。</p><p><em>射程：10m</em> / <em>參照：IA P58</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 7,
+    "guard": 0,
+    "range": "10m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P58"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

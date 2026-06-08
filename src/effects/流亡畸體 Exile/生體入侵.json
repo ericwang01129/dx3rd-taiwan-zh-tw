@@ -1,0 +1,64 @@
+{
+  "_id": "yxzFDIByeihQORSm",
+  "name": "生體入侵",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wing-cloak.svg",
+  "folder": "RXR6u4iWhThVDoog",
+  "sort": 0,
+  "system": {
+    "description": "<p>潛入他人體內的異能。</p><p>但要使用此異能，必須趁對象處於無法戰鬥，或者是就寢中等沒有意識的狀態才行。</p><p>潛入他人的時候會變成隱蔽狀態，並跟宿主同時移動。此潛入會在隱蔽狀態解除時自動解除。</p><p><em>參照：規則2P125</p><p>EAP71</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "單體",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 4,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "流亡畸體 Exile",
+      "syndromeItemId": "kPOoy0czVl8GhmK7",
+      "source": "規則2P125\nEAP71"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!yxzFDIByeihQORSm"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "vxYd4V5V29LLUmOo",
+  "_key": "!items!vxYd4V5V29LLUmOo",
+  "name": "No.19. 領導者 (UGN支部長專用) リーダーシップ Leadership",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 19,
+  "system": {
+    "description": "<p>你是UGN支部長中也特別優秀的領導者。</p><p>UGN組織的性質使的他在各個國家會因為當地支部長的場合產生巨大變化。日本支部長的霧穀是當中的穩健派，與政府機關和公安員警等機關調整利害再行動的傾向。</p><p>但是受到政變的影響，地方支部的許可權變得更大，主要是以都市的支部為單位在行動。</p><p><em>效果：只限工作為【UGN支部長】的角色可取得\n場景內的角色的任意判定前使用，該判定+5D，爆擊值-1(下限5)\n次數限制：劇本中一次。</em> / <em>備註：UGN支部長專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.19",
+      "source": ""
+    }
+  }
+}

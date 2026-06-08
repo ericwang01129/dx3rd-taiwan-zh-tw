@@ -1,0 +1,37 @@
+{
+  "_id": "mm3szJJYrIkEXMx7",
+  "_key": "!items!mm3szJJYrIkEXMx7",
+  "name": "彈道戰術刀",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 22,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/katana.svg",
+  "system": {
+    "description": "<p>據說曾由特殊部隊使用的特殊匕首，刀柄內裝有強力彈簧能將刀身射出。</p><p>使用該武器進行的近戰攻擊判定前使用，該攻擊的攻擊對象進行的回避判定骰數-4個，該主要階段結束後該武器破壞。</p><p><em>射程：至近</em> / <em>參照：IA P24</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "7",
+      "difficulty": 13
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -1,
+    "attack": 2,
+    "guard": 0,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "武器",
+      "source": "IA P24"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "3m2Bw6yrU8poRTNR",
+  "name": "狂想的旋律",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/gorilla.svg",
+  "folder": "mmJszNwAXIIKCjo0",
+  "sort": 0,
+  "system": {
+    "description": "<p>利用要令人發狂一樣使精神高揚的音色挑起鬥爭心的異能。</p><p>在本回合間，對象所進行的攻擊攻擊力+[LV×3]，並進入暴走狀態。</p><p>對象可以拒絕這個效果。</p><p>如果使用時你已經處於暴走狀態的話，本異能的侵蝕值+2。</p><p><em>參照：RWP38</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "setup",
+    "target": "範圍(選擇)",
+    "range": "視界",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 5,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "疾速靈猿 Hanuman",
+      "syndromeItemId": "wCn3Il0Q8vHRmZ7u",
+      "source": "RWP38"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!3m2Bw6yrU8poRTNR"
+}

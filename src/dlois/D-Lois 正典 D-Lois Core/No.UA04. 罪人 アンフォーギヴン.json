@@ -1,0 +1,40 @@
+{
+  "_id": "7amIdEqNAf2pshm2",
+  "_key": "!items!7amIdEqNAf2pshm2",
+  "name": "No.UA04. 罪人 アンフォーギヴン",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 139,
+  "system": {
+    "description": "<p>你犯下了罪。那是極大的重罪，無論如何償還都無法取回一切，你能夠免於處刑活到現在已經是十分不可思議的事情。這份罪將會銘刻在你的墓碑上（如果有人弔唁你的話），倘若你想要逃過罪責，你的罪行只會更加深重。</p><p>你活著只是為了贖清這份無法償還的罪。因此，你不被容許死亡，只能選擇活下去、償還罪孽。為那些因你而直接、間接受害的人們獻身，便是你的贖罪。</p><p>具體是怎樣的罪可以與GM商談，或不進行具體設定而是設定NPC對這份罪的態度。罪的內容也可以由GM決定，在一局開始前提前讓PL得知即可。不會發生D露易絲描述之外的負面效果。</p><p><em>效果：當你昇華泰特斯，使用“從無法戰鬥狀態中恢復”的效果時，你的HP回復到最大值。\n當你使用其他昇華泰塔斯效果時，你的侵蝕率上升3。取得此D露易絲時，可以正常使用S露易絲的效果。</em> / <em>參照：DF P26</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA04",
+      "source": "DF P26"
+    }
+  }
+}

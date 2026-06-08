@@ -1,0 +1,37 @@
+{
+  "_id": "ONyCgvqTc2CShv53",
+  "_key": "!items!ONyCgvqTc2CShv53",
+  "name": "STALKER",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 12,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>面向施加了特殊精神強化的特工開發的手槍，能利用肉體反射自動進行瞄準補正。</p><p>使用該武器進行射擊攻擊的攻擊力+[你擁有的“精神強化手術”數量x2]（最大+6）。</p><p><em>射程：20m</em> / <em>參照：IA P123</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "5",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": 0,
+    "attack": 4,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P123"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

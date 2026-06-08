@@ -1,0 +1,64 @@
+{
+  "_id": "SnnOple2SLCzbr17",
+  "name": "正午之星 (真晝の星)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spiked-halo.svg",
+  "folder": "DsuyQslZfEAoafAZ",
+  "sort": 0,
+  "system": {
+    "description": "<p>將視覺擴大到極限，得到望遠鏡般視覺的異能。</p><p>可用遠遠勝過電波望遠鏡的視力看東西，就算在正中午都能看到遙遠的星星。</p><p>使用此能力時會自動調節受光，因此不會被太陽光弄得頭暈目眩。</p><p><em>參照：規則2P83</p><p>EAP27</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "天使光環 Angel Halo",
+      "syndromeItemId": "HAQRocROxOuPzHur",
+      "source": "規則2P83\nEAP27"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!SnnOple2SLCzbr17"
+}

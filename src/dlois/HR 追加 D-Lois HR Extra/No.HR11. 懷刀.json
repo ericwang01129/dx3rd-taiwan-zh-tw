@@ -1,0 +1,40 @@
+{
+  "_id": "pNcI88bxyNt2eOaL",
+  "_key": "!items!pNcI88bxyNt2eOaL",
+  "name": "No.HR11. 懷刀",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 12,
+  "system": {
+    "description": "<p><em>效果：REC：亞修‧雷多利克</em> / <em>通常效果：取得該D-Lois時，你的能力值上升三點，於遊戲開始前進行自由分配，可以全部分配給單個能力值，也可以分配給多個能力值\n分配前後的數值應以【肉體】5 (8)這樣的方式分別記錄，進行判定時，採用分配後的後者，而成長所需的經驗則參考分配前的前者。\n取得該D-Lois時，你的侵蝕率基本值+3</em> / <em>強化效果：以「通常效果」分配的能力值進行的判定，其骰數+2D</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR11",
+      "source": ""
+    }
+  }
+}

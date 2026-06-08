@@ -1,0 +1,37 @@
+{
+  "_id": "o1ihDTQOBIQrPRuN",
+  "_key": "!items!o1ihDTQOBIQrPRuN",
+  "name": "鏡反之盾",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 4,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "system": {
+    "description": "<p>將被EX背教者侵蝕的鏡子加工成盾，由天使光環症候的超越者使用的話可以反彈異能。</p><p>你進行閃避判定前使用，該判定達成值+[<近戰>等級]，該效果一回合可以使用一次。</p><p><em>射程：至近</em> / <em>參照：IA P72</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 3,
+    "guard": 5,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P72"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "DLcyztHegNgf9Zud",
+  "_key": "!items!DLcyztHegNgf9Zud",
+  "name": "蛇王的外套",
+  "folder": "E34ex0UnjIox4JZN",
+  "sort": 16,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "古代的王與惡魔定下契約得到的外套，傳說契約者的雙肩將會浮現蛇形斑痕並獲得來自惡魔的各種知識。\n選擇並免費取得一個LV1的[限制：-]的噬身影蛇異能，該異能可以使用經驗點成長。\n代價：契約者會漸漸失去良心而變得冷漠。侵蝕率基本值+8。",
+      "difficulty": 1
+    },
+    "exp": 119,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 遺產繼承者 D-Lois Legacy",
+      "section": "防具",
+      "source": ""
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

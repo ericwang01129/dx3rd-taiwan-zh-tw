@@ -1,0 +1,40 @@
+{
+  "_id": "JrFNEbikYUD0PeUw",
+  "_key": "!items!JrFNEbikYUD0PeUw",
+  "name": "No.80. 不朽名聲 レピュテーション",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 80,
+  "system": {
+    "description": "<p>徽章、華麗的時尚，或者為載具塗上的專屬配色——這些東西在人們看來，似乎早已過時。如今，讓人輕易辨識出個人的標誌並沒有任何好處。在戰場上，過於顯眼的行為簡直是瘋狂之舉。</p><p>然而，這些標誌仍然可能發揮效用的唯一情況，就是佩戴者本身足夠強大。</p><p>僅僅是看見那徽章或配色，敵方士氣便會從根本上動搖，僅僅是看到你的身影，便能直接摧毀敵人的鬥志。</p><p>是的，你就是那樣的存在——一位傳說中的傭兵。</p><p>聽到你的名字，敵人會因恐懼而顫抖。而得知你站在友軍一方，即使友軍面臨多麼劣勢的局面，也會因信心與喜悅而深受鼓舞。</p><p><em>效果：此D-Lois只能在「舞臺：陽炎戰場」中使用。\n\n你免費取得異能【勇名的輝耀】Lv1，可使用經驗提升等級。\n勇名的輝耀\n最大等級：3 \n時機：準備階段 \n技能：- \n難易度：自動成功 \n對象：場景(選擇) \n射程：視界\n侵蝕值：4 \n限制：-\n次數：LV/劇本\n效果：透過展現你的部隊徽章或稱號，直接打擊對手士氣的異能。\n該回合內，對象只要受到至少1點HP傷害，便會受到不良狀態【硬直】。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.80",
+      "source": ""
+    }
+  }
+}

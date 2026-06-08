@@ -1,0 +1,37 @@
+{
+  "_id": "XFmhRjPOw3FYnBgW",
+  "_key": "!items!XFmhRjPOw3FYnBgW",
+  "name": "被詛咒者之槍",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 27,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>曾死於非命的名槍手使用的舊槍，被EX背教者感染後能按持有者的意志扭曲物理法則，使用這種力量的哪怕是普通子彈也能擊穿鋼鐵。</p><p>組合異能的攻擊判定骰數+1個。</p><p><em>射程：20m</em> / <em>參照：IA P58</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 20,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -1,
+    "attack": 9,
+    "guard": 0,
+    "range": "20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P58"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "aGtZewdCBnMZXyZ6",
+  "_key": "!items!aGtZewdCBnMZXyZ6",
+  "name": "名稱",
+  "folder": "pkEDzV7adwmhoSOR",
+  "sort": 17,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "備註",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "種類",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 封具 Sealing Tool",
+      "section": "其他",
+      "source": ""
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

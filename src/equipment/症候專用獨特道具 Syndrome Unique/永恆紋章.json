@@ -1,0 +1,34 @@
+{
+  "_id": "mKXmOnWM2uqZ5w2e",
+  "_key": "!items!mKXmOnWM2uqZ5w2e",
+  "name": "永恆紋章",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 190,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>用不溶冰製作的胸甲，可以讓接觸的物體與冷氣反應受到凍傷。</p><p>你使用的《能量精通》按照LV+3計算效果，可以超過LV上限。</p><p><em>參照：IA P93</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 25,
+    "equipment": true,
+    "dodge": -1,
+    "init": 0,
+    "armor": 8
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "IA P93"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

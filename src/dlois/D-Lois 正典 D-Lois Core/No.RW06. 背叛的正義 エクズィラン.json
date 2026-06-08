@@ -1,0 +1,40 @@
+{
+  "_id": "SnONcDopLmrGSF6E",
+  "_key": "!items!SnONcDopLmrGSF6E",
+  "name": "No.RW06. 背叛的正義 エクズィラン",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 167,
+  "system": {
+    "description": "<p>你曾經是反派。也許有無可奈何的理由，也可能只是沉醉於暴力。</p><p>但如今不同了。現在的你是獵殺反派的一方。或許你已悔改成為英雄，或許只是為了復仇與憎恨而行動。從反派改過自新者，被稱為「前反派（Ex-Villain）」。</p><p>多數情況下，前反派會成為反派們鄙視與制裁的對象，被視為無法貫徹反派之道的懦弱者。</p><p>因此，UGN積極保護前反派。有時是為了他們掌握的情報，但更多時候，是基於「英雄不該討伐試圖贖罪之惡」的理念。</p><p><em>效果：此D-lois只能在「舞臺：背教者戰爭」中取得。\n\n你可以從「前反派專用道具」中選擇1項，不需消耗經驗點即可常備化。透過此D-lois取得的道具，原則上只有你能使用或裝備，他人無法使用或受其效果。此外，你也可以支付經驗點常備其他前反派專用道具。\n取得此D-lois時，你的侵蝕率基本值+5。</em> / <em>參照：CE P49</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.RW06",
+      "source": "CE P49"
+    }
+  }
+}

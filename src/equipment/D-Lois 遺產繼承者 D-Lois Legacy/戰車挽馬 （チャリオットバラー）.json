@@ -1,0 +1,34 @@
+{
+  "_id": "J9kZvoddg2QaZvec",
+  "_key": "!items!J9kZvoddg2QaZvec",
+  "name": "戰車挽馬 （チャリオットバラー）",
+  "folder": "E34ex0UnjIox4JZN",
+  "sort": 23,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/skoll/race-car.svg",
+  "system": {
+    "description": "<p>古時勇將跨越山野所騎乘的動物，響應你的呼喚而顯現。</p><p>你免費取得LV1的異能《戰術》，該異能可以使用經驗點成長。</p><p>代價：契約者會變得追求速度。侵蝕率基本值+3。</p><p><em>參照：IA P119</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 遺產繼承者 D-Lois Legacy",
+      "section": "防具",
+      "source": "IA P119"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "wdblFcBsgO2XJNZJ",
+  "_key": "!items!wdblFcBsgO2XJNZJ",
+  "name": "No.G01. 被選中者(Gainer)",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 105,
+  "system": {
+    "description": "<p>代表你經歷了苛酷的人體實驗，並獲得了超越常識的力量的D-Lois。</p><p>你為何成為實驗的素體？可能是被綁架並被強迫接受實驗，也可能是自願獻身。無論你成為素體的原因為何，都可以自由決定。同樣，你所接受的實驗內容，以及被開發出的能力類型，也可以自由設定。</p><p>在那些駭人聽聞的實驗盡頭，你獲得了研究者所期望的力量。然而，即使你被讚譽為成功案例，那仍是建立在眾多犧牲之上的被詛咒之力。</p><p>你要如何運用這股獲得的力量，完全取決於你自己。你可以選擇服從賦予你力量的人，協助完成研究；也可以將其視為不祥之物而拒絕，阻止研究的進行。</p><p>作為被命運選中的你，無論哪條路都能夠前行。但不管選擇哪條道路，只要力量仍在，安寧的時刻就不會到來。直到所有因緣得到解決的那一刻，你都將繼續戰鬥下去。</p><p><em>效果：取得這個D-Lois時，從技能中選擇一項。於以所選技能進行判定前使用，此次判定的暴擊值-1（下限5），使用了這個效果的判定結束時，你的侵蝕率+6。\n這個效果在一次判定中只能使用一次，一個劇本中總共可以使用三次。</em> / <em>參照：RU P123\nLM P112</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.G01",
+      "source": "RU P123\nLM P112"
+    }
+  }
+}

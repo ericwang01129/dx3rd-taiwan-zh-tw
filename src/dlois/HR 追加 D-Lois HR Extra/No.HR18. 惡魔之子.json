@@ -1,0 +1,40 @@
+{
+  "_id": "WcW8x6wMaUH8yOK2",
+  "_key": "!items!WcW8x6wMaUH8yOK2",
+  "name": "No.HR18. 惡魔之子",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 19,
+  "system": {
+    "description": "<p><em>效果：REC：春日恭二</em> / <em>通常效果：當你的侵蝕率超過99%（達到100%以上）時，你進行的所有判定的骰數+3D。</em> / <em>強化效果：當你的侵蝕率超過119%（達到120%以上）時，你所進行攻擊的攻擊力+2D10。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR18",
+      "source": ""
+    }
+  }
+}

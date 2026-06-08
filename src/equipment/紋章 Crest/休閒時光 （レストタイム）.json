@@ -1,0 +1,40 @@
+{
+  "_id": "MkpM7XtbQ45zT1B6",
+  "_key": "!items!MkpM7XtbQ45zT1B6",
+  "name": "休閒時光 （レストタイム）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 242,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>你身處嚴苛的環境之中，因此無比珍惜平穩的時間，即使很快就會有新的任務下來，這一刻仍是只屬於你的休閒時光</p><p><em>效果：你的侵蝕率基本值-3</em> / <em>參照：IA P156</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH法外者 取得條件：沒有取得FH通用以外紋章的角色",
+      "source": "IA P156"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

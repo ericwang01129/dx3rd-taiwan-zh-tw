@@ -1,0 +1,37 @@
+{
+  "_id": "45ntvhB2IvIj9LsZ",
+  "_key": "!items!45ntvhB2IvIj9LsZ",
+  "name": "凪之太刀",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 116,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/katana.svg",
+  "system": {
+    "description": "<p>銳利的一揮連風都能切斷的太刀。</p><p>使用該武器進行的攻擊判定骰數+2個，你的行動值在20以上時，攻擊力使用右側數據。</p><p><em>射程：至近</em> / <em>參照：IA P84</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 100,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -3,
+    "attack": 10,
+    "guard": 4,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P84"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "erPjSTVNVZEIVdvw",
+  "_key": "!items!erPjSTVNVZEIVdvw",
+  "name": "No.31. 邪眼 (重力魔眼專用) イーヴルアイ Evil Eye",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 31,
+  "system": {
+    "description": "<p>你有著被稱為「邪眼」的特殊的眼睛，那眼睛有著增幅魔神能力的力量。使用時你的單眼或雙眼會染上漆黑，同時發揮出更強大的重力壓制。給予他人不幸的漆黑邪眼，其持有者也絕對不能算上幸運。</p><p><em>效果：只限症狀為【重力魔眼】的角色可取得。\n【無形之手】【巨人之斧】【黑之鐵錘】【漆黑之拳】【瞬速之刃】【斥力之槌】【魔彈射手】【霸皇幻魔眼】【黑星之門】\n以上異能追加「命中時，該回合內對方的所有判定骰-1D」的效果。\n\n但是你所使用的所有【難易度：自動成功】的「判定骰+nD」的異能，其追加的判定骰-1D(最低0)。比方說「判定骰+2D」將會變成「判定骰+1D」。這個懲罰不只適用於【重力魔眼】的異能。</em> / <em>備註：重力魔眼專用</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.31",
+      "source": ""
+    }
+  }
+}

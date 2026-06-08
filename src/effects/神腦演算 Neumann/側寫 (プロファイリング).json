@@ -1,0 +1,64 @@
+{
+  "_id": "9LgKaX2LV2HjY7gV",
+  "name": "側寫 (プロファイリング)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/cyber-eye.svg",
+  "folder": "47r01TSVVubrkaef",
+  "sort": 0,
+  "system": {
+    "description": "<p>觀察物品或貨物，透過平常不會注意到的瑣碎情報，描繪出對象的人物素描的異能。</p><p>你就像夏洛克‧福爾摩斯一樣，從少許情報就能推導出真相。</p><p>GM認為有必要的話，可要求用適當的<知識：>進行判定。</p><p><em>參照：規則2P149</p><p>EAP95</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "神腦演算 Neumann",
+      "syndromeItemId": "ohcrpvm6g5xHhvRM",
+      "source": "規則2P149\nEAP95"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!9LgKaX2LV2HjY7gV"
+}

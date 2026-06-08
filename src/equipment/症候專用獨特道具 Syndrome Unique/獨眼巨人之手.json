@@ -1,0 +1,40 @@
+{
+  "_id": "vbDVDePJNURRUt4i",
+  "_key": "!items!vbDVDePJNURRUt4i",
+  "name": "獨眼巨人之手",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 136,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>被EX背教者侵蝕的漆黑手套，擁有能將《巨型轉換》製作的物質精度提升的能力。</p><p>與《巨型轉換》同時使用，與《巨型轉換》組合的判定達成值+20，使用後你受到[不良狀態：暴走]，該效果一劇本可以使用一次。</p><p><em>參照：IA P87</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P87"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

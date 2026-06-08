@@ -1,0 +1,40 @@
+{
+  "_id": "DJnNNCtewMHuDzZA",
+  "_key": "!items!DJnNNCtewMHuDzZA",
+  "name": "旋風腳 （ゲイルブート）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 466,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>對風暴基地新兵進行的地獄般新兵訓練，即便是超越者也叫苦不迭</p><p><em>效果：取得需要【肉體】5以上；你的戰鬥移動+10m</em> / <em>備註：IA新增</em> / <em>參照：IA P181</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "關聯：總統\n（コネ：大統領）",
+      "source": "IA P181"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

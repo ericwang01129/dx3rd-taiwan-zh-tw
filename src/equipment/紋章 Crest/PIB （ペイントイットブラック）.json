@@ -1,0 +1,37 @@
+{
+  "_id": "CLyShfn3F5bt1E4J",
+  "_key": "!items!CLyShfn3F5bt1E4J",
+  "name": "PIB （ペイントイットブラック）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 384,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>陌生者部隊隊長黑崎剛道在副隊長時代使用的精確射擊步槍，經過精密調整，能夠精確射擊</p><p><em>備註：IA新增</em> / <em>參照：IA P172</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 40,
+    "equipment": true,
+    "type": "紋章/射擊",
+    "skill": "-",
+    "add": 0,
+    "attack": 0,
+    "guard": 0,
+    "range": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "紋章：陌生者 取得條件：職業為陌生者、防衛隊員、傭兵的角色",
+      "source": "IA P172"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

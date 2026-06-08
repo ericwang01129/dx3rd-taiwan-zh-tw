@@ -1,0 +1,40 @@
+{
+  "_id": "axSyYmWEomz2Nmo4",
+  "_key": "!items!axSyYmWEomz2Nmo4",
+  "name": "色帶",
+  "folder": "EXs6NOnyI2EGQnKA",
+  "sort": 208,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>記錄作戰中行動的記錄媒體，能夠更有效地收集情報，色帶是這些道具的統稱。</p><p>你使用[種類：關聯]效果進行判定前使用，該判定骰數+2個。</p><p><em>參照：IA P45</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "2",
+      "difficulty": 12
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "一般道具 General",
+      "section": "關聯：同好之士",
+      "source": "IA P45"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

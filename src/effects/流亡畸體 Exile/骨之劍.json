@@ -1,0 +1,64 @@
+{
+  "_id": "0kzD9CEhG31OfAxm",
+  "name": "骨之劍",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "folder": "RXR6u4iWhThVDoog",
+  "sort": 0,
+  "system": {
+    "description": "<p>變化骨骼的形狀，製造出近戰武器的異能。</p><p>該場景中，你的空手變更成以下數據。</p><p>種類：近戰　技能：<近戰>　命中：-1　攻擊力：[LV×2+5]　格擋值：6　射程：至近</p><p><em>參照：規則1P130</p><p>EAP68</p><p>IAP105</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "流亡畸體 Exile",
+      "syndromeItemId": "kPOoy0czVl8GhmK7",
+      "source": "規則1P130\nEAP68\nIAP105"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0kzD9CEhG31OfAxm"
+}

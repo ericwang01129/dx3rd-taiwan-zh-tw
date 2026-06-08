@@ -1,0 +1,40 @@
+{
+  "_id": "qT8FHD85gWJrGq00",
+  "_key": "!items!qT8FHD85gWJrGq00",
+  "name": "超社會 （ハイパーソサエティ）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 376,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/heart-key.svg",
+  "system": {
+    "description": "<p>你作為神恩天國的一員在一般社會構築起的地位，依靠超越者之力的話在表世界獲得成功根本不是難事，當然這樣的成功會有很多奇怪之處</p><p><em>效果：你的【社會】+5，你使用【社會】進行的回應動作判定，骰子數-3個</em> / <em>備註：IA新增</em> / <em>參照：IA P171</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 15,
+    "equipment": true,
+    "type": "核心紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "神恩天國 取得條件：職業為黑手黨、刺客、小偷、駭客的角色",
+      "source": "IA P171"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

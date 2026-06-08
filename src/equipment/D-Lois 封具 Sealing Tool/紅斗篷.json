@@ -1,0 +1,34 @@
+{
+  "_id": "Pw8VvOedcFFTcaOK",
+  "_key": "!items!Pw8VvOedcFFTcaOK",
+  "name": "紅斗篷",
+  "folder": "pkEDzV7adwmhoSOR",
+  "sort": 11,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "玩弄眼前之人的紅布斗篷。性格裝腔作勢，但非常高傲。\n準備階段使用。在這一回合間，場景中登場的一個角色的判定骰子-2個。\n封具效果：在攻擊對象包含與你處於同一接戰區域的角色時使用，攻擊變為[對象：單體]，對象變為你。",
+      "difficulty": -2
+    },
+    "exp": 41,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 封具 Sealing Tool",
+      "section": "防具",
+      "source": ""
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

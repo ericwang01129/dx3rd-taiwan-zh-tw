@@ -1,0 +1,37 @@
+{
+  "_id": "i5koomaa6Kx1C27c",
+  "_key": "!items!i5koomaa6Kx1C27c",
+  "name": "元型：近戰武器",
+  "folder": "mMjNW5Y2NPFTw9TO",
+  "sort": 48,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/zeus-sword.svg",
+  "system": {
+    "description": "<p>《弑神之刃》作出的近戰武器。單雙手都可以方便地使用。</p><p><em>射程：至近</em> / <em>參照：UAP26</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰/元型",
+    "skill": "melee",
+    "add": 0,
+    "attack": 2,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "異能力道具 Effect Tool",
+      "section": "",
+      "source": "UAP26"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

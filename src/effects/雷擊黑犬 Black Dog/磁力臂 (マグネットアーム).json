@@ -1,0 +1,64 @@
+{
+  "_id": "DF3u1CV1eIxgG1i5",
+  "name": "磁力臂 (マグネットアーム)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wolf-head.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>通過磁力將周圍的物體吸引過來，變為巨大武器的異能。</p><p>該回合間，製作並裝備以下數據的武器，此武器攻擊力+【肉體】。</p><p>種類：近戰　技能：<近戰>　命中：-2　攻擊力：[LV×2]　格擋值：3　射程：5m</p><p><em>參照：CEP64</p><p>IAP104</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "minor",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 2,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "CEP64\nIAP104"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!DF3u1CV1eIxgG1i5"
+}

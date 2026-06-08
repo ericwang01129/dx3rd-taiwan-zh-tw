@@ -1,0 +1,40 @@
+{
+  "_id": "0LNaR8AVDTGb9sff",
+  "_key": "!items!0LNaR8AVDTGb9sff",
+  "name": "崩毀日常 （クランブルデイズ）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 99,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你熟知發生緊急情況時的對應方案、民眾誘導方法、情報隱蔽方法、不要獨自對抗原菌等事務</p><p><em>效果：你進行的判定骰數+1個，該效果無法在戰鬥中使用</em> / <em>備註：IA新增</em> / <em>參照：IA P140</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "UGN法外者 取得條件：沒有取得UGN通用以外紋章的角色",
+      "source": "IA P140"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

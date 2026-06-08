@@ -1,0 +1,40 @@
+{
+  "_id": "K9brXqBVZfVP0hvh",
+  "_key": "!items!K9brXqBVZfVP0hvh",
+  "name": "No.HR23. 前世記憶",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "xcumWXdfpA2NTObM",
+  "sort": 24,
+  "system": {
+    "description": "<p><em>效果：REC：都築京香</em> / <em>通常效果：使用沉睡在你體內的背教者病毒中的異能。\n從自己取得的症狀以外的症狀中，選擇並免費獲得一個異能，其等級為[最大等級-3](最低Lv1)。取得的能力不能用經驗點升級\n但不能選擇有限制的異能，敵人專屬異能，【時機：常駐】的異能。\n取得的異能被視為【限制：100%】的異能，且侵蝕值+5</em> / <em>強化效果：於使用「通常效果」所取得的異能時宣言，使該異能的等級和最大等級+1。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "HR 追加 D-Lois HR Extra",
+      "number": "No.HR23",
+      "source": ""
+    }
+  }
+}

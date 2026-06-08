@@ -1,0 +1,40 @@
+{
+  "_id": "Wb65gLhruDx3ife4",
+  "_key": "!items!Wb65gLhruDx3ife4",
+  "name": "No.99. 鞘人 (長青魔劍專用) シースマンSheathman",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 99,
+  "system": {
+    "description": "<p>覺醒長青魔劍症狀同時作為鞘人的你所宿存的元型有其獨特性。那並不是你憑自己的意志所描繪出的形象。而是真實存在於這個世界某處的、早已存在的傳說武器。</p><p><em>效果：只限症狀為【長青魔劍】的角色可取得。\n取得此D露易絲時，選擇以下項目中的一個，獲取該項目之道具。不需要花費經驗值。\n・常備化點數20點以下的武器或防具一個。\n・經驗值20以下的獨特道具(僅限於武器、防具)。\n・秘密武器專用道具中，武器或防具一個。\n・遺產繼承者專用道具中，武器或防具一個。\n獲得的物品被視為[類別：元型]，當你使用《弒神之刃》時，就會生成上述物品(也就是說你無法獲得《弒神之刃》專屬道具) 。</em> / <em>備註：長青魔劍專用</em> / <em>參照：UA P25</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.99",
+      "source": "UA P25"
+    }
+  }
+}

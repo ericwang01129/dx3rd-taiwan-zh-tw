@@ -1,0 +1,40 @@
+{
+  "_id": "1qU3rPsOfWlWWH8y",
+  "_key": "!items!1qU3rPsOfWlWWH8y",
+  "name": "No.UA11. 本質的根源 エッセンシャル",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 146,
+  "system": {
+    "description": "<p>在RB之中，你誕生時作為根源的存在的特徵尤其明顯，被稱作“本質根源”。你身上有著其他RB身上無法發現的特異性的力量。由於你保持著更加高程度的起源性質，才能使用這些力量。</p><p>你可以自由決定是否對此有自覺，總之你是有著更加本質的力量的RB。</p><p><em>效果：只有取得一個《起源：●●》的角色可以取得這個D露易絲。\n你取得的《起源：●●》的最大等級+1，並可以選擇並不消耗經驗點取得一個本質的根源專用異能力，且必須取得滿足解說中的起源限制。\n可以消耗經驗點成長所選的異能或取得沒有起源限制的新異能。\n本質的根源的力量與你的起源息息相關。當你沒有受到自己取得的《起源：●●》時，你的所有判定的骰子-2個。</em> / <em>備註：RB專用</em> / <em>參照：DF P30</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.UA11",
+      "source": "DF P30"
+    }
+  }
+}

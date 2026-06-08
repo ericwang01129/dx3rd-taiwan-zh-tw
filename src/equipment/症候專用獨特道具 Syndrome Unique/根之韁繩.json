@@ -1,0 +1,40 @@
+{
+  "_id": "T9vcB4L4HkLTC7pY",
+  "_key": "!items!T9vcB4L4HkLTC7pY",
+  "name": "根之韁繩",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 247,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>可以與元型組合的操作結構。統稱為韁繩，實際上也可以是方向盤或者杆狀。</p><p>使用《弑神之刃》製作「類別：載具」的元型時使用，元型的「行動」+4。</p><p><em>參照：SSS6 P48</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "關聯：戰神的軍師",
+      "source": "SSS6 P48"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "dx3rd-taiwan-zh-tw",
+  "title": "DX3系統正體中文化",
+  "description": "為 FVTT 中的 DX3 系统增加正體中文。",
+  "authors": [
+    {
+      "name": "eric",
+      "discord": "ericwang01129",
+      "flags": {}
+    }
+  ],
+  "version": "1.0.0",
+  "url": "https://github.com/ericwang01129/dx3rd-taiwan-zh-tw",
+  "manifest": "https://raw.githubusercontent.com/ericwang01129/dx3rd-taiwan-zh-tw/main/module.json",
+  "download": "https://github.com/ericwang01129/dx3rd-taiwan-zh-tw/archive/refs/heads/main.zip",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11",
+    "maximum": "11"
+  },
+  "styles": [
+    "styles/dx3-overed-ui.css"
+  ],
+  "packs": [
+    {
+      "name": "dx3-syndromes",
+      "label": "DX3 症候群 Syndromes",
+      "system": "dx3rd",
+      "path": "packs/dx3-syndromes",
+      "type": "Item",
+      "entity": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "dx3-effects",
+      "label": "DX3 異能 Effects",
+      "system": "dx3rd",
+      "path": "packs/dx3-effects",
+      "type": "Item",
+      "entity": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "dx3-works",
+      "label": "DX3 工作 Works",
+      "system": "dx3rd",
+      "path": "packs/dx3-works",
+      "type": "Item",
+      "entity": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "dx3-equipment",
+      "label": "DX3 裝備 Equipment",
+      "system": "dx3rd",
+      "path": "packs/dx3-equipment",
+      "type": "Item",
+      "entity": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "dx3-dlois",
+      "label": "DX3 D-Lois",
+      "system": "dx3rd",
+      "path": "packs/dx3-dlois",
+      "type": "Item",
+      "entity": "Item",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "languages": [
+    {
+      "lang": "zh-tw",
+      "name": "正體中文",
+      "path": "lang/zh-tw.json",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dx3rd",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}

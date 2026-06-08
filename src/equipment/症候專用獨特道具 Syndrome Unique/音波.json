@@ -1,0 +1,37 @@
+{
+  "_id": "kOaXvE9pzRu3acwJ",
+  "_key": "!items!kOaXvE9pzRu3acwJ",
+  "name": "音波",
+  "folder": "VsvqWT2u088ca4pi",
+  "sort": 110,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/saber-slash.svg",
+  "system": {
+    "description": "<p>被EX背教者侵蝕的吉他或小號等樂器。</p><p>次要動作使用，主要動作進行的<RC>判定和疾速靈猿簡易異能判定骰數+2個。</p><p><em>射程：至近</em> / <em>參照：IA P84</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": -4,
+    "attack": 6,
+    "guard": 3,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "症候專用獨特道具 Syndrome Unique",
+      "section": "",
+      "source": "IA P84"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

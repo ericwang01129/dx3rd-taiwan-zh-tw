@@ -1,0 +1,40 @@
+{
+  "_id": "nFiu24P79lFsZHXa",
+  "_key": "!items!nFiu24P79lFsZHXa",
+  "name": "No.CRC14. 自動人偶 オートマータ",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 134,
+  "system": {
+    "description": "<p>你是自動人偶，是歐洲瘋狂煉金術師創造的模仿人類的機關人偶。或者，你可能有著完全不同的來歷，但同樣是擁有類似功能的某種自動機械，也可能是幻夢境的夢，或來自不同時間的機器人。</p><p>無論如何，成功利用背教者補充自身功能的你，已經從奪取人體作為驅動力的詛咒命運中解脫。</p><p>然而，作為結果你被排除在自動人偶的\"群體\"——機械的群體意識之外。這種孤獨感持續折磨著你，從孤獨感中解放的方法只有一個，就是墮落為原菌——</p><p><em>效果：你的本職為[恐怖之物]（NC P186）。\n你的裝甲值+[【肉體】×2]，【行動值】+【精神】，【HP最大值】+5。\n你可以將在遊戲前常備化的一件武器設定為嵌入你的身體。這類武器除非接受精密檢查或主動裝備，否則無法被發現。</em> / <em>參照：NC P95</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.CRC14",
+      "source": "NC P95"
+    }
+  }
+}

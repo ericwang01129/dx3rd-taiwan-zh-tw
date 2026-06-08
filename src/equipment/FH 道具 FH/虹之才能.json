@@ -1,0 +1,40 @@
+{
+  "_id": "jq4L9Lc2QbUeipTn",
+  "_key": "!items!jq4L9Lc2QbUeipTn",
+  "name": "虹之才能",
+  "folder": "LGWa828to1dHQzC8",
+  "sort": 50,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>服用後會犧牲生命力強化能力的藥物。</p><p>取得時選擇一項能力值（肉體/感覺/精神/社會），次要動作使用，該場景中使用該能力值進行的判定骰數+2個，使用該道具的主要階段結束時你失去5HP。</p><p><em>參照：IA P127</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "5",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "FH 道具 FH",
+      "section": "",
+      "source": "IA P127"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "bcMGTKVMKeaMAhzI",
+  "name": "雷暴 (サンダーストーム)",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-arc.svg",
+  "folder": "MLSW5fEzXz5Degnd",
+  "sort": 0,
+  "system": {
+    "description": "<p>前提條件：《雷神之錘》。</p><p>產生廣範圍的電擊，使敵人無處可逃，被燒焦的異能。</p><p>與《雷神之錘》組合使用，組合後的攻擊傷害骰子+3D。使用這個異能時也會消耗一次《雷神之錘》的使用次數(使用次數耗盡時則不能使用)</p><p><em>參照：BCP58</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "rc",
+    "difficulty": "對決",
+    "limit": "極限",
+    "timing": "major",
+    "target": "-",
+    "range": "-",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 3,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "雷擊黑犬 Black Dog",
+      "syndromeItemId": "hWwcHd8Gt8C56UhO",
+      "source": "BCP58"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!bcMGTKVMKeaMAhzI"
+}

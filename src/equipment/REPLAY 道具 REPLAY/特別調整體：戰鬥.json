@@ -1,0 +1,40 @@
+{
+  "_id": "NSowwYH5kbDgrD7q",
+  "_key": "!items!NSowwYH5kbDgrD7q",
+  "name": "特別調整體：戰鬥",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 13,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>由神崎博士進行，你作為戰鬥用複製體，接受了特別調整程序。</p><p><em>效果：你進行的攻擊判定達成值+1。該道具只有取得了「D-Lois：複製體」的角色可以取得，該效果最多可以疊加至3個。</em> / <em>參照：IA P189</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 3,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P189"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

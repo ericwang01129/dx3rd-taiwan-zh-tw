@@ -1,0 +1,64 @@
+{
+  "_id": "K4oMR6t3xf0jzfcV",
+  "name": "全金屬外殼 （フルメタルジャケット）",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/winged-shield.svg",
+  "folder": "m920eVQK9xEhuLPi",
+  "sort": 0,
+  "system": {
+    "description": "<p>表示你的元型如同城塞一般堅固的異能。即使看起來只是輕薄的衣服，實際也比鋼鐵更結實。</p><p>你取得的[類別：元型]的防具的裝甲值+[LV×3]。</p><p>取得時，《弑神之刃》的侵蝕值+2。</p><p><em>參照：UAP18</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "normal",
+    "skill": "-",
+    "difficulty": "自動成功",
+    "limit": "-",
+    "timing": "always",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 3,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "長青魔劍 Mistilteinn",
+      "syndromeItemId": "prV8KorHRzKAVkva",
+      "source": "UAP18"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!K4oMR6t3xf0jzfcV"
+}

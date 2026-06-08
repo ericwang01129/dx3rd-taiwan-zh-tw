@@ -1,0 +1,40 @@
+{
+  "_id": "Y6HA3aM1HbYREOdr",
+  "_key": "!items!Y6HA3aM1HbYREOdr",
+  "name": "氏族符號 （クランサイン）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 258,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示從屬於同一氏族的道具，也有作為暗號的情況，持有者們會捨棄至今為止的爭鬥與因緣，為了氏族的目的共同努力</p><p><em>效果：取得時選擇一項技能，你進行的所選技能判定時，骰子數+2個</em> / <em>備註：IA新增</em> / <em>參照：IA P158</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH通用 取得條件：職業為FH，或是身為FH法外者的角色",
+      "source": "IA P158"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

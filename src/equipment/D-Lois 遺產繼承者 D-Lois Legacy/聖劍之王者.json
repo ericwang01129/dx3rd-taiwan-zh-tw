@@ -1,0 +1,37 @@
+{
+  "_id": "QRmeipz1RrHaCKXW",
+  "_key": "!items!QRmeipz1RrHaCKXW",
+  "name": "聖劍之王者",
+  "folder": "E34ex0UnjIox4JZN",
+  "sort": 7,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crossed-swords.svg",
+  "system": {
+    "description": "<p>即使在無數的傳說之劍中也被稱為王者的無鞘之劍。</p><p>次要動作使用，該主要階段間使用該武器進行的攻擊的暴擊值-2（下限值4），該效果一劇本可以使用一次。</p><p>代價：契約者將變得追求不會被力量所吞噬的強大。你在受到[不良狀態：暴走]期間無法進行攻擊。</p><p><em>射程：至近</em> / <em>參照：IA P118</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "不可",
+      "difficulty": 0
+    },
+    "exp": 0,
+    "equipment": true,
+    "type": "近戰",
+    "skill": "melee",
+    "add": 0,
+    "attack": 15,
+    "guard": 7,
+    "range": "至近"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 遺產繼承者 D-Lois Legacy",
+      "section": "",
+      "source": "IA P118"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

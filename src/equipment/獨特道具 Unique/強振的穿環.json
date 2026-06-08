@@ -1,0 +1,34 @@
+{
+  "_id": "KMavbFoXDmaLbW7f",
+  "_key": "!items!KMavbFoXDmaLbW7f",
+  "name": "強振的穿環",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 75,
+  "type": "protect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/breastplate.svg",
+  "system": {
+    "description": "<p>能增強攻擊勢頭的不可思議穿環，但會失去准度。</p><p>你進行的攻擊傷害+1D10，但你進行的攻擊的判定，其達成值不能加上所使用技能的等級。</p><p><em>參照：IA P64</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "dodge": 0,
+    "init": 0,
+    "armor": 0
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P64"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

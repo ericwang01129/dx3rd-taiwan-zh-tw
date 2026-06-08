@@ -1,0 +1,40 @@
+{
+  "_id": "jviOeVybAYCcGPTP",
+  "_key": "!items!jviOeVybAYCcGPTP",
+  "name": "No.83. 希望之星 ザホープ",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 83,
+  "system": {
+    "description": "<p>作為一名協助UGN的超越者，你致力於從FH的統治中解放這個世界。</p><p>至於你為何選擇與UGN合作，可能有以下幾種原因：</p><p>你曾經是UGN的特工或UGN之子。又或者因為某次與背教者病毒相關的事件，得知了UGN的真相。也可能是對FH構建的超越者至上的社會秩序感到不滿。具體是什麼理由，可以與GM商討後自由決定。</p><p>與UGN共同行動之後，你從中體會到了一個深刻的道理：無論情況多麼絕望，只要不放棄就還沒有失敗。如今FH已成功掌控世界，UGN逆轉的可能性可以說是零，但UGN並不會因此停下腳步。</p><p>而作為UGN的盟友，你同樣繼承了這份不屈的意志，這份意志必將成為衝破重重困難的力量。</p><p><em>效果：此D-Lois只能在「舞臺：終焉世界線」中取得。\n\n你擁有不屈的意志，即便面對再絕望的情況也絕不放棄。這份意志讓你能夠化不可能為可能，從十死無生的危機中生還。\n你進行判定並擲骰後使用，將該判定擲骰結果中的一個骰子點數改為10，你也可以在判定過程中使用此效果。使用該效果時，你的侵蝕率會+3。一次判定最多可以使用一次該效果。該效果一劇本可以使用三次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.83",
+      "source": ""
+    }
+  }
+}

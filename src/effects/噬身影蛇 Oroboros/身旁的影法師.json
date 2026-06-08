@@ -1,0 +1,64 @@
+{
+  "_id": "DXUeiRBX5XJ0IcJx",
+  "name": "身旁的影法師",
+  "type": "effect",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/shadow-grasp.svg",
+  "folder": "1pCX5ZBbIY55J65u",
+  "sort": 0,
+  "system": {
+    "description": "<p>將自己的影子立體化，變成人類或動物的姿態跟在身旁的異能。</p><p>影子視為臨時角色，可自由決定外觀，但不會說話。使用自動動作來變回原本平面的影子。</p><p>想隱瞞其為影子的事實的話，以觀察者的<知覺>跟你的<RC>進行對決來判斷是否會被看穿。</p><p><em>參照：ICP51</p><p>EAP127</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "type": "easy",
+    "skill": "-",
+    "difficulty": "參照效果",
+    "limit": "-",
+    "timing": "major",
+    "target": "自身",
+    "range": "至近",
+    "roll": "-",
+    "attackRoll": "-",
+    "encroach": {
+      "init": 0,
+      "value": ""
+    },
+    "level": {
+      "init": 1,
+      "max": 1,
+      "upgrade": true
+    },
+    "exp": {
+      "own": true,
+      "upgrade": true
+    },
+    "effect": {
+      "disable": "notCheck",
+      "attributes": {}
+    },
+    "active": {
+      "state": false,
+      "disable": "-"
+    },
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    },
+    "attributes": {},
+    "getTarget": false,
+    "macro": ""
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "syndrome": "噬身影蛇 Oroboros",
+      "syndromeItemId": "R7Jxr26CWdNB0hjx",
+      "source": "ICP51\nEAP127"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!DXUeiRBX5XJ0IcJx"
+}

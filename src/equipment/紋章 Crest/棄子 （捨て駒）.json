@@ -1,0 +1,40 @@
+{
+  "_id": "T69a9ZJ1g6SIiupH",
+  "_key": "!items!T69a9ZJ1g6SIiupH",
+  "name": "棄子 （捨て駒）",
+  "folder": "pIlKIpxkBeI4oRew",
+  "sort": 184,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wax-seal.svg",
+  "system": {
+    "description": "<p>表示你是被當作用來斷後的棄子的紋章</p><p><em>次數：1/場景</em> / <em>效果：準備階段使用，令你接戰區域之內的任意角色脫離該接戰區域；此時也可以讓臨時角色脫離，其移動距離視為5m；GM可以拒絕臨時角色的脫離，被施加該效果的對象也可以拒絕該效果\n該效果1場景可以使用1次</em> / <em>參照：IA P150</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "紋章/一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "紋章 Crest",
+      "section": "FH之子 取得條件：職業為FH之子A~C",
+      "source": "IA P150"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

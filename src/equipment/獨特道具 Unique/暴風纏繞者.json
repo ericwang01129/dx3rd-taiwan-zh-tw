@@ -1,0 +1,37 @@
+{
+  "_id": "CxgxXENSQaNvygZN",
+  "_key": "!items!CxgxXENSQaNvygZN",
+  "name": "暴風纏繞者",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 29,
+  "type": "weapon",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/john-colburn/pistol-gun.svg",
+  "system": {
+    "description": "<p>被EX背教者感染的弓，用這把弓射出的箭矢在風暴中也能筆直前進。</p><p>使用該武器進行的攻擊判定不會受到來自其他角色使用的異能減少骰數效果影響。雙手持握。至近不可。</p><p><em>射程：【肉體】+20m</em> / <em>參照：IA P59</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 30,
+    "equipment": true,
+    "type": "射擊",
+    "skill": "ranged",
+    "add": -2,
+    "attack": 12,
+    "guard": 0,
+    "range": "【肉體】+20m"
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "武器",
+      "source": "IA P59"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

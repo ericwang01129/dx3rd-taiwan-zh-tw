@@ -1,0 +1,40 @@
+{
+  "_id": "0ZzRWA0kvI4jCQ7j",
+  "_key": "!items!0ZzRWA0kvI4jCQ7j",
+  "name": "同僚相殺 （同僚殺し）",
+  "folder": "VuMYawssCxEP4YKx",
+  "sort": 7,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/swap-bag.svg",
+  "system": {
+    "description": "<p>表示由於你的暴走導致以前的同事遭遇不幸的道具。</p><p><em>效果：僅在你持有紋章道具時生效。你攻擊的對象裝備或持有與你相同組織的紋章時，你的攻擊的攻擊力+10。</em> / <em>參照：IA P188</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 5,
+    "equipment": true,
+    "type": "一般",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "REPLAY 道具 REPLAY",
+      "section": "關聯：普遍機關",
+      "source": "IA P188"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

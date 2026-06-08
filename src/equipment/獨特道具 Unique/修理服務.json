@@ -1,0 +1,40 @@
+{
+  "_id": "6SlkcLUInnL1K42M",
+  "_key": "!items!6SlkcLUInnL1K42M",
+  "name": "修理服務",
+  "folder": "kdw3NJHXzoKKOuB4",
+  "sort": 116,
+  "type": "item",
+  "img": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/round-bottom-flask.svg",
+  "system": {
+    "description": "<p>修理破損裝備的支援體制。</p><p>主要動作使用，解除你擁有的一件購入難度或必要經驗值在20以下的道具的破壞狀態，戰鬥中無法使用。該道具無法複數常備化。</p><p><em>參照：IA P69</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": "",
+      "difficulty": 0
+    },
+    "exp": 10,
+    "equipment": true,
+    "type": "消耗品",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": true,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "獨特道具 Unique",
+      "section": "防具",
+      "source": "IA P69"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

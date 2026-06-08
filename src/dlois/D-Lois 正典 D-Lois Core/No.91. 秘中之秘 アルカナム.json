@@ -1,0 +1,40 @@
+{
+  "_id": "jaKqWvPm5IND8zIu",
+  "_key": "!items!jaKqWvPm5IND8zIu",
+  "name": "No.91. 秘中之秘 アルカナム",
+  "type": "item",
+  "img": "icons/svg/aura.svg",
+  "folder": "Fj9s0ZvYHujwBMjO",
+  "sort": 91,
+  "system": {
+    "description": "<p>你掌握了一種源自現有戰鬥技術，並由自己獨立發展而來的特殊技法。</p><p>雖然其基礎武技源自歷史所承襲，但你衍生出的這門技法卻突破了既有常識，是驚世駭俗的超絕技巧。那種架式，在武術史上任何流派都找不到。那種氣勢，能吞噬對手的意識。那種動作，幾乎不像是人類能辦到的。乍看之下只覺得怪異滑稽的技法，所打出的一擊卻能令敵人當場斃命、粉碎萬物，其威力驚人，堪稱絕技殺招。</p><p>這門技術究竟是以哪種武術為基礎、運用了什麼樣的技巧構成，可以自由設定。</p><p><em>效果：此D-Lois只能在「舞臺：奇妙時代」中使用。\n\n你所修得的武技，是足以擊倒敵人的必殺技。其威力無人能擋。你進行的命中判定前使用，這次攻擊的傷害擲骰+4D。使用該效果的主要階段結束時，失去1D點HP。該效果一劇本可以使用一次。</em></p>",
+    "skillTmp": "melee",
+    "skills": {},
+    "saving": {
+      "value": 0,
+      "difficulty": ""
+    },
+    "exp": 0,
+    "equipment": false,
+    "type": "D-Lois",
+    "quantity": 1,
+    "macro": "",
+    "used": {
+      "state": 0,
+      "max": 0,
+      "level": false,
+      "disable": "notCheck"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dx3rd-taiwan-zh-tw": {
+      "category": "D-Lois 正典 D-Lois Core",
+      "number": "No.91",
+      "source": ""
+    }
+  }
+}
