@@ -2,3 +2,6 @@
 packs/**/LOCK
 packs/**/LOG
 packs/**/LOG.old
+
+# Standalone web page project (not part of the Foundry module distribution)
+web/

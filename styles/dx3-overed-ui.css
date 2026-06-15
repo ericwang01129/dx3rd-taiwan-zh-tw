@@ -1591,3 +1591,374 @@ body.system-dx3rd .app.window-app *::-webkit-scrollbar-thumb {
   border: 1px solid var(--dx-void);
   box-shadow: 0 0 6px rgba(0,229,255,0.35);
 }
+
+/* =============================================================
+   18. JOURNAL ENTRIES  (the parchment-page surfaces)
+   Foundry paints journal text pages on a light parchment image.
+   Strip it and drop in the void-black theme so the journal body
+   matches every other DX3 surface.
+   ============================================================= */
+
+/* page background layers — kill the parchment, paint the void */
+body.system-dx3rd .journal-sheet .journal-entry-content,
+body.system-dx3rd .journal-entry-page,
+body.system-dx3rd .journal-sheet .journal-entry-pages,
+body.system-dx3rd .journal-sheet .journal-entry-page,
+body.system-dx3rd .journal-sheet .journal-page-content,
+body.system-dx3rd .journal-sheet .scrollable,
+body.system-dx3rd .journal-entry-page.text,
+body.system-dx3rd .journal-entry .editor-content {
+  background:
+    linear-gradient(180deg, rgba(0,229,255,0.04), transparent 140px),
+    radial-gradient(1200px 300px at 50% -80px, rgba(229,0,40,0.10), transparent 60%),
+    linear-gradient(180deg, var(--dx-void) 0%, var(--dx-void-2) 100%) !important;
+  background-attachment: local !important;
+  color: var(--dx-text) !important;
+}
+
+/* default body text inside journal pages */
+body.system-dx3rd .journal-entry-page,
+body.system-dx3rd .journal-page-content,
+body.system-dx3rd .journal-entry-page p,
+body.system-dx3rd .journal-entry-page li,
+body.system-dx3rd .journal-entry-page span,
+body.system-dx3rd .journal-entry-page td,
+body.system-dx3rd .journal-entry-page .editor-content,
+body.system-dx3rd .journal-entry-page .editor-content p,
+body.system-dx3rd .journal-entry-page .editor-content li {
+  color: var(--dx-text) !important;
+}
+
+/* journal page headings */
+body.system-dx3rd .journal-entry-page h1,
+body.system-dx3rd .journal-entry-page h2,
+body.system-dx3rd .journal-entry-page h3,
+body.system-dx3rd .journal-entry-page h4 {
+  color: var(--dx-cyan-soft) !important;
+  text-shadow: 0 0 8px rgba(0,229,255,0.4);
+  border-bottom: 1px solid var(--dx-cyan);
+  font-family: var(--dx-font-display);
+  letter-spacing: 0.1em;
+}
+
+/* links */
+body.system-dx3rd .journal-entry-page a,
+body.system-dx3rd .journal-entry-page a.content-link {
+  color: var(--dx-cyan-soft) !important;
+  background: rgba(0,229,255,0.08) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+}
+
+body.system-dx3rd .journal-entry-page a:hover {
+  color: var(--dx-red-glow) !important;
+  text-shadow: 0 0 8px rgba(229,0,40,0.5);
+}
+
+/* tables inside journal pages (e.g. the rules quick-reference table) */
+body.system-dx3rd .journal-entry-page table {
+  border-collapse: collapse;
+  border: 1px solid var(--dx-line-strong) !important;
+  background: rgba(7,9,15,0.55) !important;
+  color: var(--dx-text) !important;
+}
+
+body.system-dx3rd .journal-entry-page table thead,
+body.system-dx3rd .journal-entry-page table th {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel)) !important;
+  color: var(--dx-cyan-soft) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  text-shadow: 0 0 6px rgba(0,229,255,0.3);
+}
+
+body.system-dx3rd .journal-entry-page table td {
+  border: 1px solid var(--dx-line) !important;
+  color: var(--dx-text) !important;
+}
+
+body.system-dx3rd .journal-entry-page table tr:nth-child(even) td {
+  background: rgba(0,229,255,0.03) !important;
+}
+
+/* blockquotes / secret blocks / hr */
+body.system-dx3rd .journal-entry-page blockquote,
+body.system-dx3rd .journal-entry-page section.secret {
+  background: rgba(7,9,15,0.5) !important;
+  border-left: 3px solid var(--dx-cyan) !important;
+  color: var(--dx-text-dim) !important;
+}
+
+body.system-dx3rd .journal-entry-page hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--dx-cyan), transparent);
+  box-shadow: 0 0 8px rgba(0,229,255,0.3);
+}
+
+/* the journal sidebar / page-list (table of contents) */
+body.system-dx3rd .journal-sheet .journal-sidebar,
+body.system-dx3rd .journal-sheet .pages-list {
+  background: linear-gradient(180deg, var(--dx-void) 0%, var(--dx-void-2) 100%) !important;
+  border-right: 1px solid var(--dx-line) !important;
+}
+
+body.system-dx3rd .journal-sheet .pages-list .directory-item,
+body.system-dx3rd .journal-sheet .pages-list h4 {
+  color: var(--dx-text) !important;
+}
+
+body.system-dx3rd .journal-sheet .pages-list .directory-item.active,
+body.system-dx3rd .journal-sheet .pages-list .directory-item:hover {
+  color: var(--dx-cyan-soft) !important;
+  background: rgba(0,229,255,0.08) !important;
+}
+
+/* =============================================================
+   16. THEATRE INSERTS — match the module's floating UI to the
+   OVERED UI. Scoped to DX3 sessions only. Only the "extra
+   windows" (emote menu, control/nav bar, tooltip, the actor
+   emote-config rows) are themed -- the visual-novel stage
+   (portraits, dialogue, narrator) is intentionally left alone.
+   ============================================================= */
+
+/* ---- Emote menu panel ---- */
+body.system-dx3rd .theatre-emote-menu {
+  background:
+    linear-gradient(180deg, rgba(0,229,255,0.05), transparent 120px),
+    radial-gradient(600px 200px at 50% -40px, rgba(229,0,40,0.18), transparent 60%),
+    linear-gradient(180deg, var(--dx-void) 0%, var(--dx-void-2) 100%) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  box-shadow:
+    inset 0 0 0 1px rgba(0,229,255,0.08),
+    inset 0 0 40px rgba(0,229,255,0.04),
+    0 0 18px rgba(0,0,0,0.7),
+    var(--dx-shadow-cyan) !important;
+  color: var(--dx-text) !important;
+}
+
+/* Section headers -> display font, cyan, uppercase */
+body.system-dx3rd .theatre-emote-menu h2,
+body.system-dx3rd .theatre-emote-menu .emote-box h2 {
+  font-family: var(--dx-font-display) !important;
+  color: var(--dx-cyan-soft) !important;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  -webkit-text-stroke: 0 !important;
+  text-shadow: 0 0 10px rgba(0,229,255,0.5) !important;
+  border-bottom: 1px solid var(--dx-cyan) !important;
+}
+
+/* Dividers between the menu boxes */
+body.system-dx3rd .theatre-emote-menu .emote-box,
+body.system-dx3rd .theatre-emote-menu .emotebar,
+body.system-dx3rd .theatre-emote-menu .textflyin-box,
+body.system-dx3rd .theatre-emote-menu .textstanding-box {
+  border-color: var(--dx-line) !important;
+}
+
+/* Emote tiles + effect rows -> panel chips */
+body.system-dx3rd .theatre-emote-menu .emote,
+body.system-dx3rd .theatre-emote-menu .textanim {
+  color: var(--dx-text) !important;
+  font-family: var(--dx-font) !important;
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel)) !important;
+  border: 1px solid var(--dx-line) !important;
+  border-radius: 2px !important;
+  transition: all .15s ease;
+}
+
+body.system-dx3rd .theatre-emote-menu .emote:hover,
+body.system-dx3rd .theatre-emote-menu .textanim:hover {
+  border-color: var(--dx-cyan) !important;
+  color: var(--dx-cyan-soft) !important;
+  background: linear-gradient(180deg, rgba(0,229,255,0.18), rgba(13,17,27,0.95)) !important;
+  box-shadow: 0 0 12px rgba(0,229,255,0.35) !important;
+  text-shadow: 0 0 8px rgba(0,229,255,0.5) !important;
+}
+
+/* Emotes that have a portrait insert available -> red marker */
+body.system-dx3rd .theatre-emote-menu .emote-imgavail {
+  background: radial-gradient(closest-side at 50%, rgba(229,0,40,0.5) 1%, transparent 90%) !important;
+  border-color: var(--dx-red) !important;
+}
+
+/* Selected / active states -> cyan glow with a red undertone */
+body.system-dx3rd .theatre-emote-menu .emote-active,
+body.system-dx3rd .theatre-emote-menu .textflyin-active,
+body.system-dx3rd .theatre-emote-menu .textstanding-active {
+  border: 1px solid var(--dx-cyan) !important;
+  color: var(--dx-cyan-soft) !important;
+  background: linear-gradient(180deg, rgba(0,229,255,0.22), rgba(229,0,40,0.12)) !important;
+  box-shadow:
+    inset 0 0 10px rgba(0,229,255,0.25),
+    0 0 14px rgba(0,229,255,0.4) !important;
+  text-shadow: 0 0 10px rgba(0,229,255,0.6) !important;
+}
+
+/* Font / size / colour selectors */
+body.system-dx3rd .theatre-emote-menu .fontselect,
+body.system-dx3rd .theatre-emote-menu .colorselect,
+body.system-dx3rd .theatre-emote-menu .sizeselect {
+  background: rgba(7,9,15,0.65) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  color: var(--dx-text) !important;
+  border-radius: 2px !important;
+}
+body.system-dx3rd .theatre-emote-menu .fontselect option {
+  background: var(--dx-panel) !important;
+  color: #ffffff !important;
+}
+
+/* Emote-menu scrollbars match the void/cyan->red treatment */
+body.system-dx3rd .theatre-emote-menu ::-webkit-scrollbar { width: 10px; height: 10px; }
+body.system-dx3rd .theatre-emote-menu ::-webkit-scrollbar-track {
+  background: var(--dx-void);
+  border-left: 1px solid var(--dx-line);
+}
+body.system-dx3rd .theatre-emote-menu ::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, var(--dx-cyan), var(--dx-red));
+  border: 1px solid var(--dx-void);
+  box-shadow: 0 0 6px rgba(0,229,255,0.35);
+}
+
+/* ---- Control / navigation bar ---- */
+body.system-dx3rd .theatre-control-nav-bar {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel)) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  border-radius: 2px !important;
+}
+
+body.system-dx3rd .theatre-control-nav-bar-item {
+  border: 1px solid var(--dx-line) !important;
+  border-radius: 2px !important;
+}
+
+body.system-dx3rd .theatre-control-nav-bar-item:hover,
+body.system-dx3rd .theatre-control-btn:hover {
+  background: radial-gradient(closest-side at 50%, rgba(0,229,255,0.6) 1%, transparent 90%) !important;
+}
+
+body.system-dx3rd .theatre-control-nav-bar-item-active,
+body.system-dx3rd .theatre-control-nav-bar-item-speakingas,
+body.system-dx3rd .theatre-control-btn-down,
+body.system-dx3rd .theatre-control-small-btn-down {
+  border-color: var(--dx-cyan) !important;
+  box-shadow:
+    inset 0 0 8px rgba(0,229,255,0.5),
+    0 0 10px rgba(0,229,255,0.4) !important;
+  background: radial-gradient(closest-side at 50%, rgba(0,229,255,0.4) 1%, transparent 90%) !important;
+}
+
+/* OOC chat cover tint -> cyan to match */
+body.system-dx3rd .theatre-control-chat-cover-ooc {
+  box-shadow: inset 0 0 10px 2px rgba(0,229,255,0.6) !important;
+}
+
+/* Insert preview tooltip glow */
+body.system-dx3rd .theatre-tooltip {
+  box-shadow: var(--dx-shadow-cyan), 0 0 20px rgba(0,229,255,0.5) !important;
+}
+
+/* ---- Actor "configure emotes" rows (inside the DX3 sheet) ---- */
+body.system-dx3rd .theatre-config-btn-add-emote {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel)) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  color: var(--dx-text) !important;
+  border-radius: 2px !important;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  transition: all .15s ease;
+}
+body.system-dx3rd .theatre-config-btn-add-emote:hover {
+  border-color: var(--dx-cyan) !important;
+  color: var(--dx-cyan-soft) !important;
+  box-shadow: 0 0 12px rgba(0,229,255,0.35) !important;
+}
+
+body.system-dx3rd .theatre-emote-icon {
+  background: rgba(7,9,15,0.6) !important;
+  border: 1px solid var(--dx-line) !important;
+  color: var(--dx-text) !important;
+  border-radius: 2px !important;
+}
+
+/* =============================================================
+   17. NARRATOR TOOLS — match the cinematic narration overlay and
+   its chat messages to the OVERED UI. Scoped to DX3 sessions.
+   ============================================================= */
+
+/* Narration text -> DX font, white with a faint cyan halo over black */
+body.system-dx3rd .narrator-content {
+  font-family: var(--dx-font) !important;
+  letter-spacing: 0.04em;
+  color: var(--dx-text) !important;
+  text-shadow:
+    0 2px 6px rgba(0,0,0,0.9),
+    0 0 18px rgba(0,229,255,0.25),
+    0 0 2px rgba(0,0,0,0.95) !important;
+}
+
+/* Control buttons (Pause / Close) -> DX buttons */
+body.system-dx3rd .narrator-buttons button {
+  background: linear-gradient(180deg, var(--dx-panel-2), var(--dx-panel)) !important;
+  border: 1px solid var(--dx-line-strong) !important;
+  color: var(--dx-text) !important;
+  font-family: var(--dx-font) !important;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  border-radius: 2px !important;
+  box-shadow:
+    inset 0 1px 0 rgba(0,229,255,0.15),
+    inset 0 -1px 0 rgba(229,0,40,0.12) !important;
+  transition: all .15s ease;
+}
+body.system-dx3rd .narrator-buttons button:hover {
+  border-color: var(--dx-cyan) !important;
+  color: var(--dx-cyan-soft) !important;
+  box-shadow:
+    inset 0 0 0 1px rgba(0,229,255,0.4),
+    0 0 14px rgba(0,229,255,0.35) !important;
+}
+body.system-dx3rd .narrator-buttons button:active {
+  transform: translateY(1px);
+  box-shadow:
+    inset 0 0 0 1px rgba(229,0,40,0.5),
+    0 0 14px rgba(229,0,40,0.4) !important;
+}
+
+/* Scene-darkening frame -> faint DX vignette for flavor */
+body.system-dx3rd .narrator-frameBG {
+  background:
+    radial-gradient(120% 80% at 50% 50%, transparent 55%, rgba(229,0,40,0.10) 100%),
+    radial-gradient(120% 80% at 50% 0%, rgba(0,229,255,0.08), transparent 60%),
+    rgba(0,0,0,0.2) !important;
+}
+
+/* Narration chat messages -> DX panels */
+body.system-dx3rd #chat-log .message.narrator-chat {
+  font-family: var(--dx-font) !important;
+}
+body.system-dx3rd #chat-log .message.narrator-narrative,
+body.system-dx3rd #chat-log .message.narrator-description {
+  background: linear-gradient(180deg, var(--dx-panel) 0%, var(--dx-void-2) 100%) !important;
+  border: 1px solid var(--dx-line) !important;
+  border-left: 3px solid var(--dx-cyan) !important;
+  color: var(--dx-text) !important;
+  box-shadow: inset 0 0 24px rgba(0,229,255,0.05);
+}
+body.system-dx3rd #chat-log .message.narrator-description {
+  border-left-color: var(--dx-red) !important;
+}
+body.system-dx3rd #chat-log .message.narrator-notification {
+  background: linear-gradient(180deg, rgba(0,229,255,0.10), rgba(13,17,27,0.9)) !important;
+  border: 1px solid var(--dx-cyan) !important;
+  box-shadow: 0 0 12px rgba(0,229,255,0.25);
+  color: var(--dx-text) !important;
+}
+body.system-dx3rd #chat-log .message.narrator-chat a.content-link,
+body.system-dx3rd #chat-log .message.narrator-chat a.entity-link,
+body.system-dx3rd #chat-log .message.narrator-chat a.inline-roll {
+  color: var(--dx-cyan-soft) !important;
+  border-color: var(--dx-line-strong) !important;
+}

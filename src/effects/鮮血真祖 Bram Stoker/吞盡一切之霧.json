@@ -20,7 +20,7 @@
     "attackRoll": "-",
     "encroach": {
       "init": 7,
-      "value": ""
+      "value": "7"
     },
     "level": {
       "init": 1,
@@ -37,7 +37,7 @@
     },
     "active": {
       "state": false,
-      "disable": "-"
+      "disable": "roll"
     },
     "used": {
       "state": 0,
